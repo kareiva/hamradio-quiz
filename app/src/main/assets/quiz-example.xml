@@ -1,0 +1,5225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  
+	<category>
+		<title>B lygio testas</title>
+		<text>Radijo mėgėjų B lygio kvalifikacinių egzaminų klausimai</text>
+		
+<question>
+	<text>Kuris dokumentas reglamentuoja radijo mėgėjų veiklą Lietuvos Respublikoje?</text>
+	<choice>CEPT rekomendacija T/R 61-01 „CEPT radijo mėgėjo leidimas“</choice>
+	<choice>Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašas</choice>
+	<choice>Lietuvos Respublikos elektroninių ryšių įstatymas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas nesuderinama su radijo mėgėjų veikla?</text>
+	<choice>Radijo ryšiai tarp radijo mėgėjų radijo stočių</choice>
+	<choice>Radijo bangų sklidimo tyrimas</choice>
+	<choice>Radijo stoties naudojimas verslo tikslais</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų padaryti prieš užsiimant radijo mėgėjų veikla?</text>
+	<choice>Pranešti Lietuvos Respublikos ryšių reguliavimo tarnybai</choice>
+	<choice>Gauti leidimą radijo mėgėjų veiklai</choice>
+	<choice>Informuoti netoliese gyvenančius kaimynus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurį reikalavimą būtina įvykdyti prieš įjungiant radijo stotį siuntimo režimu?</text>
+	<choice>Būtina turėti galiojantį leidimą radijo mėgėjų veiklai</choice>
+	<choice>Būtina įsitikinti, kad arti nėra pašalinių asmenų, kurie galėtų trukdyti užmegzti radijo ryšius</choice>
+	<choice>Būtina pastatyti radijo stotį taip, kad ja būtų patogu naudotis</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas išduoda leidimus radijo mėgėjų veiklai?</text>
+	<choice>Valstybinis radijo ir televizijos komitetas</choice>
+	<choice>Lietuvos Respublikos susisiekimo ministerijos Radijo ryšio departamentas</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kur reikia kreiptis, norint gauti leidimą radijo mėgėjų veiklai?</text>
+	<choice>Į Lietuvos Respublikos susisiekimo ministeriją</choice>
+	<choice>Į Lietuvos Respublikos ryšių reguliavimo tarnybą</choice>
+	<choice>Į Valstybinį radijo ir televizijos komitetą</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Norint gauti leidimą radijo mėgėjų veiklai būtina:</text>
+	<choice>Pateikti Lietuvos Respublikos ryšių reguliavimo tarnybai planuojamos naudoti radijo stoties techninius parametrus</choice>
+	<choice>Pateikti Lietuvos Respublikos ryšių reguliavimo tarnybai būtinus dokumentus ir išlaikyti egzaminą, jei jis dar nebuvo išlaikytas</choice>
+	<choice>Informuoti Lietuvos Respublikos ryšių reguliavimo tarnybą apie tokios veiklos pradžią</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios Lietuvoje yra leidimų radijo mėgėjų veiklai klasės?</text>
+	<choice>A ir B</choice>
+	<choice>A, B ir C</choice>
+	<choice>A, B ir CEPT</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurios klasės leidimas radijo mėgėjų veiklai suteikia daugiau teisių jo turėtojui?</text>
+	<choice>A</choice>
+	<choice>B</choice>
+	<choice>CEPT</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Nuo kokio amžiaus asmenims išduodami B klasės leidimai radijo mėgėjų veiklai?</text>
+	<choice>Nuo 14 metų</choice>
+	<choice>Nuo 16 metų</choice>
+	<choice>Amžius neribojamas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokius būtinus dokumentus turi pateikti asmuo, vyresnis nei 16 metų, Lietuvos Respublikos ryšių reguliavimo tarnybai, norėdamas gauti leidimą radijo mėgėjų veiklai?</text>
+	<choice>Nustatytos formos deklaraciją apie turimas radijo stotis ir dokumentą, patvirtinantį, kad sumokėtas nustatytas užmokestis už leidimą radijo mėgėjų veiklai</choice>
+	<choice>Prašymą išduoti leidimą radijo mėgėjų veiklai ir radijo stoties įsigijimo dokumentus</choice>
+	<choice>Prašymą išduoti leidimą radijo mėgėjų veiklai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Asmuo, jaunesnis nei 16 metų, norėdamas gauti leidimą radijo mėgėjų veiklai, Lietuvos Respublikos ryšių reguliavimo tarnybai papildomai turi pateikti:</text>
+	<choice>Mokyklos, kurioje jis mokosi, administracijos rekomendaciją</choice>
+	<choice>Nustatytos formos sveikatos pažymėjimą</choice>
+	<choice>Raštišką sutikimą, kuriame vienas iš leidimo radijo mėgėjų veiklai pageidaujančio asmens tėvų ar globėjų sutinka, kad jis užsiimtų radijo mėgėjų veikla, ir prisiima atsakomybę dėl Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašo laikymosi</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką turėtų padaryti radijo mėgėjas, jei pasikeitė asmens duomenys, įrašyti į jam išduotą leidimą radijo mėgėjų veiklai?</text>
+	<choice>Pateikti prašymą Lietuvos Respublikos ryšių reguliavimo tarnybai dėl pataisyto leidimo radijo mėgėjų veiklai išdavimo</choice>
+	<choice>Laukti iki leidimo radijo mėgėjų veiklai galiojimo termino pabaigos ir tada pakeisti leidimą</choice>
+	<choice>Pateikti prašymą Lietuvos Respublikos ryšių reguliavimo tarnybai dėl antro leidimo radijo mėgėjų veiklai išdavimo</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Per kiek laiko pasikeitus duomenims radijo mėgėjas turi pateikti Lietuvos Respublikos ryšių reguliavimo tarnybai prašymą dėl pataisyto leidimo radijo mėgėjų veiklai išdavimo?</text>
+	<choice>Ne vėliau kaip per 10 dienų</choice>
+	<choice>Ne vėliau kaip per 1 mėnesį</choice>
+	<choice>Ne vėliau kaip per 3 mėnesius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokias teises suteikia leidimas radijo mėgėjų veiklai?</text>
+	<choice>Naudoti radijo stotis ryšiams su kitais radijo mėgėjais</choice>
+	<choice>Nekomerciniais tikslais gaminti radijo  stotis</choice>
+	<choice>Naudoti radijo stotis radijo ryšiams su radijo mėgėjais, taip pat komerciniais tikslais</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokių teisių nesuteikia  leidimas radijo mėgėjų veiklai?</text>
+	<choice>Naudoti radijo  stotis komerciniais tikslais</choice>
+	<choice>Ieškoti verslo partnerių naudojant radijo ryšį</choice>
+	<choice>Visų aukščiau išvardytų teisių</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kur galioja B klasės radijo leidimas radijo mėgėjų veiklai?</text>
+	<choice>Tik Lietuvos Respublikoje</choice>
+	<choice>Lietuvos Respublikoje ir CEPT valstybėse</choice>
+	<choice>Tik valstybėse, kurios įgyvendino CEPT rekomendacijas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas turi teisę panaikinti leidimo radijo mėgėjų veiklai galiojimą?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos direktorius</choice>
+	<choice>Lietuvos Respublikos susisiekimo ministerija</choice>
+	<choice>Europos teisės departamentas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris teisės aktas nustato baudą už Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašo pažeidimą?</text>
+	<choice>Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašas</choice>
+	<choice>Lietuvos Respublikos administracinių teisės pažeidimų kodeksas</choice>
+	<choice>Lietuvos Respublikos elektroninių ryšių įstatymas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Leidimo radijo mėgėjų veiklai galiojimas, nepasibaigus jo galiojimo terminui, gali būti panaikintas, jei leidimo turėtojas:</text>
+	<choice>Pateikė prašymą Lietuvos Respublikos ryšių reguliavimo tarnybai dėl leidimo panaikinimo</choice>
+	<choice>Nesinaudojo radijo stotimi ilgiau kaip 3 metus</choice>
+	<choice>Naudosi radijo stotimi kitame mieste, nei buvo nurodęs prašyme</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>B klasės leidimo radijo mėgėjų veiklai turėtojai  turi teisę naudotis radijo stotimis:</text>
+	<choice>Visoje Lietuvos Respublikoje teritorijoje</choice>
+	<choice>Lietuvos Respublikoje teritorijoje, kur to daryti nedraudžia arba šios veiklos neriboja kiti teisės aktai</choice>
+	<choice>Tik leidimo radijo mėgėjų veiklai nurodytoje vietoje</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kur naudojimąsi radijo stotimi gali drausti arba riboti teisės aktai?</text>
+	<choice>Orlaiviuose</choice>
+	<choice>Laivuose</choice>
+	<choice>Visose aukščiau  nurodytose vietose</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie reikalavimai yra svarbiausi, įrengiant radijo stotį?</text>
+	<choice>Atliekami darbai neturi sukelti grėsmės žmonių sveikatai, gyvybei ir turtui</choice>
+	<choice>Radijo stotis turi būti registruota Lietuvos Respublikos ryšių reguliavimo tarnyboje</choice>
+	<choice>Radijo stoties įrengimo vietą būtina apsaugoti nuo dulkių, drėgmės ir agresyvių cheminių medžiagų</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas atsakingas dėl svetimo turto sugadinimo, įrengiant radijo stotį?</text>
+	<choice>Leidimo radijo mėgėjų veiklai turėtojas</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas asmuo</choice>
+	<choice>Radijo stotį įrengti padėję asmenys</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurie reikalavimai yra svarbiausi, naudojantis radijo stotimi?</text>
+	<choice>Radijo stotis turi turėti gerą radiotechninį įžeminimą</choice>
+	<choice>Radijo stotis turi turėti gerai suderintą anteną</choice>
+	<choice>Naudojimasis radijo stotimi neturi sukelti grėsmės žmonių sveikatai, gyvybei ir turtui</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas atsakingas už tai, kad radijo mėgėjo radijo stotis būtų naudojama pagal galiojančius teisės aktus?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba</choice>
+	<choice>Radijo mėgėjas</choice>
+	<choice>Artimiausias policijos poskyris</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriais atvejais leidžiama palikti veikti radijo stotį be tiesioginės asmens priežiūros?</text>
+	<choice>Jei tai yra retransliatorius, švyturys ar skaitmeninė stotis</choice>
+	<choice>Jei yra galimybė naudotis nuotoliniu valdymu</choice>
+	<choice>Visais aukščiau  nurodytais atvejais</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris teiginys teisingas?</text>
+	<choice>Skaitmeninė stotis turėtų būti valdoma tik tiesiogiai radijo mėgėjo</choice>
+	<choice>Skaitmeninė stotis gali būti palikta veikti be tiesioginės radijo mėgėjo priežiūros</choice>
+	<choice>Skaitmeninė stotis privalo būti prijungta prie interneto</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas atsakingas už darbų saugą įrengiant anteną?</text>
+	<choice>Antenos savininkas</choice>
+	<choice>Leidimą radijo mėgėjų veiklai išdavusi institucija</choice>
+	<choice>Anteną įrengti padėję asmenys</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip turėtų būti įrengta antena?</text>
+	<choice>Ne toliau kaip 50 m nuo radijo stoties pastatymo vietos</choice>
+	<choice>Kad atitiktų saugumo technikos reikalavimus ir nekeltų grėsmės žmonių sveikatai, gyvybei ir turtui</choice>
+	<choice>Visi antenos elementai turi būti pagaminti iš drėgmei atsparios medžiagos</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas atsako už žalą, padarytą kito asmens turtui antenos statymo metu?</text>
+	<choice>Antenos savininkas</choice>
+	<choice>Pastato stogą prižiūrinti bendrovė</choice>
+	<choice>Anteną pardavusi firma</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbiausia saugiai eksploatuojant radijo stočių antenas?</text>
+	<choice>Antena turi būti atspari vėjo ir drėgmės poveikiui ir gerai suderinta su signalų perdavimo linija</choice>
+	<choice>Antenos neturi užstoti aukšti pastatai ir medžiai</choice>
+	<choice>Antena turi būti įrengta taip, kad jos naudojimas nesukeltų grėsmės žmonių saugumui, sveikatai, gyvybei ir turtui</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbiausia eksploatuojant anteną?</text>
+	<choice>Geras antenos suderinimas su siųstuvu</choice>
+	<choice>Žmonių apsauga nuo antenos spinduliuojamos energijos neigiamo poveikio</choice>
+	<choice>Tolygus energijos pasiskirstymas antenoje</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl kabinti anteną tarp dviejų taškų, esančių virš elektros tiekimo linijos,yra blogas sumanymas?</text>
+	<choice>Elektros tiekimo linija gali labai pabloginti antenos charakteristikas</choice>
+	<choice>Galimi trukdžiai imtuve nuo elektros perdavimo linijos</choice>
+	<choice>Antena gali nukristi ant elektros tiekimo linijos ir tapti radijo mėgėjo žūties priežastimi</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia įstaiga turi teisę atlikti radijo stočių techninę apžiūrą?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba</choice>
+	<choice>Savivaldybė</choice>
+	<choice>Policija</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas turi teisę atlikti radijo mėgėjų radijo stočių techninę apžiūrą?</text>
+	<choice>Policijos inspektorius</choice>
+	<choice>Savivaldybės įpareigotas pareigūnas</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas turi dalyvauti atliekant radijo mėgėjų radijo stočių techninę apžiūrą jų veikimo vietoje?</text>
+	<choice>Policijos inspektorius, liudininkai ir leidimo turėtojas</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas ir radijo mėgėjas, klubo vadovas arba jo įgaliotas asmuo</choice>
+	<choice>Savivaldybės pareigūnas ir ne mažiau kaip 2 liudininkai</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką turi pateikti Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas, prieš atlikdamas radijo stoties techninę apžiūrą?</text>
+	<choice>Savo tarnybinį pažymėjimą</choice>
+	<choice>Įgaliojimą atlikti patikrinimą</choice>
+	<choice>Gauto skundo kopiją</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Naudojimasis radijo stotimi laikomas neteisėtu:</text>
+	<choice>Jei Lietuvos Respublikos ryšių reguliavimo tarnybos įpareigotas pareigūnas neranda leidime radijo mėgėjų veiklai nurodyto adreso</choice>
+	<choice>Jei Lietuvos  Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas surašo patikrinimo aktą</choice>
+	<choice>Jei radijo stotis naudojama neturint leidimo radijo mėgėjų veiklai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Jei radijo mėgėjas arba jo įgaliotas asmuo trukdė ar neleido atlikti apžiūros:</text>
+	<choice>Naudojimasis radijo stotimi laikomas neteisėtu</choice>
+	<choice>Radijo mėgėjui pateikiamas tikrinimo aktas</choice>
+	<choice>Radijo mėgėjas privalo sumokėti Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotam pareigūnui nustatyto dydžio baudą</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kam reikalingas radijo šaukinys?</text>
+	<choice>Radijo stoties identifikavimui eteryje</choice>
+	<choice>Radijo mėgėjo identifikavimui</choice>
+	<choice>Leidimo radijo mėgėjų veiklai identifikavimui</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl veikianti radijo stotis privalo perduoti skirtą šaukinį?</text>
+	<choice>Kad ji galėtų būti identifikuota</choice>
+	<choice>Kad būtų identifikuotas radijo mėgėjas</choice>
+	<choice>Kad siunčiamus pranešimus suprastų korespondentas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas skiria radijo šaukinį?</text>
+	<choice>Lietuvos Respublikos ryšių inspekcija</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba</choice>
+	<choice>Lietuvos Respublikos susisiekimo ministerijos Informacinių technologijų ir telekomunikacijų departamentas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia yra išskirtinė radijo šaukinių, skiriamų Lietuvos Respublikoje, savybė?</text>
+	<choice>Šių radijo šaukinių pirmosios raidės visada yra „LT“</choice>
+	<choice>Šių radijo šaukinių pirmosios raidės visada yra „LY“</choice>
+	<choice>Šių radijo šaukinių pirmosios raidės visada yra „LIT“</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris prefiksas skirtas Lietuvos Respublikai?</text>
+	<choice>LT</choice>
+	<choice>LIT</choice>
+	<choice>LY</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurį radijo šaukinį galima naudoti eteryje?</text>
+	<choice>Bet kurį iš pateiktų Lietuvos Respublikos ryšių reguliavimo tarnybos interneto puslapyje</choice>
+	<choice>Savo sukurtą</choice>
+	<choice>Tik skirtą Lietuvos Respublikos ryšių reguliavimo tarnybos</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kada galima trumpinti radijo šaukinį?</text>
+	<choice>Tik stichinių nelaimių metu</choice>
+	<choice>Niekada</choice>
+	<choice>Tik ryšių naudojant UTB retransliatorius metu</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip teisingai perduoti radijo šaukinį į eterį?</text>
+	<choice>Siuntimo pradžioje arba pabaigoje ir ne rečiau kaip kas 5 minutes ryšio arba radijo stoties bandymų eteryje metu</choice>
+	<choice>Tik siuntimo pradžioje ir ne rečiau kaip kas 10 minutes ryšio arba radijo stoties bandymų eteryje metu</choice>
+	<choice>Tik siuntimo pabaigoje ir ne rečiau kaip kas 5 minutes ryšio arba radijo stoties bandymų eteryje metu</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip turėtų būti perduodamas radijo šaukinys balso telefonijos režimu?</text>
+	<choice>Būtina perduoti greitai, taip išvengiant bereikalingo eterio užėmimo</choice>
+	<choice>Radijo šaukinio ženklus būtina perduoti aiškiai, vengiant galimų dviprasmiškumų</choice>
+	<choice>Radijo šaukinio ženklus būtina perduoti atsižvelgiant į korespondento pageidavimus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokiu būdu galima išvengti galimų dviprasmiškumų, perduodant radijo šaukinį balso telefonijos režimu?</text>
+	<choice>Aiškiai tariant kiekvieną garsą</choice>
+	<choice>Didinant siųstuvo išėjimo galią</choice>
+	<choice>Vartojant fonetinę abėcėlę</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, kai radijo stotis naudojama oro laive?</text>
+	<choice>/am</choice>
+	<choice>/m</choice>
+	<choice>/mm</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, kai radijo stotis naudojama valstybės vidaus vandenyse esančiame laive?</text>
+	<choice>/m</choice>
+	<choice>/mm</choice>
+	<choice>/am</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, kai naudojama judri radijo stotis?</text>
+	<choice>/p</choice>
+	<choice>/mm</choice>
+	<choice>/m</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, kai radijo stotis veikia tarptautiniuose vandenyse esančiame laive?</text>
+	<choice>/m</choice>
+	<choice>/mm</choice>
+	<choice>/p</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, kai naudojama nešiojama radijo stotis?</text>
+	<choice>/m</choice>
+	<choice>/mm</choice>
+	<choice>/p</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris radijo šaukinio papildymo būdas yra teisingas, kai  naudojama nešiojama radijo stotis?</text>
+	<choice>/p LY1AAA</choice>
+	<choice>LY1AAA /p</choice>
+	<choice>Abu teisingi</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas suprantama kaip pranešimas pagal Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla aprašą?</text>
+	<choice>Nemoduliuotas bandomasis signalas</choice>
+	<choice>Bet kuri siunčiama informacija</choice>
+	<choice>Tik skaitmeninė informacija</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas atsakingas už radijo bangomis siunčiamų pranešimų turinį?</text>
+	<choice>Radijo mėgėjas</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba</choice>
+	<choice>Patalpos, kurioje įrengta radijo stotis, savininkas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriuos pranešimus radijo mėgėjui draudžiama siųsti?</text>
+	<choice>Raginimus melstis</choice>
+	<choice>Muzikos naujienas</choice>
+	<choice>Visus aukščiau išvardytus</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriuos pranešimus radijo mėgėjui draudžiama siųsti?</text>
+	<choice>Savo sukurtus kodus ir santrumpas</choice>
+	<choice>Reklamą</choice>
+	<choice>Visus aukščiau nurodytus</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokius pranešimus gali siųsti radijo mėgėjas?</text>
+	<choice>Asmeninius pirkimo ir pardavimo pranešimus, kai siunčiama informacija tiesiogiai susijusi su radijo mėgėjų radijo stotimis</choice>
+	<choice>Visus pirkimo ir pardavimo pranešimus</choice>
+	<choice>Nekomercinius pirkimo ir pardavimo pranešimus</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriuos pranešimus radijo mėgėjui draudžiama siųsti?</text>
+	<choice>Tarptautinius nelaimės signalus „SOS“ ir „MAYDAY“, nesilaikant ITU radijo ryšio reglamento nustatytų sąlygų</choice>
+	<choice>Retransliuoti kitų radijo mėgėjų stočių pranešimus</choice>
+	<choice>Visus čia išvardytus</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokio turinio pranešimus radijo mėgėjui draudžiama siųsti?</text>
+	<choice>Informaciją apie naudojamo siųstuvo struktūrą bei  galią</choice>
+	<choice>Informaciją, pažeidžiančią asmens privataus gyvenimo neliečiamumą</choice>
+	<choice>Visus aukščiau išvardytus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kada radijo mėgėjams leista transliuoti muziką?</text>
+	<choice>Tik FM, turint kokybišką įrašą</choice>
+	<choice>Tik radijo stoties identifikavimui</choice>
+	<choice>Niekada</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kada radijo mėgėjams leista transliuoti reklamą?</text>
+	<choice>Tik sudarius sutartį su reklamos teikėju</choice>
+	<choice>Tik nesiekiant komercinių tikslų</choice>
+	<choice>Niekada</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kada radijo mėgėjams leista siųsti pirkimo ir pardavimo pranešimus?</text>
+	<choice>Tik kai siunčiama informacija yra tiesiogiai susijusi su radijo mėgėjų radijo stotimis</choice>
+	<choice>Tik kai šie pranešimai siunčiami skaitmeniniais tinklais</choice>
+	<choice>Niekada</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Naudojantis radijo mėgėjų radijo stotimis, leidžiama siųsti:</text>
+	<choice>Q kodą</choice>
+	<choice>Informaciją apie politinę padėtį</choice>
+	<choice>Visus aukščiau išvardytus pranešimus</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kada radijo mėgėjams leidžiama retransliuoti vietinės radiofoninės radijo stoties programą?</text>
+	<choice>Niekada</choice>
+	<choice>Tik po 23 val</choice>
+	<choice>Tik turint tos radijo stoties vadovo raštišką sutikimą</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kada galima siųsti kompiuterines programas naudojant skaitmenines stotis?</text>
+	<choice>Niekada</choice>
+	<choice>Visada</choice>
+	<choice>Tik jei toks siuntimas nepažeis autorių, gretutinių ir kitų intelektinės nuosavybės teisių</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Nesant ypatingų atvejų, radijo mėgėjams leidžiama užmegzti ryšius:</text>
+	<choice>Tik su nekomercinėmis radijo stotimis</choice>
+	<choice>Su radijo stotimis, veikiančiomis radijo mėgėjams skirtais dažniais</choice>
+	<choice>Tik su radijo mėgėjų radijo stotimis</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kada leidžiami ryšiai tarp radijo mėgėjų radijo stočių ir kitų radijo ryšio tarnybų stočių?</text>
+	<choice>Niekada</choice>
+	<choice>Kai kitų radijo ryšio tarnybų radijo stotys radijo mėgėjams skirtais dažniais siunčia nelaimės signalus</choice>
+	<choice>Tik esant būtinybei perduoti svarbius pranešimus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo būdu radijo mėgėjai turi teisę prisijungti prie skaitmeninių tinklų?</text>
+	<choice>Bet kuriuo būdu, įskaitant internetą ir komutuojamąsias telekomunikacijų linijas</choice>
+	<choice>Tik radijo bangomis</choice>
+	<choice>Tik naudojant kompiuterius</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris prisijungimo prie skaitmeninių stočių būdas yra teisingas?</text>
+	<choice>Identifikuojant savo radijo stotį šaukiniu</choice>
+	<choice>Per balso retransliatorių</choice>
+	<choice>Per modemą, dirbantį 5 MHz dažniu</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks radijo šaukinys gali būti skirtas B klasės radijo mėgėjui?</text>
+	<choice>Tik penkių ženklų</choice>
+	<choice>Keturių ir penkių ženklų</choice>
+	<choice>Penkių ir šešių ženklų</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks radijo šaukinys gali būti skirtas klubui?</text>
+	<choice>Tik penkių ženklų</choice>
+	<choice>Tik keturių ir penkių ženklų</choice>
+	<choice>Keturių, penkių ir šešių ženklų</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kviečiant ryšiui bet kurią kitą radijo stotį, paprastai perduodama santrumpa:</text>
+	<choice>CQ</choice>
+	<choice>CQ DX</choice>
+	<choice>CQ ALL</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kviečiant ryšiui radijo stotį, esančią kitame kontinente, turėtų būti perduodama santrumpa:</text>
+	<choice>CQ</choice>
+	<choice>CQ DX</choice>
+	<choice>CQ KONT</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai dažnai perduoda frazę „73“ Kokia jos reikšmė?</text>
+	<choice>Viską supratau</choice>
+	<choice>Iki pasimatymo</choice>
+	<choice>Geriausi linkėjimai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reiškia santrumpa „DX“?</text>
+	<choice>Pranešimo pabaiga</choice>
+	<choice>Tolima radijo stotis</choice>
+	<choice>Didelių matmenų antena</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Santrumpa „CFM“ reiškia:</text>
+	<choice>Klausau</choice>
+	<choice>Patvirtinu</choice>
+	<choice>Visiems</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Santrumpa „DE“ reiškia:</text>
+	<choice>Nuo</choice>
+	<choice>Iki</choice>
+	<choice>Tarp</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų perduoti po frazės „CQ DX DE“?</text>
+	<choice>Radijo šaukinį</choice>
+	<choice>Tikslų laiką</choice>
+	<choice>Miesto pavadinimą</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų perduoti po frazės „my QTH is“?</text>
+	<choice>Naudojamos antenos pavadinimą</choice>
+	<choice>Savo gyvenamosios vietos pavadinimą</choice>
+	<choice>Savo siųstuvo tikslų dažnį</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Jūsų korespondentas perduoda „RS 58“ Tai reiškia:</text>
+	<choice>Atstumą tarp stočių kilometrais</choice>
+	<choice>Jūsų signalo įvertinimą</choice>
+	<choice>Jūsų korespondento imtuvo pavadinimą</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Žodžius „radijo imtuvas“ radijo mėgėjai dažnai pakeičia santrumpa:</text>
+	<choice>TNX</choice>
+	<choice>TX</choice>
+	<choice>RX</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Žodžius „radijo siųstuvas“ mėgėjai dažnai pakeičia santrumpa:</text>
+	<choice>DX</choice>
+	<choice>TX</choice>
+	<choice>RX</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri santrumpa reiškia Morzės kodo telegrafiją?</text>
+	<choice>SSB</choice>
+	<choice>CW</choice>
+	<choice>FSK</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri santrumpa reiškia vienos šalinės juostos moduliavimą?</text>
+	<choice>FSK</choice>
+	<choice>CW</choice>
+	<choice>SSB</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri santrumpa reiškia dažnio moduliavimą?</text>
+	<choice>DM</choice>
+	<choice>FM</choice>
+	<choice>ΦM</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Signalų kokybę eteryje radijo mėgėjai dažniausiai įvertina pagal:</text>
+	<choice>SINPO skalę</choice>
+	<choice>SINFEMO skalę</choice>
+	<choice>RST arba RS skalę</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Tarp eterio triukšmų neišgirdote korespondento radijo šaukinio Kurią santrumpą vartosite?</text>
+	<choice>QRA?</choice>
+	<choice>QRZ?</choice>
+	<choice>QRT?</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ryšio metu girdite, kad jūsų radijo stotį kviečia dar vienas korespondentas Prašote jo palaukti, kol baigsite ryšį Kurią santrumpą vartosite?</text>
+	<choice>QRA</choice>
+	<choice>QRZ</choice>
+	<choice>QRX</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Savo korespondentui norite pranešti, kad jums trukdo kitos radijo stotys Kurią santrumpą vartosite?</text>
+	<choice>QRS</choice>
+	<choice>QRN</choice>
+	<choice>QRM</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Savo korespondentui norite pranešti, kad jūsų siųstuvo išėjimo galia labai maža Kurią santrumpą vartosite?</text>
+	<choice>QRP</choice>
+	<choice>QRT</choice>
+	<choice>QSB</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ryšio metu perduodate korespondentui savo miesto pavadinimą Kurią santrumpą vartosite?</text>
+	<choice>QTH</choice>
+	<choice>QTR</choice>
+	<choice>QTE</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo ryšiui trukdo perkūnija Kurią santrumpą vartosite norėdami apie tai pranešti savo korespondentui?</text>
+	<choice>QRN</choice>
+	<choice>QRS</choice>
+	<choice>QRM</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRU?“ atitinka frazę:</text>
+	<choice>Ar sumažinti siųstuvo galią?</choice>
+	<choice>Ar turite man pranešimų?</choice>
+	<choice>Ar jūs pasiruošęs?</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QSB“ atitinka frazę:</text>
+	<choice>Jūsų pranešimas priimtas</choice>
+	<choice>Jūsų siųstuvo signalas blogas</choice>
+	<choice>Jūsų signalų stipris kinta</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QSY“ atitinka frazę:</text>
+	<choice>Galiu susisiekti su…</choice>
+	<choice>Pakeiskite siuntimo dažnį</choice>
+	<choice>Nutraukite perdavimą</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokiu būdu patvirtinamas radijo ryšys, įvykęs tarp radijo mėgėjų?</text>
+	<choice>Apsikeičiant QSL kortelėmis tarp korespondentų</choice>
+	<choice>Pažymint įrašą ryšių registravimo žurnale</choice>
+	<choice>Informuojant korespondentą elektroniniu paštu</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra dažnių naudojimo teisės?</text>
+	<choice>Pirminė ir antrinė</choice>
+	<choice>Pirminė, antrinė ir išskirtinė</choice>
+	<choice>Pagrindinė ir papildoma</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra B klasės radijo mėgėjams skirtų dažnių ribos 80 m diapazone?</text>
+	<choice>3 500–3 750 kHz</choice>
+	<choice>3 500–3 800 kHz</choice>
+	<choice>3 600–3 900 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios yra B klasės radijo mėgėjams skirtų dažnių ribos 15 m diapazone?</text>
+	<choice>21 000–21 450 kHz</choice>
+	<choice>21 150–21 450 kHz</choice>
+	<choice>21 000–21 350 kHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra B klasės radijo mėgėjams skirtų dažnių ribos 10 m diapazone?</text>
+	<choice>29 000 – 29 700 kHz</choice>
+	<choice>28 000 – 29 700 kHz</choice>
+	<choice>28 000 – 28 700 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios yra B klasės radijo mėgėjams skirtų dažnių ribos 2 m diapazone?</text>
+	<choice>144–146 MHz</choice>
+	<choice>144–148 MHz</choice>
+	<choice>146–148 MHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra B klasės radijo mėgėjams skirtų dažnių ribos 70 cm diapazone?</text>
+	<choice>440–450 MHz</choice>
+	<choice>430–440 MHz</choice>
+	<choice>420–440 MHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 80 m diapazone?</text>
+	<choice>1 000 W</choice>
+	<choice>500 W</choice>
+	<choice>100 W</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 15 m diapazone?</text>
+	<choice>1 000 W</choice>
+	<choice>100 W</choice>
+	<choice>50 W</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 10 m diapazone?</text>
+	<choice>50 W</choice>
+	<choice>100 W</choice>
+	<choice>1 000 W</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 2 m diapazone?</text>
+	<choice>1 000 W</choice>
+	<choice>100 W</choice>
+	<choice>50 W</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 70 cm diapazone?</text>
+	<choice></choice>
+	<choice>100 W</choice>
+	<choice>1 000 W</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Dažniais, kuriuose maksimalus signalo juostos plotis neturi viršyti 200 Hz, galima naudoti šią moduliavimo rūšį:</text>
+	<choice>FM</choice>
+	<choice>CW</choice>
+	<choice>SSB</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Dažniais, kuriuose maksimalus signalo juostos plotis neturi viršyti 500 Hz, galima naudoti šią moduliavimo rūšį:</text>
+	<choice>SSB</choice>
+	<choice>RTTY</choice>
+	<choice>FM</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Dažniais, kuriuose maksimalus signalo juostos plotis neturi viršyti 2,7 kHz, galima naudoti šią moduliavimo rūšį:</text>
+	<choice>SSB</choice>
+	<choice>FM</choice>
+	<choice>AM</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Dažniais, kuriuose maksimalus signalo juostos plotis neturi viršyti 6 kHz, galima naudoti šią moduliavimo rūšį:</text>
+	<choice>FM</choice>
+	<choice>AM</choice>
+	<choice>Abi čia nurodytas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Dažniais, kuriuose maksimalus signalo juostos plotis neturi viršyti 25 kHz, negalima naudoti šią moduliavimo rūšį:</text>
+	<choice>ATV</choice>
+	<choice>FM</choice>
+	<choice>AM</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Gerai suderinto siųstuvo SSB signalo juostos plotis neturėtų būti didesnis kaip:</text>
+	<choice>0,5 kHz</choice>
+	<choice>2,7 kHz</choice>
+	<choice>5,0 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>144 MHz diapazone nešiojamos FM radijo stoties spinduliuojamo signalo juostos plotis neturėtų viršyti:</text>
+	<choice>2,7 kHz</choice>
+	<choice>12 kHz</choice>
+	<choice>25 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Gerai suderinto siųstuvo AM signalo juostos plotis neturėtų būti didesnis kaip:</text>
+	<choice>3 kHz</choice>
+	<choice>6 kHz</choice>
+	<choice>12 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Gerai suderinto siųstuvo SSTV signalo juostos plotis neturėtų būti didesnis kaip:</text>
+	<choice>1,3 kHz</choice>
+	<choice>2,0 kHz</choice>
+	<choice>2,7 kHz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame radijo mėgėjams skirtame diapazone leista veikti siaurajuostės FM siųstuvams?</text>
+	<choice>10 m</choice>
+	<choice>15 m</choice>
+	<choice>80 m</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriame radijo mėgėjams skirtame TB diapazone leista naudoti CW siųstuvus?</text>
+	<choice>Tik 10 m ir 15 m</choice>
+	<choice>Tik 15 m</choice>
+	<choice>Visuose</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame radijo mėgėjams skirtame diapazone leista naudoti AM siųstuvus?</text>
+	<choice>80 m</choice>
+	<choice>15 m</choice>
+	<choice>10 m</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame radijo mėgėjams skirtame UTB diapazone leista naudoti CW siųstuvus?</text>
+	<choice>Tik 2 m ir 70 cm</choice>
+	<choice>Tik 2 m</choice>
+	<choice>Visuose</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame radijo mėgėjams skirtame UTB diapazone leista naudoti SSB siųstuvus?</text>
+	<choice>Tik 2 m ir 70 cm</choice>
+	<choice>Tik 2 m</choice>
+	<choice>Visuose, kur leidžiamas signalo juostos plotis ne mažesnis nei 2 700 Hz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B1a paveiksle?</text>
+	<image>images/b1.gif</image>
+	<choice>Induktyvumo ritė</choice>
+	<choice>Rezistorius</choice>
+	<choice>Kondensatorius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B1b paveiksle?</text>
+	<image>images/b1.gif</image>
+	<choice>Galvaninė baterija</choice>
+	<choice>Rezistorius</choice>
+	<choice>Kondensatorius</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B1c paveiksle?</text>
+	<image>images/b1.gif</image>
+	<choice>Galvaninė baterija</choice>
+	<choice>Induktyvumo ritė</choice>
+	<choice>Kondensatorius</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B1d paveiksle?</text>
+	<image>images/b1.gif</image>
+	<choice>Galvaninė baterija</choice>
+	<choice>Induktyvumo ritė</choice>
+	<choice>Rezistorius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia radijo elemento, atvaizduoto B1a paveiksle, pagrindinė savybė:</text>
+	<image>images/b1.gif</image>
+	<choice>Kaupia elektros krūvius</choice>
+	<choice>Priešinasi elektros srovės tekėjimui</choice>
+	<choice>Generuoja elektros srovę</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia radijo elemento, atvaizduoto B1b paveiksle, pagrindinė savybė?</text>
+	<image>images/b1.gif</image>
+	<choice>Sukaupia elektros krūvius</choice>
+	<choice>Priešinasi elektros srovės tekėjimui</choice>
+	<choice>Generuoja elektros srovę</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks pagrindinis radijo elemento, atvaizduoto B1d paveiksle, parametras?</text>
+	<image>images/b1.gif</image>
+	<choice>Varža</choice>
+	<choice>Induktyvumas</choice>
+	<choice>Talpa</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Didesnę varžą gausime rezistorius jungdami:</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Mišriai</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Mažesnę varžą gausime rezistorius jungdami:</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Mišriai</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji varža rezistorių, sujungtų pagal B2 pav, kai R1 = R2 = 50 Ω, R3 = 1 000 MΩ?</text>
+	<image>images/b2.gif</image>
+	<choice>25 Ω</choice>
+	<choice>100 Ω</choice>
+	<choice>100 MΩ</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji varža rezistorių, sujungtų pagal B2 pav, kai R1 = 200 Ω, R2 = 400 Ω, R3 = 600 Ω?</text>
+	<image>images/b2.gif</image>
+	<choice>300 Ω</choice>
+	<choice>600 Ω</choice>
+	<choice>1 200 Ω</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji varža rezistorių, sujungtų pagal B2 pav, kai R1 = 80 kΩ, R2 = 40 kΩ, R3 = 60 kΩ?</text>
+	<image>images/b2.gif</image>
+	<choice>40 kΩ</choice>
+	<choice>120 kΩ</choice>
+	<choice>180 kΩ</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji varža rezistorių, sujungtų pagal B2 pav, kai R1 = 20 kΩ, R2 = 0 kΩ, R3 = 20 kΩ?</text>
+	<image>images/b2.gif</image>
+	<choice>40 kΩ</choice>
+	<choice>20 kΩ</choice>
+	<choice>10 kΩ</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Didesnę talpą gausime jungdami kondensatorius:</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Mišriai</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Mažesnę talpą gausime jungdami kondensatorius:</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Mišriai</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Atstumas tarp plokščiojo kondensatoriaus plokštelių padidėjo 2 kartus Kondensatoriaus talpa:</text>
+	<choice>Sumažėjo 2 kartus</choice>
+	<choice>Padidėjo 2 kartus</choice>
+	<choice>Nepasikeitė</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Oro tarpas tarp plokščiojo kondensatoriaus plokštelių sumažėjo 2 kartus Kondensatoriaus talpa:</text>
+	<choice>Sumažėjo 2 kartus</choice>
+	<choice>Padidėjo 2 kartus</choice>
+	<choice>Nepasikeitė</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji talpa kondensatorių, sujungtų pagal B3 pav, kai C1 = C2 = 200 pF, C3 = 100 pF?</text>
+	<image>images/b3.gif</image>
+	<choice>50 pF</choice>
+	<choice>100 pF</choice>
+	<choice>200 pF</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji talpa kondensatorių, sujungtų pagal B3 pav, kai C1 = 300 pF, C2 = 700 pF, C3 = 390 pF?</text>
+	<image>images/b3.gif</image>
+	<choice>220 pF</choice>
+	<choice>450 pF</choice>
+	<choice>600 pF</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji talpa kondensatorių, sujungtų pagal B3 pav, kai C1=10 nF, C2=90 nF, C3=0 nF?</text>
+	<image>images/b3.gif</image>
+	<choice>9 nF</choice>
+	<choice>80 nF</choice>
+	<choice>100 nF</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia yra atstojamoji talpa kondensatorių, sujungtų pagal B3 pav, kai C1 = 3,3 μF, C2 = 5 μF, C3 = 10 μF?</text>
+	<image>images/b3.gif</image>
+	<choice>4,5 μF</choice>
+	<choice>12 μF</choice>
+	<choice>18,3 μF</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Padidinus ritės vijų skaičių, jos induktyvumas:</text>
+	<choice>Nepasikeis</choice>
+	<choice>Padidės</choice>
+	<choice>Sumažės</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Sumažinus ritės vijų skaičių, jos induktyvumas:</text>
+	<choice>Sumažės</choice>
+	<choice>Padidės</choice>
+	<choice>Nepasikeis</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B4a paveiksle?</text>
+	<image>images/b4.gif</image>
+	<choice>Puslaidininkinis diodas</choice>
+	<choice>Operacinis stiprintuvas</choice>
+	<choice>Dvipolis tranzistorius</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B4b paveiksle?</text>
+	<image>images/b4.gif</image>
+	<choice>Lauko tranzistorius</choice>
+	<choice>Puslaidininkinis diodas</choice>
+	<choice>Dvipolis tranzistorius</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B4c paveiksle?</text>
+	<image>images/b4.gif</image>
+	<choice>Operacinis stiprintuvas</choice>
+	<choice>Lauko tranzistorius</choice>
+	<choice>Dvipolis tranzistorius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas pavaizduota B4d paveiksle?</text>
+	<image>images/b4.gif</image>
+	<choice>Puslaidininkinis diodas</choice>
+	<choice>Dvipolis tranzistorius</choice>
+	<choice>Operacinis stiprintuvas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurio elektroninio prietaiso veikimas pagrįstas termoelektronine emisija?</text>
+	<choice>Elektroninės lempos</choice>
+	<choice>Tranzistoriaus</choice>
+	<choice>Puslaidininkinio diodo</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurio elektroninio prietaiso veikimas pagrįstas elektronų rekombinacija?</text>
+	<choice>Rezistoriaus</choice>
+	<choice>Varistoriaus</choice>
+	<choice>Puslaidininkinio diodo</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris elektroninis prietaisas turi pn sandūrą?</text>
+	<choice>Elektroninė lempa</choice>
+	<choice>Tranzistorius</choice>
+	<choice>Oscilografo vamzdis</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris elektroninis prietaisas gali stiprinti elektrinius signalus?</text>
+	<choice>Elektroninė lempa</choice>
+	<choice>Induktyvumo ritė</choice>
+	<choice>Lauko diodas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip vadinamas B4a paveiksle skaičiumi „1“ pažymėtas puslaidininkinio prietaiso elektrodas?</text>
+	<image>images/b4.gif</image>
+	<choice>Tetrodas</choice>
+	<choice>Anodas</choice>
+	<choice>Katodas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip vadinamas B4a paveiksle skaičiumi „2“ pažymėtas puslaidininkinio prietaiso elektrodas?</text>
+	<image>images/b4.gif</image>
+	<choice>Triodas</choice>
+	<choice>Anodas</choice>
+	<choice>Katodas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>B4b paveiksle pavaizduoto puslaidininkinio prietaiso 1 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Bazė</choice>
+	<choice>Emiteris</choice>
+	<choice>Kolektorius</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>B4b paveiksle pavaizduoto puslaidininkinio prietaiso 2 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Bazė</choice>
+	<choice>Emiteris</choice>
+	<choice>Kolektorius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>B4b paveiksle pavaizduoto puslaidininkinio prietaiso 3 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Bazė</choice>
+	<choice>Emiteris</choice>
+	<choice>Kolektorius</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>B4c paveiksle pavaizduoto puslaidininkinio prietaiso 1 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Ištaka</choice>
+	<choice>Užtūra</choice>
+	<choice>Santaka</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>B4c paveiksle pavaizduoto puslaidininkinio prietaiso 2 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Ištaka</choice>
+	<choice>Užtūra</choice>
+	<choice>Santaka</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>B4c paveiksle pavaizduoto puslaidininkinio prietaiso 3 elektrodas yra:</text>
+	<image>images/b4.gif</image>
+	<choice>Santaka</choice>
+	<choice>Ištaka</choice>
+	<choice>Užtūra</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kryptingas elektronų judėjimas laidininku vadinamas:</text>
+	<choice>Elektros krūviu</choice>
+	<choice>Elektros srove</choice>
+	<choice>Elektrine talpa</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kryptingai tekėti elektronus priverčia:</text>
+	<choice>Elektrovaros jėga</choice>
+	<choice>Elektrodinaminė jėga</choice>
+	<choice>Elektromagnetinė jėga</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Elektros srovė, tekanti viena kryptimi, vadinama:</text>
+	<choice>Nuolatine elektros srove</choice>
+	<choice>Normalia elektros srove</choice>
+	<choice>Kryptine elektros srove</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Elektros srovė, nuolat keičianti tekėjimo kryptį, vadinama:</text>
+	<choice>Klaidžiojančia elektros srove</choice>
+	<choice>Kintamąja elektros srove</choice>
+	<choice>Pakaitine elektros srove</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Elektros srovės laidininkas:</text>
+	<choice>Nepraleidžia elektros srovės</choice>
+	<choice>Praleidžia elektros srovę</choice>
+	<choice>Sutelkia elektros krūvių nešėjus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri medžiaga yra geras elektros srovės laidininkas?</text>
+	<choice>Varis</choice>
+	<choice>Stiklas</choice>
+	<choice>Nichromas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Elektros srovės izoliatorius:</text>
+	<choice>Leidžia tekėti elektros srovei</choice>
+	<choice>Trukdo tekėti elektros srovei</choice>
+	<choice>Neturi įtakos elektros srovės tekėjimui</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri medžiaga yra geras elektros srovės izoliatorius?</text>
+	<choice>Alavas</choice>
+	<choice>Cinkas</choice>
+	<choice>Žėrutis</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas sudaro virpesių kontūrą?</text>
+	<choice>Ritė ir kondensatorius</choice>
+	<choice>Ritė ir rezistorius</choice>
+	<choice>Rezistorius ir kondensatorius</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiu būdu galima pakeisti virpesių kontūro rezonansinį dažnį?</text>
+	<choice>Keičiant ritės induktyvumą</choice>
+	<choice>Keičiant kondensatoriaus talpą</choice>
+	<choice>Keičiant bent vieną iš čia nurodytų parametrų</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Prie 2 V įtampos šaltinio prijungtas 100 Ω rezistorius Koks srovės, tekančios rezistoriumi, stipris?</text>
+	<choice>0,02 A</choice>
+	<choice>0,2 A</choice>
+	<choice>0,50 A</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Prie 5 V įtampos šaltinio prijungtas 500 Ω rezistorius Koks srovės, tekančios rezistoriumi, stipris?</text>
+	<choice>10 mA</choice>
+	<choice>25 mA</choice>
+	<choice>100 mA</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>10 kΩ rezistoriumi teka 40 mA srovė Kokia įtampa tarp rezistoriaus gnybtų?</text>
+	<choice>0,25 V</choice>
+	<choice>250 V</choice>
+	<choice>400 V</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>50 Ω rezistoriumi teka 2 A srovė Kokia įtampa tarp rezistoriaus gnybtų?</text>
+	<choice>25 V</choice>
+	<choice>50 V</choice>
+	<choice>100 V</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Rezistoriumi, prijungtu prie 20 V įtampos šaltinio, teka 100 mA srovė Kokia rezistoriaus varža?</text>
+	<choice>2,0 kΩ</choice>
+	<choice>200 Ω</choice>
+	<choice>0,5 kΩ</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Rezistoriumi, prijungtu prie 90 V įtampos šaltinio, teka 3 amperų srovė Kokia rezistoriaus varža?</text>
+	<choice>30 Ω</choice>
+	<choice>90 Ω</choice>
+	<choice>3 Ω</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis varžos matavimo vienetas yra:</text>
+	<choice>Amperas</choice>
+	<choice>Voltas</choice>
+	<choice>Omas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis įtampos matavimo vienetas yra:</text>
+	<choice>Vatas</choice>
+	<choice>Voltas</choice>
+	<choice>Amperas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis elektros srovės matavimo vienetas yra:</text>
+	<choice>Faradas</choice>
+	<choice>Voltas</choice>
+	<choice>Amperas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis talpos matavimo vienetas yra:</text>
+	<choice>Henris</choice>
+	<choice>Faradas</choice>
+	<choice>Mikroamperas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis elektrinės galios matavimo vienetas yra:</text>
+	<choice>Vatas</choice>
+	<choice>Vatvalandė</choice>
+	<choice>Voltas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>SI sistemoje pagrindinis dažnio matavimo vienetas yra:</text>
+	<choice>Laipsnis</choice>
+	<choice>Ciklas</choice>
+	<choice>Hercas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriuo prietaisu matuojama įtampa?</text>
+	<choice>Ampermetru</choice>
+	<choice>Voltmetru</choice>
+	<choice>Įtampos indikatoriumi</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo prietaisu matuojama srovė?</text>
+	<choice>Ampermetru</choice>
+	<choice>Srovimetru</choice>
+	<choice>Srovės indikatoriumi</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriuo prietaisu matuojama galia?</text>
+	<choice>Galvanometru</choice>
+	<choice>Voltmetru</choice>
+	<choice>Vatmetru</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip į elektros grandinę turėtų būti jungiamas voltmetras?</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Neturi reikšmės</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia turėtų būti idealaus voltmetro vidinė varža?</text>
+	<choice>Labai maža</choice>
+	<choice>10 kΩ</choice>
+	<choice>Labai didelė</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Buityje dažniausiai naudojamo kintamosios elektros srovės tinklo įtampa yra:</text>
+	<choice>127 V</choice>
+	<choice>230 V</choice>
+	<choice>380 V</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip į elektros grandinę turėtų būti jungiamas ampermetras?</text>
+	<choice>Nuosekliai</choice>
+	<choice>Lygiagrečiai</choice>
+	<choice>Neturi reikšmės</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia turėtų būti idealaus ampermetro vidinė varža?</text>
+	<choice>Labai maža</choice>
+	<choice>1 kΩ</choice>
+	<choice>Labai didelė</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri schema vaizduoja varžos matavimą?</text>
+	<image>images/b5.gif</image>
+	<choice>B5a</choice>
+	<choice>B5b</choice>
+	<choice>B5c</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri schema vaizduoja įtampos matavimą?</text>
+	<image>images/b5.gif</image>
+	<choice>B5a</choice>
+	<choice>B5b</choice>
+	<choice>B5c</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri schema vaizduoja srovės matavimą?</text>
+	<image>images/b5.gif</image>
+	<choice>B5a</choice>
+	<choice>B5b</choice>
+	<choice>B5c</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks yra buityje dažniausiai naudojamo kintamosios elektros srovės tinklo dažnis?</text>
+	<choice>400 Hz</choice>
+	<choice>60 Hz</choice>
+	<choice>50 Hz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Jei kintamosios srovės dažnis yra 60 Hz, tai reiškia kad:</text>
+	<choice>Srovės stipris pasikeičia kartą per 60 sekundžių</choice>
+	<choice>Srovės kryptis pasikeičia 60 kartų per sekundę</choice>
+	<choice>Srovės kitimo greitis keičiasi kas 60 sekundžių</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Voltmetru, kurio skalė pažymėta voltais, matuojama 7 100 milivoltų įtampa Ką rodo prietaisas?</text>
+	<choice>0,071 V</choice>
+	<choice>0,71 V</choice>
+	<choice>7,1 V</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Voltmetru, kurio skalė pažymėta kilovoltais, matuojama 1 300 voltų įtampa Ką rodo prietaisas?</text>
+	<choice>0,13 kV</choice>
+	<choice>1,3 kV</choice>
+	<choice>13 kV</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ampermetru, kurio skalė pažymėta mikroamperais, matuojama 0,1 mA srovė Ką rodo prietaisas?</text>
+	<choice>0,01 μA</choice>
+	<choice>1,0 μA</choice>
+	<choice>100 μA</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ampermetru, kurio skalė pažymėta amperais, matuojama 250 mA srovė Ką rodo prietaisas?</text>
+	<choice>0,25 A</choice>
+	<choice>2,5 A</choice>
+	<choice>25 A</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Imtuvas iš elektros tinklo sunaudoja 0,8 kW galią Kiek tai yra vatų?</text>
+	<choice>8 W</choice>
+	<choice>80 W</choice>
+	<choice>800 W</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Siųstuvo išėjimo galia 100 vatų Kiek tai yra kilovatų?</text>
+	<choice>0,01 kW</choice>
+	<choice>0,1 kW</choice>
+	<choice>1 kW</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Siųstuvas veikia 200 kHz dažniu Kiek tai yra megahercų?</text>
+	<choice>0,2 MHz</choice>
+	<choice>2 MHz</choice>
+	<choice>20 MHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Siųstuvas nustatytas 2,4 GHz dažniu Kiek tai yra megahercų?</text>
+	<choice>0,24 MHz</choice>
+	<choice>240 MHz</choice>
+	<choice>2 400 MHz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Dažniui didėjant, radijo bangos ilgis:</text>
+	<choice>Nekinta</choice>
+	<choice>Didėja</choice>
+	<choice>Mažėja</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Bangos ilgiui mažėjant, dažnis:</text>
+	<choice>Nekinta</choice>
+	<choice>Didėja</choice>
+	<choice>Mažėja</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurį radijo dažnį atitinka 60 m radijo bangos ilgis?</text>
+	<choice>0,2 MHz</choice>
+	<choice>0,5 MHz</choice>
+	<choice>5,0 MHz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurį radijo dažnį atitinka 150 m radijo bangos ilgis?</text>
+	<choice>2 MHz</choice>
+	<choice>300 MHz</choice>
+	<choice>75 MHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurį radijo dažnį atitinka 900 m radijo bangos ilgis?</text>
+	<choice>222 kHz</choice>
+	<choice>333 kHz</choice>
+	<choice>125 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurį radijo dažnį atitinka 1 m radijo bangos ilgis?</text>
+	<choice>300 MHz</choice>
+	<choice>150 MHz</choice>
+	<choice>100 MHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurį radijo bangos ilgį atitinka 150 kHz dažnis?</text>
+	<choice>4 000 m</choice>
+	<choice>2 000 m</choice>
+	<choice>300 m</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurį radijo bangos ilgį atitinka 400 kHz dažnis?</text>
+	<choice>750 m</choice>
+	<choice>552 m</choice>
+	<choice>240 m</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurį radijo bangos ilgį atitinka 50 MHz dažnis?</text>
+	<choice>12 m</choice>
+	<choice>8 m</choice>
+	<choice>6 m</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurį radijo bangos ilgį atitinka 1 200 MHz dažnis?</text>
+	<choice>0,15 m</choice>
+	<choice>0,25 m</choice>
+	<choice>1,50 m</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Oscilografas yra prietaisas, skirtas:</text>
+	<choice>Antenos kompleksinei varžai matuoti</choice>
+	<choice>Stovinčios bangos koeficientui matuoti</choice>
+	<choice>Signalo formai stebėti</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Oscilografo vertikalioji ašis vaizduoja:</text>
+	<choice>Amplitudę</choice>
+	<choice>Trukmę</choice>
+	<choice>Dažnį</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Oscilografo horizontalioji ašis vaizduoja:</text>
+	<choice>Amplitudę</choice>
+	<choice>Trukmę</choice>
+	<choice>Moduliavimą</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduota superheterodininio imtuvo blokinė schema 1 blokas yra:</text>
+	<image>images/b6.gif</image>
+	<choice>Aukštadažnis stiprintuvas</choice>
+	<choice>Maišiklis</choice>
+	<choice>Žemadažnis stiprintuvas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduota superheterodininio imtuvo blokinė schema 2 blokas yra:</text>
+	<image>images/b6.gif</image>
+	<choice>Aukštadažnis stiprintuvas</choice>
+	<choice>Tarpinio dažnio stiprintuvas</choice>
+	<choice>Maišiklis</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduota superheterodininio imtuvo blokinė schema 3 blokas yra:</text>
+	<image>images/b6.gif</image>
+	<choice>Filtras</choice>
+	<choice>Heterodinas</choice>
+	<choice>Detektorius</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduotoje superheterodininio imtuvo blokinė schema 4 blokas yra</text>
+	<image>images/b6.gif</image>
+	<choice>Detektorius</choice>
+	<choice>Tarpinio dažnio stiprintuvas</choice>
+	<choice>Žemadažnis stiprintuvas</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduotoje superheterodininio imtuvo blokinė schema 5 blokas yra:</text>
+	<image>images/b6.gif</image>
+	<choice>Heterodinas</choice>
+	<choice>Tarpinio dažnio stiprintuvas</choice>
+	<choice>Detektorius</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>B6 paveiksle atvaizduota superheterodininio imtuvo blokinė schema 6 blokas yra:</text>
+	<image>images/b6.gif</image>
+	<choice>Kvarcinis heterodinas</choice>
+	<choice>Maišiklis</choice>
+	<choice>Žemadažnis stiprintuvas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Aukštadažnis stiprintuvas superheterodininiame imtuve skirtas:</text>
+	<choice>Imtuvo juostos pločiui sumažinti</choice>
+	<choice>Imtuvo jautriui pagerinti</choice>
+	<choice>Imtuvo stabilumui pagerinti</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Heterodinas superheterodininiame imtuve skirtas:</text>
+	<choice>Imtuvo stabilumui pagerinti</choice>
+	<choice>Standartiniams signalams generuoti</choice>
+	<choice>Dažnio keitimui reikalingo signalo generavimui</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Maišiklis superheterodininiame imtuve skirtas:</text>
+	<choice>Priimtų radijo signalų dažniui keisti</choice>
+	<choice>Radijo signalų detektavimui</choice>
+	<choice>Naudingam signalui nuo triukšmo atskirti</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Detektorius superheterodininiame imtuve skirtas:</text>
+	<choice>Tarpinio dažnio ir žemadažnio stiprintuvų impedansams suderinti</choice>
+	<choice>Tarpinio dažnio signalui iš radijo dažnio signalo gauti</choice>
+	<choice>Žemadažniui signalui gauti</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>S-metras superheterodininiame imtuve skirtas:</text>
+	<choice>Priimto signalo stiprio matavimui</choice>
+	<choice>Heterodino lygio matavimui</choice>
+	<choice>Imtuvo suderinimui su antena</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks yra vienas iš superheterodininio imtuvo trūkumų?</text>
+	<choice>Galimas signalo priėmimas veidrodiniu dažniu</choice>
+	<choice>Per didelis priimto signalo stiprinimas</choice>
+	<choice>Nepakankamai geras signalo demoduliavimas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris blokas gali būti trukdančių signalų šaltinis superheterodininiame imtuve?</text>
+	<choice>Aukštadažnis filtras</choice>
+	<choice>S-metras</choice>
+	<choice>Heterodinas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kartais sakoma, kad imtuvas „perkrautas“ Ką tai reiškia?</text>
+	<choice>Imtuvas gauna per didelę įtampą iš maitinimo šaltinio</choice>
+	<choice>Į imtuvo įėjimą patenka per stiprūs signalai</choice>
+	<choice>Imtuvas apkrautas per sunkiais daiktais</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kam reikalingas retransliatorius?</text>
+	<choice>Siunčiamo signalo kokybės gerinimui</choice>
+	<choice>Radijo ryšio nuotolio didinimui</choice>
+	<choice>Sujungimui su miesto telefono tinklais</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Balso retransliatorius turi įėjimo ir išėjimo kanalus Ką  tai reiškia?</text>
+	<choice>Retransliatorius priima vienu dažniu, o siunčia kitu</choice>
+	<choice>Retransliatorius leidžia pasirinkti kitą dažnį, jei pirmasis užimtas</choice>
+	<choice>Du kanalai yra geriau nei vienas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks paprastai būna dažnių skirtumas tarp 2 m radijo mėgėjų retransliatoriaus įėjimo ir išėjimo kanalų?</text>
+	<choice>12,5 kHz</choice>
+	<choice>600 kHz</choice>
+	<choice>1 200 kHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kam turėtų būti teikiamas prioritetas, užmezgant ryšius per balso retransliatorių?</text>
+	<choice>Fiksuotoms radijo stotims</choice>
+	<choice>Judriosioms radijo stotims</choice>
+	<choice>Gerai girdimoms radijo stotims</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Netoli nuo balso retransliatoriaus naudojate 1W galios FM siųstuvą Jūsų signalą retransliatorius perduoda be triukšmų Ar padidės ryšio per retransliatorių atstumas, jei savo siųstuvo galią padidinsite iki 100W?</text>
+	<choice>Padidės</choice>
+	<choice>Padidės tuo atveju, jei naudosite kryptinę anteną</choice>
+	<choice>Nepadidės</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Skaitmeninių signalų retransliatoriaus įėjimo ir išėjimo dažniai:</text>
+	<choice>Sutampa</choice>
+	<choice>Skiriasi 500 kHz</choice>
+	<choice>Skiriasi 600 kHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokią įtaką gali turėti turi per didelis SSB siųstuvo mikrofono signalo lygis, jei nėra priemonių jo lygiui riboti?</text>
+	<choice>Gali sukelti trukdžius radijo stotims, veikiančioms gretimais dažniais</choice>
+	<choice>Gali pablogėti signalo suprantamumas</choice>
+	<choice>Abu atsakymai teisingi</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>FM siųstuvo dažnio deviacija priklauso nuo:</text>
+	<choice>Kvarcinio signalo generatoriaus įtampos amplitudės</choice>
+	<choice>Žemadažnio signalo įtampos amplitudės</choice>
+	<choice>Spinduliuojamo signalo amplitudės</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų daryti, jei jūsų FM siųstuvo dažnio deviacija yra per didelė?</text>
+	<choice>Garsiau kalbėti į mikrofoną</choice>
+	<choice>Padidinti siųstuvo išėjimo galią</choice>
+	<choice>Sumažinti žemadažnio signalo, paduodamo į moduliatorių, lygį</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri iš B7 paveiksle parodytų schemų geriausiai tinka siunčiamo signalo harmoninio spinduliavimo slopinimui?</text>
+	<image>images/b7.gif</image>
+	<choice>a</choice>
+	<choice>b</choice>
+	<choice>c</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurį filtrą geriausia įjungti trumpųjų bangų siųstuvo išėjime tam, kad sumažėtų siųstuvo signalų įtaka televizoriaus priimamiems signalams?</text>
+	<image>images/b7.gif</image>
+	<choice>B7a</choice>
+	<choice>B7b</choice>
+	<choice>B7c</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbu derinant anteną?</text>
+	<choice>Gauti tinkamą stovinčios bangos koeficiento reikšmę</choice>
+	<choice>Pasiekti maksimalų antenos stiprinimo koeficientą</choice>
+	<choice>Teisingi abu čia pateikti atsakymai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbu derinant kryptinę anteną?</text>
+	<choice>Gauti minimalų stovinčios bangos koeficientą</choice>
+	<choice>Kiek galima daugiau sumažinti spinduliavimą atgaline kryptimi</choice>
+	<choice>Teisingi abu čia pateikti atsakymai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra antenos kryptingumo diagrama?</text>
+	<choice>Grafinis antenos spinduliavimo savybių atvaizdas koordinačių ašyje</choice>
+	<choice>Grafinis antenos elementų savybių atvaizdas koordinačių ašyje</choice>
+	<choice>Grafinis antenos poliarizacijos atvaizdas koordinačių ašyje</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais vienetais matuojamas antenos stiprinimo koeficientas?</text>
+	<choice>W</choice>
+	<choice>dB</choice>
+	<choice>Log</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką parodo išmatuotas stovinčios bangos koeficientas?</text>
+	<choice>Antenos suderinimą su signalo perdavimo linija</choice>
+	<choice>Antenos poliarizaciją</choice>
+	<choice>Kiek stovinčių bangų yra tarp antenos ir siųstuvo</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kur jungiamas stovinčios bangos koeficiento matuoklis?</text>
+	<choice>Tarp antenos ir įžeminimo</choice>
+	<choice>Tarp siųstuvo išėjimo ir signalo perdavimo linijos</choice>
+	<choice>Tarp matuojamosios ir etaloninės antenų</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia stovinčios bangos koeficiento reikšmė yra pakankamai gera?</text>
+	<choice>Mažesnė už 1</choice>
+	<choice>Nuo 1 iki 3</choice>
+	<choice>Nuo 10 iki 100</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Esant geram suderinimui, stovinčios bangos koeficientas signalo perdavimo linijoje turėtų būti:</text>
+	<choice>Artimas vienetui</choice>
+	<choice>Ne mažesnis kaip 10</choice>
+	<choice>Lygus nuliui</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurio dažnio to paties tipo antenos geometriniai matmenys mažiausi?</text>
+	<choice>3 MHz</choice>
+	<choice>30 MHz</choice>
+	<choice>300 MHz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurio dažnio to paties tipo antenos geometriniai matmenys didžiausi?</text>
+	<choice>137 kHz</choice>
+	<choice>3 755 kHz</choice>
+	<choice>10 150 kHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Antenos elementui pailgėjus, jo rezonansinis dažnis:</text>
+	<choice>Sumažės</choice>
+	<choice>Padidės</choice>
+	<choice>Išnyks</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Antenos elementui sutrumpėjus, jo rezonansinis dažnis:</text>
+	<choice>Sumažės</choice>
+	<choice>Padidės</choice>
+	<choice>Nepasikeis</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip vadinama B8 paveiksle parodyta antena?</text>
+	<image>images/b8.gif</image>
+	<choice>Banginio kanalo antena</choice>
+	<choice>Elementinė antena</choice>
+	<choice>Labai aukštų dažnių antena</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris B8 paveiksle parodytos antenos elementas turėtų būti nukreipiamas į korespondentą?</text>
+	<image>images/b8.gif</image>
+	<choice>1 elementas</choice>
+	<choice>2 elementas</choice>
+	<choice>3 elementas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris B8 paveiksle parodytos antenos elementas turėtų būti nukreipiamas į signalo šaltinį, kad imtuvo įėjime būtų maksimalus signalo lygis?</text>
+	<image>images/b8.gif</image>
+	<choice>1 elementas</choice>
+	<choice>2 elementas</choice>
+	<choice>3 elementas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Turite 2 vienodo ilgio ir tipo skirtingo diametro ašinius kabelius Kuriame iš jų signalo perdavimo nuostoliai didesni?</text>
+	<choice>Plonesniame kabelyje</choice>
+	<choice>Storesniame kabelyje</choice>
+	<choice>Nuostoliai nepriklauso nuo kabelio storio</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia priklausomybė tarp signalo nuostolių ir perdavimo linijos ilgio?</text>
+	<choice>Ilgėjant linijai, nuostoliai mažėja</choice>
+	<choice>Ilgėjant linijai, nuostoliai didėja</choice>
+	<choice>Nuostoliai nuo linijos ilgio nepriklauso</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip signalo perdavimo nuostoliai ašiniame kabelyje priklauso nuo signalo dažnio?</text>
+	<choice>Nuostoliai nuo dažnio nepriklauso</choice>
+	<choice>Kuo didesnis dažnis, tuo didesni nuostoliai</choice>
+	<choice>Kuo mažesnis dažnis, tuo didesni nuostoliai</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris teiginys teisingas?</text>
+	<choice>Plonesnio ašinio kabelio banginė varža visada mažesnė</choice>
+	<choice>Storesnio ašinio kabelio banginė varža visada mažesnė</choice>
+	<choice>Vien tik pagal ašinio kabelio storį negalima spręsti apie jo banginę varžą</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas priskiriama elektromagnetiniam spinduliavimui?</text>
+	<choice>Radijo bangos</choice>
+	<choice>Šviesa</choice>
+	<choice>Abu čia išvardyti variantai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas sudaro elektromagnetines bangas?</text>
+	<choice>Kintamas elektrinis ir kintamas magnetinis laukas</choice>
+	<choice>Elektrostatinis ir magnetinis laukas</choice>
+	<choice>Statinis elektrinis ir magnetinis laukas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks apytikslis radijo bangų greitis?</text>
+	<choice>30 000 km/s</choice>
+	<choice>300 000 km/s</choice>
+	<choice>3 000 000 km/s</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurios radijo bangos priskiriamos trumposioms?</text>
+	<choice>Nuo 3 kHz iki 30 kHz</choice>
+	<choice>Nuo 3 MHz iki 30 MHz</choice>
+	<choice>Nuo 3 GHz iki 30 GHz</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurios radijo bangos priskiriamos ultratrumposioms?</text>
+	<choice>Nuo 30 kHz iki 300 kHz</choice>
+	<choice>Nuo 3 MHz iki 30 MHz</choice>
+	<choice>Nuo 30 MHz iki 300 MHz</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokių radijo bangų nebūna?</text>
+	<choice>Kilometrinių</choice>
+	<choice>Vidutiniųjų</choice>
+	<choice>FM</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri iš čia išvardytų medžiagų geriausiai atspindi radijo bangas?</text>
+	<choice>Plastmasė</choice>
+	<choice>Medis</choice>
+	<choice>Aliuminis</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip vadinami virš Žemės paviršiaus esantys jonizuoti sluoksniai?</text>
+	<choice>Jonosfera</choice>
+	<choice>Troposfera</choice>
+	<choice>Magnetosfera</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia yra jonosferos susiformavimo priežastis?</text>
+	<choice>Saulės spinduliavimas</choice>
+	<choice>Temperatūros pasikeitimas</choice>
+	<choice>Žaibavimas</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri Saulės spinduliuojamo spektro dalis labiausiai jonizuoja jonosferą?</text>
+	<choice>Ultravioletinė</choice>
+	<choice>Infraraudonoji</choice>
+	<choice>Geltonoji šviesa</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Dėl kokios priežasties trumposiomis bangomis yra įmanomi radijo ryšiai dideliais atstumais?</text>
+	<choice>Dėl atmosferos jonizavimo</choice>
+	<choice>Dėl stratosferos įtakos</choice>
+	<choice>Dėl didelės siųstuvo galios</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Geriausia aplinka metrinių radijo bangų sklidimui yra:</text>
+	<choice>Miškas</choice>
+	<choice>Kalnai</choice>
+	<choice>Sūraus vandens paviršius</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurioms radijo bangoms aukšti gelžbetoniniai pastatai gali tapti neįveikiama kliūtimi?</text>
+	<choice>Ilgosioms</choice>
+	<choice>Trumposioms</choice>
+	<choice>Ultratrumposioms</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas atsitiks su decimetrinėmis bangomis, kai jų kelyje bus metalinio garažo siena?</text>
+	<choice>Bangos aplenks pastatą</choice>
+	<choice>Bangos atsispindės nuo pastato</choice>
+	<choice>Bangos pereis sieną nekliudomos</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Atmosferiniai trikdžiai priėmimo metu girdimi kaip traškesiai Kokia galėtų būti šio reiškinio priežastis?</text>
+	<choice>Magnetinės audros</choice>
+	<choice>Žaibo išlydžiai</choice>
+	<choice>Aukštos įtampos perdavimo linijos</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl žaibo išlydžiai gali sukelti trukdžius radijo imtuvuose?</text>
+	<choice>Dėl išlydžio metu išspinduliuojamo stipraus elektromagnetinio lauko</choice>
+	<choice>Dėl ryškaus šviesos blyksnio, atsirandančio išlydžio metu</choice>
+	<choice>Dėl žaibo sukelto ribinio jonosferos jonizavimo</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra radijo dažnių spinduliavimas?</text>
+	<choice>Elektromagnetinis spinduliavimas tarp 3 kHz ir 300 GHz</choice>
+	<choice>Garsinis spinduliavimas iš radijo imtuvo garsiakalbio ar ausinių</choice>
+	<choice>Ultravioletinis spinduliavimas tarp 20 Hz ir 300 GHz</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokį poveikį žmogaus kūnui gali turėti didelės galios radijo dažnių energija?</text>
+	<choice>Didina kraujagyslių užkalkėjimą</choice>
+	<choice>Šiluminį poveikį kūno paviršiui</choice>
+	<choice>Žymiai padidina vidinę kūno varžą</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl reikia įsitikinti, kad niekas negalės prisiliesti prie atviros signalo perdavimo linijos ir neizoliuotų antenos elementų?</text>
+	<choice>Nes prisilietimas gali sukelti nejuostinę spinduliuotę</choice>
+	<choice>Kad būtų apsisaugota nuo didelių lygių radijo dažnių energijos</choice>
+	<choice>Nes atviros perdavimo linijos spinduliuoja stiprius elektrinius laukus</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip turėtų būti sumontuotos radijo mėgėjų radijo stoties antenos, norint apsaugoti žmones nuo radijo dažnių laukų?</text>
+	<choice>Ant nemetalinio stiebo</choice>
+	<choice>Ekranuojant anteną</choice>
+	<choice>Kiek galima toliau nuo žmogui lengvai pasiekiamų vietų</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kodėl nereikėtų stovėti arti antenos, kuri prijungta prie veikiančio 1000 W išėjimo galios siųstuvo?</text>
+	<choice>Gali atsipalaiduoti raumenys</choice>
+	<choice>Žmogus gali atsitiktinai prisiliesti prie antenos ir būti sužeistas</choice>
+	<choice>Radijo dažnių energija gali atsispindėti nuo kūno</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl jūsų portatyvinio UTB imtuvo-siųstuvo „guminė“ antena neturėtų būti per arti galvos siuntimo metu?</text>
+	<choice>Kad būtų išvengta elektrostatinių krūvių susikaupimo</choice>
+	<choice>Kad antena galėtų spinduliuoti visomis kryptimis vienodai</choice>
+	<choice>Kad būtų išvengta apspinduliavimo radijo dažnių energija</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip reikėtų laikyti nešiojamo UTB siųstuvo-imtuvo anteną siuntimo metu?</text>
+	<choice>75 laipsnių kampu spinduliavimo kryptimi</choice>
+	<choice>Nukreiptą į korespondentą</choice>
+	<choice>Toliau nuo jūsų galvos ir nuo aplinkinių žmonių</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri elektros srovė pavojingesnė žmogui?</text>
+	<choice>Pastovioji</choice>
+	<choice>Kintamoji</choice>
+	<choice>Abi vienodai pavojingos</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra pavojingiau?</text>
+	<choice>Liesti laidininką, kuriuo teka elektros srovė, sausomis rankomis</choice>
+	<choice>Liesti laidininką, kuriuo teka elektros srovė, drėgnomis rankomis</choice>
+	<choice>Pavojus abiem atvejais vienodas</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri įtampa pavojinga žmogui?</text>
+	<choice>12 V</choice>
+	<choice>36 V</choice>
+	<choice>Pavojingos įtampos dydis priklauso nuo žmogaus organizmo fizinės būklės ir kontakto su laidininku kokybės</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Nuo ko priklauso elektros srovės sukeltas organizmo pažeidimas?</text>
+	<choice>Nuo elektros srovės stiprio ir jos veikimo trukmės</choice>
+	<choice>Nuo srovės tekėjimo kelio</choice>
+	<choice>Nuo visų čia išvardytų faktorių</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie elektros srovės tekėjimo žmogaus kūnu atvejai pavojingiausi?</text>
+	<choice>Kai elektros srovė teka nuo vienos rankos link kitos rankos</choice>
+	<choice>Kai elektros srovė teka nuo rankos link kojos</choice>
+	<choice>Abu čia išvardyti atvejai</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ant televizoriaus dangčio yra įspėjimas „Išjungus detales liesti ne anksčiau kaip po 5 sek “ Ką galėtų reikšti šis užrašas?</text>
+	<choice>Viduje yra elektros krūvį kaupiančių elementų, kuriuos liesti gali būti pavojinga</choice>
+	<choice>Tai standartinis gamintojo užrašas, kuriuo siekiama apriboti detalių lietimo laiką</choice>
+	<choice>Būtina laukti, kol išsijungs viduje esantis laikmatis</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kur reikia įjungti įtampos iškroviklį, kad siųstuvas-imtuvas būtų geriausiai apsaugotas nuo antenoje atsirandančių statinių elektros krūvių?</text>
+	<choice>Prie siųstuvo-imtuvo antenos lizdo</choice>
+	<choice>Prie siųstuvo-imtuvo maitinimo laido</choice>
+	<choice>Prie siųstuvo-imtuvo garsiakalbio laido</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip geriausia apsaugoti radijo stoties aparatūrą nuo žaibo išlydžio?</text>
+	<choice>Izoliuojant maitinimo filtro kondensatorius</choice>
+	<choice>Atjungiant visą aparatūrą nuo įžeminimo grandinių</choice>
+	<choice>Atjungiant visą aparatūrą nuo maitinimo linijų ir antenų</choice>
+	<answer>2</answer>
+</question>
+
+	</category>
+	
+	
+		<category>
+		<title>A lygio testas</title>
+		<text>Radijo mėgėjų A lygio kvalifikacinių egzaminų klausimai</text>
+	
+		<question>
+	<text>Kas yra radijo mėgėjas?</text>
+	<choice>Asmuo, savo rankose laikantis leidimą.</choice>
+	<choice>Asmuo, pasiskolinęs leidimą.</choice>
+	<choice>Fizinis asmuo, užsiimantis radijo ryšio veikla asmeniniais ir su verslu nesusijusiais tikslais ir iš jos nesipelnantis.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Nuo kelerių metų asmenims išduodami A klasės leidimai radijo mėgėjų veiklai?</text>
+	<choice>Nuo 16 metų.</choice>
+	<choice>Nuo 18 metų.</choice>
+	<choice>Amžius neribojamas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks Lietuvos Respublikos ryšių reguliavimo tarnybos išduoto leidimo radijo mėgėjų veiklai galiojimo laikas?</text>
+	<choice>5 metai.</choice>
+	<choice>3 metai.</choice>
+	<choice>1 metai.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas turi teisę gauti keturių ženklų radijo šaukinį?</text>
+	<choice>Visi radijo mėgėjai.</choice>
+	<choice>Tik A klasės leidimą radijo mėgėjų veiklai turintys radijo mėgėjai ir klubai.</choice>
+	<choice>Tik B klasės leidimą radijo mėgėjų veiklai turintys radijo mėgėjai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kam gali būti išduotas leidimas naudoti radijo šaukinį?</text>
+	<choice>Tik radijo mėgėjui.</choice>
+	<choice>Tik klubui.</choice>
+	<choice>Radijo mėgėjui ir klubui.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kam gali būti išduotas leidimas radijo mėgėjų veiklai?</text>
+	<choice>Tik radijo mėgėjui.</choice>
+	<choice>Tik klubui.</choice>
+	<choice>Radijo mėgėjui ir klubui.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kada skiriamas proginis radijo šaukinys?</text>
+	<choice>Sukakus 1 metams nuo leidimo radijo mėgėjų veiklai išdavimo dienos.</choice>
+	<choice>Minint įvairius įsimintinus įvykius arba datas.</choice>
+	<choice>Leidimo radijo mėgėjų veiklai išdavimo proga, sudarytas iš specialios raidžių ir (arba) skaičių sekos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas turi teisę gauti proginį radijo šaukinį?</text>
+	<choice>Tik radijo mėgėjai.</choice>
+	<choice>Tik klubai.</choice>
+	<choice>Tik A klasės leidimą radijo mėgėjų veiklai turintys radijo mėgėjai ir klubai.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kieno rekomendaciją būtina pateikti Lietuvos Respublikos ryšių reguliavimo tarnybai, norint gauti leidimą, kuriame įrašytas proginis radijo šaukinys?</text>
+	<choice>Lietuvos Respublikoje veikiančios visuomeninės radijo mėgėjų organizacijos.</choice>
+	<choice>Rekomendacijos pateikti nereikia.</choice>
+	<choice>Bet kurios visuomeninės radijo mėgėjų organizacijos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kam gali būti išduotas laikinas leidimas radijo mėgėjų veiklai?</text>
+	<choice>Radijo mėgėjui, laikinai atvykusiam į Lietuvos Respubliką ir neturinčiam leidimo, atitinkančio CEPT rekomendacijoje T/R 61-01 „CEPT radijo mėgėjo leidimas“ nustatytus reikalavimus.</choice>
+	<choice> Radijo mėgėjui, laikinai atvykusiam į Lietuvos Respubliką ir turinčiam leidimą, atitinkantį CEPT rekomendacijoje T/R 61-01 „CEPT radijo mėgėjo leidimas“ nustatytus reikalavimus.</choice>
+	<choice>Radijo mėgėjui, norinčiam laikinai užsiimti radijo mėgėjų veikla.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks Lietuvos Respublikos ryšių reguliavimo tarnybos išduoto leidimo naudoti radijo šaukinį galiojimo laikas, kai skiriamas proginis radijo šaukinys?</text>
+	<choice>Iki 60 dienų.</choice>
+	<choice>Iki 90 dienų.</choice>
+	<choice>Iki 30 dienų.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kam gali būti išduotas leidimas naudoti radijo šaukinį retransliatoriaus ar švyturio identifikavimui?</text>
+	<choice>Tik A klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams.</choice>
+	<choice>Tik A klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams ir klubams.</choice>
+	<choice>Radijo mėgėjams ir klubams.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks leidimas gali būti išduotas klubui?</text>
+	<choice>Leidimas radijo mėgėjų veiklai.</choice>
+	<choice>Leidimas naudoti radijo šaukinį.</choice>
+	<choice>Leidimas radijo mėgėjų veiklai ir leidimas naudoti radijo šaukinį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks leidimas gali būti išduoti radijo mėgėjui?</text>
+	<choice>Leidimas radijo mėgėjų veiklai.</choice>
+	<choice>Leidimas naudoti radijo šaukinį.</choice>
+	<choice>Leidimas radijo mėgėjų veiklai ir leidimas naudoti radijo šaukinį</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kur skelbiama informacija apie išduotus leidimus radijo mėgėjų veiklai?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos interneto tinklalapyje.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos skelbimų lentoje.</choice>
+	<choice>Oficialiame leidinyje „Valstybės žinios“.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Leidimo radijo mėgėjų veiklai galiojimas gali būti panaikintas iki jame nurodyto termino pabaigos, jei radijo mėgėjas:</text>
+	<choice>Pateikia prašymą Lietuvos Respublikos ryšių reguliavimo tarnybai dėl leidimo radijo mėgėjų veiklai panaikinimo.</choice>
+	<choice>Padaro esminį Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašo bei kitų teisės aktų, reglamentuojančių radijo dažnių ir radijo ryšio įrenginių naudojimą, pažeidimą.</choice>
+	<choice>Abiem aukščiau nurodytais atvejais.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Išduoto leidimo radijo mėgėjų veiklai galiojimo terminas baigiasi. Naujo leidimo gavimui būtina pateikti prašymą Lietuvos Respublikos ryšių reguliavimo tarnybai ir:</text>
+	<choice>Išlaikyti egzaminus.</choice>
+	<choice>Išlaikyti egzaminus bei sumokėti Lietuvos  Respublikos ryšių reguliavimo tarnybos nustatytus užmokesčius.</choice>
+	<choice>Sumokėti Lietuvos  Respublikos ryšių reguliavimo tarnybos nustatytus užmokesčius.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Būtina gauti pataisytą leidimą radijo mėgėjų veiklai, jei:</text>
+	<choice>Jame įrašyti duomenys neatitinka leidimo turėtojo duomenų.</choice>
+	<choice>Iki jo galiojimo termino pabaigos liko 30 dienų.</choice>
+	<choice>Pasikeitė jį išdavusios institucijos pavadinimas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo šaukinį perduoti privaloma ne rečiau, kaip kartą per:</text>
+	<choice>3 min.</choice>
+	<choice>5 min.</choice>
+	<choice>10 min.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip teisingai perduoti radijo šaukinį?</text>
+	<choice>Radijo šaukinį būtina kartoti 3 kartus.</choice>
+	<choice>Būtina naudoti automatinį radijo šaukinio siuntimo būdą.</choice>
+	<choice>Radijo šaukinio simbolius būtina perduoti aiškiai, išvengiant galimų dviprasmiškumų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiu būdu, sakant šaukinį į mikrofoną, galima išvengti dviprasmiškumų?</text>
+	<choice>Padidinus siųstuvo galią.</choice>
+	<choice>Vartojant fonetinę abėcėlę.</choice>
+	<choice>Garsiau kalbant į mikrofoną.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris būdas įsitikinti, kad Jūsų nešiojamos radijo stoties signalai pasiekia retransliatorių, yra teisingas?</text>
+	<choice>Kelis kartus nuspausti ir atleisti siuntimo mygtuką bei klausytis, ar „atsako“ retransliatorius.</choice>
+	<choice>Tris kartus perduoti „QRZ“ ir klausytis ar „atsako“ retransliatorius.</choice>
+	<choice>Nuspausti siuntimo mygtuką, perduoti savo radijo šaukinį ir atleidus mygtuką klausytis, ar „atsako“ retransliatorius.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, naudojant radijo stotį oro laive?</text>
+	<choice>/am.</choice>
+	<choice>/m.</choice>
+	<choice>/mm.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, naudojant radijo stotį valstybės vidaus vandenyse esančiame laive?</text>
+	<choice>/m.</choice>
+	<choice>/mm.</choice>
+	<choice>/am.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais simboliais galima papildyti radijo šaukinį, naudojant radijo stotį tarptautiniuose vandenyse esančiame laive?</text>
+	<choice>/m.</choice>
+	<choice>/mm.</choice>
+	<choice>/p.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri organizacija palaiko ir plečia tarptautinį bendradarbiavimą tam, kad būtų racionaliai naudojamos visos telekomunikacijų priemonės visame pasaulyje?</text>
+	<choice>Tarptautinė radijo mėgėjų sąjunga.</choice>
+	<choice>Tarptautinė radijo ryšių sąjunga.</choice>
+	<choice>Tarptautinė telekomunikacijų sąjunga.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas nustato įvairių valstybių radijo šaukinių prefiksus?</text>
+	<choice>Tarptautinė telekomunikacijų sąjunga.</choice>
+	<choice>Tarptautinė radijo mėgėjų sąjunga.</choice>
+	<choice>Tarptautinė radijo ryšių sąjunga.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas atstovauja pasaulio radijo mėgėjams Tarptautinėje telekomunikacijų sąjungoje?</text>
+	<choice>Lietuvos radijo mėgėjų draugija.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba.</choice>
+	<choice>Tarptautinė radijo mėgėjų sąjunga.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas atstovauja Lietuvos radijo mėgėjams Tarptautinėje radijo mėgėjų sąjungoje?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba.</choice>
+	<choice>Lietuvos radijo mėgėjų draugija.</choice>
+	<choice>Lietuvos radijo ryšio mėgėjų asociacija.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>ITU pirmasis rajonas apima:</text>
+	<choice>Europą, Afriką ir dalį Azijos.</choice>
+	<choice>Australiją ir Aziją.</choice>
+	<choice>Šiaurės ir Pietų Ameriką.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>ITU antrasis rajonas apima:</text>
+	<choice>Pietų Ameriką ir Australiją.</choice>
+	<choice>Europą, Afriką ir dalį Azijos.</choice>
+	<choice>Šiaurės ir Pietų Ameriką.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>ITU trečiasis rajonas apima:</text>
+	<choice>Šiaurės ir Pietų Ameriką.</choice>
+	<choice>Europą, Afriką ir dalį Azijos.</choice>
+	<choice>Australiją, Okeaniją ir dalį Azijos.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame ITU rajone yra Lietuvos Respublika?</text>
+	<choice>Pirmame.</choice>
+	<choice>Antrame.</choice>
+	<choice>Trečiame.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra CEPT?</text>
+	<choice>Europos Sąjungos radijo mėgėjų organizacija.</choice>
+	<choice>Europos pašto ir telekomunikacijų administracijų konferencija.</choice>
+	<choice>Tarptautinis Lietuvos Respublikos ryšių reguliavimo tarnybos pavadinimas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios klasės leidimas radijo mėgėjų veiklai yra CEPT leidimo ekvivalentas?</text>
+	<choice>A klasės leidimas.</choice>
+	<choice>B klasės leidimas.</choice>
+	<choice>C klasės leidimas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ką reiškia įrašas „CEPT leidimo ekvivalentas“?</text>
+	<choice>Leidimas radijo mėgėjų veiklai gali būti keičiamas į CEPT klasės leidimą.</choice>
+	<choice>Leidimas radijo mėgėjų veiklai  galioja visose CEPT šalyse.</choice>
+	<choice>Leidimas radijo mėgėjų veiklai atitinka CEPT leidimui keliamus reikalavimus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame CEPT dokumente nustatyti reikalavimai leidimui radijo mėgėjų veiklai?</text>
+	<choice>CEPT rekomendacijoje T/R 61-01.</choice>
+	<choice>CEPT rekomendacijoje T/R 61-02.</choice>
+	<choice>CEPT rekomendacijoje T/R 61-03.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokias teises suteikia CEPT leidimas jo turėtojui, jam laikinai atvykus į kitą valstybę, kuri įgyvendino CEPT rekomendaciją  T/R 61-01 „CEPT radijo mėgėjo leidimas“?</text>
+	<choice>Gauti tos valstybės atatinkamos organizacijos skiriamą šaukinį.</choice>
+	<choice>Naudotis radijo stotimi, atsižvelgiant į toje valstybėje galiojančius teisės aktus.</choice>
+	<choice>Naudotis radijo stotimi, kurios maksimali išėjimo galia neviršija 1kW .</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kur galioja CEPT  leidimas?</text>
+	<choice>Valstybėse, kurios įgyvendino CEPT rekomendaciją T/R 61-01 „CEPT radijo mėgėjo leidimas“.</choice>
+	<choice>Valstybėse, kurios įgyvendino CEPT rekomendaciją T/R 61-02 „Darnusis radijo mėgėjų egzaminų sertifikatas“.</choice>
+	<choice>CEPT šalyse.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>CEPT  leidimas suteikia teisę naudotis:</text>
+	<choice>Tik mažos galios radijo stotimi.</choice>
+	<choice>Bet kuria radijo stotimi, atsižvelgiant į galiojančius teisės aktus.</choice>
+	<choice>Tik judriąja ar nešiojama radijo stotimi.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kam radijo mėgėjas turi teisę leisti naudoti jam skirtą radijo šaukinį?</text>
+	<choice>Kitam radijo mėgėjui.</choice>
+	<choice>Klubui.</choice>
+	<choice>Mokymo tikslais asmeniui, neturinčiam leidimo radijo mėgėjų veiklai.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip teisingai perduoti radijo šaukinį, naudojantis nešiojama radijo stotimi pagal CEPT  leidimą užsienio valstybėje?</text>
+	<choice>Turi būti nuosekliai siunčiami šalies, kurioje naudojama radijo stotis, prefiksas, trupmenos ženklas („/“) ir skirtas nacionalinis radijo šaukinys.</choice>
+	<choice>Turi būti nuosekliai siunčiami šalies, kurioje naudojama radijo stotis, prefiksas, trupmenos ženklas („/“), skirtas nacionalinis radijo šaukinys ir papildomi ženklai „/mm“ arba  „/am“.</choice>
+	<choice>Turi būti nuosekliai siunčiami skirtas nacionalinis radijo šaukinys, trupmenos ženklas („/“), šalies, kurioje naudojama radijo stotis, prefiksas ir papildomi ženklai „/p“.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>HAREC yra dokumentas, patvirtinantis, kad jo turėtojas:</text>
+	<choice>Gali naudotis radijo stotimi pagal CEPT rekomendacijos T/R 61-01 „CEPT radijo mėgėjo leidimas“ nurodymus.</choice>
+	<choice>Išlaikė egzaminą pagal CEPT rekomendacijos T/R 61-02 „Darnusis radijo mėgėjų egzaminų pažymėjimas“ nurodymus.</choice>
+	<choice>Užmokėjo už CEPT programos egzamino laikymą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kada išduodamas HAREC?</text>
+	<choice>Išlaikius B lygio egzaminą.</choice>
+	<choice>Išlaikius A lygio egzaminą.</choice>
+	<choice>Abiem nurodytais atvejais.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>HAREC suteikia jo turėtojui teisę:</text>
+	<choice>Pervežti  radijo stotį per valstybinę sieną.</choice>
+	<choice>Gauti leidimą radijo mėgėjų veiklai valstybėje, kuri įgyvendino CEPT rekomendaciją T/R 61-02 „Darnusis radijo mėgėjų egzaminų pažymėjimas“, be kvalifikacijos tikrinimo.</choice>
+	<choice>Naudotis radijo stotimi pagal CEPT rekomendacijos T/R 61-01 „CEPT radijo mėgėjo leidimas“ nurodymus.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbiausia įrengiant radijo stotį?</text>
+	<choice>Turėti Lietuvos Respublikos ryšių reguliavimo tarnybos išduotą leidimą radijo mėgėjų veiklai.</choice>
+	<choice>Visus darbus atlikti taip, kad nekiltų grėsmė žmonių sveikatai, gyvybei bei turtui.</choice>
+	<choice>Patogiai išdėstyti visą radijo stoties įrangą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas yra svarbiausia naudojantis radijo stotimi?</text>
+	<choice>Radijo stotimi naudotis taip, kad nekiltų grėsmė žmonių sveikatai, gyvybei ir turtui.</choice>
+	<choice>Privaloma turėti Lietuvos Respublikos ryšių reguliavimo tarnybos išduotą radijo stoties patikrinimo aktą.</choice>
+	<choice>Visų aparatų metaliniai korpusai turi būti sujungti tarpusavyje.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip turėtų būti valdoma radijo stotis?</text>
+	<choice>Bet kuriuo priimtinu būdu.</choice>
+	<choice>Tiesiogiai arba nuotoliniu būdu.</choice>
+	<choice>Tik tiesiogiai radijo mėgėjo.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks papildomas leidimas būtinas, norint naudotis nešiojama ar kilnojama radijo stotimi?</text>
+	<choice>Lietuvos Respublikos ryšių ministerijos leidimas.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos leidimas.</choice>
+	<choice>Papildomas leidimas nereikalingas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks papildomas leidimas būtinas, norint naudotis judriąja radijo stotimi?</text>
+	<choice>Papildomas leidimas nereikalingas.</choice>
+	<choice>Lietuvos Respublikos susisiekimo ministerijos leidimas.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos leidimas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas atsakingas už tai, kad klube radijo stotimi būtų naudojamasi pagal Lietuvos Respublikos ryšių reguliavimo tarnybos nustatytas sąlygas?</text>
+	<choice>Klubas teisės aktų nustatyta tvarka.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba.</choice>
+	<choice>Asmuo, kuriam leista naudotis ta radijo stotimi.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra retransliatorius?</text>
+	<choice>Specialus radijo signalų komutatorius.</choice>
+	<choice>Radijo stotis, veikianti duplekso režimu.</choice>
+	<choice>Radijo stotis, automatiškai atkartojanti kitų stočių signalus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra radijo švyturys?</text>
+	<choice>Raudonos spalvos šviestuvas, skirtas radijo antenai apšviesti tamsiuoju paros metu.</choice>
+	<choice>Radijo įrenginys, naudojamas jūroje atstumui iki kranto matuoti.</choice>
+	<choice>Radijo stotis, spinduliuojanti signalus, skirtus radijo bangų sklidimui tirti arba stebėti.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas atsako už žalą, padarytą radijo stoties įrengimo metu?</text>
+	<choice>Radijo stoties savininkas.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba.</choice>
+	<choice>Asmuo, leidęs įrengti radijo stotį.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas suprantama kaip antena pagal Teisės užsiimti radijo mėgėjų veikla suteikimo tvarką ir užsiėmimo šia veikla sąlygų aprašą?</text>
+	<choice>Įrenginys, skirtas laisvai sklindančioms radijo bangoms priimti ar perduoti, kartu su fizinėmis signalų perdavimo linijomis bei laikančiomis konstrukcijomis.</choice>
+	<choice>Įrenginys, skirtas laisvai sklindančioms radijo bangoms priimti ar perduoti, be fizinių signalų perdavimo linijų bei laikančių konstrukcijų.</choice>
+	<choice>Įrenginys, skirtas laisvai sklindančioms radijo bangoms priimti ar perduoti.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris reikalavimas svarbiausias įrengiant anteną?</text>
+	<choice>Svarbu nesugadinti statomos antenos elementų.</choice>
+	<choice>Darbai, atliekami antenos įrengimo metu, neturi sukelti grėsmės žmonių saugumui ir turtui.</choice>
+	<choice>Turėti leidimą radijo mėgėjų veiklai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas svarbu atsitiktinio antenos lūžimo, trūkimo, virtimo ir panašiais atvejais?</text>
+	<choice>Arti antenos neturi būti gelžbetoninių pastatų.</choice>
+	<choice>Visi antenos elementai turi būti nudažyti gerai iš tolo matoma spalva.</choice>
+	<choice>Nė viena antenos dalis neturi prisiliesti prie elektros energijos perdavimo arba fizinių telekomunikacijų linijų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas atsako už žalą, padarytą radijo mėgėjo antenos įrengimo metu?</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnyba.</choice>
+	<choice>Radijo mėgėjas.</choice>
+	<choice>Asmenys, padėję įrengti anteną.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo būdu radijo mėgėjai turi teisę prisijungti prie skaitmeninių tinklų?</text>
+	<choice>Bet kuriuo būdu, įskaitant internetą ir sujungiamąsias telekomunikacijų linijas.</choice>
+	<choice>Tik naudojantis radijo stotimis.</choice>
+	<choice>Tik per internetą ir radijo stotis.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra privaloma radijo mėgėjams, naudojantiems skaitmenines stotis?</text>
+	<choice>Teikti radijo mėgėjams kokybiškas skaitmeninio ryšio paslaugas.</choice>
+	<choice>Imtis visų įmanomų priemonių tam, kad visi vartotojai galėtų prisijungti prie skaitmeninių tinklų.</choice>
+	<choice>Imtis visų įmanomų priemonių tam, kad išoriniai vartotojai – ne radijo mėgėjai – jokiomis aplinkybėmis negalėtų prisijungti prie radijo mėgėjų skaitmeninių tinklų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Naudojant radijo šaukinį „NOCALL“ draudžiama jungtis prie skaitmeninės stoties todėl, kad:</text>
+	<choice>Šis radijo šaukinys yra nelegalus.</choice>
+	<choice>Šis radijo šaukinys sudarytas tik iš raidžių.</choice>
+	<choice>Šio radijo šaukinio negali retransliuoti kai kurios skaitmeninės stotys.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokie gali būti skaitmeninių stočių radijo šaukiniai?</text>
+	<choice>Leidime radijo mėgėjų veiklai įrašyti radijo šaukiniai, papildyti raidiniais identifikatoriais.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos skirti radijo šaukiniai, papildyti skaitiniais identifikatoriais.</choice>
+	<choice>Tik leidime radijo mėgėjų veiklai ar leidime naudoti radijo šaukinį įrašyti radijo šaukiniai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris iš čia pateiktų radijo šaukinių gali būti naudojamas skaitmeninės stoties identifikavimui?</text>
+	<choice>LY1AAA/A.</choice>
+	<choice>LY1AAA-4.</choice>
+	<choice>LY1AAA/4.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Užsiimant radijo mėgėjų veikla radijo stotis leidžiama naudoti tik:</text>
+	<choice>Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašo 2 priede nurodytais dažniais.</choice>
+	<choice>Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašo 2 priede nurodytais dažniais, atsižvelgiant į IARU rekomenduojamą diapazonų paskirstymą.</choice>
+	<choice>CEPT rekomendacijoje T/R 61-01 nurodytais dažniais.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks leidimas išduodamas klubui?</text>
+	<choice>Leidimas radijo mėgėjų veiklai.</choice>
+	<choice>Leidimas naudoti radijo šaukinį.</choice>
+	<choice>Laikinas leidimas radijo mėgėjų veiklai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks leidimas gali būti išduotas radijo mėgėjui, laikinai atvykusiam į Lietuvos Respubliką ir neturinčiam leidimo, atitinkančio CEPT rekomendacijoje T/R 61-01 „CEPT radijo mėgėjo leidimas“ nustatytų reikalavimų?</text>
+	<choice>Leidimas radijo mėgėjų veiklai.</choice>
+	<choice>Leidimas naudoti radijo šaukinį.</choice>
+	<choice>Laikinas leidimas radijo mėgėjų veiklai.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas turi teisę atlikti radijo mėgėjų radijo stočių techninę apžiūrą?</text>
+	<choice>Savivaldybės įgaliotas pareigūnas.</choice>
+	<choice>Techninių tyrimų centro inspektorius.</choice>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Prieš pradėdamas radijo stoties apžiūrą, Lietuvos Respublikos ryšių reguliavimo tarnybos įgaliotas pareigūnas turi pateikti:</text>
+	<choice>Lietuvos Respublikos ryšių reguliavimo tarnybos išduotą tarnybinį pažymėjimą.</choice>
+	<choice>Įgaliojimą atlikti apžiūrą.</choice>
+	<choice>Leidimą atlikti apžiūrą.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas turi dalyvauti radijo stoties techninės apžiūros metu?</text>
+	<choice>3 liudininkai.</choice>
+	<choice>Radijo mėgėjas, klubo vadovas arba jo įgaliotas asmuo.</choice>
+	<choice>Policijos atstovas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip įvertinami radijo mėgėjo ar klubo veiksmai, jei neleidžiama atlikti radijo stoties techninės apžiūros?</text>
+	<choice>Radijo mėgėjui ar klubui skiriama 100 Lt bauda.</choice>
+	<choice>Konfiskuojama turima radijo aparatūra.</choice>
+	<choice>Naudojimasis radijo stotimi laikomas neteisėtu.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo dažnių naudojimo teisės?</text>
+	<choice>Pirminė ir antrinė.</choice>
+	<choice>Išskirtinė ir papildoma.</choice>
+	<choice>Pagrindinė ir papildoma.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo dažnių, kuriuos radijo mėgėjams leista naudoti antrine teise, juostose:</text>
+	<choice>Draudžiama sukelti trikdžius kitoms radijo stotims, veikiančioms tais radijo dažniais pirmine teise.</choice>
+	<choice>Draudžiama naudoti galingesnes nei 100 W radijo stotis.</choice>
+	<choice>Radijo stotys, veikiančios pirmine teise, neturi sukelti trikdžių radijo mėgėjų radijo stotims.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriais radijo mėgėjams skirtais dažniais draudžiami ryšiai su kitais radijo mėgėjais?</text>
+	<choice>Nuo 29000 kHz iki 29700 kHz.</choice>
+	<choice>Dažniais, skirtais Tarptautinės švyturių programos (IBP) radijo stotims.</choice>
+	<choice>Nėra tokių dažnių.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie radijo mėgėjų radijo ryšiai yra leidžiami, nesant ypatingų atvejų?</text>
+	<choice>Tik tarp radijo mėgėjų stočių.</choice>
+	<choice>Su radijo stotimis, veikiančiomis radijo mėgėjams skirtais radijo dažniais.</choice>
+	<choice>Su stotimis, kurios kviečia ryšiui radijo mėgėjus.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kada draudžiami radijo ryšiai tarp dviejų skirtingų valstybių radijo mėgėjų?</text>
+	<choice>Stichinių ar joms prilygstančių nelaimių metu.</choice>
+	<choice>Kai bent viena iš tų valstybių prieštarauja tokiems ryšiams.</choice>
+	<choice>Kai trečioji valstybė prieštarauja tokiems ryšiams.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokie yra ypatingi atvejai, kai leidžiamas ryšys tarp radijo mėgėjų ir kitų radijo ryšio tarnybų stočių?</text>
+	<choice>Kai kitų radijo ryšio tarnybų radijo stotys radijo mėgėjams skirtais dažniais siunčia nelaimės signalus.</choice>
+	<choice>Stichinių ar joms prilygstančių nelaimių metu.</choice>
+	<choice>Visais aukščiau nurodytais atvejais.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokie yra nelaimės signalai?</text>
+	<choice>„SOS“– telegrafu, „MAYDAY“– telefonu.</choice>
+	<choice>„HELP“– telegrafu, „BADDAY“– telefonu.</choice>
+	<choice>„HILFE“– telegrafu, „SOS“– telefonu.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>1800–2000 kHz.</choice>
+	<choice>1810–2000 kHz.</choice>
+	<choice>1750–1900 kHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>3500–3800 kHz.</choice>
+	<choice>3400–3700 kHz.</choice>
+	<choice>3600–3900 kHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>7000–7200 kHz.</choice>
+	<choice>7000–7100 kHz.</choice>
+	<choice>7000–7300 kHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>14100–14300 kHz.</choice>
+	<choice>14000–14450 kHz.</choice>
+	<choice>14000–14350 kHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>21150–21500 kHz.</choice>
+	<choice>21000–21450 kHz.</choice>
+	<choice>21000–21350 kHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokios yra  radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>28000–29700 kHz.</choice>
+	<choice>28000–28700 kHz.</choice>
+	<choice>27045–29600 kHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>50–52 MHz.</choice>
+	<choice>52–54 MHz.</choice>
+	<choice>50–54 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>144–148 MHz.</choice>
+	<choice>146–148 MHz.</choice>
+	<choice>144–146 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>420–430 MHz.</choice>
+	<choice>430–450 MHz.</choice>
+	<choice>430–440 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokios yra radijo mėgėjams skirto dažnių diapazono ribos pagal IARU 1-ojo rajono radijo dažnių planą?</text>
+	<choice>1230–1330 MHz.</choice>
+	<choice>1240–1300 MHz.</choice>
+	<choice>1260–1300 MHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo darbo režimu galima naudoti siųstuvą, kai leistinas maksimalus signalo juostos plotis yra 200 Hz?</text>
+	<choice>SSB.</choice>
+	<choice>CW.</choice>
+	<choice>FM.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo darbo režimu galima naudoti siųstuvą, kai leistinas maksimalus signalo juostos plotis yra 500 Hz?</text>
+	<choice>RTTY.</choice>
+	<choice>FM.</choice>
+	<choice>LSB.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriuo darbo režimu galima naudoti siųstuvą, kai leistinas maksimalus signalo juostos plotis yra 2700 Hz?</text>
+	<choice>FM.</choice>
+	<choice>USB.</choice>
+	<choice>Abu čia išvardytus.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriais radijo dažniais leidžiama veikti retransliatoriams?</text>
+	<choice>Visais radijo mėgėjams skirtais dažniais.</choice>
+	<choice>Tik nurodytais IARU rekomendacijose.</choice>
+	<choice>Tik virš 144 MHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurių reikalavimų vykdymas yra labai pageidautinas, įrengiant retransliatorius?</text>
+	<choice>Esant normaliam radijo bangų sklidimui, nauji retransliatoriai neturi trukdyti jau veikiančiųjų darbui.</choice>
+	<choice>Retransliatoriai turi būti statomi atskirai nuo pagrindinių stočių.</choice>
+	<choice>Retransliatorių antenos gali būti statomos ne arčiau kaip 10 m atstumu nuo kitų radijo ryšio įrenginių antenų.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris teiginys teisingas?</text>
+	<choice>Radijo stotis, veikianti retransliatoriaus dažniu, turi pirmenybę retransliatoriaus atžvilgiu.</choice>
+	<choice>Retransliatorius neturi sukelti trikdžių kitoms tuo pačiu dažniu veikiančioms radijo stotims.</choice>
+	<choice>Radijo stotis, veikianti retransliatoriaus dažniu, neturi sukelti jam trikdžių.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Didesnius trikdžius retransliatoriui gali sukelti radijo stotis, veikianti:</text>
+	<choice>Retransliatoriaus priėmimo dažniu.</choice>
+	<choice>Retransliatoriaus išėjimo dažniu.</choice>
+	<choice>Retransliatoriaus siuntimo dažniu.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiais radijo dažniais gali veikti švyturiai?</text>
+	<choice>Visais radijo mėgėjams skirtais dažniais.</choice>
+	<choice>Tik nurodytais IARU rekomendacijose.</choice>
+	<choice>Tik virš 30 MHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuos pranešimus draudžiama siųsti radijo mėgėjų radijo stotimis?</text>
+	<choice>Radijo operatorių pavardes ir pašto adresus.</choice>
+	<choice>Komercinius ir reklaminius pranešimus.</choice>
+	<choice>Visus aukščiau nurodytus pranešimus.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuos pranešimus draudžiama siųsti radijo mėgėjų radijo stotimis?</text>
+	<choice>Asmeninius pirkimo ir pardavimo pranešimus, kai siunčiama informacija tiesiogiai susijusi su radijo mėgėjų radijo stotimis.</choice>
+	<choice>Ne mėgėjų radijo stočių pranešimus, juos retransliuojant.</choice>
+	<choice>Nei vieno iš aukščiau išvardytų pranešimų.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurie pardavimo pranešimai per radijo mėgėjų radijo stotis yra leidžiami?</text>
+	<choice>Visi nekomerciniai pardavimo pranešimai.</choice>
+	<choice>Visi pardavimo pranešimai, siunčiami skaitmeniniais tinklais.</choice>
+	<choice>Asmeniniai pirkimo ir pardavimo pranešimai, kai siunčiama informacija tiesiogiai susijusi su radijo mėgėjų radijo stotimis.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurių pranešimų siuntimas leidžiamas radijo mėgėjų radijo stotimis?</text>
+	<choice>Radijo stočių techniniai parametrai, perduodami atviru tekstu.</choice>
+	<choice>Pranešimai, kurių turinys įslaptintas juos koduojant.</choice>
+	<choice>Informacija, pažeidžianti autorių, gretutines ir kitas intelektinės nuosavybės teises.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurių pranešimų siuntimas, naudojantis radijo mėgėjų radijo stotimis, leidžiamas?</text>
+	<choice>Konfidenciali informacija, pažeidžianti asmens privataus gyvenimo neliečiamumą.</choice>
+	<choice>Tikslaus laiko signalų retransliavimas.</choice>
+	<choice>Nei vienas iš aukščiau išvardytų pranešimų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRA?“ atitinka frazę:</text>
+	<choice>Kaip vadinasi jūsų radijo stotis?</choice>
+	<choice>Ar galite susisiekti su…?</choice>
+	<choice>Ar mano signalai suprantami?</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRG“ atitinka frazę:</text>
+	<choice>Nutraukite perdavimą.</choice>
+	<choice>Jūsų tikslus dažnis … kHz.</choice>
+	<choice>Aš klausausi … kHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRL“ atitinka frazę:</text>
+	<choice>Mano radijo stotis baigia darbą.</choice>
+	<choice>Jūsų signalų negirdėti.</choice>
+	<choice>Aš užsiėmęs, prašau netrukdyti.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRN?“ atitinka frazę:</text>
+	<choice>Ar jums trukdo statinės iškrovos?</choice>
+	<choice>Ar privalau išjungti siųstuvą?</choice>
+	<choice>Koks mano signalų stipris?</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRO“ atitinka frazę:</text>
+	<choice>Perduokite lėčiau.</choice>
+	<choice>Padidinkite siųstuvo galią.</choice>
+	<choice>Baikite ryšį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRQ“ atitinka frazę:</text>
+	<choice>Perduokite greičiau.</choice>
+	<choice>Pakeiskite dažnį.</choice>
+	<choice>Sumažinkite siųstuvo galią.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRS“ atitinka frazę:</text>
+	<choice>Perduokite lėčiau.</choice>
+	<choice>Pakeiskite dažnį.</choice>
+	<choice>Padidinkite siųstuvo galią.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QRV“ atitinka frazę:</text>
+	<choice>Perduodu pranešimą.</choice>
+	<choice>Aš pasiruošęs.</choice>
+	<choice>Prašau pakeisti dažnį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Radijo ryšio metu jums trukdo kitos radijo stotys. Kurią Q kodo santrumpą vartosite, norėdami apie tai pranešti savo korespondentui?</text>
+	<choice>QTR.</choice>
+	<choice>QSY.</choice>
+	<choice>QRM.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Vartojant Q kodo santrumpą, mažos išėjimo galios radijo stotį galima vadinti:</text>
+	<choice>QRA radijo stotimi.</choice>
+	<choice>QRB radijo stotimi.</choice>
+	<choice>QRP radijo stotimi.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Nutraukiate darbą siuntimo režimu. Kurią Q kodo santrumpą perduosite?</text>
+	<choice>QRL.</choice>
+	<choice>QRT.</choice>
+	<choice>QST.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Negalėdamas susisiekti su tolima radijo stotimi, jūs perduodate artimos radijo stoties operatoriui:</text>
+	<choice>QST.</choice>
+	<choice>QTC.</choice>
+	<choice>QRW.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QTC“ atitinka frazę:</text>
+	<choice>Turiu jums pranešimą.</choice>
+	<choice>Esu pasiruošęs.</choice>
+	<choice>Susitiksime vėliau.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Q kodo santrumpa „QTR?“ atitinka frazę:</text>
+	<choice>Ar trukdo kitos radijo stotys?</choice>
+	<choice>Koks tikslus laikas?</choice>
+	<choice>Koks oras?</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kviečiant ryšiui kitame žemyne esančią radijo stotį, turėtų būti perduodama:</text>
+	<choice>CQ.</choice>
+	<choice>CQ DX.</choice>
+	<choice>CQ KONT.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai žodį „Patvirtinu“ dažnai pakeičia  santrumpa:</text>
+	<choice>CFM.</choice>
+	<choice>HPE.</choice>
+	<choice>MSG.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai žodį „Pranešimas“ dažnai pakeičia santrumpa:</text>
+	<choice>GN.</choice>
+	<choice>CFM.</choice>
+	<choice>MSG.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai frazę „Iki susitikimo“ dažnai pakeičia santrumpa:</text>
+	<choice>CUL.</choice>
+	<choice>CU.</choice>
+	<choice>CW.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai frazę „Labas rytas“ dažnai pakeičia santrumpa:</text>
+	<choice>GM.</choice>
+	<choice>GA.</choice>
+	<choice>GD.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai frazę „Laba diena“ dažnai pakeičia santrumpa:</text>
+	<choice>GD.</choice>
+	<choice>GM.</choice>
+	<choice>GN.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Radijo mėgėjai, užmegzdami ryšius telegrafu, žodį „Ačiū“ paprastai pakeičia santrumpa:</text>
+	<choice>TX.</choice>
+	<choice>TNX.</choice>
+	<choice>RX.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką reiškia radijo mėgėjų vartojama santrumpa „LOG“?</text>
+	<choice>Ilgas ryšys.</choice>
+	<choice>Sėkmė.</choice>
+	<choice>Ryšių registravimo žurnalas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reiškia santrumpa „AM“?</text>
+	<choice>Dažnių diapazono nuo 150 kHz iki 1,6 MHz pavadinimas.</choice>
+	<choice>Dažnių diapazono nuo 150 kHz iki 30 MHz pavadinimas.</choice>
+	<choice>Amplitudės moduliavimas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reiškia santrumpa „FM“?</text>
+	<choice>Fazės kampas.</choice>
+	<choice>Dažnio moduliavimas.</choice>
+	<choice>Dažnių diapazono nuo 88 iki 108 MHz pavadinimas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Santrumpa „PSE“ atitinka žodį:</text>
+	<choice>Priimta.</choice>
+	<choice>Prašau.</choice>
+	<choice>Viskas gerai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Santrumpa „RX“atitinka žodį:</text>
+	<choice>Imtuvas.</choice>
+	<choice>Priimta.</choice>
+	<choice>Siųstuvas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Santrumpa „TRX“ reiškia:</text>
+	<choice>Siųstuvas-imtuvas.</choice>
+	<choice>Antenos derinimo prietaisas.</choice>
+	<choice>Skaitmeninė stotis.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Santrumpa „TX“ reiškia:</text>
+	<choice>Transponderis.</choice>
+	<choice>Siųstuvas.</choice>
+	<choice>Imtuvas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri santrumpa reiškia „radijo teletaipas“?</text>
+	<choice>FSK.</choice>
+	<choice>RSM.</choice>
+	<choice>RTTY.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reiškia santrumpa „HAM“?</text>
+	<choice>Heterodininis antenos matuoklis.</choice>
+	<choice>Trumpųjų bangų radijo stotis.</choice>
+	<choice>Radijo mėgėjas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia rezistorių, sujungtų pagal A1 pav., atstojamoji varža, kai R1 = 2,5 kΩ, R2 = R3 = 5 kΩ?</text>
+	<image>images/a1.gif</image>
+	<choice>2,5 kΩ.</choice>
+	<choice>5,0 kΩ.</choice>
+	<choice>7,5 kΩ.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia rezistorių, sujungtų pagal A1 pav., atstojamoji varža, kai R1 = 40 Ω, R2 = 60 Ω, R3 = 120 Ω?</text>
+	<image>images/a1.gif</image>
+	<choice>80 Ω.</choice>
+	<choice>100 Ω.</choice>
+	<choice>120 Ω.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia rezistorių, sujungtų pagal A1 pav., atstojamoji varža, kai R1 = 0,1 MΩ, R2 = 240 kΩ, R3 = 0,12 MΩ?</text>
+	<image>images/a1.gif</image>
+	<choice>180 kΩ.</choice>
+	<choice>360 kΩ.</choice>
+	<choice>0,2 MΩ.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia kondensatorių, sujungtų pagal A2 pav., atstojamoji talpa, kai C1 = 150 pF, C2 = C3 = 75 pF  ?</text>
+	<image>images/a2.gif</image>
+	<choice>225 pF.</choice>
+	<choice>75 pF.</choice>
+	<choice>350 pF.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia kondensatorių, sujungtų pagal A2 pav., atstojamoji talpa, kai C1 = 100 nF, C2 = 200 nF, C3 = 600 nF?</text>
+	<image>images/a2.gif</image>
+	<choice>16,4 nF.</choice>
+	<choice>44,8 nF.</choice>
+	<choice>88,9 nF.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia kondensatorių, sujungtų pagal A2 pav., atstojamoji talpa, kai C1 = 12 μF, C2 = 8 μF, C3 = 6 μF?</text>
+	<image>images/a2.gif</image>
+	<choice>6,5 μF.</choice>
+	<choice>4,9 μF.</choice>
+	<choice>1,7 μF.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Įtampos kritimas rezistoriuje lygus 2 V, juo tekanti srovė lygi 0,5 A. Kokia galia išsisklaidys rezistoriuje?</text>
+	<choice>0,5 W.</choice>
+	<choice>1 W.</choice>
+	<choice>2 W.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Įtampos kritimas rezistoriuje lygus 50 V, juo tekanti srovė lygi 1 A. Kokia galia išsisklaidys rezistoriuje?</text>
+	<choice>150 W.</choice>
+	<choice>75 W.</choice>
+	<choice>50 W.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>16 Ω rezistoriumi teka 12 A srovė. Kokia galia išsisklaidys rezistoriuje?</text>
+	<choice>192 W.</choice>
+	<choice>3200 W.</choice>
+	<choice>2304 W.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>1 MΩ rezistoriumi teka 2 mA srovė. Kokia galia išsisklaidys rezistoriuje?</text>
+	<choice>2 W.</choice>
+	<choice>4 W.</choice>
+	<choice>40 W.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia galia išsisklaidys 125 Ω rezistoriuje, prie kurio prijungta 45 V įtampa?</text>
+	<choice>2,8 W.</choice>
+	<choice>12,1 W.</choice>
+	<choice>16,2 W.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia galia išsisklaidys 1 kΩ rezistoriuje, prie kurio prijungta 5 V įtampa?</text>
+	<choice>0,025 W.</choice>
+	<choice>0,1 W.</choice>
+	<choice>0,5 W.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra RC grandinės laiko konstanta?</text>
+	<choice>Laikas, per kurį grandinėje esantis kondensatorius įkraunamas iki 36,8 % šaltinio įtampos.</choice>
+	<choice>Laikas, per kurį grandinėje esantis kondensatorius įkraunamas iki 63,2 % šaltinio įtampos.</choice>
+	<choice>Laikas, per kurį grandinėje esantis kondensatorius įkraunamas iki 100 % šaltinio įtampos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas yra RL grandinės laiko konstanta?</text>
+	<choice>Laikas, per kurį induktyvumo įtampa sumažėja iki 100 % maksimalios vertės.</choice>
+	<choice>Laikas, per kurį induktyvumo įtampa sumažėja iki 36,8 % maksimalios vertės.</choice>
+	<choice>Laikas, per kurį induktyvumo įtampa sumažėja iki 63,2 % maksimalios vertės.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kiek laiko reikia krauti kondensatorių RC grandinėje iki 63.2 % šaltinio įtampos?</text>
+	<choice>Vienos įtampos amplitudės.</choice>
+	<choice>Vienos laiko konstantos.</choice>
+	<choice>Vieno įtampos matavimo periodo.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia grandinės, susidedančios iš lygiagrečiai sujungtų 220 μF kondensatoriaus ir 1 MΩ rezistoriaus, laiko konstanta?</text>
+	<choice>220 s.</choice>
+	<choice>22 s.</choice>
+	<choice>2,2 s.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia grandinės, susidedančios iš nuosekliai sujungtų 100 μF kondensatoriaus ir 470 kΩ rezistoriaus, laiko konstanta?</text>
+	<choice>470 s.</choice>
+	<choice>47 s.</choice>
+	<choice>0,47s.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Per kiek laiko 0,01 μF talpos kondensatorius išsikraus nuo 20 V iki 7.36 V, jo kontaktus užtrumpinus 2 MΩ rezistoriumi?</text>
+	<choice>12,64 s.</choice>
+	<choice>1 s.</choice>
+	<choice>0,02 s.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Per kiek laiko 0,01 μF talpos kondensatorius išsikraus nuo 20 V iki 1 V, jo kontaktus užtrumpinus 2 MΩ rezistoriumi?</text>
+	<choice>0,01 s.</choice>
+	<choice>0,04 s.</choice>
+	<choice>0,06 s.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia 4 μF kondensatoriaus talpinė varža esant 50 Hz dažniui?</text>
+	<choice>274 Ω.</choice>
+	<choice>796 Ω.</choice>
+	<choice>1,6 kΩ.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia 100 pF kondensatoriaus talpinė varža esant 10 MHz dažniui?</text>
+	<choice>318 kΩ.</choice>
+	<choice>159 Ω.</choice>
+	<choice>79 Ω.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia 1 pF kondensatoriaus talpinė varža esant 2 GHz dažniui?</text>
+	<choice>80 Ω.</choice>
+	<choice>119 Ω.</choice>
+	<choice>142 Ω.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia 0,5 H ritės induktyvioji varža esant 50 Hz dažniui?</text>
+	<choice>157 Ω.</choice>
+	<choice>628 Ω.</choice>
+	<choice>1256 Ω.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia 2 H ritės induktyvioji varža esant 50 Hz dažniui?</text>
+	<choice>157 Ω.</choice>
+	<choice>628 Ω.</choice>
+	<choice>1256 Ω.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia 50 μH ritės induktyvioji varža esant 20 MHz  dažniui?</text>
+	<choice>20,5 kΩ.</choice>
+	<choice>31,4 kΩ.</choice>
+	<choice>6,28 kΩ.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie iš A3 pav. atvaizduotų yra dvipoliai tranzistoriai?</text>
+	<image>images/a3.gif</image>
+	<choice>E ir f.</choice>
+	<choice>C ir d.</choice>
+	<choice>A ir b.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris iš A3 pav. atvaizduotų yra pnp tranzistorius?</text>
+	<image>images/a3.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris iš A3 pav. atvaizduotų yra npn tranzistorius?</text>
+	<image>images/a3.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurie iš A3 pav. atvaizduotų yra lauko tranzistoriai?</text>
+	<image>images/a3.gif</image>
+	<choice>a ir b.</choice>
+	<choice>Tik e ir f.</choice>
+	<choice>c, d, e ir f.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie iš A3 pav. atvaizduotų yra tranzistoriai su n kanalu?</text>
+	<image>images/a3.gif</image>
+	<choice>a ir b.</choice>
+	<choice>d ir e.</choice>
+	<choice>c ir f.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurie iš A3 pav. atvaizduotų yra tranzistoriai su p kanalu?</text>
+	<image>images/a3.gif</image>
+	<choice>a ir b.</choice>
+	<choice>d ir e.</choice>
+	<choice>c ir f.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Prie A4 pav. parodytos grandinės įėjimo (a ir b) prijungta pastovioji 25 V įtampa. Išėjime (c ir d) įtampa lygi 5 V. Koks elementas pažymėtas klaustuku?</text>
+	<image>images/a4.gif</image>
+	<choice>Kondensatorius.</choice>
+	<choice>Rezistorius.</choice>
+	<choice>Transformatorius.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Prie A4 pav. parodytos grandinės įėjimo (a ir b) prijungta įtampa, kurios dažnis 100 kHz. Išėjime (c ir d) gaunama pastovioji įtampa. Koks elementas pažymėtas klaustuku?</text>
+	<image>images/a4.gif</image>
+	<choice>Kondensatorius.</choice>
+	<choice>Rezistorius.</choice>
+	<choice>Puslaidininkinis diodas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Prie A4 pav. parodytos grandinės įėjimo (a ir b) prijungta kintamoji 5 V įtampa. Išėjime (c ir d) yra 1 V kintamoji įtampa. Koks elementas pažymėtas klaustuku?</text>
+	<image>images/a4.gif</image>
+	<choice>Kondensatorius.</choice>
+	<choice>Dvipolis tranzistorius.</choice>
+	<choice>Puslaidininkinis diodas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Prie A5 pav. parodytos grandinės įėjimo (a ir b) prijungta kintamoji 36 V įtampa. Išėjime (c ir d) yra 120 V kintamoji įtampa. Kas prijungtas klaustuku pažymėtoje vietoje?</text>
+	<image>images/a5.gif</image>
+	<choice>Puslaidininkinis diodas.</choice>
+	<choice>Transformatorius.</choice>
+	<choice>Kondensatorius.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Prie A5 pav. parodytos grandinės įėjimo (a ir b) prijungta kintamoji 120 V įtampa. Išėjime (c ir d) gaunama 120 V pastovioji įtampa. Kas prijungtas klaustuku pažymėtoje vietoje?</text>
+	<image>images/a5.gif</image>
+	<choice>Diodų tiltas.</choice>
+	<choice>Kondensatorius.</choice>
+	<choice>Transformatorius.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl laidininko varža tekant nuolatinei srovei skiriasi nuo jo varžos esant aukštadažnei srovei?</text>
+	<choice>Dėl paviršinio efekto.</choice>
+	<choice>Dėl sukūrinių srovių laidininke.</choice>
+	<choice>Dėl laidininko medžiagos nevienalytiškumo.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kurio dažnio elektros srovei tekant varinio laidininko varža mažiausia?</text>
+	<choice>50 Hz.</choice>
+	<choice>5 MHz.</choice>
+	<choice>50 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia įtampos transformatoriaus paskirtis?</text>
+	<choice>Gauti reikiamą pastoviąją įtampą.</choice>
+	<choice>Gauti reikiamą kintamą įtampą.</choice>
+	<choice>Stiprinti įtampą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuo pagrįstas transformatoriaus veikimas?</text>
+	<choice>Magnetiniu rezonansu.</choice>
+	<choice>Dielektrine skvarba.</choice>
+	<choice>Elektromagnetine indukcija.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip nuo transformatoriaus vijų skaičiaus priklauso gaunamos įtampos dydis?</text>
+	<choice>Vijų skaičius atvirkščiai proporcingas įtampai.</choice>
+	<choice>Vijų skaičius tiesiogiai proporcingas įtampai.</choice>
+	<choice>Vijų skaičius lygus įtampai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurioje iš A6 pav. schemų pavaizduotas dvipusis lygintuvas?</text>
+	<image>images/a6.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris iš A7 pav. parodytų grafikų vaizduoja įtampą lygintuvo įėjime?</text>
+	<image>images/a7.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris iš A7 pav. parodytų grafikų vaizduoja įtampą dvipusio lygintuvo išėjime?</text>
+	<image>images/a7.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris teiginys apie npn tranzistorių yra teisingas?</text>
+	<choice>Tranzistoriaus kolektorius jungiamas prie teigiamo įtampos šaltinio gnybto.</choice>
+	<choice>Tranzistoriaus kolektorius jungiamas prie neigiamo įtampos šaltinio gnybto.</choice>
+	<choice>Tranzistoriaus kolektorius gali būti jungiamas prie bet kurio įtampos šaltinio gnybto.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris teiginys apie pnp tranzistorių teisingas?</text>
+	<choice>Tranzistoriaus kolektorius jungiamas prie teigiamo įtampos šaltinio gnybto.</choice>
+	<choice>Tranzistoriaus kolektorius jungiamas prie neigiamo įtampos šaltinio gnybto.</choice>
+	<choice>Tranzistoriaus kolektorius gali būti jungiamas prie bet kurio įtampos šaltinio gnybto.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Loginiu elementu „IR“ vadinama schema, kurios išėjime yra:</text>
+	<choice>Loginis „1“ tik tada, kai visuose jos įėjimuose yra loginis „1“.</choice>
+	<choice>Loginis „0“ tik tada, kai visuose jos įėjimuose yra loginis „1“.</choice>
+	<choice>Loginis „1“ tik tada, kai visuose jos įėjimuose yra loginis „0“.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Loginiu elementu „ARBA“ vadinama schema, kurios išėjime yra:</text>
+	<choice>Loginis „0“, kai bent viename jos įėjime yra loginis „1“.</choice>
+	<choice>Loginis „1“, kai bent viename jos įėjime yra loginis „1“.</choice>
+	<choice>Loginis „1“, kai bent viename jos įėjime yra loginis „0“.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Loginiu elementu „NE“ vadinama schema, kurios išėjime yra:</text>
+	<choice>Loginis „0“, kai jos įėjime loginis „0“.</choice>
+	<choice>Loginis „1“, kai jos įėjime loginis „0“.</choice>
+	<choice>Loginis „1“, kai jos įėjime loginis „1“.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas yra operacinis stiprintuvas?</text>
+	<choice>Žemo dažnio signalų stiprintuvas, skirtas analoginėms operacijoms atlikti.</choice>
+	<choice>Mažų matmenų elektrinių signalų stiprintuvas, skirtas radijo dažnių signalams stiprinti.</choice>
+	<choice>Didelio stiprinimo diferencinis stiprintuvas, kurio charakteristikos priklauso nuo prie jo prijungtų išorinių komponentų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Nuo ko labiausiai priklauso idealus operacinio stiprintuvo stiprinimo koeficientas?</text>
+	<choice>Nuo išorinės grįžtamojo ryšio grandinės.</choice>
+	<choice>Nuo maitinimo šaltinio įtampos.</choice>
+	<choice>Nuo išėjimo apkrovos.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokiam dažniui suderintas A8 pav. pavaizduotas kontūras, kai L = 25 mH, C1 = 150 pF, C2 = 100 pF?</text>
+	<image>images/a8.gif</image>
+	<choice>1140 kHz.</choice>
+	<choice>64 kHz.</choice>
+	<choice>128 kHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokiam dažniui suderintas A8 pav. pavaizduotas kontūras, kai L = 10 mH, C1 = 120 pF, C2 = 180 pF?</text>
+	<image>images/a8.gif</image>
+	<choice>139 kHz.</choice>
+	<choice>145 MHz.</choice>
+	<choice>92 kHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiam dažniui suderintas A8 pav. pavaizduotas kontūras, kai L = 50 μH, C1 = 10 pF, C2 = 50 pF?</text>
+	<image>images/a8.gif</image>
+	<choice>9,2 MHz.</choice>
+	<choice>15 MHz.</choice>
+	<choice>2,7 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiam dažniui suderintas A8 pav. pavaizduotas kontūras, kai L = 30 μH,  C1 = 50 pF, C2 = 80 pF?</text>
+	<image>images/a8.gif</image>
+	<choice>1,7 MHz.</choice>
+	<choice>2,5 MHz.</choice>
+	<choice>7 MHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks A8 pav. pavaizduoto kontūro rezonansinis dažnis, kai L = 10 μH, C1 = 15 pF, C2 = 20 pF ?</text>
+	<image>images/a8.gif</image>
+	<choice>12,4 MHz.</choice>
+	<choice>36,8 MHz.</choice>
+	<choice>8,5 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks A8 pav. pavaizduoto kontūro rezonansinis dažnis, kai L = 5 μH, C1 = 20 pF, C2 = 5 pF ?</text>
+	<image>images/a8.gif</image>
+	<choice>14,2 MHz.</choice>
+	<choice>28,5 MHz.</choice>
+	<choice>5,7 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Prie televizoriaus įėjimo prijungtas filtras, praleidžiantis signalus virš 54 MHz. Kuri iš A9 pav. parodytų amplitudės-dažnio charakteristikų atspindi šio filtro savybes?</text>
+	<image>images/a9.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Prie ryšių imtuvo įėjimo prijungtas filtras, slopinantis signalus virš 30 MHz. Kuri iš A9 pav. parodytų amplitudės-dažnio charakteristikų atspindi šio filtro savybes?</text>
+	<image>images/a9.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Superheterodininiame imtuve įjungtas filtras, slopinantis trukdantį radijo signalą 612 kHz dažniu. Kuri iš A9 pav. parodytų amplitudės-dažnio charakteristikų atspindi šio filtro savybes?</text>
+	<image>images/a9.gif</image>
+	<choice>a.</choice>
+	<choice>b.</choice>
+	<choice>c.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame paveiksle atvaizduotas nemoduliuotas aukšto dažnio radijo signalas?</text>
+	<image>images/a10.gif</image>
+	<choice>A10 b.</choice>
+	<choice>A10 c.</choice>
+	<choice>A10 d.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriame paveiksle atvaizduotas žemo dažnio signalas?</text>
+	<image>images/a10.gif</image>
+	<choice>A10 a.</choice>
+	<choice>A10 d.</choice>
+	<choice>A10 c.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriame paveiksle atvaizduotas kampinio moduliavimo radijo signalas?</text>
+	<image>images/a10.gif</image>
+	<choice>A10 d.</choice>
+	<choice>A10 b.</choice>
+	<choice>A10 c.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriame paveiksle atvaizduotas dažnio moduliavimo radijo signalas?</text>
+	<image>images/a10.gif</image>
+	<choice>A10 a.</choice>
+	<choice>A10 c.</choice>
+	<choice>A10 d.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriame paveiksle atvaizduotas amplitudės moduliavimo signalas?</text>
+	<image>images/a10.gif</image>
+	<choice>A10 b.</choice>
+	<choice>A10 c.</choice>
+	<choice>A10 d.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką nusako ryšių imtuvo jautris?</text>
+	<choice>Imtuvo galimybes visada veikti jautriausiu režimu.</choice>
+	<choice>Imtuvo sugebėjimą priimti silpnus signalus.</choice>
+	<choice>Imtuvo sugebėjimą perteikti jautriausius signalo parametrus.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Imtuvo jautris labiausiai priklauso nuo:</text>
+	<choice>Trečiojo lygio intermoduliavimo.</choice>
+	<choice>Praleidžiamosios juostos pločio ir imtuvo triukšmų.</choice>
+	<choice>Įėjimo kontūrų konstrukcijos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką nusako ryšių imtuvo selektyvumas gretimam kanalui?</text>
+	<choice>Imtuvo gebėjimą atrinkti labiau nutolusių stočių signalus.</choice>
+	<choice>Imtuvo gebėjimą filtruoti signalus, sklindančius greta priimamo signalo.</choice>
+	<choice>Imtuvo gebėjimą rūšiuoti signalus.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip gali būti padidintas ryšių imtuvo selektyvumas veidrodiniam kanalui?</text>
+	<choice>Praplėtus tarpinio dažnio stiprintuvo praleidžiamąją juostą.</choice>
+	<choice>Prijungiant automatinio stiprinimo reguliavimo grandinę.</choice>
+	<choice>Prie imtuvo įėjimo prijungus aukštos kokybės signalo filtrus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ryšių imtuvo jautris gali sumažėti dėl:</text>
+	<choice>Stipraus signalo gretimame kanale.</choice>
+	<choice>Blogų radijo signalo sklidimo sąlygų.</choice>
+	<choice>Triukšmo slopintuvo išjungimo.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas ryšių imtuve turi didžiausią įtaką jo triukšmo koeficientui?</text>
+	<choice>Aukštadažnis stiprintuvas.</choice>
+	<choice>Detektorius.</choice>
+	<choice>Žemadažnis stiprintuvas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip vadinamas ryšių imtuve esantis signalų generatorius, tiekiantis aukštadažnę įtampą dažnio keitikliui?</text>
+	<choice>Dažnio detektorius.</choice>
+	<choice>Heterodinas.</choice>
+	<choice>Signalo indikatorius.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Superheterodininio imtuvo dažnio stabilumas priklauso nuo:</text>
+	<choice>Heterodino dažnio stabilumo.</choice>
+	<choice>Tarpinio dažnio stiprintuvo stabilumo.</choice>
+	<choice>Įėjimo kontūrų kokybės stabilumo.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokie faktoriai yra svarbūs pasirenkant imtuvo tarpinį dažnį?</text>
+	<choice>Triukšmo koeficientas ir signalo iškraipymai.</choice>
+	<choice>Veidrodinio kanalo filtravimas ir selektyvumas.</choice>
+	<choice>Ryšys tarp įvairių stiprinimo laipsnių.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks turėtų būti nustatytas ryšių imtuvo tarpinio dažnio juostos plotis?</text>
+	<choice>2 kartus didesnis už priimamo signalo juostos plotį.</choice>
+	<choice>Apytiksliai lygus priimamo signalo juostos pločiui.</choice>
+	<choice>1,41 karto mažesnis už priimamo signalo juostos plotį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Imtuvo 2,7 kHz tarpinio dažnio juostos plotis yra tinkamiausias priimti:</text>
+	<choice>CW signalus.</choice>
+	<choice>AM signalus.</choice>
+	<choice>SSB signalus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Imtuvo 6 kHz tarpinio dažnio juostos plotis yra tinkamiausias priimti:</text>
+	<choice>AM signalus.</choice>
+	<choice>CW signalus.</choice>
+	<choice>SSB signalus.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris iš išvardytų imtuvo juostos pločių geriausia tinka priimti CW signalus?</text>
+	<choice>2,7 kHz.</choice>
+	<choice>6 kHz.</choice>
+	<choice>0,5 kHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris iš išvardytų balso telefonijos signalų turi mažiausią juostos plotį?</text>
+	<choice>FM.</choice>
+	<choice>USB.</choice>
+	<choice>AM.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks turėtų būti imtuvo tarpinio dažnio stiprintuvo juostos plotis priimant mėgėjų RTTY signalus?</text>
+	<choice>100 Hz.</choice>
+	<choice>300 Hz.</choice>
+	<choice>2400 Hz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas vadinama ryšių imtuvo dinaminiu diapazonu?</text>
+	<choice>Santykis tarp didžiausio ir mažiausio dažnio, kuriuos gali priimti imtuvas.</choice>
+	<choice>Santykis tarp silpniausio imtuvo išskiriamo signalo ir maksimalaus signalo, kuris dar nesukelia trukdžių priimant silpną signalą.</choice>
+	<choice>Skirtumas tarp minimalaus ir maksimalaus girdimo signalo.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuo gali pasireikšti ryšių imtuvo dinaminio diapazono nepakankamumas?</text>
+	<choice>Priimamo signalo intermoduliavimu ir imtuvo jautrio sumažėjimu dėl gretimu kanalu sklindančių stiprių signalų.</choice>
+	<choice>Signalo juostos pločio padidėjimu ir nepakankamu garsinio dažnio signalo lygiu.</choice>
+	<choice>Nepakankamu garsinio dažnio signalo lygiu.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Superheterodininio imtuvo tarpinis dažnis lygus 455 kHz. Kuriuo dažniu veikia imtuvo heterodinas, jei priimamas 3575 kHz dažnis?</text>
+	<choice>2,665 kHz.</choice>
+	<choice>3,779 kHz.</choice>
+	<choice>4,030 kHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Superheterodininio imtuvo tarpinis dažnis lygus 1,6 MHz. Kuriame dažnių juostoje veikia heterodinas, jei imtuvas gali priimti signalus nuo 6,995 iki 8,295 MHz?</text>
+	<choice>5,395–6,695 MHz.</choice>
+	<choice>7,554–9,374 MHz.</choice>
+	<choice>4,782–8,093 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>FM imtuvas, kurio tarpinis dažnis lygus 10,7 MHz, suderintas priimti siųstuvo, veikiančio 90 MHz dažniu, signalus. Imtuvo heterodinas veikia aukštesniu nei priimamo signalo dažniu. Kito siųstuvo signalas sukelia trukdžius imtuve veidrodiniu kanalu. Šio siųstuvo darbo dažnis yra:</text>
+	<choice>79,3 MHz.</choice>
+	<choice>100,7 MHz.</choice>
+	<choice>111,4 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>FM imtuvas, kurio tarpinis dažnis lygus 21,4 MHz, priima siųstuvo, veikiančio 156 MHz dažniu, signalus. Imtuvo heterodinas veikia žemesniu nei priimamo signalo dažniu. Kito siųstuvo signalo antra harmonika sukelia trukdžius imtuve veidrodiniu kanalu. Šio siųstuvo darbo dažnis yra:</text>
+	<choice>56,6 MHz.</choice>
+	<choice>67,3 MHz.</choice>
+	<choice>113,2 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kam reikalingas ribotuvas FM imtuve?</text>
+	<choice>Tiekti heterodinui nuolatinės amplitudės signalą.</choice>
+	<choice>Tiekti detektoriui nuolatinės amplitudės tarpinio dažnio signalą.</choice>
+	<choice>Tiekti detektoriui nuolatinės amplitudės heterodino signalą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokiu būdu iš DSB signalo pašalinama nereikalinga šalinė juosta?</text>
+	<choice>Filtruojant.</choice>
+	<choice>Maišant signalus.</choice>
+	<choice>Neutralizuojant.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Schemos išėjime yra tarpinio dažnio signalas, kuris gautas iš dviejų skirtingų dažnių signalų, esančių schemos įėjime. Kaip vadinama tokia schema?</text>
+	<choice>Fazinis moduliatorius.</choice>
+	<choice>Dažnio detektorius.</choice>
+	<choice>Dažnio keitiklis.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Tam tikra schema pakeičia tarpinio dažnio signalą į žemo dažnio signalą. Kaip vadinama tokia schema?</text>
+	<choice>Heterodinas.</choice>
+	<choice>Detektorius.</choice>
+	<choice>Žemo dažnio keitiklis.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Schema palygina įtampa valdomo generatoriaus dažnį su etaloniniu dažniu. Priklausomai nuo dažnių skirtumo, gauta įtampa keičia įtampa valdomo generatoriaus dažnį. Kaip vadinama tokia schema?</text>
+	<choice>Kintamo dažnio generatorius.</choice>
+	<choice>Fazės automatinio paderinimo schema.</choice>
+	<choice>Fazės detektorius.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>S-metras superheterodininiame imtuve skirtas:</text>
+	<choice>Priimto signalo stiprio matavimui.</choice>
+	<choice>Heterodino lygio matavimui.</choice>
+	<choice>Imtuvo suderinimui su antena.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kam reikalingi retransliatoriai?</text>
+	<choice>Radijo ryšio atstumui padidinimui.</choice>
+	<choice>FM signalų retransliavimui indentifikavimo tikslu.</choice>
+	<choice>Signalo kokybės gerinimui.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks yra retransliatoriaus naudojimo tikslas?</text>
+	<choice>DX ryšių užmezgimo palengvinimas.</choice>
+	<choice>Radijo bangų sklidimo tyrimas.</choice>
+	<choice>Radijo ryšio zonos išplėtimas mažos galios ir judriosioms radijo stotims.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką būtina žinoti, norint naudotis retransliatoriumi?</text>
+	<choice>Įėjimo ir išėjimo kanalų dažnius.</choice>
+	<choice>Retransliatoriaus šaukinį.</choice>
+	<choice>Ar retransliatorius gali būti sujungiamas su miesto telefono tinklais.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Jūsų korespondento, naudojančio UTB balso retransliatorių, signalas trūkinėja. Ką tai reiškia?</text>
+	<choice>Retransliatoriaus signalas per silpnas, todėl jo nepakanka ryšiui su korespondentu.</choice>
+	<choice>Korespondento signalas per silpnas, todėl jo nepakanka retransliatoriaus triukšmo slopikliui „atidaryti“.</choice>
+	<choice>Signalo lygis per didelis, todėl jis perkrauna retransliatoriaus imtuvo įėjimo grandines.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Blogai sukonstruotas siųstuvas be naudingo pagrindinio signalo spinduliuoja ir papildomus nepageidautinus signalus. Kokia galėtų būti jų atsiradimo priežastis?</text>
+	<choice>Parazitinis generavimas viename iš siųstuvo laipsnių.</choice>
+	<choice>Nepakankamas įvairių dažnių sumavimo produktų filtravimas.</choice>
+	<choice>Bet kuri arba abi čia nurodytos priežastys.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Blogai suderinto FM siųstuvo spinduliuojamo signalo juostos plotis yra didesnis už leistiną. Tai sukelia trikdžius artimais dažniais veikiančioms radijo stotims. Kokia galėtų būti šio reiškinio priežastis?</text>
+	<choice>Per didelis mikrofono signalo lygis.</choice>
+	<choice>Blogas temperatūrinis režimas.</choice>
+	<choice>Abi čia nurodytos priežastys.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas dažnai naudojama parazitinei generacijai aukštadažniuose stiprintuvuose sumažinti?</text>
+	<choice>Metaliniai žiedai.</choice>
+	<choice>Feritiniai žiedai.</choice>
+	<choice>Elektrolitiniai kondensatoriai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Trukdžiai televizijai atsiranda siųstuvui spinduliuojant harmoninius signalus. Kurį filtrą reikia įjungti tarp siųstuvo ir antenos šiems trukdžiams panaikinti?</text>
+	<choice>Aukštųjų dažnių filtrą.</choice>
+	<choice>Žemųjų dažnių filtrą.</choice>
+	<choice>Vidutiniųjų dažnių filtrą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurį filtrą reikėtų prijungti prie superheterodininio imtuvo įėjimo tam, kad būtų galima atskirti naudingą signalą nuo nepageidaujamo signalo, sklindančio imtuvo tarpiniu dažniu?</text>
+	<choice>Užtvarinį.</choice>
+	<choice>Žemųjų dažnių.</choice>
+	<choice>Aukštųjų dažnių.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kaip galima būtų numalšinti generatoriaus trukdžius automobilio radijo stotyje?</text>
+	<choice>Įjungiant filtrus maitinimo grandinėse.</choice>
+	<choice>Izoliuojant metalinius paviršius vieną nuo kito.</choice>
+	<choice>Apipurškiant visus nemetalinius paviršius antistatiku.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Automobilinio generatoriaus keliamų trukdžių poveikį imtuvui galima sumažinti prijungus:</text>
+	<choice>Tarp akumuliatoriaus gnybtų filtruojančius kondensatorius.</choice>
+	<choice>Aukštųjų dažnių filtrą nuosekliai imtuvo maitinimo grandinėje ir žemųjų dažnių filtrą lygiagrečiai ekranavimo grandinėms.</choice>
+	<choice>Imtuvą tiesiai prie akumuliatoriaus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kaip nustatysite, kad trukdžiai, patenkantys į elektros tinklą, generuojami Jūsų namuose?</text>
+	<choice>Išmatavę tinklo įtampos pokyčius skaitmeniniu voltmetru.</choice>
+	<choice>Stebėdami tinklo įtampos formą oscilografu.</choice>
+	<choice>Išjungę pagrindinį tinklo srovės kirtiklį ir klausydami baterijomis maitinamo imtuvo.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Plačiajuostis antenos stiprintuvas įjungtas tarp TV antenos ir televizoriaus. Veikiant trumpųjų bangų siųstuvui, trikdžiai pastebimi visuose metriniuose TV kanaluose. Trikdžius galima būtų panaikinti:</text>
+	<choice>Įjungus žemųjų dažnių filtrą tarp TV antenos ir plačiajuosčio stiprintuvo.</choice>
+	<choice>Įjungus aukštųjų dažnių filtrą tarp TV antenos ir plačiajuosčio stiprintuvo.</choice>
+	<choice>Įjungus žemųjų dažnių filtrą tarp televizoriaus ir plačiajuosčio stiprintuvo.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Voltmetru, kurio skalė pažymėta voltais, matuojama 3500 milivoltų įtampa. Ką rodo prietaisas?</text>
+	<choice>0,035 V.</choice>
+	<choice>0,35 V.</choice>
+	<choice>3,5 V.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Voltmetru, kurio skalė pažymėta kilovoltais, matuojama 1500 voltų įtampa. Ką rodo prietaisas?</text>
+	<choice>0,15 kV.</choice>
+	<choice>1,5 kV.</choice>
+	<choice>15 kV.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ampermetru, kurio skalė pažymėta mikroamperais, matuojama 0,05 mA srovė. Ką rodo prietaisas?</text>
+	<choice>0,05 μA.</choice>
+	<choice>5,0 μA.</choice>
+	<choice>50 μA.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ampermetru, kurio skalė pažymėta amperais, matuojama 100 mA srovė. Ką rodo prietaisas?</text>
+	<choice>0,1 A.</choice>
+	<choice>1,0 A.</choice>
+	<choice>10 A.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Imtuvas iš elektros tinklo naudoja 0,04 kW galią. Kiek tai yra vatų?</text>
+	<choice>0,4 W.</choice>
+	<choice>40 W.</choice>
+	<choice>4 W.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Siųstuvo išėjimo galia 250 vatų. Kiek tai yra kilovatų?</text>
+	<choice>0,25 kW.</choice>
+	<choice>2,5 kW.</choice>
+	<choice>25 kW.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Siųstuvas veikia 0,71 MHz dažniu. Kiek tai yra kilohercų?</text>
+	<choice>0,071 kHz.</choice>
+	<choice>710 kHz.</choice>
+	<choice>7,1 kHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Imtuvas nustatytas 1,5 GHz dažniu. Kiek tai yra megahercų?</text>
+	<choice> 0,15 MHz.</choice>
+	<choice>150 MHz.</choice>
+	<choice>1500 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Oscilografas – tai prietaisas, skirtas:</text>
+	<choice>Antenos kompleksinei varžai matuoti.</choice>
+	<choice>Stovinčiosios bangos koeficientui matuoti.</choice>
+	<choice>Stebėti signalo formą.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Oscilografo vertikalioji ašis atvaizduoja:</text>
+	<choice>Signalo amplitudę.</choice>
+	<choice>Signalo trukmę.</choice>
+	<choice>Signalo dažnį.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Oscilografo horizontalioji ašis atvaizduoja:</text>
+	<choice>Signalo amplitudę.</choice>
+	<choice>Signalo trukmę.</choice>
+	<choice>Signalo moduliavimą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kontūro rezonansinis dažnis gali būti išmatuotas naudojant:</text>
+	<choice>Radijo dažnių filtrą ir signalų generatorių.</choice>
+	<choice>Signalų generatorių ir voltmetrą.</choice>
+	<choice>Dažniamatį ir dažnio detektorių.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Siųstuvo signalo harmonika girdima 145 MHz dažnyje. Kokiame dažnyje gali veikti siųstuvas?</text>
+	<choice>72,5 MHz.</choice>
+	<choice>217,5 MHz.</choice>
+	<choice>290,0 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks gali būti siųstuvo signalo dažnis, jei jo harmonika girdima 18 MHz dažnyje?</text>
+	<choice>3 MHz.</choice>
+	<choice>32 MHz.</choice>
+	<choice>36 MHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriuo dažniu galima girdėti siųstuvo, veikiančio 7160 kHz dažniu, ketvirtąją harmoniką?</text>
+	<choice>21,48 MHz.</choice>
+	<choice>35,80 MHz.</choice>
+	<choice>28,64 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuriuo dažniu galima girdėti siųstuvo, veikiančio 21 MHz dažniu, trečiąją harmoniką?</text>
+	<choice>7 MHz.</choice>
+	<choice>42 MHz.</choice>
+	<choice>63 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuris prietaisas tinka signalų perdavimo linijos ir apkrovos varžų suderinimo matavimui?</text>
+	<choice>Stovinčiosios bangos koeficiento matuoklis.</choice>
+	<choice>Aukšto dažnio voltmetras.</choice>
+	<choice>Ommetras.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Siųstuvo signalo juostos plotį galima išmatuoti:</text>
+	<choice>Dažniamačiu.</choice>
+	<choice>Spektro analizatoriumi.</choice>
+	<choice>Katodiniu voltmetru.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Pasyvinio filtro praleidžiamosios juostos plotį galima išmatuoti naudojant:</text>
+	<choice>Spektro analizatorių.</choice>
+	<choice>Signalų generatorių ir aukšto dažnio voltmetrą.</choice>
+	<choice>Oscilografą ir voltmetrą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Siųstuvo galia gali būti išmatuota prijungiant:</text>
+	<choice>Skaitmeninį voltmetrą prie siųstuvo išėjimo lizdo.</choice>
+	<choice>Prie siųstuvo suderintą apkrovą ir matuojant jos SBK reflektometru.</choice>
+	<choice>Prie siųstuvo suderintąją apkrovą ir matuojant ant jos krentančią įtampą AD voltmetru.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Anteninio stiprintuvo amplitudės–dažnio charakteristiką galima patikrinti naudojant:</text>
+	<choice>Svyruojančio dažnio generatorių.</choice>
+	<choice>Smailinės vertės voltmetrą.</choice>
+	<choice>Dažniamatį.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks SSB siųstuvo parametras gali būti matuojamas naudojant dviejų tonų garsinį generatorių ir oscilografą?</text>
+	<choice>Siųstuvo pralaidumo juosta.</choice>
+	<choice>Signalo dažnio nuokrypis.</choice>
+	<choice>Siųstuvo linijiškumas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra decibelas?</text>
+	<choice>Nesisteminis logaritminis vienvardžių reikšmių santykio vienetas.</choice>
+	<choice>Signalų stiprio matavimo vienetas.</choice>
+	<choice>Antenų stiprinimo matavimo vienetas.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>0 dBm signalo lygis atitinka:</text>
+	<choice>1 mV įtampą.</choice>
+	<choice>1 mW galią.</choice>
+	<choice>1 mA srovę.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Išmatavus šalutinio spinduliavimo lygį gauta reikšmė -40db(PEP). Kieno atžvilgiu pateikti matavimų rezultatai?</text>
+	<choice>Nešlio.</choice>
+	<choice>Trukdančio signalo.</choice>
+	<choice>Antenos centro.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri balso telefonijos rūšis radijo mėgėjų dažniausiai naudojama radijo dažnių diapazonuose iki 10 MHz?</text>
+	<choice>USB.</choice>
+	<choice>LSB.</choice>
+	<choice>SSB.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuri balso telefonijos rūšis radijo mėgėjų dažniausiai naudojama radijo dažnių diapazonuose virš 10 MHz?</text>
+	<choice>USB.</choice>
+	<choice>LSB.</choice>
+	<choice>SSB.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ką reiškia anglų kalbos santrumpa „SSTV“?</text>
+	<choice>Skaitmeninė televizija.</choice>
+	<choice>Greitos skleistinės televizija.</choice>
+	<choice>Lėtos skleistinės televizija.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia informacija perduodama per lėtos skleistinės televiziją?</text>
+	<choice>ASCII kodo ženklai.</choice>
+	<choice>Judantys vaizdai.</choice>
+	<choice>Nejudantys vaizdai.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra faksimilinis ryšys?</text>
+	<choice>Spausdintų vaizdų ir ženklų perdavimas atvaizduojant juos popieriuje.</choice>
+	<choice>Nejudančių paveikslų perdavimas, naudojant lėtos skleistinės televiziją.</choice>
+	<choice>Vaizdo perdavimas radijo mėgėjų televizijos būdu.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra RTTY?</text>
+	<choice>Palydovinis ryšys.</choice>
+	<choice>Radijo teletaipas.</choice>
+	<choice>Radijo telegrafas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų prijungti prie siųstuvo-imtuvo, norint siųsti RTTY signalus?</text>
+	<choice>Kompiuterį.</choice>
+	<choice>Modemą, vaizduoklį ir DTMF klaviatūrą.</choice>
+	<choice>Magnetofoną ir spausdintuvą.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl RTTY režimu, prieš pradedant siųsti informaciją, kartais siunčiama ženklų seka „RYRYRY…“?</text>
+	<choice>Tam, kad būtų suteikta galimybė tiksliai suderinti radijo stotį signalų priėmimo vietoje.</choice>
+	<choice>Radijo stoties identifikavimo tikslu.</choice>
+	<choice>Tam, kad prieš pradedant darbą būtų įsitikinta, kad siųstuvas veikia gerai.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuris skaitmeninis informacijos siuntimo būdas trumposiomis bangomis labiausiai paplitęs?</text>
+	<choice>DTMF.</choice>
+	<choice>CTCSS.</choice>
+	<choice>FSK.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurie iš čia išvardytų signalų yra skaitmeniniai?</text>
+	<choice>FSK, RTTY.</choice>
+	<choice>CW.</choice>
+	<choice>Visi čia išvardyti.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>PSK31 progresyvesnė darbo rūšis už RTTY todėl, kad:</text>
+	<choice>Turi klaidų taisymo sistemą.</choice>
+	<choice>Užimamas signalo juostos plotis gerokai siauresnis.</choice>
+	<choice>Yra greitesnė.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks yra svarbiausias AMTOR privalumas, palyginus su RTTY?</text>
+	<choice>AMTOR ženklai turi mažiau informacijos bitų negu RTTY.</choice>
+	<choice>AMTOR turi klaidų kontrolės sistemą.</choice>
+	<choice>AMTOR gali būti perduodama grafinė informacija.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kiek paketinio ryšio retransliatoriaus kanalų pakanka, palaikant dvipusį ryšį tarpusavyje 3 vartotojams?</text>
+	<choice>1.</choice>
+	<choice>3.</choice>
+	<choice>6.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra radijo mėgėjų palydovo periodas?</text>
+	<choice>Laikas, per kurį palydovas apsisuka aplink savo ašį.</choice>
+	<choice>Laikas, per kurį palydovas iš apogėjaus pereina į perigėjų.</choice>
+	<choice>Laikas, per kurį palydovas apsisuka aplink Žemę vieną kartą.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia sąlyga būtina tam, kad įvyktų tiesioginis radijo ryšys tarp dviejų korespondentų per dirbtinį Žemės palydovą?</text>
+	<choice>Abu korespondentai turi „matyti“ tą patį palydovą tuo pačiu metu.</choice>
+	<choice>Abiejose radijo stotyse turi būti sumontuotos didelio stiprinimo antenos.</choice>
+	<choice>Pasirinktas palydovas turi pasiekti apogėjų.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl  dirbtinio Žemės palydovo į Žemę spinduliuojamo signalo dažnis kinta kelių kilohercų ribose?</text>
+	<choice>Pasireiškia Doplerio efektas dėl atstumo kitimo tarp palydovo ir antžeminės radijo stoties.</choice>
+	<choice>Dėl palydovą veikiančios nesvarumo būklės.</choice>
+	<choice>Dėl palydovo sukimosi apie savo ašį.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas yra EME ryšys?</text>
+	<choice>Radijo ryšys, kai išsiųstas signalas atsispindi nuo Marso paviršiaus.</choice>
+	<choice>Radijo ryšys, kai priimami signalai, atsispindėję nuo meteorų srautų.</choice>
+	<choice>Radijo ryšys, kai išsiųstas signalas atsispindi nuo Mėnulio paviršiaus.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokia turėtų būti priėmimo sistema, tinkanti EME ryšiams?</text>
+	<choice>Labai mažo dinaminio diapazono aparatūra.</choice>
+	<choice>Aparatūra su labai mažu triukšmo koeficientu.</choice>
+	<choice>Aparatūra su labai mažu stiprinimu.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks turėtų būti siųstuvas, tinkantis EME ryšiams?</text>
+	<choice>Siųstuvas, leidžiantis spinduliuoti platų dažnių spektrą.</choice>
+	<choice>Siųstuvas, turintis didelę spinduliuotės galią.</choice>
+	<choice>Siųstuvas su labai mažu triukšmo koeficientu.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas yra meteorinis ryšys?</text>
+	<choice>Ryšys, kai panaudojamos meteorologinės radijo stotys.</choice>
+	<choice>Ryšys, kai krintantys meteorai sustiprina radijo signalus.</choice>
+	<choice>Ryšys, kai radijo bangos atsispindi nuo jonizuotų meteorų pėdsakų.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas turi įtakos geram antenos veikimui?</text>
+	<choice>Antenos įėjimo ir kabelio banginės varžų suderinimas.</choice>
+	<choice>Antenos iškėlimo aukštis.</choice>
+	<choice>Visi čia išvardyti faktoriai.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokiais vienetais matuojamas antenos stiprinimas?</text>
+	<choice>Vatais.</choice>
+	<choice>Decibelais.</choice>
+	<choice>Amperais.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Nuo ko priklauso antenos rezonansinis dažnis?</text>
+	<choice>Nuo antenos geometrinių matmenų.</choice>
+	<choice>Nuo papildomų kontūrų, prijungtų prie antenos.</choice>
+	<choice>Nuo visų čia išvardytų veiksnių.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Pusės bangos ilgio antenos geometrinis ilgis 1 metras. Šios antenos rezonansinis dažnis:</text>
+	<choice>300 MHz.</choice>
+	<choice>150 MHz.</choice>
+	<choice>75 MHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>λ/4 antenos geometrinis ilgis 75 cm. Šios antenos rezonansinis dažnis:</text>
+	<choice>200 MHz.</choice>
+	<choice>150 MHz.</choice>
+	<choice>100 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas sudaro antenos įėjimo pilnutinę varžą?</text>
+	<choice>Ominė antenos ir kabelio varža.</choice>
+	<choice>Antenos įėjimo aktyviųjų ir reaktyviųjų varžų suma.</choice>
+	<choice>Stovinčios bangos koeficientas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriam bangos ilgiui to paties tipo antenos geometriniai matmenys mažiausi?</text>
+	<choice>4,25 m.</choice>
+	<choice>12,38 m.</choice>
+	<choice>45,18 m.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuriam bangos ilgiui to paties tipo antenos geometriniai matmenys didžiausi?</text>
+	<choice>3 m.</choice>
+	<choice>28 m.</choice>
+	<choice>300 m.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Antena sujungta su radijo stotimi ilgu kabeliu. Kurio dažnio radijo signalas kabelyje slopinamas labiausiai?</text>
+	<choice>Didžiausio.</choice>
+	<choice>Mažiausio.</choice>
+	<choice>Vidutinio.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Signalo perdavimo linijoje, prijungtoje prie antenos, išmatuotas stovinčios bangos koeficientas lygus 1. Ką tai reiškia?</text>
+	<choice>Antenos stiprinimo koeficientas lygus 1.</choice>
+	<choice>Pasiektas geriausias antenos ir perdavimo linijos varžų suderinimas.</choice>
+	<choice>Antenos kryptingumo koeficientas lygus 1.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Signalo perdavimo linijoje, prijungtoje prie antenos, išmatuotas stovinčios bangos koeficientas yra 1,5.  Ką tai reiškia?</text>
+	<choice>Antena nustatyta neteisinga kryptimi.</choice>
+	<choice>Antenos stiprinimo koeficientas lygus 1,5.</choice>
+	<choice>Gautas pakankamai geras perdavimo linijos ir antenos varžų suderinimas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Signalo perdavimo linijoje, prijungtoje prie apkrovos, išmatuotas stovinčios bangos koeficientas yra 10.  Ką tai reiškia?</text>
+	<choice>Gautas nepriimtinas suderinimas, galimi dideli radijo dažnių energijos nuostoliai perdavimo linijoje.</choice>
+	<choice>Antena spinduliuoja 10 kartų stipriau.</choice>
+	<choice>Atmosferos jonizacija aplink anteną siekia 10 dB.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Antenos stiprinimas lygus 2 dBi. Ką tai reiškia?</text>
+	<choice>Antenos stiprinimas išreikštas decibelais, lyginant su izotropine antena.</choice>
+	<choice>Antenos stiprinimas išreikštas decibelais, lyginant su indikatorine antena.</choice>
+	<choice>Idealus antenos stiprinimas išreikštas decibelais.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Išmatuotas antenos stiprinimas lygus 3 dBd. Ką tai reiškia?</text>
+	<choice>Antenos stiprinimas išreikštas decibelais, lyginant su dielektrine antena.</choice>
+	<choice>Antenos stiprinimas išreikštas decibelais, lyginant su 1 bangos ilgio dipoliu.</choice>
+	<choice>Antenos stiprinimas išreikštas decibelais, lyginant su pusės bangos ilgio dipoliu.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kuri antena labiau tinka tolimiems ryšiams?</text>
+	<choice>Turinti siauresnį krypties diagramos lapelį.</choice>
+	<choice>Turinti platesnį krypties diagramos lapelį.</choice>
+	<choice>Turinti apskritiminę krypties diagramą.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri banginio kanalo antena turi plačiausią pagrindinį krypties diagramos lapelį?</text>
+	<choice>3 elementų.</choice>
+	<choice>7 elementų.</choice>
+	<choice>10 elementų.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri iš čia išvardytų antenų horizontalioje plokštumoje turi siauriausią krypties diagramos lapelį?</text>
+	<choice>Strypinė.</choice>
+	<choice>Banginio kanalo.</choice>
+	<choice>Dipolis.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>20 m dažnių ruože radijo mėgėjai dažnai naudoja Yagi anteną. Koks yra vienas iš šios antenos naudojimo privalumų?</text>
+	<choice>Yagi antena turi puikią visakryptę diagramą horizontalioje plokštumoje, todėl žymiai pagerėja priėmimas.</choice>
+	<choice>Yagi antena padeda sumažinti kitų stočių trikdžius, atėjusius iš antenos šonų ir galo.</choice>
+	<choice>Yagi antena užtikrina didžiausią spinduliavimo kampą.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ryšiams per palydovą skirta antenų sistema turi turėti galimybę ne tik suktis pagal azimutą, bet ir keisti pakėlimo kampą. Kodėl to reikia?</text>
+	<choice>Kad būtų išvengta Žemėje sukeliamų trukdžių.</choice>
+	<choice>Kad galima būtų keisti antenų poliarizaciją.</choice>
+	<choice>Kad būtų galima sekti palydovus pagal jų orbitą.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas sudaro elektromagnetines bangas?</text>
+	<choice>Elektrostatinis ir magnetinis laukas.</choice>
+	<choice>Statinis elektrinis ir magnetinis laukas.</choice>
+	<choice>Kintamas elektrinis ir kintamas magnetinis laukas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra radijo bangos?</text>
+	<choice>Elektromagnetinės bangos nuo 9 kHz iki 3000 GHz.</choice>
+	<choice>Iš garsiakalbio sklindančios bangos nuo 20 Hz iki 20 000 Hz.</choice>
+	<choice>Elektromagnetinės bangos ilgesnės kaip 3 kHz.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Koks yra elektromagnetinių bangų greitis?</text>
+	<choice>Apie 300 000 km/val.</choice>
+	<choice>Apie 300 000 km/s.</choice>
+	<choice>Apie 300 000 000 km/s.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Dažniui mažėjant, radijo bangos ilgis:</text>
+	<choice>Nekinta.</choice>
+	<choice>Didėja.</choice>
+	<choice>Mažėja.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Bangos ilgiui didėjant, radijo dažnis:</text>
+	<choice>Nekinta.</choice>
+	<choice>Didėja.</choice>
+	<choice>Mažėja.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kas yra elektromagnetinės bangos poliarizaciją?</text>
+	<choice>Elektrinio ir magnetinio lauko vektorių padėtis Žemės paviršiaus atžvilgiu.</choice>
+	<choice>Maksimalus bangos greitis, kurį riboja atmosferos poliarizacija.</choice>
+	<choice>Antenos padėtis horizonto atžvilgiu.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Troposferą suprantame kaip dalį atmosferos virš Žemės paviršiaus:</text>
+	<choice>Tarp jūros lygio ir ribos apie 10 km aukštyje.</choice>
+	<choice>Aukštyje tarp 120 ir 500 km.</choice>
+	<choice>Aukštyje virš 2 000 km.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kuri troposferos dalis leidžia užmegzti tolimus radijo ryšius trumposiomis bangomis?</text>
+	<choice>Biosfera.</choice>
+	<choice>Jonosfera.</choice>
+	<choice>Stratosfera.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kokia jonosferos susiformavimo priežastis?</text>
+	<choice>Mėnulio perigėjus.</choice>
+	<choice>Didelis atmosferos dinamiškumas.</choice>
+	<choice>Saulės spinduliavimas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Esant Saulės aktyvumo maksimumui:</text>
+	<choice>Žymiai pagerėja sąlygos tolimiems radijo ryšiams 80 metrų diapazone.</choice>
+	<choice>Žymiai pagerėja sąlygos tolimiems radijo ryšiams 10 metrų diapazone.</choice>
+	<choice>Tolimų stočių signalai, sklindantys trumposiomis bangomis, tampa silpni.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuriuo paros metu jonosferos jonizavimas mažiausias?</text>
+	<choice>Po saulėlydžio.</choice>
+	<choice>Prieš pat saulėtekį.</choice>
+	<choice>Vidurdienį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kurios radijo bangos  naktį silpniau atsispindi nuo jonosferos?</text>
+	<choice>Trumposios žemesniųjų dažnių srityje.</choice>
+	<choice>Trumposios aukštesniųjų dažnių srityje</choice>
+	<choice>Visų vienodai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kuris jonosferos sluoksnis yra arčiausiai Žemės paviršiaus?</text>
+	<choice>D sluoksnis.</choice>
+	<choice>E sluoksnis.</choice>
+	<choice>F sluoksnis.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Dienos metu vienas iš jonosferos sluoksnių skyla į du. Kuris?</text>
+	<choice>E.</choice>
+	<choice>D.</choice>
+	<choice>F.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Koks yra vidutinis Saulės aktyvumo periodas?</text>
+	<choice>Apie 18 m.</choice>
+	<choice>Apie 11 m.</choice>
+	<choice>Apie 5 m.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip Saulės dėmių skaičius susijęs su jos aktyvumo periodu?</text>
+	<choice>Esant didžiausiam aktyvumui dėmių daugiausia.</choice>
+	<choice>Nėra ryšio tarp Saulės dėmių skaičiaus ir jos aktyvumo.</choice>
+	<choice>Esant didžiausiam aktyvumui dėmių skaičius mažiausias.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kas atsitiks UTB radijo bangoms, jei jų kelyje bus metalinių statinių?</text>
+	<choice>Banga aplenks statinius.</choice>
+	<choice>Banga atsispindės nuo statinių.</choice>
+	<choice>Bangą sugers statiniai.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Maksimalus naudojamas radijo dažnis galėtų būti apibrėžiamas kaip:</text>
+	<choice>Didžiausias radijo dažnis, kuriuo galima suderinti siųstuvą.</choice>
+	<choice>Didžiausias radijo dažnis, kuriam galima suderinti imtuvą.</choice>
+	<choice>Didžiausias radijo dažnis, kai trumposiomis bangomis dar galimas radijo ryšys tarp konkrečių radijo stočių.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Radijo bangos, kurių dažnis didesnis už kritinį:</text>
+	<choice>Sugeriamos jonosferos sluoksnių.</choice>
+	<choice>Atspindimos nuo jonosferos sluoksnių.</choice>
+	<choice>Praeina pro jonosferos sluoksnius į kosmosą.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Sklindant signalui trumposiomis radijo bangomis, nuo kelių dešimčių iki kelių šimtų, o kartais ir kelių tūkstančių kilometrų atstumu signalų neįmanoma priimti. Kodėl?</text>
+	<choice>Radijo bangos, patekusios į jonosferą, gali būti jos atspindėtos tik tuo atveju, jei radijo bangų susikirtimo su jonosfera kampas yra mažesnis už kritinį.</choice>
+	<choice>Išsiųstas signalas negirdimas, kol sklinda dideliais miškų masyvais, o iš juos kirtęs vėl yra girdimas.</choice>
+	<choice>Taip įvyksta dėl Saulės sukeltų fluktuacijų.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kokia yra tilsmo priežastis?</text>
+	<choice>Elektromagnetinės bangos reaktyvinė varža dėl antenos medžiagos nevienalytiškumo.</choice>
+	<choice>Fazės skirtumas tarp įvairių to paties siųstuvo signalų, atėjusių skirtingais keliais į priėmimo vietą.</choice>
+	<choice>Laiko skirtumas tarp siuntimo ir priėmimo vietos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kas labiausiai gali pakenkti radijo stoties operatoriaus sveikatai?</text>
+	<choice>Nesertifikuotos aparatūros naudojimas.</choice>
+	<choice>Neigiamas kaimynų požiūris į radijo mėgėjus.</choice>
+	<choice>Elektros smūgis ir radijo dažnių spinduliavimas.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokį poveikį žmogaus kūnui gali turėti elektros srovė?</text>
+	<choice>Trumpam pagerėja atmintis.</choice>
+	<choice>Susitraukia kūno raumenys.</choice>
+	<choice>Suaktyvėja kvėpavimas.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Ištikus elektros smūgiui, pirmiausia būtina:</text>
+	<choice>Iškviesti greitąją pagalbą.</choice>
+	<choice>Atlikti dirbtinį kvėpavimą.</choice>
+	<choice>Pašalinti elektros srovės poveikį nukentėjusiam.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ištikus elektros smūgiui, nukentėjęs asmuo liečia laidą, kuriuo teka elektros srovė. Jos poveikį nukentėjusiam galima pašalinti naudojant:</text>
+	<choice>Bet kokią lazdą ar kitą panašų daiktą.</choice>
+	<choice>Sausą, elektros srovei nelaidžią lazdą.</choice>
+	<choice>Tik daiktą, pagamintą iš dielektriko, kurio varža ne mažesnė kaip 1018 W.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl nereikėtų naudotis galios stiprintuvu kol jo metalinis korpusas yra atviras?</text>
+	<choice>Dėl atviro korpuso jo viduje gali susidaryti kritinis temperatūrinis režimas.</choice>
+	<choice>Kad būtų išvengta atsitiktinio prisilietimo prie aukštos įtampos grandinių ir sumažintas radijo dažnių spinduliavimas operatoriaus aplinkoje.</choice>
+	<choice>Kad būtų išvengta rezonansinių kontūrų savaiminio išsiderinimo.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Išjungus lempinį galios stiprintuvą dar kurį laiką negalima liesti rankomis jo viduje sumontuotų mazgų ir detalių todėl, kad:</text>
+	<choice>Galima gauti elektros smūgį nuo įkrautų kondensatorių.</choice>
+	<choice>Neatsargiai liečiant galima sugadinti lempas.</choice>
+	<choice>Galima gauti elektros smūgį nuo ekvipotencialinių paviršių.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Prie ko reikėtų prijungti visos naudojamos aparatūros metalinius korpusus, kad būtų  geriausiai apsisaugota nuo elektros srovės poveikio?</text>
+	<choice>Prie antenos.</choice>
+	<choice>Prie vandentiekio vamzdžių ar apšildymo radiatorių.</choice>
+	<choice>Prie geros kokybės įžeminimo.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Tarp dviejų daugiaaukščių namų, esančių skirtingose gatvės pusėse, vyksta troleibusų eismas. Kodėl negalima pakabinti antenos tarp šių namų stogų?</text>
+	<choice>Gali sutrikti troleibusų eismas.</choice>
+	<choice>Nutrūkusi antena gali nukristi ant troleibusų energijos tiekimo linijos ir tapti elektros traumų priežastimi.</choice>
+	<choice>Dėl troleibusų linijos elektromagnetinio spinduliavimo pablogės ryšio sąlygos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl negalima pakabinti antenos tarp dviejų taškų, esančių virš elektros tiekimo linijos?</text>
+	<choice>Galimi trukdžiai imtuve nuo elektros perdavimo linijos.</choice>
+	<choice>Antena gali nukristi ant elektros perdavimo linijos ir tapti radijo mėgėjo žūties priežastimi.</choice>
+	<choice>Galimi siunčiamo signalo iškraipymai dėl trukdžių nuo elektros perdavimo linijos.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks matavimo vienetas geriausiai atspindi radijo dažnių laukų biologinį poveikį?</text>
+	<choice>Elektrinio lauko stipris V/m.</choice>
+	<choice>Galios tankis W/cm2.</choice>
+	<choice>Specifinis absorbcijos koeficientas W/kg.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Koks gali būti didelių lygių radijo dažnių energijos poveikis žmogaus kūno audiniams?</text>
+	<choice>Elektromagnetinis apsinuodijimas.</choice>
+	<choice>Padidėja vidinė energija.</choice>
+	<choice>Šiluminis.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kokios radijo bangos turi didžiausią neigiamą įtaką akims?</text>
+	<choice>Ilgos.</choice>
+	<choice>Trumpos.</choice>
+	<choice>Ultratrumpos.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurio iš čia išvardytų radijo dažnių energija akims yra pavojingiausia?</text>
+	<choice>3,5 MHz.</choice>
+	<choice>144 MHz.</choice>
+	<choice>1260 MHz.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kurio diapazono radijo dažnių energiją žmogaus kūnas labiausiai absorbuoja?</text>
+	<choice>3–30 MHz.</choice>
+	<choice>30–300 MHz.</choice>
+	<choice>0,3–3 GHz.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip galima sumažinti išorinio radijo spinduliavimo poveikį gyvenamoje patalpoje?</text>
+	<choice>Didinant antenų aukštį virš gyvenamų patalpų.</choice>
+	<choice>Vietoje 75 omų naudojant 50 omų banginės varžos kabelį.</choice>
+	<choice>Tinka visos čia išvardytos priemonės.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl nereikėtų stovėti šalia antenos, kuri prijungta prie veikiančio 1 kW išėjimo galios siųstuvo?</text>
+	<choice>Gali atsipalaiduoti raumenys.</choice>
+	<choice>Galite atsitiktinai prisiliesti prie antenos ir būti sužeistas.</choice>
+	<choice>Radijo bangos gali atsispindėti nuo žmogaus kūno ir sutrikdyti ryšį.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kodėl anteną reikia montuoti taip, kad niekas negalėtų prisiliesti prie atviros signalo perdavimo linijos ir neizoliuotų antenos elementų?</text>
+	<choice>Nes prisilietimas gali sukelti šalutinius spinduliavimus.</choice>
+	<choice>Nes prisilietimas gali pabloginti antenos spinduliavimo charakteristikas.</choice>
+	<choice>Nes prisilietus galima gauti traumą nuo aukšto dažnio įtampos.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Norint apsaugoti žmones nuo radijo dažnių laukų, radijo mėgėjų radijo stoties antenos turi būti sumontuotos:</text>
+	<choice>Ant nemetalinio stiebo.</choice>
+	<choice>Taip, kad daugumos elementų poliarizacija būtų vertikali.</choice>
+	<choice>Kiek galima toliau nuo vietų, kuriose būna žmonės.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Kodėl kryptinė antena, spinduliuojanti didelių lygių energiją, turėtų būti pakelta aukščiau už aplinkinius pastatus?</text>
+	<choice>Kad didelės energijos srautai nebūtų nukreipti į žmones, esančius tuose pastatuose.</choice>
+	<choice>Kad radijo dažnių energijos atspindžiai nemažintų antenos naudingo veikimo koeficiento.</choice>
+	<choice>Kad aplinkiniai statiniai neužstotų tiesiausios krypties į korespondentą.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų padaryti prieš pradedant taisyti anteną?</text>
+	<choice>Įsitikinti, kad antena atjungta nuo aparatūros.</choice>
+	<choice>Įsitikinti, kad antenos pagrindas įžemintas.</choice>
+	<choice>Išjungti pagrindinį namo elektros linijos jungiklį.</choice>
+	<answer>0</answer>
+</question>
+
+<question>
+	<text>Kodėl jūsų portatyvinio UTB siųstuvo-imtuvo „guminė“ antena neturėtų būti perdaug arti galvos siuntimo metu?</text>
+	<choice>Kad antena galėtų spinduliuoti visomis kryptimis vienodai.</choice>
+	<choice>Kad būtų išvengta radijo dažnių energijos sveikatai žalingo spinduliavimo.</choice>
+	<choice>Kad būtų išvengta galios nuostolių.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kaip reikėtų laikyti nešiojamą UTB siųstuvą-imtuvą siuntimo metu?</text>
+	<choice>Vertikaliai.</choice>
+	<choice>Nukreiptą į korespondentą.</choice>
+	<choice>Toliau nuo savo galvos ir nuo aplinkinių žmonių.</choice>
+	<answer>2</answer>
+</question>
+
+<question>
+	<text>Ką reikėtų daryti tam, kad būtų sumažinta radijo dažnių energijos, atsirandančios veikiant nešiojamam siųstuvui 1240 MHz dažniu, įtaka?</text>
+	<choice>Įjungti aukštųjų dažnių filtrą.</choice>
+	<choice>Laikyti anteną kuo toliau nuo akių.</choice>
+	<choice>Nenaudoti horizontalios poliarizacijos antenų.</choice>
+	<answer>1</answer>
+</question>
+
+<question>
+	<text>Kur turėtų būti sumontuota UTB radijo stoties antena automobilyje, siekiant geriau apsaugoti vairuotoją ir automobilio keleivius nuo radijo dažnių spinduliavimo?</text>
+	<choice>Ant užpakalinio automobilio bamperio.</choice>
+	<choice>Ant priekinio automobilio sparno.</choice>
+	<choice>Metalinio automobilio stogo centre.</choice>
+	<answer>2</answer>
+</question>
+
+		
+		
+	</category>
+		
+	<!--  category>
+		<title>Testas</title>
+		<text>Garsai ir vaizdai</text>  
+		<question>
+			<text>Kokio gyvulio garsas?</text>
+			<audio>audio/cow-moo.wav</audio>
+			<choice>Keule</choice>
+			<choice>Chiubaka</choice>
+			<choice>Karvė</choice>
+			<answer>2</answer>
+		</question>
+		<question>
+			<text>
+				Kas pavaizduota <![CDATA[<b>schemoje?</b>]]>
+			</text>
+			<image>images/b1.gif</image>
+			<choice>Nežinau...</choice>
+			<answer>0</answer>
+		</question>
+	</category -->
+</quiz>

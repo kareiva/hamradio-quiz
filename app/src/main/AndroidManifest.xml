@@ -1,0 +1,40 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.lt.lrmd.hamradio.quiz"
+android:versionCode="3"
+android:versionName="1.2" >
+<uses-sdk
+android:minSdkVersion="9"
+android:targetSdkVersion="17" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<application
+android:allowBackup="true"
+android:icon="@drawable/lrmd_xhdpi"
+android:label="@string/app_name"
+android:theme="@style/theme" >
+<activity
+android:name="com.lt.lrmd.hamradio.quiz.activity.Categories"
+android:label="@string/app_name" >
+<intent-filter>
+<action android:name="android.intent.action.MAIN" />
+<category android:name="android.intent.category.LAUNCHER" />
+</intent-filter>
+</activity>
+<activity
+android:name="com.lt.lrmd.hamradio.quiz.activity.Quiz"
+android:label="@string/app_name"
+android:configChanges="orientation|screenSize">
+</activity>
+<activity
+android:name="com.lt.lrmd.hamradio.quiz.activity.About"
+android:label="@string/title_activity_about" >
+</activity>
+<activity
+android:name="com.lt.lrmd.hamradio.quiz.activity.Settings"
+android:label="@string/title_activity_settings" >
+</activity>
+<activity
+android:name="com.lt.lrmd.hamradio.quiz.activity.Pdflangas"
+android:label="@string/paaiskinimai" >
+</activity>
+</application>
+</manifest>
