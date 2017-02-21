@@ -31,5 +31,8 @@ proguard/
 #Gradle
 .gradletasknamecache
 .gradle/
-build/
+/app/build/
+/build
 bin/
+.DS_Store
+import-summary.txt
