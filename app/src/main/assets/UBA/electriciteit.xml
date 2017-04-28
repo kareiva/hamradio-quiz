@@ -1,0 +1,2997 @@
+<?xml version="1.0" encoding="UTF-8"?><quiz>
+	<category>
+	<title>electriciteit.html</title>
+
+<question>
+	<image></image>
+	<text>Geleiders zijn materialen die</text>
+		<choice>een groot aantal vrije elektronen hebben</choice>
+		<choice>een groot aantal atomen hebben</choice>
+		<choice>een klein aantal atomen hebben</choice>
+		<choice>een klein aantal vrije elektronen hebben</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Isolatoren zijn materialen die</text>
+		<choice>zeer weinig vrije atomen hebben</choice>
+		<choice>zeer weinig vrije elektronen hebben</choice>
+		<choice>een groot aantal vrije atomen hebben</choice>
+		<choice>een groot aantal vrije elektronen hebben</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men het begrip van elektrische stroom definiëren?</text>
+		<choice>de elektrische stroom is de scheiding van de elektrische ladingen</choice>
+		<choice>de elektrische stroom is de mogelijkheid om elektrische ladingen te verplaatsen</choice>
+		<choice>de elektrische stroom is de beweging van elektronen </choice>
+		<choice>elektrische stroom is beweging van spanningen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is juist?</text>
+		<choice>De elektronenstroom is van de min-pool naar de plus-pool</choice>
+		<choice>De elektronenstroom is van de plus-pool naar de min-pool</choice>
+		<choice>De conventionele stroomzin is dezelfde als de elektronen-stroomzin</choice>
+		<choice>De conventionele stroomzin is van de min-pool naar de plus-pool</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is juist?</text>
+		<choice>De elektronenstroom is van de plus-pool naar de min-pool</choice>
+		<choice>De conventionele stroomzin is dezelfde als de elektronen-stroomzin</choice>
+		<choice>De conventionele stroomzin is van de min-pool naar de plus-pool</choice>
+		<choice>De conventionele stroomzin is van de plus-pool naar de min-pool</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de rol van een weerstand in een elektrische schakeling?</text>
+		<choice>hij slaat energie op in magnetische vorm</choice>
+		<choice>hij slaat energie op onder de vorm van een elektrisch veld</choice>
+		<choice>hij produceert elektronen via een scheikundige reactie</choice>
+		<choice>hij verzet zich tegen de doorgang van elektronen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Voor het berekenen van elektrische schakelingen wordt aangenomen dat de elektrische stroom van de positieve klem vloeit naar de negatieve klem van de bron. Deze richting noemt men:</text>
+		<choice>conventionele richting</choice>
+		<choice>elektronische richting</choice>
+		<choice>rekenkundige richting</choice>
+		<choice>positieve richting</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is juist?</text>
+		<choice>0,02 A = 2 mA</choice>
+		<choice>0,02 A = 20 mA</choice>
+		<choice>0,02 A = 200 mA</choice>
+		<choice>0,02A =  2000 mA</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men in een wisselspanningsschakeling de stroom door en de spanning over een element kent, hoe bepaalt men dan de weerstand ervan?</text>
+		<choice>de wet van Pouillet</choice>
+		<choice>de wet van Ohm</choice>
+		<choice>de wet van Kirchoff</choice>
+		<choice>de wet van Pascal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe bepaalt men in een wisselstroomschakeling de spanning als men de weerstand en de stroom kent?</text>
+		<choice>U = I / R</choice>
+		<choice>U = R · I</choice>
+		<choice>U = R +I</choice>
+		<choice>U = R / I</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe bepaalt men in een wisselstroomschakeling de weerstand als men de spanning en de stroom kent?</text>
+		<choice>R = I / U</choice>
+		<choice>R = U / I</choice>
+		<choice>R = U + I</choice>
+		<choice>R = U · I</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe berekent men in een gelijkstroomschakeling de stroom als men de weerstand en de spanning kent?</text>
+		<choice>I = R · U</choice>
+		<choice>I = U / R</choice>
+		<choice>I = R / U</choice>
+		<choice>I = P / U</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe bepaalt men in een gelijkstroomschakeling de weerstand als men de spanning en de stroom kent?</text>
+		<choice>R = I / U</choice>
+		<choice>R = U / I</choice>
+		<choice>R = U + I</choice>
+		<choice>R = U · I</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De wet van Ohm geeft het verband weer tussen:</text>
+		<choice>de weerstand, de spanning en het vermogen</choice>
+		<choice>de stroom, de weerstand en de tolerantie</choice>
+		<choice>de weerstand, de stroom en de spanning</choice>
+		<choice>het vermogen, de weerstand en de stroom</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de weerstand van een schakeling als een batterij met een klemspanning van 12 V een stroom levert van 0,15 A in deze schakeling?</text>
+		<choice>180 Ω</choice>
+		<choice>20 Ω</choice>
+		<choice>40 Ω</choice>
+		<choice>80 Ω</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de weerstand van een schakeling als een batterij met een klemspanning van 12 V een stroom levert van 0,30 A in deze schakeling?</text>
+		<choice>80 Ω</choice>
+		<choice>10 Ω</choice>
+		<choice>20 Ω</choice>
+		<choice>40 Ω</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de weerstand van een schakeling als een batterij met een klemspanning van 12 V een stroom levert van 1 A in deze schakeling?</text>
+		<choice>24 Ω</choice>
+		<choice>3 Ω</choice>
+		<choice>6 Ω</choice>
+		<choice>12 Ω</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de weerstand van een schakeling als een batterij met een klemspanning van 12 V een stroom levert van 2 A in deze schakeling?</text>
+		<choice>12 Ω</choice>
+		<choice>1,5 Ω</choice>
+		<choice>3 Ω</choice>
+		<choice>6 Ω</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de weerstand van een schakeling als een batterij met een klemspanning van 12 V een stroom levert van 3 A in deze schakeling?</text>
+		<choice>8 Ω</choice>
+		<choice>1 Ω</choice>
+		<choice>2 Ω</choice>
+		<choice>4 Ω</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de stroom in de schakeling als men een weerstand van 4800 Ω plaatst over een spanningsbron met een klemspanning van U = 120 V?</text>
+		<choice>576 mA</choice>
+		<choice>57.6 mA</choice>
+		<choice>250 mA</choice>
+		<choice>25 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de stroom in de schakeling als men een weerstand van 480 Ω plaatst over een spanningsbron met een klemspanning van U = 120 V?</text>
+		<choice>5,76 A</choice>
+		<choice>576 mA</choice>
+		<choice>2,5 A</choice>
+		<choice>250 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de stroom in de schakeling als men een weerstand van 96 Ω plaatst over een spanningsbron met een klemspanning van U = 120 V?</text>
+		<choice>11,52 A</choice>
+		<choice>1,152 A</choice>
+		<choice>12,5 A</choice>
+		<choice>1,25 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de stroom in de schakeling als men een weerstand van 48 Ω plaatst over een spanningsbron met een klemspanning van U = 120 V ?</text>
+		<choice>57,6 A</choice>
+		<choice>5,76 A</choice>
+		<choice>25 A</choice>
+		<choice>2,5 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoeveel is de stroom in de schakeling als men een weerstand van 960 Ω plaatst over een spanningsbron met een klemspanning van U = 120 V ?</text>
+		<choice>1,152 A</choice>
+		<choice>115,2 mA</choice>
+		<choice>1,25 A</choice>
+		<choice>0,125 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_6afed406a9db337c.png</image>
+	<text>In stand 1 wijst de  meter 6 A aan, en in stand 2 duidt hij 2 A aan. Wat is de waarde van Rx ?</text>
+		<choice>3 Ω</choice>
+		<choice>4 Ω</choice>
+		<choice>6 Ω</choice>
+		<choice>8 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_d8c17231c5d2ac0f.png</image>
+	<text>Voor welke waarde van R levert de spanningsbron de grootste stroom ?</text>
+		<choice>10 Ω</choice>
+		<choice>1 Ω</choice>
+		<choice>0 Ω</choice>
+		<choice>100 Ω</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De stroom die een weerstand ingaat is</text>
+		<choice>gelijk aan de stroom die uit de weerstand komt</choice>
+		<choice>groter dan de stroom die uit de weerstand komt</choice>
+		<choice>kleiner dan de stroom die uit de weerstand komt</choice>
+		<choice>nul</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_26f77ef4c7f1bc83.png</image>
+	<text>Wat is de waarde van I ?</text>
+		<choice>5 mA</choice>
+		<choice>25 mA</choice>
+		<choice>35 mA</choice>
+		<choice>50 mA</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_101cbb51235e7646.png</image>
+	<text>Wat is de waarde van de resulterende stroom I ?</text>
+		<choice>25 A</choice>
+		<choice>13 A</choice>
+		<choice></choice><choice></choice><answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De 1ste wet van Kirchoff (de stroomwet), toegepast op een knooppunt van een ingewikkeld netwerk zegt dat de algebraïsche som van de stromen</text>
+		<choice>negatief is als de meerderheid van de stromen het knooppunt verlaten</choice>
+		<choice>positief zijn als de meerderheid van de stromen naar het knooppunt gaan</choice>
+		<choice></choice><choice></choice><answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De 2de wet van Kirchoff (de Spanningswet) luidt:</text>
+		<choice>in een gesloten elektrische kring is de som van de stromen nul</choice>
+		<choice>in een gesloten elektrische kring is de algebraïsche som van de EMK’s gelijk aan de algebraïsche som van de spanningsvallen</choice>
+		<choice></choice><choice></choice><answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_29ed0a494558dbbf.png</image>
+	<text>Bereken de spanning van het punt B t.o.v. het punt A</text>
+		<choice>–3 V</choice>
+		<choice>0,3 V</choice>
+		<choice>3 V</choice>
+		<choice>–0,3 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De wet van Joule wordt gegeven door:</text>
+		<choice>P = R / I²</choice>
+		<choice>P = I² · R</choice>
+		<choice>P = R / I</choice>
+		<choice>P = I² / R</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke van volgende uitdrukkingen is NIET juist?</text>
+		<choice>P = I² · R</choice>
+		<choice>P = U² / R</choice>
+		<choice>P = U · I</choice>
+		<choice>P = U² · R</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_61617ffc9897bd9c.png</image>
+	<text>In R1 (100 Ω) wordt 100 W gedissipeerd, welk vermogen wordt in R2 (200 Ω) gedissipeerd?</text>
+		<choice>200 W</choice>
+		<choice>400 W</choice>
+		<choice>300 W</choice>
+		<choice>225 W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_61617ffc9897bd9c.png</image>
+	<text>In R1 (100 Ω) wordt 100 W gedissipeerd, welk vermogen wordt in R2 (50 Ω) gedissipeerd?</text>
+		<choice>50 W</choice>
+		<choice>25 W</choice>
+		<choice>37 W</choice>
+		<choice>42 W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_61617ffc9897bd9c.png</image>
+	<text>In R1 (100 Ω) wordt 100 W gedissipeerd, welk vermogen wordt in R2 (500 Ω) gedissipeerd?</text>
+		<choice>500 W</choice>
+		<choice>2500 W</choice>
+		<choice>1250 W</choice>
+		<choice>1000 W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_61617ffc9897bd9c.png</image>
+	<text>In R1 (500 Ω) wordt 100 W gedissipeerd, welk vermogen wordt in R2 (100 Ω) gedissipeerd?</text>
+		<choice>20 W</choice>
+		<choice>4 W</choice>
+		<choice>28 W</choice>
+		<choice>56 W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_61617ffc9897bd9c.png</image>
+	<text>In R1 (200 Ω) wordt 100 W gedissipeerd, welk vermogen wordt in R2 (150 Ω) gedissipeerd?</text>
+		<choice>75 W</choice>
+		<choice>56 W</choice>
+		<choice>66 W</choice>
+		<choice>102 W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een weerstand van 10 Ω wordt aangesloten aan een klemspanning van 100 V. Wat is het vermogen gedissipeerd in deze weerstand?</text>
+		<choice>100 W</choice>
+		<choice>1000 W</choice>
+		<choice>10 kW</choice>
+		<choice>10 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een weerstand van 100 Ω wordt aangesloten aan een klemspanning van 100 V. Wat is het vermogen gedissipeerd in deze weerstand?</text>
+		<choice>10 W</choice>
+		<choice>100 W</choice>
+		<choice>5 kW</choice>
+		<choice>5 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een weerstand van 20 Ω wordt aangesloten aan een klemspanning van 100 V. Wat is het vermogen gedissipeerd in deze weerstand?</text>
+		<choice>50 W</choice>
+		<choice>500 W</choice>
+		<choice>5 kW</choice>
+		<choice>5 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een weerstand van 50 Ω wordt aangesloten aan een klemspanning van 100 V. Wat is het vermogen gedissipeerd in deze weerstand?</text>
+		<choice>20 W</choice>
+		<choice>200 W</choice>
+		<choice>2 kW</choice>
+		<choice>2 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een weerstand van 5 Ω wordt aangesloten aan een klemspanning van 100 V. Wat is het vermogen gedissipeerd in deze weerstand?</text>
+		<choice>200 W</choice>
+		<choice>2000 W</choice>
+		<choice>20 kW</choice>
+		<choice>20 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>1 Watt is</text>
+		<choice>het vermogen gedissipeerd in een weerstand door een stroom van 1 A wanneer de aangelegde spanning 1 V is</choice>
+		<choice>de arbeid verricht door een stroom van 1 A met een spanning van 1 V</choice>
+		<choice>het vermogen bekomen door een lading van 1 coulomb in 1 uur te verplaatsen</choice>
+		<choice>het vermogen bekomen door 1 A stroom te laten vloeien bij 1 Coulomb</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>1 Watt is</text>
+		<choice>1 Joule / seconde</choice>
+		<choice>1 Joule · seconde</choice>
+		<choice>736 Joule</choice>
+		<choice>1 Joule / seconde²</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wanneer een toestel op 5 uur tijd een arbeid heeft verricht van 18.000 Joule, hoe groot is dan het vermogen van het toestel?</text>
+		<choice>1000 W</choice>
+		<choice>100 W</choice>
+		<choice>10 W</choice>
+		<choice>1 W</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De eenheid van energie (arbeid) is:</text>
+		<choice>Joule</choice>
+		<choice>Watt</choice>
+		<choice>Newton</choice>
+		<choice>Dyne</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Arbeid is</text>
+		<choice>vermogen x tijd</choice>
+		<choice>vermogen / tijd</choice>
+		<choice>spanning x stroom / tijd</choice>
+		<choice>vermogen x tijd²</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Eén Joule is de arbeid verricht</text>
+		<choice>door een vermogen van 1 W in 1 seconde</choice>
+		<choice>door een vermogen van 1 Watt in 1 uur</choice>
+		<choice>door een vermogen van 1 W in 1 minuut</choice>
+		<choice>door een vermogen van 1 Watt in 1 minuut</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een arbeid van 1 Kilowattuur komt overeen met</text>
+		<choice>3600 Joule</choice>
+		<choice>3.600.000 Joule</choice>
+		<choice>3600 Watt.uur</choice>
+		<choice>360 Joule</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een batterij levert gedurende 8 uur een stroom van 8 A bij een spanning van 12 volt. Hoeveel is de geleverde arbeid uitgedrukt Joule?</text>
+		<choice>768 Joule</choice>
+		<choice>2.764.800 Joule</choice>
+		<choice>0,2133 Joule</choice>
+		<choice>46.080 Joule</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een batterij levert gedurende 8 uur een stroom van 8 A onder 12 volt. Hoeveel is de geleverde arbeid uitgedrukt kilowatt-uur?</text>
+		<choice>0,2133 kWh</choice>
+		<choice>2.764.800 kWh</choice>
+		<choice>0,768 kWh</choice>
+		<choice>46,080 kWh</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij 12 Volt en een stroom van 10 Ampère wordt gedurende 1 minuut een energie verbruikt van:</text>
+		<choice>50 J</choice>
+		<choice>120 J</choice>
+		<choice>7200 J</choice>
+		<choice>86400 J</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij 12 Volt en een stroom van 1 Ampère wordt gedurende 1 minuut een energie verbruikt van:</text>
+		<choice>5 J</choice>
+		<choice>24 J</choice>
+		<choice>12 J</choice>
+		<choice>720 J</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij 12 Volt en een stroom van 5 Ampère wordt gedurende 1 minuut een energie verbruikt van:</text>
+		<choice>25 J</choice>
+		<choice>60 J</choice>
+		<choice>3600J</choice>
+		<choice>43200 J</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij 12 Volt en een stroom van 3 Ampère wordt gedurende 1 minuut een energie verbruikt van:</text>
+		<choice>15 J</choice>
+		<choice>36 J</choice>
+		<choice>2160 J</choice>
+		<choice>25920 J</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij 12 Volt en een stroom van 0,1 Ampère wordt gedurende 1 minuut een energie verbruikt van:</text>
+		<choice>0,5 J</choice>
+		<choice>1,2 J</choice>
+		<choice>72 J</choice>
+		<choice>864 J</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Energie is</text>
+		<choice>hetzelfde als arbeid</choice>
+		<choice>arbeid per tijdseenheid</choice>
+		<choice>arbeid x tijdseenheid</choice>
+		<choice>hetzelfde als vermogen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Twee batterijen van 12 V, elk met een capaciteit van 100 Ah worden in serie geschakeld. De capaciteit van de twee batterijen samen is dan:</text>
+		<choice>50 Ah</choice>
+		<choice>100 Ah</choice>
+		<choice>200 Ah</choice>
+		<choice>25 Ah</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De capaciteit van een batterij wordt bepaald door</text>
+		<choice>de klemspanning</choice>
+		<choice>de grootte van de kortsluitstroom</choice>
+		<choice>de grootte van de stroom waarmee de batterij is geladen</choice>
+		<choice>de stroom welke de batterij gedurende een bepaalde tijd kan leveren.</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een batterij met een klemspanning van 12 V levert gedurende één dag een stroom van 2 A. Hoeveel Ah (ampére-uur) heeft de batterij geleverd?</text>
+		<choice>24 Ah</choice>
+		<choice>48 Ah</choice>
+		<choice>144 Ah</choice>
+		<choice>576 Ah</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Ah (ampére-uur) is een eenheid van</text>
+		<choice>lading</choice>
+		<choice>stroom</choice>
+		<choice>vermogen</choice>
+		<choice>energie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>1 Ah (ampére-uur) is gelijk aan</text>
+		<choice>1 C (Coulomb)</choice>
+		<choice>10 C (Coulomb)</choice>
+		<choice>3600 C (Coulomb)</choice>
+		<choice>6000 C (Coulomb)</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Twee batterijen van 12 V, elk met een capaciteit van 100 Ah worden in parallel geschakeld. De capaciteit van de twee batterijen samen is dan:</text>
+		<choice>50 Ah</choice>
+		<choice>100 Ah</choice>
+		<choice>200 Ah</choice>
+		<choice>25 Ah</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Onder de bronspanning of de elektromotorische kracht E (EMK) van een bron verstaat men:</text>
+		<choice>de spanning gemeten zonder enige belasting</choice>
+		<choice>de klemspanning min de verliezen in de aansluitdraden</choice>
+		<choice>de klemspanning plus de verliezen in de aansluitdraden</choice>
+		<choice>de spanning welke de bron moet hebben om een stroom te sturen door de eigen interne weerstand ( van de bron)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Onder de klemspanning van een bron verstaan we</text>
+		<choice>de spanning aangeduid aan de klemmen van een bron</choice>
+		<choice>de spanning die voorhanden is aan de klemmen van de bron, rekening houdende met de spanningsval in de bron veroorzaakt door heft effect van de inwendige weerstand en de afgeleverde stroom.</choice>
+		<choice>de EMK van een bron plus de spanningsval over de interne weerstand van de bron</choice>
+		<choice>de EMK van een bron</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is niet juist: de klemspanning van een bron</text>
+		<choice>is constant</choice>
+		<choice>is veranderlijk en hangt af van de belastingsweerstand</choice>
+		<choice>is veranderlijk en hangt af van de bronspanning</choice>
+		<choice>is steeds kleiner dan de EMK van een bron</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De klemspanning (U) van een bron is gegeven door (E = EMK, ρ = inwendige weerstand and I stroom geleverd door de bron):</text>
+		<choice>U = E - (ρ · I)</choice>
+		<choice>U = E + (ρ · I)</choice>
+		<choice>U = ρ ·E </choice>
+		<choice>U = ρ · sI</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De klemspanning (U) is gelijk aan de bronspanning (E = EMK) als</text>
+		<choice>de klemspanning groot is</choice>
+		<choice>de belastingsweerstand even groot is als de interne weerstand</choice>
+		<choice>de bron niet belast wordt</choice>
+		<choice>de bron wordt kortgesloten</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De kortsluitstroom  van een bron is</text>
+		<choice>de stroom die een bron levert als ze belast is op een weerstand die gelijk is aan de interne weerstand van de bron</choice>
+		<choice>de stroom die een bron levert als ze belast wordt op een uitwendige belasting van 0 Ω</choice>
+		<choice>nul</choice>
+		<choice>oneindig</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij kortsluiting van een bron is:</text>
+		<choice>de klemspanning gelijk aan de bronspanning (EMK)</choice>
+		<choice>de klemspanning nul</choice>
+		<choice>de kortsluitstroom oneindig</choice>
+		<choice>de kortsluitstroom nul</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inwendige weerstand van een spanningsbron</text>
+		<choice>is groter naargelang de spanning hoger is</choice>
+		<choice>is er de oorzaak van dat de bronspanning bij belasting nooit gelijk is aan de klemspanning</choice>
+		<choice>is er de oorzaak van dat de EMK van een bron meestal groter is dan de klemspanning</choice>
+		<choice>is er de oorzaak van dat de klemspanning steeds groter is dan de EMK van een bron</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een bron met een EMK van 12 V heeft een klemspanning van 10 V bij een stroom van 10 A. Bereken de belastingsweerstand (R).</text>
+		<choice>R = 10 Ω</choice>
+		<choice>R = 1 Ω</choice>
+		<choice>R = 2 Ω</choice>
+		<choice> R = 5 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een bron met een EMK van 12 V heeft een klemspanning van 10 V bij een stroom van 10 A. Bereken de interne weerstand (ρ).</text>
+		<choice>ρ = 0,1 Ω</choice>
+		<choice>ρ = 0,2 Ω</choice>
+		<choice>ρ = 0,3 Ω</choice>
+		<choice>ρ = 0,4 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_735a645508c2d459.png</image>
+	<text>Bereken de waarde van I als R1 = 100 Ω, R2 = 150 Ω, de klemspanning U = 50 v, interne weerstand Ri = 2 Ω</text>
+		<choice>0,8 A</choice>
+		<choice>0,83 A</choice>
+		<choice>0,77 A</choice>
+		<choice>0,86 A</choice>
+		<answer>2</answer>correctes 20 apr 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de genormaliseerde aanduiding (symbool) voor EMK (bronspanning)?</text>
+		<choice>E</choice>
+		<choice>U</choice>
+		<choice>V</choice>
+		<choice>W</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de genormaliseerde aanduiding (symbool) voor klemspanning?</text>
+		<choice>E</choice>
+		<choice>U</choice>
+		<choice>V</choice>
+		<choice>W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>spanningsbronnen mogen in serie worden geschakeld op voorwaarde dat</text>
+		<choice>elk van de spanningsbronnen de gewenste EMK kan leveren</choice>
+		<choice>elk van de spanningsbronnen de gewenste klemspanning kan leveren</choice>
+		<choice>elk van de spanningsbronnen de gewenste (totaal)stroom kan leveren</choice>
+		<choice>elk van de spanningsbronnen een deel van de stroom kan leveren dat rechtstreeks evenredig is met de spanningsverhouding</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Ik heb een bron nodig die 12 volt, 48 W moet kunnen leveren. Ik heb een bron die 10 V, 100 W kan leveren, en een bron die een spanning van 2 V levert. Wat is het minimum vermogen van deze bron dat is vereist om het gewenste vermogen te kunnen leveren? </text>
+		<choice>25 W</choice>
+		<choice>10 W</choice>
+		<choice>8 W</choice>
+		<choice>5 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Vier identieke spanningsbronnen worden in serie geschakeld. Elk van de bronnen heeft een inwendige weerstand van 0,1 Ω. Het geheel wordt belast met een weerstand van 1 Ω. In deze weerstand vloeit een stroom van 10 A. Wat is de klemspanning van elk (U)?</text>
+		<choice>U = 3,5 V</choice>
+		<choice>U = 2,5 V</choice>
+		<choice>U = 5,0 V</choice>
+		<choice>U = 4,0 V</choice>
+		<answer>2</answer>23/5/2007  02/11/2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Vier identieke spanningsbronnen worden in serie geschakeld. Elk van de bronnen heeft een inwendige weerstand van 0,1 Ω. Het geheel wordt belast met een weerstand van 1 Ω. In deze weerstand vloeit een stroom van 10 A. Wat is de EMK van elk (E)? </text>
+		<choice>E = 2,5 V</choice>
+		<choice>E = 3,5 V</choice>
+		<choice>E = 6,0 V</choice>
+		<choice>E = 5,0 V</choice>
+		<answer>2</answer>23/5/2007
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>twee spanningsbronnen mogen in parallel worden geschakeld op voorwaarde dat</text>
+		<choice>de EMK's van beide spanningsbronnen gelijk zijn</choice>
+		<choice>elk van de spanningsbronnen de maximale stroom kan leveren</choice>
+		<choice>beide spanningsbronnen dezelfde inwendige weerstand hebben</choice>
+		<choice>elk van de spanningsbronnen een deel van de stroom kan leveren dat rechtstreeks evenredig is met de spanningsverhouding</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Volt per meter (V/m) is de eenheid van</text>
+		<choice>golflengte</choice>
+		<choice>elektrische veldsterkte</choice>
+		<choice>spanning</choice>
+		<choice>antenneversterking</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om een elektrisch veld af te schermen gebruikt men materiaal met een</text>
+		<choice>hoge geleidbaarheid</choice>
+		<choice>hoge permeabiliteit</choice>
+		<choice>lage geleidbaarheid</choice>
+		<choice>lage permeabiliteit</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_4d3cd9cea6cb6deb.png</image>
+	<text>Wat is de zin van de magnetische veldlijnen in de buurt van een stroomvoerende geleider waarvan de stroomrichting is aangegeven met I ?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De magnetische veldsterkte wordt uitgedrukt in:</text>
+		<choice>Ampère x meter</choice>
+		<choice>Ampère per meter</choice>
+		<choice>Weber</choice>
+		<choice>Weber per meter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat bepaalt de sterkte van een magnetisch veld rond een geleider ?</text>
+		<choice>de weerstand gedeeld door de stroom</choice>
+		<choice>de stroom gedeeld door de weerstand</choice>
+		<choice>de diameter van de geleider</choice>
+		<choice>de stroom door de geleider</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om een magnetisch veld af te schermen gebruikt men materiaal met een</text>
+		<choice>hoge geleidbaarheid</choice>
+		<choice>hoge permeabiliteit</choice>
+		<choice>lage geleidbaarheid</choice>
+		<choice>lage permeabiliteit</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De magnetische component in elektromagnetische golven:</text>
+		<choice>is altijd verticaal gericht</choice>
+		<choice>is altijd horizontaal gericht</choice>
+		<choice>kan zowel horizontaal als vertikaal gericht zijn</choice>
+		<choice>bepaalt de richting waarin de elektromagnetische golf zich voortplant</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De elektrische component in elektromagnetische golven:</text>
+		<choice>is altijd verticaal gericht</choice>
+		<choice>is altijd horizontaal gericht</choice>
+		<choice>kan zowel horizontaal als vertikaal gericht zijn</choice>
+		<choice>bepaalt de richting waarin de elektromagnetische golf zich voortplant</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat zijn elektromagnetische golven?</text>
+		<choice>wisselstromen in de kern van een elektromagneet</choice>
+		<choice>een golf bestaande uit twee elektrische velden die loodrecht op elkaar staan</choice>
+		<choice>een golf bestaande uit een elektrische en een magnetisch veld die loodrecht op elkaar staan</choice>
+		<choice>een golf bestaande uit twee magnetische velden die loodrecht op elkaar staan</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de golflengte voor een trilling met een frequentie van 30 MHz?</text>
+		<choice>100 m</choice>
+		<choice>30 m</choice>
+		<choice>10 m</choice>
+		<choice>1 m</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de golflengte voor een trilling met een frequentie van 60 MHz?</text>
+		<choice>50 m</choice>
+		<choice>15 m</choice>
+		<choice>5 m</choice>
+		<choice>0.5 m</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de golflengte voor een trilling met een frequentie van 15 MHz?</text>
+		<choice>200 m</choice>
+		<choice>60 m</choice>
+		<choice>20 m</choice>
+		<choice>2 m</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de golflengte voor een trilling met een frequentie van 5 MHz?</text>
+		<choice>600 m</choice>
+		<choice>120 m</choice>
+		<choice>60 m</choice>
+		<choice>6 m</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men de frequentie verhoogt</text>
+		<choice>wordt de golflengte groter</choice>
+		<choice>wordt de golflengte kleiner</choice>
+		<choice>wordt de voortplantingssnelheid groter</choice>
+		<choice>wordt de voortplantingssnelheid kleiner</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een ontvanger is 30 km verwijderd van een zender waarop hij is afgestemd. De frequentie is 145.550 MHz. Hoelang duurt het voor het signaal van de zender bij de ontvanger is?</text>
+		<choice>1 ms</choice>
+		<choice>0,1 ms</choice>
+		<choice>10 ms</choice>
+		<choice>10 µs</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een ontvanger is 50 km verwijderd van een zender waarop hij is afgestemd. De frequentie is 145.550 MHz. Hoelang duurt het voor het signaal van de zender bij de ontvanger is?</text>
+		<choice>1,6 ms</choice>
+		<choice>0,16 ms</choice>
+		<choice>16 ms</choice>
+		<choice>16 µs</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een ontvanger is 100 km verwijderd van een zender waarop hij is afgestemd. De frequentie is 145.550 MHz. Hoelang duurt het voor het signaal van de zender bij de ontvanger is?</text>
+		<choice>3,3 ms</choice>
+		<choice>0,33 ms</choice>
+		<choice>33 ms</choice>
+		<choice>33 µs</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een ontvanger is 75 km verwijderd van een zender waarop hij is afgestemd. De frequentie is 145.550 MHz. Hoelang duurt het voor het signaal van de zender bij de ontvanger is?</text>
+		<choice>2,5 ms</choice>
+		<choice>0,25 ms</choice>
+		<choice>25 ms</choice>
+		<choice>25 µs</choice>
+		<answer>2</answer>•
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voortplantingssnelheid van een radio-elektrische golf in de vrije ruimte is (benaderend):</text>
+		<choice>300.000 km/u</choice>
+		<choice>300.000 m/s</choice>
+		<choice>300.000 km/s</choice>
+		<choice>300.000 m/u</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een elektromagnetische golf is horizontaal gepolariseerd als</text>
+		<choice>het magnetisch veld varieert in het horizontale vlak</choice>
+		<choice>het elektrisch veld varieert in het horizontale vlak</choice>
+		<choice>de geleider(s) van de antenne horizontaal zijn opgesteld</choice>
+		<choice>de geleider(s) van de antenne niet vertikaal zijn opgesteld</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>6,23 MHz is</text>
+		<choice>623.000 Hz</choice>
+		<choice>0,00623 GHz</choice>
+		<choice>62300 kHz</choice>
+		<choice>0,0623 GHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een sinusoidale golf?</text>
+		<choice>een golf met constante spanning en variërende stroom</choice>
+		<choice>een golf waarvan de amplitude op elk ogenblik kan voorgesteld worden door de afstand tussen het middelpunt van een cirkel en de projectie op een  as gaande door dat middelpunt van een punt dat op de omtrek van een cirkel draait met een constante snelheid.</choice>
+		<choice>Een golf waarvan de amplitude op elk ogenblik kan voorgesteld worden door een punt dat op de omtrek van een cirkel draait met een constante snelheid.</choice>
+		<choice>Een golf die de trigonometrische tangensfunctie volgt</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusoïdale wisselspanning is gegeven door</text>
+		<choice>Umax . sin (ω · t)  waarbij  ω = 2 ·  π  · f</choice>
+		<choice>Ueff</choice>
+		<choice>Umax . sin  (ω · t²)  waarbij  ω = 2 · π · f</choice>
+		<choice>Umax · sin ω  waarbij ω = 2 · π · f</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ogenblikkelijke waarde van een sinusoïdale wisselspanning met een frequentie van 1000 Hz gelijk is aan zijn amplitude en een waarde heeft van 10 V, wat is de ogenblikkelijke waarde 1 ms later?</text>
+		<choice>0 V</choice>
+		<choice>10 V</choice>
+		<choice>5 V</choice>
+		<choice>7,1 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ogenblikkelijke waarde van een sinusoïdale wisselspanning met een frequentie van 1000 Hz gelijk is aan zijn amplitude en een waarde heeft van 10 V, wat is de ogenblikkelijke waarde 0,5 ms later?</text>
+		<choice>0 V</choice>
+		<choice>10 V</choice>
+		<choice>5 V</choice>
+		<choice>-10V</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ogenblikkelijke waarde van een sinusoïdale wisselspanning met een frequentie van 1000 Hz gelijk is aan zijn amplitude en een waarde heeft van 10 V, wat is de ogenblikkelijke waarde 250 µs later?</text>
+		<choice>10 V</choice>
+		<choice>0 V</choice>
+		<choice>5 V</choice>
+		<choice>7.1 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ogenblikkelijke waarde van een sinusoïdale wisselspanning met een frequentie van 1000 Hz gelijk is aan zijn amplitude en een waarde heeft van 10 V, wat is de ogenblikkelijke waarde 750 µs later?</text>
+		<choice>10 V</choice>
+		<choice>0 V</choice>
+		<choice>5 V</choice>
+		<choice>7,1 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ogenblikkelijke waarde van een sinusoïdale wisselspanning met een frequentie van 1000 Hz gelijk is aan zijn amplitude en een waarde heeft van 10 V, wat is de ogenblikkelijke waarde 10 ms later?</text>
+		<choice>0 V</choice>
+		<choice>10 V</choice>
+		<choice>5 V</choice>
+		<choice>7,1 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De amplitude van een sinusoïdale wisselspanning is:</text>
+		<choice>de maximale waarde</choice>
+		<choice>de effectieve waarde</choice>
+		<choice>de gemiddelde waarde</choice>
+		<choice>0,701 maal de maximale waarde</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusoïdale wisselspanning met een maximale waarde van 10 V wordt aangesloten op een weerstand van 10 Ω. Het opgenomen vermogen is</text>
+		<choice>10 W</choice>
+		<choice>5 W</choice>
+		<choice>7.07 W</choice>
+		<choice>14.14 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusoïdale wisselspanning met een maximale waarde van 1 V wordt aangesloten op een weerstand van 10 ΩO. Het opgenomen vermogen is</text>
+		<choice>0,1 W</choice>
+		<choice>0,05 W</choice>
+		<choice>0,707 W</choice>
+		<choice>1.41 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusoïdale wisselspanning met een maximale waarde van 100 V wordt aangesloten op een weerstand van 10 Ω. Het opgenomen vermogen is</text>
+		<choice>1000 W</choice>
+		<choice>500 W</choice>
+		<choice>70,7 W</choice>
+		<choice>141 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusoïdale wisselspanning met een maximale waarde van 50 V wordt aangesloten op een weerstand van 10 Ω. Het opgenomen vermogen is</text>
+		<choice>250 W</choice>
+		<choice>125 W</choice>
+		<choice>35,35 W</choice>
+		<choice>70,7 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusoïdale wisselspanning met een maximale waarde van 30 V wordt aangesloten op een weerstand van 10 Ω. Het opgenomen vermogen is</text>
+		<choice>90 W</choice>
+		<choice>45 W</choice>
+		<choice>21,2 W</choice>
+		<choice>42,4 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De maximale waarde van een sinusoïdale wisselstroom is gegeven door:</text>
+		<choice>1,41 x Ieff</choice>
+		<choice>1,57 x Ieff</choice>
+		<choice>2 x Ieff</choice>
+		<choice>1,33 Ieff</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De effectieve waarde van een sinusvormige wisselstroom is:</text>
+		<choice>is hetzelfde als de gemiddelde waarde</choice>
+		<choice>de waarde van een constante gelijkstroom die in eenzelfde tijd, in eenzelfde weerstand eenzelfde vermogen dissipeert als de beschouwde wisselstroom</choice>
+		<choice>de waarde van een constante gelijkstroom die in eenzelfde tijd eenzelfde lading verplaatst als de beschouwde wisselstroom</choice>
+		<choice>is de waarde van een constante gelijkstroom die in eenzelfde tijd eenzelfde vermogen dissipeert als de beschouwde wisselstroom</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormige wisselspanning heeft een piek-tot-piek waarde van 100 V en een frequentie van 100 Hz. Wat is zijn effectieve waarde ?</text>
+		<choice>71 V</choice>
+		<choice>141 V</choice>
+		<choice>35,4 V</choice>
+		<choice>100 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men spreekt over een netspanning van 240 V dan bedoelt men</text>
+		<choice>240 Vgem</choice>
+		<choice>240 Veff</choice>
+		<choice>240 Vmax</choice>
+		<choice>240Vptp</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De gemiddelde waarde van een sinusoïdale stroom is</text>
+		<choice>de waarde die een gelijkstroom zou moeten hebben om in eenzelfde tijd, in eenzelfde weerstand dezelfde hoeveelheid warmte te ontwikkelen als de beschouwde wisselstroom</choice>
+		<choice>de gelijkstroom die overeenkomt met de gemiddelde waarde van de wisselstroom in de tijd van een halve periode</choice>
+		<choice>de gelijkstroom die overeenkomt met de gemiddelde waarde van de wisselstroom in de tijd van een periode</choice>
+		<choice>Imax / 2</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De gemiddelde waarde van een sinusoïdale wisselstroom  is gegeven door</text>
+		<choice>0,707 Imax</choice>
+		<choice>0,636 Imax</choice>
+		<choice>1,41 Imax</choice>
+		<choice>1,57 Imax</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode van een wisselspanning is gegeven door:</text>
+		<choice>T = 1 / f</choice>
+		<choice>T = 300.000 / f</choice>
+		<choice>T = 1 / (2 · p · f)</choice>
+		<choice>T = 1 / p</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode  van een signaal is 10 ms. Welk is zijn frequentie?</text>
+		<choice>100 kHz</choice>
+		<choice>1000 Hz</choice>
+		<choice>10 Hz</choice>
+		<choice>100 Hz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode van een signaal is 1 ms. Welk is zijn frequentie?</text>
+		<choice>1 MHz</choice>
+		<choice>10000 Hz</choice>
+		<choice>100 Hz</choice>
+		<choice>1000 Hz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode van een signaal is 100 ms. Welk is zijn frequentie?</text>
+		<choice>10 kHz</choice>
+		<choice>100 Hz</choice>
+		<choice>1 Hz</choice>
+		<choice>10 Hz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode  van een signaal is 0,5 s. Welk is zijn frequentie?</text>
+		<choice>2 kHz</choice>
+		<choice>20 Hz</choice>
+		<choice>0,2 Hz</choice>
+		<choice>2 Hz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De periode van een signaal is 200 ms. Welk is zijn frequentie?</text>
+		<choice>5 kHz</choice>
+		<choice>50 Hz</choice>
+		<choice>500 Hz</choice>
+		<choice>5 Hz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanning is 1000 Hz. Wat is de periode?</text>
+		<choice>500 µs</choice>
+		<choice>100 ms</choice>
+		<choice>1 ms</choice>
+		<choice>10 ms</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanning is 100 Hz. Wat is de periode?</text>
+		<choice>100 µs</choice>
+		<choice>1 ms</choice>
+		<choice>10 ms</choice>
+		<choice>100 ms</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanning is 10 Hz. Wat is de periode?</text>
+		<choice>100 µs</choice>
+		<choice>1 ms</choice>
+		<choice>100 ms</choice>
+		<choice>10 s</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanning is 500 Hz. Wat is de periode?</text>
+		<choice>200 µs</choice>
+		<choice>200 ms</choice>
+		<choice>2 ms</choice>
+		<choice>20 ms</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanning is 200 Hz. Wat is de periode?</text>
+		<choice>500 µs</choice>
+		<choice>500 ms</choice>
+		<choice>5 ms</choice>
+		<choice>50 ms</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een periodisch wisselspanningssignaal is</text>
+		<choice>het aantal keer per seconde dat de ogenblikkelijke waarde verandert van positief naar negatief en omgekeerd</choice>
+		<choice>het aantal keer per seconde dat de ogenblikkelijke waarde  verandert  van positief naar negatief</choice>
+		<choice>het aantal keer per minuut dat de ogenblikkelijke waarde verandert van positief naar negatief en omgekeerd</choice>
+		<choice>het aantal keer per minuut dat de ogenblikkelijke waarde  verandert  van positief naar negatief</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe hoger de frequentie</text>
+		<choice>hoe langer de periode</choice>
+		<choice>hoe korter de periode</choice>
+		<choice>hoe hoger de spanning</choice>
+		<choice>hoe hoger de stroom</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusvormig signaal verandert per seconde 20maal van een positieve naar een negatieve waarde. Wat is de frequentie van dat signaal?</text>
+		<choice>20 Hz</choice>
+		<choice>40 Hz</choice>
+		<choice>80 Hz</choice>
+		<choice>8 Hz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusvormig signaal verandert per seconde 100maal van een positieve naar een negatieve waarde. Wat is de frequentie van dat signaal?</text>
+		<choice>100 Hz</choice>
+		<choice>200 Hz</choice>
+		<choice>400 Hz</choice>
+		<choice>4 Hz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusvormig signaal verandert per seconde 4 x 10 3maal van een positieve naar een negatieve waarde. Wat is de frequentie van dat signaal?</text>
+		<choice>4 kHz</choice>
+		<choice>2 kHz</choice>
+		<choice>8 kHz</choice>
+		<choice>800 Hz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusvormig signaal verandert per seconde 4 x 10 6maal van een positieve naar een negatieve waarde. Wat is de frequentie van dat signaal?</text>
+		<choice>4 MHz</choice>
+		<choice>2 MHz</choice>
+		<choice>8 MHz</choice>
+		<choice>800 kHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De ogenblikkelijke waarde van een sinusvormig signaal verandert per seconde 10 6maal van een positieve naar een negatieve waarde. Wat is de frequentie van dat signaal?</text>
+		<choice>1 MHz</choice>
+		<choice>500 kHz</choice>
+		<choice>2 MHz</choice>
+		<choice>200 kHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de derde harmonische van een signaal met een golflengte van 10 meter is:</text>
+		<choice>90 MHz</choice>
+		<choice>30 MHz</choice>
+		<choice>3,2 MHz</choice>
+		<choice>33 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de derde harmonische van een signaal met een golflengte van 20 meter is:</text>
+		<choice>45 MHz</choice>
+		<choice>60 MHz</choice>
+		<choice>6,6 MHz</choice>
+		<choice>66 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de derde harmonische van een signaal met een golflengte van 30 meter is:</text>
+		<choice>30 MHz</choice>
+		<choice>90 MHz</choice>
+		<choice>10 MHz</choice>
+		<choice>100 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de derde harmonische van een signaal met een van 80 meter is:</text>
+		<choice>11,25 MHz</choice>
+		<choice>240 MHz</choice>
+		<choice>26,6 MHz</choice>
+		<choice>266 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een periodisch signaal heeft een frequentie van 1 kHz. Hoeveel maal per seconde gaat de ogenblikkelijke waarde door de nullijn?</text>
+		<choice>500 maal</choice>
+		<choice>1000 maal</choice>
+		<choice>2000 maal</choice>
+		<choice>4000 maal</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van een wisselspanningssignaal is</text>
+		<choice>300.000 / (de periode van het signaal)</choice>
+		<choice>1 / (de periode van het signaal)</choice>
+		<choice>1 / hoeksnelheid  (van het signaal)</choice>
+		<choice>300.000 x de periode van het signaal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het fazeverschil tussen twee sinusoïdale wisselspanningen van gelijke frequenties</text>
+		<choice>Is het verschil tussen de periodes van de twee beschouwde signalen</choice>
+		<choice>is de kleinste hoek tussen twee overeenkomstige waarden (vb positieve maximale waarden) van de twee beschouwde signalen</choice>
+		<choice>Is het verschil tussen de periodes van de twee beschouwde signalen, gedeeld door hun frequentie</choice>
+		<choice>is het verschil tussen de hoeksnelheden van de twee beschouwde signalen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Men spreekt doorgaans alleen van fazeverschil tussen twee wisselspanningen</text>
+		<choice>als de vormen van de wisselspanningen dezelfde zijn</choice>
+		<choice>bij wisselspanningen met eenzelfde frequentie</choice>
+		<choice>als de periode / frequentie een constante is</choice>
+		<choice>als de frequenties van beide signalen niet te veel verschillen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_cf2771f563878abe.png</image>
+	<text>Wat is het fazeverschil tussen de beide sinusoïdale signalen</text>
+		<choice>spanning A is in faze met spanning B</choice>
+		<choice>spanning A ijlt 180 graden na op spanning B</choice>
+		<choice>spanning A ijlt 90 graden voor op spanning B</choice>
+		<choice>spanning A ijlt 90 graden na op spanning B</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_303248ce4508b686.png</image>
+	<text>In welk beeld is er een fazeverschil van 180 graden tussen de twee signalen?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een fazeverschil van 765° is hetzelfde als een fazeverschil van:</text>
+		<choice>45°</choice>
+		<choice>65°</choice>
+		<choice>400°</choice>
+		<choice>365°</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Twee sinusvormige wisselspanningen met gelijke amplitudes en frequenties en een faseverschil van 180 graden worden opgeteld. Het resultaat is een sinusvormig signaal met:</text>
+		<choice>dubbele frequentie</choice>
+		<choice>dubbele amplitude</choice>
+		<choice>amplitude nul</choice>
+		<choice>gelijke effectieve waarde</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Audiosignalen gebruikt in telecommunicatie spreiden typisch</text>
+		<choice>van 10 Hz tot 5 kHz</choice>
+		<choice>van 300 Hz tot 3 kHz</choice>
+		<choice>van 25 Hz tot 10 kHz</choice>
+		<choice>van 10 Hz tot 15 kHz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een audiosignaal</text>
+		<choice>is een periodiek signaal</choice>
+		<choice>is een niet-periodiek signaal</choice>
+		<choice>is samengesteld uit vierkantsgolven</choice>
+		<choice>is steeds een combinatie van een wisselspanning en geen gelijkspanning</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een vierkantsgolf (blokgolf) is samengesteld uit</text>
+		<choice>een sinusoïdale golf met dezelfde frequentie als de vierkantsgolf met alle harmonischen ervan</choice>
+		<choice>een sinusoïdale golf met dezelfde frequentie als de vierkantsgolf met alle even harmonischen ervan</choice>
+		<choice>een sinusoïdale golf met dezelfde frequentie als de vierkantsgolf met alle oneven harmonischen ervan</choice>
+		<choice>een driehoeksgolf met dezelfde frequentie als de vierkantsgolf met alle even harmonischen ervan</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke soort golf is samengesteld uit een sinusgolf en al zijn oneven harmonischen?</text>
+		<choice>de driehoeksgolf</choice>
+		<choice>de  zaagtandgolf</choice>
+		<choice>de vierkantsgolf of blokgolf</choice>
+		<choice>de cosinusgolf</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de vierde harmonische van een zender die werkt op de 20-meterband is ongeveer:</text>
+		<choice>5 MHz</choice>
+		<choice>57 MHz</choice>
+		<choice>80 MHz</choice>
+		<choice>62 MHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De vereiste audio-frequentieband voor efficiënte spraakcommunicatie via radio is ongeveer:</text>
+		<choice>100 – 3500 Hz</choice>
+		<choice>300 – 3000 Hz</choice>
+		<choice>100 – 5000 Hz</choice>
+		<choice>500 – 1500 Hz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk van volgende signalen is niet-periodiek</text>
+		<choice>ruis</choice>
+		<choice>een laagfrequent sinusvormig signaal</choice>
+		<choice>een blokgolf</choice>
+		<choice>een hoogfrequent sinusvormig signaal</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er als men de modulatiediepte bij AM vermindert?</text>
+		<choice>de draaggolf verandert niet in amplitude, maar de twee zijbanden wel</choice>
+		<choice>de draaggolf en de twee zijbanden verminderen in amplitude</choice>
+		<choice>de draaggolf vermindert in amplitude</choice>
+		<choice>de draaggolf vergroten van amplitude. De twee zijbanden verkleinen van amplitude</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat wordt bedoeld met modulatie?</text>
+		<choice>Met minder of meer uitsturen van een eindversterker</choice>
+		<choice>het elimineren van de draaggolf via faze-methode</choice>
+		<choice>een lineaire versterking</choice>
+		<choice>een proces waarbij informatie bij een draaggolf wordt bijgevoegd</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een gesleutelde CW (A1A) zender</text>
+		<choice>heeft geen zijbanden</choice>
+		<choice>heeft twee zijbanden zoals een AM signaal</choice>
+		<choice>heeft een oneindig kleine bandbreedte</choice>
+		<choice>heeft een bandbreedte van 100 Hz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een CW gemoduleerd signaal is naar essentie</text>
+		<choice>een FM-signaal</choice>
+		<choice>een AM-signaal</choice>
+		<choice>een SSB (of EZB) signaal</choice>
+		<choice>een continue draaggolf</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Zijbanden zijn</text>
+		<choice>nieuwe modulatiefrequenties</choice>
+		<choice>nieuwe HF-signalen die tengevolge van het moduleren optreden</choice>
+		<choice>signalen die optreden tengevolge van het vervormen van de draaggolf</choice>
+		<choice>harmonischen van de zender</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het begrenzen van de amplitude van het LF-signaal bij een AM-zender dient om:</text>
+		<choice>het zendbereik te vergroten</choice>
+		<choice>overmodulatie te voorkomen</choice>
+		<choice>de bandbreedte te verkleinen</choice>
+		<choice>de frequentie stabiel te houden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een AM-zender wordt 100% gemoduleerd met 1 enkele audiotoon. Het piekvermogen (PEP of peak envelope power) is 200 W. Wat is het draaggolf-vermogen?</text>
+		<choice>200 W</choice>
+		<choice>100 W</choice>
+		<choice>50 W</choice>
+		<choice>25 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een AM zender met een draaggolfvermogen van 100 W wordt 100 % gemoduleerd. Hoeveel vermogen bevindt zich in 1 zijband?</text>
+		<choice>100 W</choice>
+		<choice>50 W</choice>
+		<choice>25 W</choice>
+		<choice>16,7 W</choice>
+		<answer>3</answer>11/2/2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als een draaggolf van 100 W 100% gemoduleerd wordt in AM wat is dan het piekvermogen van het gemoduleerde signaal?</text>
+		<choice>100 W</choice>
+		<choice>150 W</choice>
+		<choice>200 W</choice>
+		<choice>400 W</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Amplitude modulatie</text>
+		<choice>is het optellen van een RF signaal met een audio-signaal</choice>
+		<choice>is een menging van een RF signaal met een audio-signaal</choice>
+		<choice>wordt meestal gebruikt door de radioamateurs op de 2m band</choice>
+		<choice>wordt meestal gebruikt door de radioamateurs op de HF-banden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Enkelzijbandmodulatie zoals courant gebruikt op de amateurbanden is</text>
+		<choice>amplitudemodulatie met 1 slechts 1 zijband</choice>
+		<choice>amplitidudemodulatie zonder draaggolf en zonder een tweede zijband</choice>
+		<choice>amplitudemodulatie met onderdrukte draaggolf en onderdrukte 2de zijband</choice>
+		<choice>fazemoldulatie met 1 zijband</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het genereren van DZB (dubbelzijband) kan gebeuren d.m.v.</text>
+		<choice>een variabele reactantieschakeling</choice>
+		<choice>een dubbelgebalanceerde mengtrap</choice>
+		<choice>een fazegecompenseerde modulator</choice>
+		<choice>een klasse C modulator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een DZB (dubbelzijband) signaal kan men een EZB (enkelzijband) signaal maken door</text>
+		<choice>het signaal door een dubbelgebalanceerde mengtrap sturen</choice>
+		<choice>het signaal door gepaste filters te sturen die een van de zijbanden onderdrukt</choice>
+		<choice>het signaal door een selectieve klasse C versterker sturen</choice>
+		<choice>het signaal mengen naar een hogere frequentie</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het grote voordeel van EZB (SSB) modulatie t.o.v AM-modulatie?</text>
+		<choice>minder vervorming</choice>
+		<choice>minder dan de helft van de bandbreedte van een AM signaal en betere vermogenefficiëntie</choice>
+		<choice>minder dan de helft van de bandbreedte van een AM signaal</choice>
+		<choice>eenvoudiger  te ontvangen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In de veronderstelling dat een AM-zender en een EZB-zender hetzelfde piekvermogen uitzenden, hoeveel is dat het nuttig vermogen van de EZB-zender groter dan dat van de AM-zender?</text>
+		<choice>3 dB</choice>
+		<choice>4,8 dB</choice>
+		<choice>6 dB</choice>
+		<choice>7,8 dB</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>bij Fazemodulatie gebeurt de modulatie in</text>
+		<choice>de eindtrap van de zender</choice>
+		<choice>in de oscillatortrap</choice>
+		<choice>in de laagfrequentversterker</choice>
+		<choice>in een trap die op de oscillator volgt</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het voornaamste voordeel van frequentiemodulatie in vergelijking met AM-modulatie is:</text>
+		<choice>een beter gebruik van het frequentiespectrum</choice>
+		<choice>een betere spreiding van het vermogen in het spectrum</choice>
+		<choice>de afwezigheid van de draaggolf als er geen modulatie is</choice>
+		<choice>minder gevoelig voor storingen bij ontvangst </choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om eenzelfde signaal-ruisverhouding bij ontvangst te produceren t.o.v. een zender in AM-gemoduleerd heeft een EZB (SSB) zender minder vermogen nodig. Hoeveel maal minder?</text>
+		<choice>2 maal</choice>
+		<choice>3 maal</choice>
+		<choice>4 maal</choice>
+		<choice>13,2 maal</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De modulatie-index  van een FM signaal</text>
+		<choice>is de verhouding van de deviatie (zwaai) t.o.v de maximale frequentie van het audiosignaal</choice>
+		<choice>is hetzelfde als de deviatie (zwaai) van een FM signaal</choice>
+		<choice>is de verhouding van de deviatie (zwaai) t.o.v de draaggolf-frequentie</choice>
+		<choice>is de verhouding van de maximale audiofrequentie t.o.v. de draaggolf frequentie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentiezwaai (deviatie) van een FM-zender wordt vergroot van 2 kHz naar 3 kHz. Het zendvermogen van de zender:</text>
+		<choice>wordt 2/3 maal de vroegere waarde</choice>
+		<choice>blijft gelijk</choice>
+		<choice>wordt 3/2 maal de vorige waarde</choice>
+		<choice>wordt 9/4 maal de vorige waarde</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een modulerend sinussignaal van 1 kHz en een zwaai van 5 kHz heeft een modulatie-index van:</text>
+		<choice>0,2</choice>
+		<choice>2,5</choice>
+		<choice>5</choice>
+		<choice>10</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een modulerend sinussignaal van 500 Hz en een deviatie (zwaai) van 5 kHz heeft een modulatie-index van:</text>
+		<choice>0,1</choice>
+		<choice>5</choice>
+		<choice>10</choice>
+		<choice>20</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een modulerend sinussignaal van 2 kHz en een deviatie (zwaai) van 5 kHz heeft een modulatie-index van:</text>
+		<choice>0,4</choice>
+		<choice>1,25</choice>
+		<choice>2,5</choice>
+		<choice>5</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een modulerend sinussignaal van 5 kHz en een (deviatie) zwaai van 5 kHz heeft een modulatie-index van:</text>
+		<choice>0,1</choice>
+		<choice>0,5</choice>
+		<choice>1</choice>
+		<choice>2</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een modulerend sinussignaal van 2,5 kHz en een deviatie (zwaai) van 5 kHz heeft een modulatie-index van:</text>
+		<choice>0,5</choice>
+		<choice>1</choice>
+		<choice>2</choice>
+		<choice>4</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Voor smalband FM-modulatie (NBFM), zoals gebruikt door radioamateurs, is de frequentiezwaai (deviatie) in FM doorgaans beperkt tot:</text>
+		<choice>10-20 kHz</choice>
+		<choice>4-5 kHz</choice>
+		<choice>1-2 kHz</choice>
+		<choice>25-40 kHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de nodige doorlaatband (bandbreedte) B van een FM-gemoduleerd signaal (Δf = frequentiezwaai of deviatie, fm = frequentie van het modulerend signaal)</text>
+		<choice>B = (Δf + 2 · fm)</choice>
+		<choice>B = 2 · (Δf + fm)</choice>
+		<choice>B = (Δf + fm)</choice>
+		<choice>B = 2 ·(Δf + 2 · fm)</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een NBFM signaal op 145,500 MHz heeft een hoogste modulatiefrequentie van 3 kHz en een frequentiezwaai van 5 kHz. Bepaal de nodige bandbreedte.</text>
+		<choice>11 kHz</choice>
+		<choice>13 kHz</choice>
+		<choice>8 kHz</choice>
+		<choice>16 kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een NBFM signaal op 145,500 MHz heeft een hoogste modulatiefrequentie van 3 kHz en een frequentiezwaai van 3 kHz. Bepaal de nodige bandbreedte.</text>
+		<choice>10 kHz</choice>
+		<choice>9 kHz</choice>
+		<choice>6 kHz</choice>
+		<choice>12 kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een NBFM signaal op 145,500 MHz heeft een hoogste modulatiefrequentie van 3 kHz en een frequentiezwaai (deviatie) van 7.5 kHz. Bepaal de nodige bandbreedte.</text>
+		<choice>13,5 kHz</choice>
+		<choice>18 kHz</choice>
+		<choice>10,5 kHz</choice>
+		<choice>21 kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een NBFM signaal op 145,500 MHz heeft een hoogste modulatiefrequentie van 3 kHz en een frequentiezwaai (deviatie) van 6 kHz. Bepaal de nodige bandbreedte.</text>
+		<choice>12 kHz</choice>
+		<choice>15 kHz</choice>
+		<choice>9 kHz</choice>
+		<choice>18kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de maximale frequentiezwaai die kan gebruikt worden om een NBFM signaal met een maximale modulatiefrequentie van 3 kHz te doen werken op een rasterfrequentie van 12.5 kHz (dus de bandbreedte mag niet groter zijn dan 12,5 kHz)?</text>
+		<choice>ca. 5 kHz</choice>
+		<choice>ca. 3 kHz</choice>
+		<choice>ca. 2 kHz</choice>
+		<choice>ca. 10 kHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een frequentiezwaai (deviatie) van 5 kHz wordt gemoduleerd met een sinussignaal met een amplitude van 2,5 V en een frequentie van 1 kHz. Wat is de modulatieindex?</text>
+		<choice>0,2</choice>
+		<choice>2</choice>
+		<choice>5</choice>
+		<choice>10</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Tijdens het moduleren van een FM zender</text>
+		<choice>blijft het zendvermogen onveranderd</choice>
+		<choice>verandert het zendvermogen</choice>
+		<choice>verandert zendvermogen soms tijdens de modulatiepieken</choice>
+		<choice>verandert zendvermogen altijd tijdens de modulatiepieken</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een FM signaal met een frequentiezwaai (deviatie) van 5 kHz wordt gemoduleerd met een sinussignaal met een amplitude van 1 V en een frequentie van 2,5 kHz. Wat is de modulatieindex?</text>
+		<choice>0,2</choice>
+		<choice>2</choice>
+		<choice>5</choice>
+		<choice>10</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij frequentiemodulatie is de frequentie-uitwijking maximaal als de amplitude van het modulerend signaal</text>
+		<choice>door een minimum gaat</choice>
+		<choice>door nul gaat</choice>
+		<choice>maximaal is</choice>
+		<choice>positief is</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij frequentiemodulatie: hoe groter de modulatie-index</text>
+		<choice>hoe groter de bandbreedte van het uitgezonden signaal</choice>
+		<choice>hoe meer het gemoduleerd signaal te lijden heeft onder ongewenste amplitude-modulatie</choice>
+		<choice>hoe groter het PEP vermogen</choice>
+		<choice>hoe groter het vermogen in de draaggolf</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij frequentiemodulatie noemt men de verhouding tussen de frequentiezwaai (deviatie) en de frequentie van het modulerend signaal</text>
+		<choice>de modulatiediepte</choice>
+		<choice>de modulatie-index</choice>
+		<choice>de frequentiezwaai</choice>
+		<choice>de frequentiesprong</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De bandbreedte van een SSB signaal dat gemoduleerd is met een audiosignaal van 300 Hz tot 2100 Hz</text>
+		<choice>is de helft zo breed als een AM- signaal dat met hetzelfde audiosignaal is gemoduleerd</choice>
+		<choice>heeft een bandbreedte van 43 % vergeleken met een AM- signaal dat met hetzelfde audiosignaal is gemoduleerd</choice>
+		<choice>heeft dezelfde bandbreedte als van een AM- signaal dat met hetzelfde audiosignaal is gemoduleerd</choice>
+		<choice>heeft een bandbreedte van 2100 Hz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke voorzorgen moet men nemen om een SSB of een AM signaal te versterken?</text>
+		<choice>een versterker gebruiken die werkt in klasse C</choice>
+		<choice>een versterker gebruiken die werkt in klasse A of AB</choice>
+		<choice>steeds een versterker gebruiken die werkt in klasse B</choice>
+		<choice>alleen een klasse A versterker gebruiken</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>welke soort signalen mogen in een klasse-C versterker worden versterkt?</text>
+		<choice>enkel AM</choice>
+		<choice>enkel SSB</choice>
+		<choice>enkel CW</choice>
+		<choice>CW, FM en PM</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een CW zender die een signaal uitzendt met perfect stijle flanken (bij aan- en uitschakelen) heeft een bandbreedte van:</text>
+		<choice>zeer klein</choice>
+		<choice>zeer groot</choice>
+		<choice>nul</choice>
+		<choice>exact 1 kHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De bandbreedte van een CW zender wordt bepaald door</text>
+		<choice>de zendsnelheid en de vorm (stijg- en daaltijd) van de flanken van het omhullende van he HF signaal</choice>
+		<choice>is constant</choice>
+		<choice>enkel door de zendsnelheid</choice>
+		<choice>de gebruikte frequentie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De bandbreedte van een CW  (A1A) zender is afhankelijk van</text>
+		<choice>de frequentie waarop wordt uitgezonden</choice>
+		<choice>de snelheid waarmee wordt gesleuteld</choice>
+		<choice>het vermogen van de zender</choice>
+		<choice>steeds nul</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om de bandbreedte van een CW signaal zo klein mogelijk te houden</text>
+		<choice>moet men het vermogen zo klein mogelijk houden</choice>
+		<choice>moet men via filtering de flankstijheid van het CW-signaal optimaliseren</choice>
+		<choice>zo zuiver mogelijk en zonder fouten seinen</choice>
+		<choice>moet men via filtering de flankstijlheid van het CW-signaal zo groot mogelijk maken</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>wat is sleutelklikken (cliks)</text>
+		<choice>overmodulatie van een CW signaal</choice>
+		<choice>te grote bandbreedte bij een CW signaal veroorzaakt door te veel harmonische componenten in het modulerende signaal</choice>
+		<choice>te grote bandbdreedte van een CW signaal veroorzaakt door gebruik van te hoog vermogen</choice>
+		<choice>te grote bandbreedte veroorzaakt door te veel clipping van het modulerende signaal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is tjsirp (chirp)</text>
+		<choice>het verschuiven van frequentie van een SSB zender wegens slechte stabiliteit van de VFO</choice>
+		<choice>het verschuiven van de frequentie van telegrafiezender in het ritme van het seinen</choice>
+		<choice>te grote bandbreedte bij een CW signaal verorozaakt door te veel harmonische componenten in het modulerende signaal</choice>
+		<choice>overmodulatie van een CW signaal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_946c578db16f17ec.png</image>
+	<text>Welke van de volgende omhullende golfvormen stelt een CW-signaal voor</text><choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_6f471e775986ec22.png</image>
+	<text>Welke van de volgende omhullende golfvormen stelt een 100% gemoduleerd AM-signaal voor</text><choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_47aba721fdb53ca1.png</image>
+	<text>Welke van de volgende omhullende golfvormen stelt een SSB-signaal voor</text><choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_4b3ca237fdfc7b69.png</image>
+	<text>Wat is de modulatiediepte van het AM-gemoduleerde (enkel-toon)  HF signaal hierbij voorgesteld?</text>
+		<choice>0,25 (25 %)</choice>
+		<choice>0,5 (50 %)</choice>
+		<choice>1 (100 %)</choice>
+		<choice>0,75 (75 %)</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_6f471e775986ec22.png</image>
+	<text>Welke van de volgende omhullende golfvormen stelt een FM-signaal voor</text>
+		<choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_9815278022d7a42c.png</image>
+	<text>Welke van de volgende spectra stelt een USB-signaal (SSB, bovenste zijband) voor op 1 MHz bestaande uit een enkel-toon modulatie van 1000 Hz</text><choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>2</answer>correctes 20 apr 2009
+
+</question>
+
+
+<question>
+	<image>images/electriciteit_html_b7899726ffc4a68c.png</image>
+	<text>Bijgaand frequentiespectrum stelt voor:</text>
+		<choice>de uitgang van een mengtrap met ingangssignalen op 179,9, 180,0, 180,01 en 5 kHz</choice>
+		<choice>een frequentievermenigvuldiger op 179,99 MHz</choice>
+		<choice>een AM-gemoduleerde draaggolf op 180 MHz met modulatiefrequenties 5 en 10 kHz</choice>
+		<choice>een FM gemoduleerd signaal op 180 MHz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text></text><choice></choice><choice></choice><choice></choice><choice></choice><answer></answer>correctes 20 apr 2009
+
+</question>
+
+
+<question>
+	<image>images/electriciteit_html_b9f9ac5fdabc0544.png</image>
+	<text>Welke van de volgende spectra stelt een AM- signaal voor, waarvan de draaggolf 100% gemoduleerd is met een enkele toon van 1000 Hz</text>
+		<choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_50c3f74b2872a2e6.png</image>
+	<text>Welk frequentiespectrum stelt een FM gemoduleerd signaal voor?</text>
+		<choice>A  </choice>
+		<choice>B</choice>
+		<choice>C </choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij modulatie van een draaggolf met een digitaal signaal, duidt  FSK op</text>
+		<choice>het schakelen van de draaggolffrequentie tussen 4 verschillende frequenties</choice>
+		<choice>het schakelen van de fase van de  draaggolf tussen 16 verschillende fasen</choice>
+		<choice>het schakelen van de draaggolffrequentie tussen 2 verschillende frequenties</choice>
+		<choice>het schakelen van de draaggolffrequentie tussen 16 verschillende frequenties</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij modulatie van een draaggolf met een digitaal signaal, duit de methode 2-PSK op:</text>
+		<choice>het schakelen van de draaggolffrequentie tussen 4 verschillende frequenties</choice>
+		<choice>het schakelen van de fase van de  draaggolf tussen 2 verschillende fasen</choice>
+		<choice>het schakelen van de draaggolffrequentie tussen 2 verschillende frequenties</choice>
+		<choice>het moduleren van de amplitude tussen 2 verschillende niveaus</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij modulatie van een draaggolf met een digitaal signaal, duit de methode 4-PSK op:</text>
+		<choice>het schakelen van de draaggolffrequentie tussen 4 verschillende frequenties</choice>
+		<choice>het schakelen van de fase van de  draaggolf tussen 4 verschillende fasen</choice>
+		<choice>het schakelen van de draaggolffrequentie tussen 2 verschillende frequenties</choice>
+		<choice>het schakelen van de draaggolffrequentie tussen 16 verschillende frequenties</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij modulatie van een draaggolf met een digitaal signaal in FSK:</text>
+		<choice>blijft de amplitude van het zendsignaal constant</choice>
+		<choice>verandert de amplitude van het zendsignaal</choice>
+		<choice>is de frequentie van de zendsignaal constant</choice>
+		<choice>moet men in elk geval versterkers met zeer goede lineariteit gebruiken</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat noemt men de twee frequenties bij FSK?</text>
+		<choice>Mark en Space</choice>
+		<choice>Hoog en Laag</choice>
+		<choice>Een en Nul</choice>
+		<choice>On en Off</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De digitale modulatievorm genaamd QAM</text>
+		<choice>is minder gevoelig aan storingen dan PSK</choice>
+		<choice>heeft een hogere bit rate dan PSK</choice>
+		<choice>verandert bij modulatie de amplitude van het signaal niet</choice>
+		<choice>worden twee frequenties gebruikt zoals in FSK</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als een digitaal signaal bestaat uit een opeenvolging van 1 en 0 (dus een blolkgolf)</text>
+		<choice>is de bit rate gellijk aan de frequentie van de blokgolf</choice>
+		<choice>is de bit rate twee maal hoger dan de frequentie van de blokgolf</choice>
+		<choice>is de bit ratye twee maal kleiner dan de frequentie van de blokgolf</choice>
+		<choice>is de bit rate gelijk aan de baud rate</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De bit rate van een digitaal signaal wordt uitgedrukt in</text>
+		<choice>bps</choice>
+		<choice>bd</choice>
+		<choice>bpm</choice>
+		<choice>Hz/sec</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De baud-rate is</text>
+		<choice>steeds groter dan de bit-rate</choice>
+		<choice>het aantal wijzigingen van het gemoduleerde signaal per seconde</choice>
+		<choice>de snelheid van een telexmachine</choice>
+		<choice>is steeds hetzelfde als de bit rate</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De baud rate van een signaal wordt uitgedrukt in</text>
+		<choice>bps</choice>
+		<choice>bd</choice>
+		<choice>bpm</choice>
+		<choice>Hz/sec</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De bandbreedte van een FSK signaal</text>
+		<choice>is kleiner dan van een PSK signaal</choice>
+		<choice>is kleiner dan van een QPSK signaal</choice>
+		<choice>is groter dan van PSK signalen</choice>
+		<choice>is hetzelfde als van PSK-signalen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat veroorzaakt in eerste instantie de bandbreedte bij een correct gemoduleerd  PSK signaal</text>
+		<choice>de varierende snelheid van de baud rate</choice>
+		<choice>de varierende snelheid van de bit rate</choice>
+		<choice>de fazesprong bij het moduleren</choice>
+		<choice>key clicks bij het aan en uitschakelen van de draaggolf</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Ten einde de fouten in digital datatransmissie te verbeteren, duid de CRC (Cyclic Redundance Check) methode op:</text>
+		<choice>het tellen van het aantal bits en het terugzenden van een 1 indien het aantal correct 1</choice>
+		<choice>een methode die bijkomende bits uitzendt volgens een specifieke code, die toelaat de fouten aan de ontvangstzijde te detecteren en te verbeteren</choice>
+		<choice>een methode die om de heruitzending van eenzelfde informatieblok vraagt in geval van fout</choice>
+		<choice>een methode die alle uitgezonden bits registreert, daarop een bepaalde bewerking uitvoert, en het resultaat van deze bewerking meestuurt bij elke groep databits</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Voor het verbeteren van fouten bij digitale transmissies, bestaat de FEC methode</text>
+		<choice>in het gebruik van een pariteisbit om te zien of er al dan niet een fout is bij het doorzenden</choice>
+		<choice>uit het doorzenden van supplementaire bits van een bepaalde code, wat toelaat fouten te identificeren en te verbeteren</choice>
+		<choice>uit het heruitzenden van dezelfde informatie ingeval van fout bij de overseining</choice>
+		<choice>uit het zenden van een pakket gegevens, en het wachten op een ontvangstbevestiging</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het AX-25 protocol gewoonlijk gebruikt bij Packet Radio</text>
+		<choice>gebruikt de CRC-methode om fouten te detecteren</choice>
+		<choice>gebruikt de CRC-methode om fouten te verbeteren</choice>
+		<choice>gebruikt de ARQ-methode om fouten te detecteren</choice>
+		<choice>gebruikt enkel de ARQ  methode om de fouten te detecteren en te verbeteren</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 10 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>6,6 kW</choice>
+		<choice>6,6 kWh</choice>
+		<choice>7,33 kW</choice>
+		<choice>7,33 kWh</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 10 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>660 W</choice>
+		<choice>6660 Wh</choice>
+		<choice>733 W</choice>
+		<choice>733 Wh</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 5 A gedurende 3 uuur. Wat is de geleverde energie?</text>
+		<choice>3,3 kW</choice>
+		<choice>3,3 kWh</choice>
+		<choice>3,66 kW</choice>
+		<choice>3,66 kWh</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 3 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>19,8 kW</choice>
+		<choice>1,98 kWh</choice>
+		<choice>2,2 kW</choice>
+		<choice>2,2 kWh</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 2,5 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>1,65 kW</choice>
+		<choice>1,65 kWh</choice>
+		<choice>1,83 kW</choice>
+		<choice>1,83 kWh</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 10 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>2,2 kWh</choice>
+		<choice>23,76 Mj</choice>
+		<choice>2,2 kW</choice>
+		<choice>7,13 kJ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 1 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>733 Wh</choice>
+		<choice>2,376 Mj</choice>
+		<choice>733 W</choice>
+		<choice>2.376 Joule</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 5 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>3,66 kWh</choice>
+		<choice>11,88 Mj</choice>
+		<choice>3,66 kW</choice>
+		<choice>11,88 kJ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 3 A gedurende 3 uur. Wat is de geleverde energie?</text>
+		<choice>2,2 kWh</choice>
+		<choice>7,13 Mj</choice>
+		<choice>2,2 kW</choice>
+		<choice>7,13 kJ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron van 220 Veff is belast met een weerstand waarin een stroom vloeit van 2,5 A gedurende 3 u. Wat is de geleverde energie?</text>
+		<choice>1,83 kWh</choice>
+		<choice>5,94 Mj</choice>
+		<choice>1,83 kW</choice>
+		<choice>5,94 kJ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_23ace0f1ea414fb7.png</image>
+	<text>Een gelijkspanningsbron (2V) en een sinusoïdale wisselspanningsbron (2 Vmax) zijn beide belast met een gelijke weerstand. In welk schema wordt het grootste vermogen gedissipeerd in de belastingsweerstand?</text>
+		<choice>[1]</choice>
+		<choice>[2]</choice>
+		<choice>beide gelijk</choice>
+		<choice>hangt af van de frequentie van de wisselspanning</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>1 mW is gelijk aan </text>
+		<choice>0 dBm</choice>
+		<choice>1 dBm</choice>
+		<choice>0 dBW</choice>
+		<choice>1 dBW</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een signaal met een niveau van 0 dBW is gelijk aan</text>
+		<choice>1 mW</choice>
+		<choice>1 V</choice>
+		<choice>1 W</choice>
+		<choice>S9</choice>
+		<answer>3</answer>correctie 23 okt 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een signaal met een niveau van 20 dBµV is gelijk aan</text>
+		<choice>1 µV</choice>
+		<choice>10 µV</choice>
+		<choice>100 µV</choice>
+		<choice>1 mV</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het vermogen afgeleverd door van een sinusvormig signaal in een weerstand R is gegeven door:</text>
+		<choice>P = EU² / R waar Ude effectieve spanning is op de weerstand</choice>
+		<choice>P = U²/R waar U de gemiddelde spanning is op de weerstand</choice>
+		<choice>P = U²/R waar U de maximale spanning is op de weerstand</choice>
+		<choice>P = U² / R waarU de top tot top (peak to peak) spanning is op de weerstand</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een decibel?</text>
+		<choice>een relatieve eenheid voor het uitdrukken van verhoudingen in vermogens, spanningen en stromen</choice>
+		<choice>een eenheid voor het meten van inductanties</choice>
+		<choice>een eenheid voor het meten van de impedanties van condensatoren</choice>
+		<choice>een eenheid voor het meten van verschillen in weerstanden</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een verandering in vermogen van - 10 dB wil zeggen dat</text>
+		<choice>het vermogen 3,16 maal kleiner is geworden</choice>
+		<choice>het vermogen 10 maal groter is geworden</choice>
+		<choice>het vermogen 10 maal kleiner is geworden</choice>
+		<choice>het vermogen 6 maal kleiner is geworden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een verandering in spanning van 6 dB wil zeggen</text>
+		<choice>het vermogen is 2 maal groter geworden</choice>
+		<choice>het vermogen is 4 x groter geworden</choice>
+		<choice>het vermogen is 3 x groter geworden</choice>
+		<choice>het vermogen is 6 maal groter geworden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een verhoging van het vermogen met 20 dB wil zeggen dat</text>
+		<choice>het vermogen met een factor 2 is toegenomen</choice>
+		<choice>het vermogen met een factor 3,16 is toegenomen</choice>
+		<choice>het vermogen met een factor 10 is toegenomen</choice>
+		<choice>het vermogen met een factor 100 is toegenomen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als het vermogen in een weerstand met 20 dB is toegenomen</text>
+		<choice>is de spanning over de weerstand met 20 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 10 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 13 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 16 dB toegenomen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een vermogenstijging van 3 dB wil zeggen dat</text>
+		<choice>het vermogen met een factor 1,5 is toegenomen</choice>
+		<choice>het vermogen met een factor 2 is toegenomen</choice>
+		<choice>het vermogen met een factor 4 is toegenomen</choice>
+		<choice>het vermogen met een factor 6 is toegenomen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een vermogenstijging van 6 dB wil zeggen dat</text>
+		<choice>het vermogen met een factor 1,5 is toegenomen</choice>
+		<choice>het vermogen met een factor 2 is toegenomen</choice>
+		<choice>het vermogen met een factor 4 is toegenomen</choice>
+		<choice>het vermogen met een factor 6 is toegenomen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als het vermogen in  een weerstand met 6 dB is toegenomen</text>
+		<choice>is de spanning over de weerstand met 6 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 3 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 10 dB toegenomen</choice>
+		<choice>is de spanning in de weerstand met 4 dB toegenomen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 40 W overeen?</text>
+		<choice>2 dB</choice>
+		<choice>3 dB</choice>
+		<choice>6 dB</choice>
+		<choice>5 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 80 W overeen?</text>
+		<choice>3 dB</choice>
+		<choice>6 dB</choice>
+		<choice>9 dB</choice>
+		<choice>10 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 160 W overeen?</text>
+		<choice>6 dB</choice>
+		<choice>9 dB</choice>
+		<choice>12 dB</choice>
+		<choice>10 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 10 W overeen?</text>
+		<choice>3 dB</choice>
+		<choice>-3 dB</choice>
+		<choice>-2 dB</choice>
+		<choice>-6 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 5 W overeen?</text>
+		<choice>6 dB</choice>
+		<choice>-6 dB</choice>
+		<choice>-4 dB</choice>
+		<choice>12 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met hoeveel dB stemt een vermogentoename van een zender van 20 W naar 200 W overeen?</text>
+		<choice>9 dB</choice>
+		<choice>10 dB</choice>
+		<choice>20 dB</choice>
+		<choice>15 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_2455f3600ba75a7c.png</image>
+	<text>Een versterker heeft een ingangsimpedantie van 50 Ω en een spanningsversterking van 8 x. Welke is de vermogenversterking uitgedrukt in dB?</text>
+		<choice>20 dB</choice>
+		<choice>18 dB</choice>
+		<choice>30 dB</choice>
+		<choice>9 dB</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als in een weerstand het gedissipeerd vermogen stijgt met 3 dB, dan stijgt de spanning over deze weerstand met</text>
+		<choice>3dB</choice>
+		<choice>6dB</choice>
+		<choice>hangt af van de frequentie</choice>
+		<choice>0dB</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 3 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>50</choice>
+		<choice>70</choice>
+		<choice>25</choice>
+		<choice>10</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 6 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>25</choice>
+		<choice>12,5</choice>
+		<choice>10</choice>
+		<choice>5</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 9 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>12,5</choice>
+		<choice>6,25</choice>
+		<choice>25</choice>
+		<choice>10</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 10 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>10</choice>
+		<choice>5</choice>
+		<choice>20</choice>
+		<choice>5</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 15 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>3,12</choice>
+		<choice>5</choice>
+		<choice>20</choice>
+		<choice>2,5</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het uitgangsvermogen van een zender is 100 W. Men plaatst achter de zender een verzwakker van 20 dB. Het uitgangsvermogen na de verzwakker is:</text>
+		<choice>1</choice>
+		<choice>2</choice>
+		<choice>4</choice>
+		<choice>0,5</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_4e6ce7d023641a2.png</image>
+	<text>Hoe groot moet de belasting Z zijn om een maximale vermogenoverdracht te hebben?</text>
+		<choice>15 Ω</choice>
+		<choice>30 Ω</choice>
+		<choice>60 Ω</choice>
+		<choice>  30 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een zender wordt gevoed door 3 voedingsspanningen: 5 V bij 1 A, 12 V bij 3 A en –9 V bij 100 mA. Het uitgangsvermogen van de zender is 5 W. Wat is het totaalrendement van deze zender?</text>
+		<choice>25 %</choice>
+		<choice>12 %</choice>
+		<choice>20 %</choice>
+		<choice>5 %</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een zendereindtrap met 50 W uitgangsvermogen heeft een rendement van 80%, bij een voedingsspanning van 12 V. Welke stroom neemt de eindtrap op?</text>
+		<choice>2,6 A</choice>
+		<choice>4,2 A</choice>
+		<choice>6,25 A</choice>
+		<choice>5,2 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de juiste uitdrukking voor het berekenen van het rendement (η) van een eindtrap van een zender?</text>
+		<choice>η= Pdc - Puit</choice>
+		<choice>η = Pdc / Puit</choice>
+		<choice>η = Puit / Pdc</choice>
+		<choice>η = (Pdc · Puit) / (Pdc + Puit)</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een zender kan een piekvermogen leveren van 100 W in SSB of in CW. De beperking is er vanwege het maximale vermogen dat de eindversterker kan afleveren. In AM zal de zender bij 100% modulatie een draaggolfvermogen  kunnen alleveren van:</text>
+		<choice>100 W</choice>
+		<choice>75 W</choice>
+		<choice>50 W</choice>
+		<choice>25 W</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het piekzendvermogen (PEP of peak envelope power) van een gemoduleerde golf is</text>
+		<choice>bepaald door de top tot top waarde van de omhullende die de stroom of de spanning weergeeft aan de uitgang van de zender</choice>
+		<choice>bepaald door meting met een SWR brug</choice>
+		<choice>bepaald door meting met een ingebouwde vermogenmeter van een zender</choice>
+		<choice>bepaald door de aanduiding van een HF-ampèremeter aan de uitgang van een zender</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het piekzendvermogen (PEP of peak envelope power) van een zender, gemoduleerd door spraak, kan het nauwkeurigst gemeten worden</text>
+		<choice>door een piek-vermogen meter</choice>
+		<choice>door middel van een gekalibreerde oscilloscoop aangesloten in parallel op een (kunst)antenne</choice>
+		<choice>door middel van de ingebouwde vermogenmeter van het toestel</choice>
+		<choice>door een SWR (SGV)-brug</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het piekzendvermogen (PEP of peak envelope power) van een 100% gemoduleerde AM-zender met een draaggolf van 100 W is</text>
+		<choice>100 W</choice>
+		<choice>200 W</choice>
+		<choice>400 W</choice>
+		<choice>141 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het piekzendvermogen (PEP of peak envelope power) van een doorsnee commerciële HF zend-ontvanger in de stand EZB (SSB) is</text>
+		<choice>ongeveer hetzelfde als het continu uitgangsvermogen in de stand CW</choice>
+		<choice>ongeveer gelijk aan het (niet gemoduleerde) draaggolf-vermogen in de stand AM</choice>
+		<choice>ongeveer 2 x hoger dan het uitgangsvermogen in de stand CW</choice>
+		<choice>ongeveer 2 x hoger dan het draaggolf-vermogen in de stand AM</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het piekzendvermogen (PEP of peak envelope power) van een doorsnee commerciële HF zend-ontvanger in de stand EZB (SSB) is</text>
+		<choice>ongeveer 2 x hoger dan het continu uitgangsvermogen in de stand CW</choice>
+		<choice>ongeveer gelijk aan het (niet gemoduleerde) draaggolf-vermogen in de stand AM</choice>
+		<choice>ongeveer 2 x hoger dan het uitgangsvermogen in de stand FM</choice>
+		<choice>ongeveer 4 x hoger dan het ongemoduleerde draaggolf-vermogen in de stand AM</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een eindtrap van een zender kan (onvervormd) een 100 % gemoduleerd AM-signaal versterken waarvan het draaggolf-vermogen 100 W is.  Hoeveel piek-vermogen (PEP) kan dezelfde eindtrap onvervormd versterken bij een EZB (SSB) signaal?</text>
+		<choice>100 W</choice>
+		<choice>200 W</choice>
+		<choice>400 W</choice>
+		<choice>50 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is digitale signaalverwerking?</text>
+		<choice>een techniek waarbij digitale signalen worden omgezet in analoge signalen om ze op een eenvoudige manier te kunnen behandelen</choice>
+		<choice>een techniek waarbij analoge signalen worden omgezet in digitale signalen die door rekenprogramma’s op een efficiënte en flexibele manier kunnen worden bewerkt</choice>
+		<choice>het digitaal samenstellen van signalen en converteren naar analoge signalen</choice>
+		<choice>omzetten van digitale signalen naar analoge signalen en vice versa</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Digitale filters worden veelal gebruikt als:</text>
+		<choice>laagdoorlaatfilters in de eindtrap van een zender</choice>
+		<choice>hoogdoorlaatfilters in de eindtrap van een zender</choice>
+		<choice>filters van verschillende types in het audiogedeelte van ontvangers</choice>
+		<choice>netfilters</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Digitale filters</text>
+		<choice>worden vooral gebruikt op zeer hoge frequenties</choice>
+		<choice>geven aanleiding tot een grotere signaalvertraging (delay) dan analoge filters</choice>
+		<choice>geven aanleiding tot een kleinere signaalvertraging (delay) dan analoge filters</choice>
+		<choice>zijn beperkt tot laag- en hoogdoorlaat filters</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is sampling (bemonstering) zoals gebruikt digitale signaalverwerking</text>
+		<choice>Sampling is het omzetten van het analoog signaal naar een digitaal signaal</choice>
+		<choice>Sampling is het omzetten van het digitaal signaal naar een analoog signaal</choice>
+		<choice>Sampling is het wiskundig bewerken van een digitaal signaal</choice>
+		<choice>Sampling bestaat uit het vastleggen van de ogenblikkelijke waardes  van het analoge ingangssignaal</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij het omzetten van analoge naar digitale signalen is de  Nyquist-frequentie</text>
+		<choice>het dubbele van de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>gelijk aan de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>de helft van de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>het viervoudige van de sampling rate (bemonsteringsfrequentie)</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij het omzetten van analoge naar digitale signalen betekent quantizering</text>
+		<choice>het tellen van het aantal samples</choice>
+		<choice>het bepalen van het tijdsinterval tussen twee samples</choice>
+		<choice>dat men analoog signaal maar naar een beperkt aantal digitale waarden kan omzetten</choice>
+		<choice>dat men analoog signaal naar een onbeperkt aantal digitale waarden kan omzetten</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om digitale filters met een snelle reactietijd te maken</text>
+		<choice>karakteriseren we het gedrag van het gewenste filter in het tijdsdomein</choice>
+		<choice>gebruiken we minstens één Fouriertransformatie</choice>
+		<choice>karakteriseren we het gedrag van het gewenste filter in het frequentiedomein</choice>
+		<choice>gebruiken we zoveel mogelijk Fouriertransformaties</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het voordeel van een FIR-filter ten opzichte van een IIR-filter is</text>
+		<choice>dat we met een FIR-filter ook het gedrag van een actief filter met terugkoppeling kunnen nabootsen</choice>
+		<choice>dat een FIR-filter steeds stabiel is</choice>
+		<choice>dat we met een FIR-filter selectievere filters kunnen ontwerpen</choice>
+		<choice>dat een FIR-filter sneller is</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_1fcd569efda8e19a.png</image>
+	<text>Wat stelt dit blokschema voor?</text>
+		<choice>Een laagdoorlaatfilter</choice>
+		<choice>Een hoogdoorlaatfilter</choice>
+		<choice>Een FIR-filter</choice>
+		<choice>Een IIR-filter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/electriciteit_html_6d043e6ac3d52aef.png</image>
+	<text>Wat stelt dit blokschema voor?</text>
+		<choice>Een laagdoorlaatfilter</choice>
+		<choice>Een hoogdoorlaatfilter</choice>
+		<choice>Een FIR-filter</choice>
+		<choice>Een IIR-filter</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>DDS (direct digital synthesis) wordt gebruikt om</text>
+		<choice>een signaal om te zetten van het tijdsdomein naar het frequentiedomein</choice>
+		<choice>een signaal om te zetten van het frequentiedomein naar het tijdsdomein</choice>
+		<choice>door middel van DSP (digitale signaalverwerking) een wisselspanningsignaal te genereren</choice>
+		<choice>om een IIR filter te maken</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij DDS (direct digital synthesis) is de Nyquist-frequentie</text>
+		<choice>gelijk aan de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>gelijk aan de helft van de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>gelijk aan het dubbel van de sampling rate (bemonsteringsfrequentie)</choice>
+		<choice>gelijk aan 70 % van de sampling rate (bemonsteringsfrequentie)</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij digitale signaalverwerking is convolutie</text>
+		<choice>het omzetten van een signaal van het tijdsdomein naar het frequentiedomein</choice>
+		<choice>het omzetten van analoog signaal naar een digitaal signaal</choice>
+		<choice>het omzetten van een digitaal signaal naar een analoog signaal</choice>
+		<choice>het omzetten van een signaal van het spanningsdomein naar het stroomdomein</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is juist?</text>
+		<choice>Men kan elk willekeurig signaal zowel in het tijdsdomein als in het frequentiedomein weergeven</choice>
+		<choice>Alleen digitale signalen kunnen in het tijdstomein worden voorgesteld</choice>
+		<choice>Alleen analoge signalen kunnen in het tijdsdomein worden voorgesteld</choice>
+		<choice>Analoge signalen worden alleen in het frequentiedomein voorgesteld</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een digitaal-analoog conversie (DAC)</text>
+		<choice>gebeurt steeds in het tijdsdomein</choice>
+		<choice>gebeurt steeds in het frequentiedomein</choice>
+		<choice>kan zowel in het tijdsdomein als in het frequentiedomein plaatsvinden</choice>
+		<choice>gebeurt afwisselend in het tijdsdomein en in het frequentiedomein</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is aliasing?</text>
+		<choice>het ontstaan van een spooksignaal omdat aan de ingang van de ADC signalen met een te hoge frequentie komen</choice>
+		<choice>het ontstaan van een spooksignaal omdat aan de ingang van de ADC signalen met een te lage frequentie komen</choice>
+		<choice>het ontstaan van een spooksignaal omdat aan de ingang van de DAC signalen met een te hoge frequentie komen</choice>
+		<choice>het ontstaan van een spooksignaal omdat aan de ingang van de DAC signalen met een te lage frequentie komen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Uit wat bestaat een anti-aliaseringsfilter?</text>
+		<choice>een hoogdoorlaatfilter aan de ingang van de ADC om te verhinderen dat bij een gegeven sampel-rate alias-signalen zouden ontstaan</choice>
+		<choice>een laagdoorlaatfilter aan de ingang van de ADC om te verhinderen dat bij een gegeven sampel-rate alias-signalen zouden ontstaan</choice>
+		<choice>een hoogdoorlaatfilter aan de ingang van de DAC om te verhinderen dat bij een gegeven sampel-rate alias-signalen zouden ontstaan</choice>
+		<choice>een laagdoorlaatfilter aan de ingang van voor de DAC om te verhinderen dat bij een gegeven sampel-rate alias-signalen zouden ontstaan</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat betekent ADC?</text>
+		<choice>analoge naar digitale omzetting</choice>
+		<choice>actieve directe contributiespanning</choice>
+		<choice>analoge digitale crossing</choice>
+		<choice>wisselspanning met een gelijkspanning gesuperponeerd</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat betekent DAC?</text>
+		<choice>Directe Algemene Contributiespanning</choice>
+		<choice>Digitaal naar Analoog omzetting</choice>
+		<choice>digitale analoge crossing</choice>
+		<choice>gelijkspanning met een wisselspanning gesuperponeerd</choice>
+		<answer>2</answer>
+</question>
+
+<category>
+<quiz>

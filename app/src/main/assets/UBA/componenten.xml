@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?><quiz>
+	<category>
+	<title>componenten.html</title>
+
+<question>
+	<image></image>
+	<text>Welke zijn de meeste voorkomende types weerstanden?</text>
+		<choice>weerstanden met plasticfilm en met keramiekfilm</choice>
+		<choice>weerstand met metaalfilm en draadgewonden weerstanden</choice>
+		<choice>elektrolytische weerstanden en metaalfilm-weerstanden</choice>
+		<choice>koolzuurweerstanden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een potentiometer?</text>
+		<choice>een toestel dat het uitgangsvermogen van een zender aangeeft</choice>
+		<choice>een regelbare weerstand</choice>
+		<choice>een veldsterktemeter</choice>
+		<choice>een vermogenmeter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de functie van een variabele weerstand of potentiometer?</text>
+		<choice>zijn waarde verandert als men er een wisselspanning op aansluit</choice>
+		<choice>transformeert een veranderlijke spanning in een constante spanning</choice>
+		<choice>zijn weerstand verandert in functie van de stand van het sleepcontact</choice>
+		<choice>zijn weerstand verandert als hij wordt verwarmd</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Draadgewonden weerstanden worden hoofdzakelijk gebruikt</text>
+		<choice>als precisieweerstanden</choice>
+		<choice>om grote vermogens te dissiperen</choice>
+		<choice>als men een kleine parasitaire capaciteit nastreeft</choice>
+		<choice>om de cos ( van een installatie te verbeteren</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke soorten weerstanden worden doorgaans gebruikt om grote vermogens te dissiperen (op gelijkspanning) ?</text>
+		<choice>kristalweerstanden</choice>
+		<choice>chipweerstanden</choice>
+		<choice>draadgewonden weerstanden</choice>
+		<choice>metaalfilweerstanden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men een condensator omschrijven?</text>
+		<choice>twee of meerdere geleidende platen gescheiden door een diëlectricum</choice>
+		<choice>twee of meerdere isolerende platen gescheiden door geleidende platen</choice>
+		<choice>twee of meerdere lagen samengekleefd silicium</choice>
+		<choice>twee of meerdere lagen keramiek gescheiden door een diëlectricum</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk onderdeel kan energie onder de vorm van een elektrisch veld opslaan?</text>
+		<choice>spoel</choice>
+		<choice>weerstand</choice>
+		<choice>transistor</choice>
+		<choice>condensator</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk onderdeel wordt gebruikt om elektrische energie in op te slaan onder de vorm van een magnetisch veld?</text>
+		<choice>een batterij</choice>
+		<choice>een transformator</choice>
+		<choice>een condensator</choice>
+		<choice>een spoel</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De elektrische energie opgeslagen in het elektrisch veld van een condensator wordt uitgedrukt in:</text>
+		<choice>Coulomb</choice>
+		<choice>Joule</choice>
+		<choice>Watt</choice>
+		<choice>Volt</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wanneer op een condensator met luchtisolatie en van constante geometrie de spanning wordt verhoogd, zal de capaciteit</text>
+		<choice>vergroten</choice>
+		<choice>kleiner worden</choice>
+		<choice>gelijk blijven</choice>
+		<choice>vergroten of verkleinen afhankelijk van de aangelegde frequentie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een Farad?</text>
+		<choice>de eenheid van weerstand</choice>
+		<choice>de eenheid van capaciteit</choice>
+		<choice>de eenheid van inductantie</choice>
+		<choice>de eenheid van admittantie</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de eenheid van capaciteit?</text>
+		<choice>de Farad</choice>
+		<choice>de Ohm</choice>
+		<choice>de Volt</choice>
+		<choice>de Henry</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De verhouding tussen lading (Q), Spanning (U) en capaciteit in een condensator wordt gegeven door:</text>
+		<choice>C = Q ·U</choice>
+		<choice>C =  Q / U</choice>
+		<choice>U =  Q / C</choice>
+		<choice>U = C ·Q</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien men de oppervlakte van de platen van een condensator vergroot, wat gebeurt met de capaciteitswaarde?</text>
+		<choice>ze verkleint</choice>
+		<choice>ze vergroot</choice>
+		<choice>ze verkleint als de temperatuurscoëfficiënt positief is, zoniet verkleint ze</choice>
+		<choice>ze vergroot op voorwaarde dat men de afstand tussen de platen eveneens vergroot</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien men de afstand tussen de platen van een condensator vergroot, wat gebeurt er met de capaciteitswaarde?</text>
+		<choice>ze vergroot</choice>
+		<choice>ze verkleint</choice>
+		<choice>ze blijft onveranderd</choice>
+		<choice>ze verkleint op voorwaarde dat eveneens de oppervlakte van de condensator verkleint</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Tussen de platen van een luchtcondensator wordt een passende plaat geschoven bestaande uit een isolatiemateriaal met een relatieve  diëlektrische constante van 5. De waarde van de capaciteit:</text>
+		<choice>is 5 x kleiner geworden</choice>
+		<choice>is 25 x kleiner geworden</choice>
+		<choice>is 5 x groter geworden</choice>
+		<choice>is 25 x groter geworden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een regelbare condensator verandert men de capaciteit door</text>
+		<choice>de platen van de condensator ten opzichte van elkaar te bewegen</choice>
+		<choice>de temperatuur van de condensator te wijzigen</choice>
+		<choice>door de spanning over de condensator te wijzigen</choice>
+		<choice>door de stroom door de condensator te wijzigen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormig signaal met een frequentie van 100 kHz wordt aangelegd aan een condensator met een waarde van 25 nF. Wat is de reactantie van deze condensator (afgeronde waarde)?</text>
+		<choice>63 Ω</choice>
+		<choice>127 Ω</choice>
+		<choice>400 Ω</choice>
+		<choice>625 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormig signaal met een frequentie van 100 kHz wordt aangelegd aan een condensator met een waarde van 10 nF. Wat is de reactantie van deze condensator (afgeronde waarde)?</text>
+		<choice>157 Ω</choice>
+		<choice>314 Ω</choice>
+		<choice>400 Ω</choice>
+		<choice>620 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormig signaal met een frequentie van 100 kHz wordt aangelegd aan een condensator met een waarde van 50 nF. Wat is de reactantie van deze condensator (afgeronde waarde)?</text>
+		<choice>32 Ω</choice>
+		<choice>64 Ω</choice>
+		<choice>123 Ω</choice>
+		<choice>132 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormig signaal met een frequentie van 100 kHz wordt aangelegd aan een condensator met een waarde van 100 nF. Wat is de reactantie van deze condensator (afgeronde waarde)?</text>
+		<choice>16 Ω</choice>
+		<choice>32 Ω</choice>
+		<choice>40 Ω</choice>
+		<choice>60 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een sinusvormig signaal met een frequentie van 100 kHz wordt aangelegd aan een condensator met een waarde van 20 nF. Wat is de reactantie van deze condensator (afgeronde waarde)?</text>
+		<choice>78 Ω</choice>
+		<choice>156 Ω</choice>
+		<choice>178 Ω</choice>
+		<choice>211 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_8a6370e62a8f76d6.png</image>
+	<text>Wat is Vout als Vin 50 V  is (sinusoïdale wisselspanning).</text>
+		<choice>17 V</choice>
+		<choice>25 V</choice>
+		<choice>33 V</choice>
+		<choice>20 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_8a6370e62a8f76d6.png</image>
+	<text>Wat is Vout als Vin 100 V  is (sinusoïdale wisselspanning).</text>
+		<choice>35 V</choice>
+		<choice>50 V</choice>
+		<choice>66 V</choice>
+		<choice>40 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_8a6370e62a8f76d6.png</image>
+	<text>Wat is Vout als Vin 200 V  is (sinusoïdale wisselspanning).</text>
+		<choice>67 V</choice>
+		<choice>100 V</choice>
+		<choice>132 V</choice>
+		<choice>80 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_8a6370e62a8f76d6.png</image>
+	<text>Wat is Vout als Vin 150 V  is (sinusoïdale wisselspanning).</text>
+		<choice>50 V</choice>
+		<choice>75 V</choice>
+		<choice>100 V</choice>
+		<choice>60 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_7fb1eb6a7f7f455d.png</image>
+	<text>Wat is Vout als Vin 250 V  is (sinusoïdale wisselspanning).</text>
+		<choice>83 V</choice>
+		<choice>125 V</choice>
+		<choice>166</choice>
+		<choice>100 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>verst</text>
+		<choice>De impedantie van een ideale condensator</choice>
+		<choice>De impedantie van een condensator bij zijn resonantiefrequentie</choice>
+		<choice>De verhouding tussen impedantie van een condensator en zijn verliesweerstand</choice>
+		<choice>De impedantie van een condensator bij gelijkspanning</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inductantie is de eigenschap</text>
+		<choice>die een component heeft om zich te verzetten tegen elke stroomverandering in een kring</choice>
+		<choice>die een component bezit om zich tegen elke spanningsverandering in een kring te verzetten</choice>
+		<choice>die een component bezit om stroom te stabiliseren</choice>
+		<choice>die een component bezit om spanning te stabiliseren</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een spoel van 0,5 H heeft een eigenweerstand van 2 Ω. De spoel wordt aangesloten op een batterij met een EMK van 12 volt en een Ri van 1 Ω. Wat bedraagt de stroom in de kring na een lange tijd?</text>
+		<choice>2 A</choice>
+		<choice>3 A</choice>
+		<choice>4 A</choice>
+		<choice>12 A</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een geïnduceerde wisselspanning in een spoel ontstaat onder invloed van:</text>
+		<choice>een wisselend magnetisch veld</choice>
+		<choice>een contant magnetische veld</choice>
+		<choice>een Noord- en een Zuidpool</choice>
+		<choice>een elektrostatisch veld</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke van de volgende componenten heeft de eigenschap magnetische energie te kunnen opslaan?</text>
+		<choice>een admittantie</choice>
+		<choice>een condensator</choice>
+		<choice>een weerstand</choice>
+		<choice>een spoel</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een Henry?</text>
+		<choice>een meeteenheid van admittantie</choice>
+		<choice>een eenheid van capaciteit</choice>
+		<choice>de eenheid van inductantie</choice>
+		<choice>een meeteenheid van weerstand</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de eenheid van inductantie?</text>
+		<choice>de Coulomb</choice>
+		<choice>de Farad</choice>
+		<choice>de Henry</choice>
+		<choice>de Ohm</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inductantie die de eigenschap heeft zich te verzetten tegen elke stroomverandering in een kring wordt uitgedrukt in:</text>
+		<choice>Farad</choice>
+		<choice>Ohm</choice>
+		<choice>Henry</choice>
+		<choice>Pascal</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>het materiaal dat men in de kern van een spoel (te gebruiken in HF-toepassingen)  aanbrengt om de zelfinductie te vergroten</text>
+		<choice>heeft een permeabiliteit die groter is dan deze van lucht</choice>
+		<choice>heeft een relatieve permeabiliteit typisch tussen 500 en 5000</choice>
+		<choice>heeft een permeabiliteit die ongeveer gelijk is aan deze van lucht</choice>
+		<choice>heeft een permeabiliteit die kleiner is dan deze van lucht</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien een ijzerkern in het midden van een spoel wordt aangebracht,</text>
+		<choice>verhoogt de zelfinductie</choice>
+		<choice>velaagt de zelfinductie</choice>
+		<choice>verhoogt de parasitaire capaciteit</choice>
+		<choice>verhoogt de vermogencapaciteit</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat verstaat men onder permeabiliteit van een magnetisch lichaam?</text>
+		<choice>de eigenschap die aangeeft in welke mate het materiaal energie kan opslaan in een magnetisch veld.</choice>
+		<choice>de eigenschap van een stof om de magnetische lijnen te concentreren</choice>
+		<choice>de eigenschap van sommige metalen om het magnetisme te bewaren</choice>
+		<choice>de lichte vertraging tussen de toepassing van een magnetische kracht en het magnetisme</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De zelfinductie van een spoel met 1000 windingen is 100 mH. We verwijderen 500 toeren. Wat is de nieuwe zelfinductie?</text>
+		<choice>25 mH</choice>
+		<choice>50 mH</choice>
+		<choice>10 mH</choice>
+		<choice>200 mH</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De voornaamste reden waarom men een op een ringkern gewikkelde spoel gebruikt is </text>
+		<choice>omdat rondom de ringkern een sterk elektromagnetisch veld (strooiveld) ontstaat</choice>
+		<choice>omdat rondom de ringkern geen elektromagnetisch veld (strooiveld) ontstaat</choice>
+		<choice>omdat een ringkern zeer elastisch is</choice>
+		<choice>omdat een ringkern mechanisch zeer stabiel is</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een spoel met een parasitaire capaciteit ontstaat volgend fenomeen:</text>
+		<choice>een verhoging van de impedantie op de resonantiefrequentie</choice>
+		<choice>een vermindering van de impedantie op de resonantiefrequentie</choice>
+		<choice>een abnormale opwarming op de resonantiefrequentie</choice>
+		<choice>de onmogelijkheid de spoel op een frequentie te gebruiken die lager is dan de eigen resonantiefrequentie.</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom kunnen spoelen een eigen resonantiefrequentie hebben?</text>
+		<choice>wegens het parasitair magnetisch veld</choice>
+		<choice>wegens de Foucault-stromen</choice>
+		<choice>wegens de parasitaire capaciteit</choice>
+		<choice>wegens het hysteresis-effect</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_c702bdc62127aa4.png</image>
+	<text>De impedantie van een niet-verliesvrije spoel zoals opgegeven bedraagt bij 1 kHz:</text>
+		<choice>4 Ω</choice>
+		<choice>7 Ω</choice>
+		<choice>6 Ω</choice>
+		<choice>is niet te berekenen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is reactantie?</text>
+		<choice>de tegenwerking tegen het vloeien van een gelijkstroom, veroorzaakt door een weerstand</choice>
+		<choice>de tegenwerking tegen het vloeien van een wisselstroom, veroorzaakt door spoelen (zelfinducties) en condensatoren (capaciteiten).</choice>
+		<choice>een eigenschap van ideale weerstanden in wisselstroomschakelingen</choice>
+		<choice>de vonk die veroorzaakt wordt bij het openen van een contact in een uitgesproken inductieve schakeling.</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat wordt bedoeld met de uitdrukking impedantie?</text>
+		<choice>de elektrische lading opgeslagen door een condensator</choice>
+		<choice>de tegenwerking tegen het vloeien van stroom in een wisselstroomcircuit dat geen capaciteit bevat</choice>
+		<choice>tegenwerking tegen het vloeien van stroom door één of meer componenten die zowel een weerstand als reactantie kunnen bevatten</choice>
+		<choice>afstoting van een elektrisch veld door een ander elektrisch veld met hetzelfde teken</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de inductantie van een spoel met L = 500 µH bij een frequentie van 850 Hz</text>
+		<choice>2,67 Ω</choice>
+		<choice>0,43 Ω</choice>
+		<choice>26,7 Ω</choice>
+		<choice>267 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de inductantie van een spoel met L = 100 µH bij een frequentie van 850 Hz</text>
+		<choice>0,53 Ω</choice>
+		<choice>0,053 Ω</choice>
+		<choice>53 Ω</choice>
+		<choice>530 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de inductantie van een spoel met L = 250 µH bij een frequentie van 850 Hz</text>
+		<choice>1,34 Ω</choice>
+		<choice>0,134 Ω</choice>
+		<choice>13,4 Ω</choice>
+		<choice>134 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de inductantie van een spoel met L = 750 µH bij een frequentie van 850 Hz</text>
+		<choice>4 Ω</choice>
+		<choice>0,4 Ω</choice>
+		<choice>40 Ω</choice>
+		<choice>400 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de inductantie van een spoel met L = 850 µH bij een frequentie van 850 Hz</text>
+		<choice>4,53</choice>
+		<choice>0,285 Ω</choice>
+		<choice>28,5 Ω</choice>
+		<choice>285 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is inductantie?</text>
+		<choice>is de impedantie van een ideale spoel</choice>
+		<choice>is de impedantie van een serie- RLC schakeling</choice>
+		<choice>is de impedantie van een parallel RLC schakeling</choice>
+		<choice>is de gelijkstroomimpedantie van een ideale spoel</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een spoel is gegeven: L = 6.34 mH . Als f = 3768 Hz, dan is XL =</text>
+		<choice>150 Ω</choice>
+		<choice>600 Ω</choice>
+		<choice>1200 Ω</choice>
+		<choice>120 Ω </choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een spoel is gegeven: L = 25,36 mH . Als f =  3768 Hz, dan is XL =</text>
+		<choice>600 Ω</choice>
+		<choice>150 Ω</choice>
+		<choice>300 Ω</choice>
+		<choice>30 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een spoel is gegeven: L = 0.00634 H . Als f = 3768 Hz, dan is XL =</text>
+		<choice>150 Ω</choice>
+		<choice>600 Ω</choice>
+		<choice>1200 Ω</choice>
+		<choice>120 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een spoel is gegeven: L = 0,0634 H . Als f = 3768 Hz, dan is XL =</text>
+		<choice>1500 Ω</choice>
+		<choice>60 Ω</choice>
+		<choice>120 Ω</choice>
+		<choice>12 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een spoel is gegeven: L = 634  µH . Als f = 3768 Hz, dan is XL =</text>
+		<choice>15 Ω</choice>
+		<choice>6000 Ω</choice>
+		<choice>12000 O</choice>
+		<choice>1200 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het verband tussen de stroom door een spoel en de spanning die erover staat?</text>
+		<choice>spanning en stroom zijn in faze</choice>
+		<choice>spanning en stroom zijn 180° uit faze</choice>
+		<choice>de spanning ijlt 90° voor op de stroom</choice>
+		<choice>de stroom ijlt 90° voor op de spanning</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een ideale transformator is (n = aantal windingen,  p = primaire, s = secundaire)</text>
+		<choice>Up / Us = np / ns</choice>
+		<choice>Ip / Is = (np  /ns)²</choice>
+		<choice>Zp / Zs = np / ns</choice>
+		<choice>Zp / Zs = √(np / ns)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarin onderscheidt zich een “echte” transformator van een ideale transformator?</text>
+		<choice>Alleen bij een ideale transformator is Pprim = Psec</choice>
+		<choice>een ideale transformator werkt even goed op alle frequenties</choice>
+		<choice>een ideale transformator gebruikt geen kern</choice>
+		<choice>een ideale transformator werkt ook op gelijkspanning</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_37a43239b9938214.png</image>
+	<text>Als U1 = 100 V, en X = 50, wat is U2?</text>
+		<choice>150 V</choice>
+		<choice>83,5 V</choice>
+		<choice>69 V</choice>
+		<choice>82 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_37a43239b9938214.png</image>
+	<text>Als U1 = 100 V, en X = 150, wat is U2?</text>
+		<choice>166 V</choice>
+		<choice>62.5 V</choice>
+		<choice>39 V</choice>
+		<choice>50 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_37a43239b9938214.png</image>
+	<text>Als U1 = 100 V, en X = 200, wat is U2?</text>
+		<choice>110 V</choice>
+		<choice>55,6 V</choice>
+		<choice>31 V</choice>
+		<choice>45 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_37a43239b9938214.png</image>
+	<text>Als U1 = 100 V, en X = 250, wat is U2?</text>
+		<choice>120 V</choice>
+		<choice>50 V</choice>
+		<choice>25 V</choice>
+		<choice>33 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_37a43239b9938214.png</image>
+	<text>Als U1 = 100 V, en X = 500, wat is U2?</text>
+		<choice>66,6 V</choice>
+		<choice>33,3 V</choice>
+		<choice>11,1 V</choice>
+		<choice>17 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien een ideale transformator een transformatieverhouding heeft van  ns/np =5/1 en de stroom in de primaire is 50 mA, welke is dan, bij volle belasting,  de stroom in de secondaire? (ns = aantal toeren primaire, np = aantal toeren secundaire)</text>
+		<choice>0,25 mA</choice>
+		<choice>50 mA</choice>
+		<choice>10 mA</choice>
+		<choice>0,25 A</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_ca2b34d982786f.png</image>
+	<text>De weerstand van 1 Ω dissipeert 1 W. Wat is de waarde van  de stroom I?</text>
+		<choice>25 mA</choice>
+		<choice>50 mA</choice>
+		<choice>250 mA</choice>
+		<choice>2A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_fa21a29033997c8.png</image>
+	<text>De weerstand van 20 Ω dissipeert 1 Watt. Wat is de waarde van  de stroom I?</text>
+		<choice>13 mA</choice>
+		<choice>15 mA</choice>
+		<choice>55 mA</choice>
+		<choice>447 ma</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_fa21a29033997c8.png</image>
+	<text>De weerstand van 250 Ω dissipeert 1 W. Wat is de waarde van  de stroom I?</text>
+		<choice>1 mA</choice>
+		<choice>2 mA</choice>
+		<choice>16 mA</choice>
+		<choice>126 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_fa21a29033997c8.png</image>
+	<text>De weerstand van 5 Ω dissipeert 1 W. Wat is de waarde van  de stroom I?</text>
+		<choice>50 mA</choice>
+		<choice>100 mA</choice>
+		<choice>111 mA</choice>
+		<choice>894 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_fa21a29033997c8.png</image>
+	<text>De weerstand van 50 Ω dissipeert 1 W. Wat is de waarde van  de stroom I?</text>
+		<choice>5 mA</choice>
+		<choice>10 mA</choice>
+		<choice>35 mA</choice>
+		<choice>283 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men de primaire wikkeling van 2 transformatoren in parallel schakelt</text>
+		<choice>moet men ook de secundaire wikkelingen in parallel schakelen</choice>
+		<choice>moeten beide primaire wikkelingen geschikt zijn om op dezelfde spanning aangesloten te worden</choice>
+		<choice>moeten beide secundaire wikkelingen identiek zijn</choice>
+		<choice>zal dit steeds tot oververhitting van een van beide transformatoren leiden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Men mag de secundaire wikkeling van 2 transformatoren in parallel schakelen op voorwaarde dat</text>
+		<choice>ook de primaire wikkelingen in parallel staan</choice>
+		<choice>de primaire wikkelingen niet in parallel staan</choice>
+		<choice>de secundaire wikkelingen dezelfde spanning hebben en in fase zijn</choice>
+		<choice>de secundaire wikkelingen dezelfde spanning hebben en in tegenfase zijn</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een transformator staat Z voor de impedantie, n voor het aantal windingen, U voor de spanning , p voor primair en s voor secundair. Welke van de volgende relaties is juist?</text>
+		<choice>Zs/Zp = (ns / np)² = (Us / Up)²</choice>
+		<choice>Zs/Zp = √(np / ns) = Us / Up</choice>
+		<choice>√(Zs / Zp) = ns · np = Us  /Up</choice>
+		<choice>Zs / Zp = np / ns = √(Up / Us)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_f3a9153c5c035779.png</image>
+	<text>Een ideale autotransformator bestaat uit twee wikkelingen met respectievelijk n1 en n2 wikkelingen (zie schema). Wat is de waarde Z’  tussen de klemmen A’ en B’ indien men een impedantie Z aansluit tussen de klemmen A en B.</text>
+		<choice>Z’ = (n2 / (n1 + n2))² · Z</choice>
+		<choice>Z’ = ((n1 + n2 )/ n1]² ·Z</choice>
+		<choice>Z’ = ((n1 + n2) / n1) · Z</choice>
+		<choice>Z’ = (n2 / n1)² · Z</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bereken de primaire impedantie in  Ω, als de secondaire impedantie = 100  Ω, n(prim) = 300 t, n(sec) = 100 t.</text>
+		<choice>11 Ω</choice>
+		<choice>900 Ω</choice>
+		<choice>110 Ω</choice>
+		<choice>90 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bereken de primaire impedantie in O, als de secondaire impedantie = 100 Ω, n(prim) = 100 t, n(sec) = 1000 t.</text>
+		<choice>10000 Ω</choice>
+		<choice>1 Ω</choice>
+		<choice>1000 Ω</choice>
+		<choice>10 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bereken de primaire impedantie in  Ω, als de secondaire impedantie = 100  Ω, n(prim) = 10 t, n(sec) = 50 t.</text>
+		<choice>2500 Ω</choice>
+		<choice>4 Ω</choice>
+		<choice>500 Ω</choice>
+		<choice>40 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bereken de primaire impedantie in  Ω, als de secondaire impedantie = 100  Ω, n(prim) = 20 t, n(sec) = 40 t.</text>
+		<choice>400 Ω</choice>
+		<choice>25 Ω</choice>
+		<choice>40 Ω</choice>
+		<choice>250 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bereken de primaire impedantie in  Ω, als de secondaire impedantie = 100   Ω, n(prim) = 40 t, n(sec) = 20 t.</text>
+		<choice>25 Ω</choice>
+		<choice>400 Ω</choice>
+		<choice>250 Ω</choice>
+		<choice>4000 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het voornaamste verschil tussen een impedantie-aanpassing met een transformator en een impedantieaanpassing met een LC-netwerk?</text>
+		<choice>een impedantie-aanpassing met een LC-netwerk is breedbandig en een impedantie-aanpassing met een transformator is smalbandig</choice>
+		<choice>een impedantie-aanpassing met een LC-netwerk is smalbandig en een impedantie-aanpassing met een transformator is breedbandig</choice>
+		<choice>een impedantie-aanpassing met een LC-netwerk heeft minder verliezen dan een impedantie-aanpassing met een transformator</choice>
+		<choice>een impedantie-aanpassing met een LC-netwerk heeft meer verliezen dan een impedantie-aanpassing met een transformator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een bijkomend voordeel van een impedantie-aanpassing met een LC-netwerk t.o.v. impedantie aanpassing met een transformator?</text>
+		<choice>Dat het LC-netwerk een kleine vermogensversterking heeft</choice>
+		<choice>Dat het LC-netwerk onafhankelijk van de gebruikte frequentie steeds de juiste impedantie-aanpassing geeft</choice>
+		<choice>Dat het LC-netwerk gelijktijdig ook als laagdoorlaatfilter (of filter met een andere doorlaatscurve) kan werken</choice>
+		<choice>Dat het we de waarden van LC-netwerk gemakkelijk met de wet van Ohm kunnen berekenen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe noemt men de stroom die vloeit in een transformator als er geen enkele belasting op de secondaire is aangesloten?</text>
+		<choice>de lekstroom</choice>
+		<choice>de directe-stroom</choice>
+		<choice>de excitatie-stroom</choice>
+		<choice>de Foucault-stroom</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk is de component die een wisselspanning van 110 V kan omzetten in een wisselspanning van 380 V?</text>
+		<choice>een transformator</choice>
+		<choice>een condensator</choice>
+		<choice>een diode</choice>
+		<choice>een thyristor</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat bestaat niet?</text>
+		<choice>een gelijkspanningstransformator</choice>
+		<choice>stroomtransformator</choice>
+		<choice>een autotransformator</choice>
+		<choice>een scheidingstransformator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom worden autotransformatoren gebruikt i.p.v transformatoren met gescheiden primaire en secondaire?</text>
+		<choice>omdat deze transformatoren een betere stabiliteit hebben</choice>
+		<choice>om volume (afmetingen) en kostredenen (goedkoper)</choice>
+		<choice>om veiligheidsredenen</choice>
+		<choice>om galvanische scheiding te hebben tussen primaire en secondaire</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wanneer gebruiken we zeker geen autotransformator?</text>
+		<choice>Als de uitgangsspanning hoger is dan de ingangsspanning</choice>
+		<choice>Indien en galvanische scheiding vereist is</choice>
+		<choice>Als de uitgangsspanning lager is dan de ingangsspanning</choice>
+		<choice>Indien met meerdere secondaire windingen moet hebben</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een autotransformator?</text>
+		<choice>een transformator die zijn spanning automatisch aanpast</choice>
+		<choice>een transformator voor gebruik in de wagen</choice>
+		<choice>een transformator waar primaire en secondaire voor een deel gemeenschappelijk zijn</choice>
+		<choice>een transformator met meerdere secondaire wikkelingen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een transformator levert aan de secondaire zijde 75 W aan een belasting. De koperverliezen bedragen 10 W en de ijzerkernverliezen 15 W. Zijn rendement bedraagt:</text>
+		<choice>87 %</choice>
+		<choice>83 %</choice>
+		<choice>75 %</choice>
+		<choice>25 %</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_ad42ddcea33b4c79.png</image>
+	<text>In welk geval is de diode gesperd?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_ad78dbf7b8b46123.png</image>
+	<text>In bijgaande schakeling zal:</text>
+		<choice>lamp A en B branden</choice>
+		<choice>alleen lamp A brandt</choice>
+		<choice>alleen lamp B brandt</choice>
+		<choice>geen enkele lamp brandt</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waartoe dient een capaciteitsdiode?</text>
+		<choice>om de gelijkspanningswaarde van een voeding te wijzigen</choice>
+		<choice>als variabele capaciteit waarvan de waarde afhankelijk is van de doorlaatspanning</choice>
+		<choice>als variabele capaciteit waarvan de waarde afhankelijk is van de sperspanning</choice>
+		<choice>als variabele capaciteit waarvan de waarde afhankelijk is van de inverse stroom</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_a3dfb7f26b6b800b.png</image>
+	<text>Wat stelt het symbool voor?</text>
+		<choice>een tunneldiode</choice>
+		<choice>een gundiode</choice>
+		<choice>een zenerdiode</choice>
+		<choice>een capaciteitsdiode</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke zijn de twee bijzonderste parameters van een gelijkrichterdiode die in geen geval mogen overschreden worden?</text>
+		<choice>de maximale belastingsimpedantie en de piekspanning</choice>
+		<choice>het gemiddeld vermogen en de gemiddelde spanning</choice>
+		<choice>de capacitieve reactantie en de avalanchespanning</choice>
+		<choice>de piekspanning in sper of doorslagspanning en de gemiddelde stroom in geleiding</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Diodes gebruikt voor gelijkrichting in hoog-vermogen schakelingen dienen onderworpen aan bepaalde thermische beschermende maatregelen. Waarom?</text>
+		<choice>wegende nabijheid van de transformator</choice>
+		<choice>omdat de kans bestaat dat ze beschadigd worden als ze te warm worden</choice>
+		<choice>wegens de gevoeligheid voor transiënten</choice>
+		<choice>wegens hun gebruik bij hoge spanningen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een LED?</text>
+		<choice>een diode voor stabilisatie van hoogspanning</choice>
+		<choice>een gelijkrichterdiode</choice>
+		<choice>een diode waarvan de spanning verandert met de aangelegde spanning</choice>
+		<choice>een lichtgevende diode</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de bijzonderste eigenschap van een zenerdiode?</text>
+		<choice>een constante stroom bij verschillende aangelegde spanningen</choice>
+		<choice>een constante spanning bij veranderende stroom in sperrichting</choice>
+		<choice>een zone van negatieve weerstand</choice>
+		<choice>de inwendige capaciteit die verandert als functie van de aangelegde spanning</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de doorslagspanning van een diode</text>
+		<choice>de maximale spanning over een diode in geleiding</choice>
+		<choice>de spanning waarbij de maximale dissipatie van de diode wordt overschreden</choice>
+		<choice>de maximal spanning die over een diode in sper mag staan</choice>
+		<choice>is hetzelfde als de sperspanning</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>wat is de lekstroom van een diode</text>
+		<choice>de maximale stroom van een diode in geleiding</choice>
+		<choice>de stroom die in een diode in sper vloeit</choice>
+		<choice>de stroom in sperrichting bij doorslag</choice>
+		<choice>de gemiddelde stroom van een diode in geleiding</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>wat is de kniespanning van een diode?</text>
+		<choice>de maximale spanning die aan diode mag worden aangelegd</choice>
+		<choice>de spanning waarbij een diode volledig in geleiding gaat</choice>
+		<choice>de maximale AC spanning die aan een diode mag worden aangelegd</choice>
+		<choice>de maximale DC spanning die aan een diode mag worden aangelegd</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_560c1c856463a668.png</image>
+	<text>De vereiste sperspanning voor de diodes is (in de veronderstelling dat Ui de effectieve spanning voorstelt):</text>
+		<choice>Usper = 2,82 ·Ui</choice>
+		<choice>Usper = Ui</choice>
+		<choice>Usper = 1,41 · Ui</choice>
+		<choice>Usper = 2 · Ui</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe heten de 3 aansluitingen van een FET transistor?</text>
+		<choice>gate 1, gate 2 en drain</choice>
+		<choice>emitter, gate 2 en drain</choice>
+		<choice>anode, kathode en gutter</choice>
+		<choice>gate, drain en source</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een schakeling onder spanning meet men aan de basis van een NPN-transistor een spanning van +0,7 V t.o.v. de emitter. Tussen de Collector en de emitter meet men ongeveer 0,3 V. Men kan daarvan afleiden dat</text>
+		<choice>de transistor verzadigd is</choice>
+		<choice>de transistor defect is</choice>
+		<choice>de transistor gesperd is</choice>
+		<choice>de transistor oscilleert</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een versterker met een NPN transistor is de collectorspanning </text>
+		<choice>positief ten opzichte van de emitterspanning</choice>
+		<choice>negatief ten opzichte van de emitterspanning</choice>
+		<choice>0 V</choice>
+		<choice>steeds gelijk aan de emitterspannning</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een versterker met een PNP transistor is de collectorspanning </text>
+		<choice>positief ten opzichte van de emitterspanning</choice>
+		<choice>negatief ten opzichte van de emitterspanning</choice>
+		<choice>0 V</choice>
+		<choice>steeds gelijk aan de emitterspannning</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe noemen we de 3 aansluitingen van een bipolaire transistor?</text>
+		<choice>cathode, plaat en rooster</choice>
+		<choice>basis, collector en emitter</choice>
+		<choice>gate, source en sink</choice>
+		<choice>ingang, uitgang en grond</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_e4e2aa7deaa3b234.png</image>
+	<text>Welke van de volgende symbolen stelt een NPN bipolaire transistor voor?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_9c5c06b07ab45b02.png</image>
+	<text>Welke van de volgende symbolen stelt een PNP bipolaire transistor voor?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe verhoudt de ingangsimpedantie van een FET van in GSS (geaarde source schakeling) tot deze van een bipolaire transistor in GES (geaarde emitterschakeling)?</text>
+		<choice>de ingangsimpedantie van een bipolaire transistor is 2 maal zo groot als deze van een FET</choice>
+		<choice>een FET heeft een lage ingangsimpedantie, een bipolaire transistor een hoge ingangsimpedantie</choice>
+		<choice>de ingangsimpedanties zijn ongeveer even groot</choice>
+		<choice>de FET heeft een hoge ingangsimpedantie, de bipolaire transistorschakeling een lage</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_e1ae5045eddec8ad.png</image>
+	<text>De spanning Vce bedraagt:</text>
+		<choice>25 V</choice>
+		<choice>20,8 V</choice>
+		<choice>0 V</choice>
+		<choice>16 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_479c09e298ce3645.png</image>
+	<text>Bereken de spanning U.</text>
+		<choice>20 V</choice>
+		<choice>3,333 V</choice>
+		<choice>0 V</choice>
+		<choice>16,666 V</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De Darlingtonschakeling:</text>
+		<choice>is een spanningsvermenigvuldiger</choice>
+		<choice>is een astabile multivibrator</choice>
+		<choice>is een versterker, speciaal voor HF</choice>
+		<choice>laat een zeer grote stroomversterking toe</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de ß  (bèta) van een bipolaire transistor?</text>
+		<choice>de collectorstroom gedeeld door de basisstroom</choice>
+		<choice>de basisstroom gedeeld door de emitterstroom</choice>
+		<choice>de collectorstroom gedeeld door de emitterstroom</choice>
+		<choice>de basisstroom gedeeld door de gatestroom</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een hoog-vermogen RF-buizenversterker is de spanning op de anode</text>
+		<choice>kleiner dan de kathodespanning</choice>
+		<choice>steeds gelijk aan de schermroosterspanning</choice>
+		<choice>steeds groter dan de stuurroosterspanning</choice>
+		<choice>soms kleiner of somes groter dan de kathodespanning</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een juist ingestelde transistorversterker in GES, waarbij de transistor een voldoende grote ß heeft, is</text>
+		<choice>de collectorstroom ongeveer even groot als de basisstroom</choice>
+		<choice>de collectorstroom ongeveer even groot als de emitterstroom</choice>
+		<choice>de emitterstroom ongeveer even groot als de basisstroom</choice>
+		<choice>de collectorstroom en de emitterstroom ongeveer even groot als de basisstroom</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men bij een transistorversterker in GES bij een juist ingestelde transistor de basisstroom wordt vergroot dan</text>
+		<choice>neemt de collectorstroom af</choice>
+		<choice>neemt de collectorstroom toe</choice>
+		<choice>verandert de collectorstroom niet</choice>
+		<choice>neemt de collectorspanning toe</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat wil zeggen dat een bipolaire transistor verzadigd is?</text>
+		<choice>de collectorstroom kan niet meer toenemen</choice>
+		<choice>de collectorstroom kan niet meer afnemen</choice>
+		<choice>de basisstroom kan niet meer toenemen</choice>
+		<choice>de basisstroom kan niet mer afnemen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat wil zeggen dat een bipolaire transistor in cut-off staat?</text>
+		<choice>de collectorspanning is 0 V</choice>
+		<choice>er vloeit geen collectorstroom</choice>
+		<choice>de collectorstroom kan niet meer toenemen</choice>
+		<choice>de basistroom kan niet meer toenemen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het correcte kenmerk voor een transistor in een geaarde emitterschakeling?</text><choice>middelmatige ingangsimpedantie en lage uitgangsimpedantie</choice>
+		<choice>een hoge ingangsimpedantie en lage uitgangsimpedantie</choice>
+		<choice>een lage ingansimpedantie en een hoge uitgangsimpedantie</choice>
+		<choice>een lage ingangsimpedantie en een lage uitgangsimpedantie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_aec68700e91e3c02.png</image>
+	<text>Wat is de functie van de weerstanden R1 en R2?</text>
+		<choice>voor de juiste bias-stroom of instelstroom zorgen</choice>
+		<choice>belastingsweerstanden</choice>
+		<choice>de sperspanning genereren</choice>
+		<choice>terugkoppeling</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_eacd5dbeed953c9a.png</image>
+	<text>Wat is de functie van de condensator C3?</text>
+		<choice>Laagfrequent terugkoppeling</choice>
+		<choice>Ontkoppeling voeding</choice>
+		<choice>Afvlakking bromspanning</choice>
+		<choice>uitschakelen van de emitterweerstand voor wisselspanning</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke source schakeling heeft een </text>
+		<choice>grote spanningsversterking en een grote ingangsimpedantie</choice>
+		<choice>spanningsversterking van minder dan 1 en een lage ingangsimpedantie</choice>
+		<choice>grote spanningsversterking en een lage ingangsimpedantie</choice>
+		<choice>kleine spanningsversterking en een grote ingangsimpedantie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke source schakeling heeft een </text>
+		<choice>kleine stroomversterking en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<choice>grote stroomversterking en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<choice>grote stroomversterking en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<choice>kleine stroomversterking en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het correcte kenmerk voor een transistor in een gemeenschappelijke basisschakeling?</text>
+		<choice>een hoge ingangsimpedantie en een hoge uitgangsimpedantie</choice>
+		<choice>een hoge ingangsimpedantie en lage uitgangsimpedantie</choice>
+		<choice>een lage ingangsimpedantie en een hoge uitgangsimpedantie</choice>
+		<choice>een lage ingangsimpedantie en een lage uitgangsimpedantie</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een gemeenschappelijke basisschakeling zijn</text>
+		<choice>ingangs en uitgangsspanning in fase</choice>
+		<choice>ingangs en uitgangsspanning 180 graden uit faze</choice>
+		<choice>ingangs en uitgangsspanning 90 graden uit faze</choice>
+		<choice>gelijk aan elkaar</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk kenmerk van een transistor in gemeenschappelijke basisschakeling is juist:</text>
+		<choice>ingangsweerstand groot, uitgangsweerstand klein</choice>
+		<choice>ingangsweerstand klein, uitgangsweerstand groot</choice>
+		<choice>ingangsweerstand groot, uitgangsweerstand groot</choice>
+		<choice>ingangsweerstand klein, uitgangsweerstand klein</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke gate schakeling heeft een </text>
+		<choice>een stroomversterking van 1 en een grote spanningsversterking</choice>
+		<choice>een grote stroomversterking en een spanningsversterking van minder dan 1</choice>
+		<choice>een stroomversterking van 1 en een spanningsversterking van minder dan 1</choice>
+		<choice>een grote stroomversterking en een grote spanningsversterking</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke gate schakeling heeft een </text>
+		<choice>grote stroomversterking en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<choice>grote stroomversterking en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<choice>stroomversterking van 1 en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<choice>stroomversterking van 1 en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke schakeling is best geschikt voor een versterker bij zeer hoge frequenties</text>
+		<choice>de gemeenschappelijke source schakeling</choice>
+		<choice>de gemeenschappelijke drain schakeling</choice>
+		<choice>de gemeenschappelijke gate schakeling</choice>
+		<choice>de 3 voorgaande schakelingen zijn hiervoor even goed geschikt</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het correcte kenmerk voor een transistor in een gemeenschappelijke collectorschakeling?</text>
+		<choice>een hoge ingangsimpedantie en een hoge uitgangsimpedantie</choice>
+		<choice>een hoge ingangsimpedantie en lage uitgangsimpedantie</choice>
+		<choice>een lage ingangsimpedantie en een hoge uitgangsimpedantie</choice>
+		<choice>een lage ingangsimpedantie en een lage uitgangsimpedantie</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke transistorschakeling heeft een spanningsversterking van ongeveer 1 ?</text>
+		<choice>gemeenschappelijke emitterschakeling</choice>
+		<choice>gemeenschappelijke collectorschakeling</choice>
+		<choice>gemeenschappelijke basisschakeling</choice>
+		<choice>darlington schakeling</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De stroomversterkingsfactor van een transistor in gemeenschappelijke collectorschakeling is:</text>
+		<choice>ß+1</choice>
+		<choice>ß - 1</choice>
+		<choice>ß</choice>
+		<choice>1</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_18f4196642e947f9.png</image>
+	<text>Deze transistor is geschakeld in</text>
+		<choice>gemeenschappelijke basisschakeling</choice>
+		<choice>gemeenschappelijke collectorschakeling</choice>
+		<choice>gemeenschappelijke emitterschakeling</choice>
+		<choice>als  source-follower</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk kenmerk van een transistor in gemeenschappelijke collectorschakeling is juist:</text>
+		<choice>ingangsweerstand groot, uitgangsweerstand klein</choice>
+		<choice>ingangsweerstand klein, uitgangsweerstand groot</choice>
+		<choice>ingangsweerstand groot, uitgangsweerstand groot</choice>
+		<choice>ingangsweerstand klein, uitgangsweerstand klein</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_d145d2a8e159e7e5.png</image>
+	<text>Wat is de functie van R2?</text>
+		<choice>voor de juiste bias-stroom of instelstroom zorgen</choice>
+		<choice>voor een negatieve basisspanning zorgen</choice>
+		<choice>spanningsdeler voor het AC ingangssignaal</choice>
+		<choice>spanningsregulatie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_d145d2a8e159e7e5.png</image>
+	<text>In deze typische gemeenschappelijke collectorschakeling is</text>
+		<choice>R1  R3</choice>
+		<choice>R 1  R3</choice>
+		<choice>R 1 ongeveer gelijk aan R3</choice>
+		<choice>R1 zo groot mogelijk</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke drain schakeling heeft een </text>
+		<choice>grote spanningsversterking en een lage ingangsimpedantie</choice>
+		<choice>spanningsversterking van minder dan 1 en een lage ingangsimpedantie</choice>
+		<choice>spanningsversterking van minder dan 1 en een grote ingangsimpedantie</choice>
+		<choice>grote spanningsversterking en een grote ingangsimpedantie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een versterker met een FET in gemeenschappelijke drain schakeling heeft een </text>
+		<choice>grote stroomversterking en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<choice>kleine stroomversterking en een faseverschuiving van 0° tussen het in- en uitgangssignaal</choice>
+		<choice>kleine stroomversterking en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<choice>grote stroomversterking en een faseverschuiving van 180° tussen het in- en uitgangssignaal</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_32b669e1ff13f86c.png</image>
+	<text>Wat stelt dit symbool voor?</text>
+		<choice>een triode</choice>
+		<choice>een penthode</choice>
+		<choice>een tetrode</choice>
+		<choice>een diode</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_99ce354437c230a8.png</image>
+	<text>Wat stelt dit symbool voor?</text>
+		<choice>een triode</choice>
+		<choice>een penthode</choice>
+		<choice>een tetrode</choice>
+		<choice>een diode</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_656b8ecede75f3d2.png</image>
+	<text>Welke van de 5 zijn de juiste benamingen?</text>
+		<choice>1: anode, 2: vangrooster, 3:gate, 4:source, 5: filament</choice>
+		<choice>1: anode, 2: schermrooster, 3: stuurrooster, 4: cathode, 5:filament</choice>
+		<choice>1: collector, 2: schermrooster,3: stuurrooster, 4: filament, 5: cathode</choice>
+		<choice>2: plaat, 2: stuurrooster, 3:schermrooster, 4: cathode, 5:filament</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een elektronenbuis bewegen de elektronen van:</text>
+		<choice>rooster naar kathode</choice>
+		<choice>kathode naar gloeidraad</choice>
+		<choice>kathode naar anode</choice>
+		<choice>anode naar kathode</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een hoog-vermogen RF-buizenversterker in geaarde-roosterschakeling wordt vooral gebruikt voor</text>
+		<choice>zeer hoge frequenties</choice>
+		<choice>als audioversterker</choice>
+		<choice>voor frequenties lager dan 1 MHz</choice>
+		<choice>als ingangsversterker van een ontvanger</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een operationele versterker?</text>
+		<choice>Een geïntegreerde versterker met grote versterkingsfactor</choice>
+		<choice>Een HF-versterker voor zeer groot vermogen</choice>
+		<choice>Een versterker die gebruikt wordt om het gemiddeld vermogen van een radioamateurstation  te verhogen tot aan de wettelijk toegelaten waarde.</choice>
+		<choice>Een subroutine van een programma dat toelaat de winst van een RF versterker te berekenen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat zijn de ideale karakteristieken van een operationele versterker?</text>
+		<choice>Een ingangsimpedantie van 0 Ω, een oneindig grote uitgangsimpedatntie, een oneindige versterking, en een zeer vlakke frequentieweergave-curve</choice>
+		<choice>Een oneindig grote  ingangsimpedantie, een uitgangsimpedatntie van 0 Ω, een oneindige versterking, en een zeer vlakke frequentieweergave-curve</choice>
+		<choice>Een ingangsimpedantie van 0 Ω, een uitgangsimpedatntie van 0 Ω, een oneindige versterking, en een zeer vlakke frequentieweergave-curve</choice>
+		<choice>Een oneindig grote ingangsimpedantie,een oneindig grote uitgangsimpedatntie, een oneindige versterking, en een zeer vlakke frequentieweergave-curve</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat bepaalt de versterking van een schakeling met een operationele versterker?</text>
+		<choice>Het terugkoppelingsnetwerk buiten de de operationele versterker</choice>
+		<choice>de capaciteit van de junctie bais-collector van de uitgangstransistor</choice>
+		<choice>de voedingsspanning</choice>
+		<choice>de belasting op de uitgang</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de theoretische ingangsimpedantie van een operationele versterker?</text>
+		<choice>ongeveer 100 Ω</choice>
+		<choice>ongeveer 1000 Ω</choice>
+		<choice>zeer laag</choice>
+		<choice>zeer hoog</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de theoretische uitgangsimpedantie van een operationele versterker?</text>
+		<choice>zeer laag</choice>
+		<choice>zeer hoog</choice>
+		<choice>ongeveer 2000 Ω</choice>
+		<choice>ongeveer 600 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>wat is een differentiële versterker niet?</text>
+		<choice>een opstelling van een opamp waar geen van beide ingangen aan de 0 V zijn verbonden</choice>
+		<choice>een opstelling van een opamp waarop men rechtstreeks een gebalanceerde (symmetrische) ingangsspanning kan aansluiten</choice>
+		<choice>een opstelling van een opamp waarmede men twee spanningen kan van elkaar aftrekken</choice>
+		<choice>een opstelling van een opamp waarbij het verschil tussen de ingangs en de uitgangsspanning wordt gemeten</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_70fee9e4c3488ba3.png</image>
+	<text>Wat stelt bijgaand schema voor?</text>
+		<choice>een filter</choice>
+		<choice>een verschilversterker</choice>
+		<choice>een modulator</choice>
+		<choice>een demodulator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_25e5b1ffee57503.png</image>
+	<text>Wat is Vout als Vin = 0,1 V,</text>
+		<choice>5,7 V</choice>
+		<choice>–5,7 V</choice>
+		<choice>4,7 V</choice>
+		<choice>–0,47 V</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_154655724ebebfbb.png</image>
+	<text>Bereken de versterking van deze schakeling.</text>
+		<choice>11 x</choice>
+		<choice>6 x</choice>
+		<choice>1,2 x</choice>
+		<choice>100 x</choice>
+		<answer>2</answer>CORR 20 APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de uitgangsimpedantie van een ideale operationele versterker?</text>
+		<choice>zeer laag</choice>
+		<choice>zeer hoog</choice>
+		<choice>ca. 100 Ω</choice>
+		<choice>ca. 1000 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_639330f4aaee13f1.png</image>
+	<text>Bereken de versterking</text>
+		<choice>150</choice>
+		<choice>1</choice>
+		<choice>151</choice>
+		<choice>149</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/componenten_html_43a35b10738925ed.png</image>
+	<text>Welke is de uitdrukking van Vout in bijgaande schakeling?</text>
+		<choice>Vout = Vin · Ra / (Ra + Rb)</choice>
+		<choice>Vout = Vin · (R a+ Rb) / Ra</choice>
+		<choice>Vout = Vin · Rb / (Ra + Rb)</choice>
+		<choice>Vout = Vin · (Ra + Rb)  /Rb</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat bepaalt de versterking van een operationele versterker met terugkoppeling?</text>
+		<choice>De uitwendige terugkoppelingsschakeling</choice>
+		<choice>De voedingsspanning</choice>
+		<choice>De ingangsspanning</choice>
+		<choice>De belastingsweerstand</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de ingangsimpedantie van een ideale operationele versterker?</text>
+		<choice>ca. 100 Ω</choice>
+		<choice>ca. 1000 Ω</choice>
+		<choice>zeer hoog</choice>
+		<choice>zeer laag</choice>
+		<answer>3</answer>
+</question>
+
+<category>
+<quiz>
