@@ -79,12 +79,12 @@ def main(argv):
         elif opt in ("-o", "--ofile"):
             outputfile = arg
 
-    sys.stdout.write('<?xml version="1.0" encoding="UTF-8"?>')
-    sys.stdout.write('<quiz>\n\t<category>\n\t<title>'+inputfile+'</title>')
+    # sys.stdout.write('<?xml version="1.0" encoding="UTF-8"?><quiz>')
+    sys.stdout.write('\n\t<category>\n\t<title>'+inputfile+'</title>')
     parser = MyHTMLParser()
     parser.feed(open(inputfile).read())
-    sys.stdout.write('\t\n<category>\n<quiz>')
-
+    sys.stdout.write('\t\n<category>')
+    # sys.stdout.write('\n<quiz>')
 
 if __name__ == "__main__":
     main(sys.argv[1:])
