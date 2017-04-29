@@ -83,7 +83,7 @@ def main(argv):
     sys.stdout.write('\n\t<category>\n\t<title>'+inputfile+'</title>')
     parser = MyHTMLParser()
     parser.feed(open(inputfile).read())
-    sys.stdout.write('\t\n<category>')
+    sys.stdout.write('\t\n</category>')
     # sys.stdout.write('\n<quiz>')
 
 if __name__ == "__main__":
