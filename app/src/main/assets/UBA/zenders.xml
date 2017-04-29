@@ -1,0 +1,588 @@
+
+	<category>
+	<title>zenders.html</title>
+
+<question>
+	<image>images/zenders_html_7b9dddf0e4e94ee7.png</image>
+	<text>Welk soort zender stelt het blokschema voor?</text>
+		<choice>een AM zender</choice>
+		<choice>een zender met frequentievermenigvuldiging</choice>
+		<choice>een EZB zender</choice>
+		<choice>een zender met frequentietransformatie</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het principe van een zender met frequentievermenigvuldiging wordt</text>
+		<choice>steeds meer en meer gebruikt</choice>
+		<choice>vooral gebruikt in EZB zenders</choice>
+		<choice>vooral gebruikt in eenvoudige FM zenders</choice>
+		<choice>zo goed als niet meer gebruikt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Indien men een kristal gebruikt op 8 MHz, wat kan het vermenigvuldigingsschema eruit zien om een FM-zender voor 144 MHz te bouwen?</text>
+		<choice>x 3 x 3 x 2</choice>
+		<choice>x 5 x 2 x 2</choice>
+		<choice>x 2 x 2 x 2</choice>
+		<choice>x 3 x 3 x 3</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe noemt men de trap in een zender die ervoor zorgt dat de frequentie verhoogd wordt?</text>
+		<choice>de lokale oscillator</choice>
+		<choice>de frequentievermenigvuldiger</choice>
+		<choice>de modulator</choice>
+		<choice>de HF-versterker</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een frequentievermenigvuldiger is</text>
+		<choice>een lineaire trap waar de uitgangskring is afgestemd op een harmonische van de frequentie van de ingangskring</choice>
+		<choice>een niet lineaire trap waar de uitgangskring is afgestemd op een harmonische van de frequentie van de ingangskring</choice>
+		<choice>een niet lineaire trap waar de ingangskring en de uitgangskring afgestemd zijn op een harmonische van het stuursignaal</choice>
+		<choice>een lineaire trap waar de ingangskring is afgestemd op een harmonische van de frequentie van de uitgangskring</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Zenders met frequentietransformatie worden</text>
+		<choice>alleen gebruikt op VHF/UHF</choice>
+		<choice>zeer courant gebruikt zowel op HF als op VHF/UHF</choice>
+		<choice>alleen gebruikt op HF</choice>
+		<choice>nooit gebruikt voor EZB-zenders</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_e3907d035335e48c.png</image>
+	<text>Welk soort zender stelt het blokschema voor?</text>
+		<choice>een AM zender</choice>
+		<choice>een zender zonder frequentietransformatie</choice>
+		<choice>een EZB zender</choice>
+		<choice>een zender met frequentietransformatie</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>de modulator van een telegrafiezender bestaat uit</text>
+		<choice>een gebalanceerde ringmodulator</choice>
+		<choice>een eenvoudige aan-uit schakeling van een versterker</choice>
+		<choice>een enkelfazige amplitudemodulator</choice>
+		<choice>een fazegstuurde ringmodulator</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>de eindtrap van een telegrafiezender</text>
+		<choice>moet steeds in klasse A werken</choice>
+		<choice>mag in klasse C werken</choice>
+		<choice>mag nooit in klasse C werken</choice>
+		<choice>moet steeds in klasse A of AB werken</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De stuurtrap van een laag vermogen (vb 100 W) EZB zender werkt meestal</text>
+		<choice> in klasse A</choice>
+		<choice>klasse B</choice>
+		<choice>in klasse AB</choice>
+		<choice>in klasse C</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een vermogenversterker van een EZB (SSB) zender</text>
+		<choice>mag nooit in klasse-C werken</choice>
+		<choice>moet steeds in klasse C werken</choice>
+		<choice>moet steeds in klasse A werken</choice>
+		<choice>moet steeds in klasse B werken</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In welke van volgende zenders wordt het frequentievermenigvuldigingsprincipe in de regel nooit toegepast voor het genereren van het signaal:</text>
+		<choice>Een CW zender</choice>
+		<choice>Een PM-zender</choice>
+		<choice>Een FM-zender</choice>
+		<choice>Een EZB-zender (SSB)</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_d0769995f3dc4086.png</image>
+	<text>Wat is de benaming van de trap aangeduid met ?</text>
+		<choice>HF versterker</choice>
+		<choice>EZB-filter</choice>
+		<choice>Audio processor</choice>
+		<choice>Mengtrap</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_885b22c27b553ec9.png</image>
+	<text>Wat is de benaming van de trap aangeduid met ?</text>
+		<choice>HF versterker</choice>
+		<choice>EZB-filter</choice>
+		<choice>Audio processor</choice>
+		<choice>Mengtrap</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_84439b9f6b2c2771.png</image>
+	<text>Wat is de benaming van de trap aangeduid met ?</text>
+		<choice>HF versterker</choice>
+		<choice>EZB-filter</choice>
+		<choice>Balans-modulator</choice>
+		<choice>Mengtrap</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een EZB (SSB) zender wordt een LSB signaal, opgewekt op 9 MHz gemengd met een signaal van 5 - 5.5 MHz om als mengproduct de 80 of 20 m band te bestrijken. De selectie gebeurt door gebruik van een gepast banddoorlaatfilter in te schakelen.</text>
+		<choice>de mengproducten zijn een LSB signaal op 80 en op 20 meter</choice>
+		<choice>de mengproducten zijn een LSB signaal op 80 m en een USB (hogere zijband) signaal op 20 meter</choice>
+		<choice>de mengproducten zijn een USB (hogere zijband) signaal op 80 m en een LSB signaal op 20 meter</choice>
+		<choice>de mengproducten zijn een USB (hogere zijband) signaal op 80 en op 20 meter</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een mengtrap is:</text>
+		<choice>een lineaire trap</choice>
+		<choice>een niet-lineaire trap</choice>
+		<choice>een kwadratische trap</choice>
+		<choice>een schakeling die niet bestaat</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een VXO</text>
+		<choice>heeft de stabiliteit van een kristaloscillator</choice>
+		<choice>wordt courant gebruikt in commerciële FM-zenders om de zendfrequentie bij te sturen</choice>
+		<choice>laat een grote frequentieverandering toe</choice>
+		<choice>gebruikt een kristal om de spanning te stabiliseren</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke soort oscillator heeft de grootste stabiliteit ?</text>
+		<choice>een LC oscillator</choice>
+		<choice>een kristaloscillator</choice>
+		<choice>een RC oscillator</choice>
+		<choice>een VCO</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De frequentiestabiliteit van een zender wordt bepaald door</text>
+		<choice>de frequentiestabiliteit van de verschillende oscillatoren in de zender</choice>
+		<choice>enkel de frequentiestabiliteit van de VFO</choice>
+		<choice>de gebruikte modulatiesoort</choice>
+		<choice>de klasse-instelling van de eindversterker</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De scheidingstrap of buffertrap in een zender</text>
+		<choice>dient hoofdzakelijk om de belasting van de oscillator the minimaliseren</choice>
+		<choice>dient hoofdzakelijk om de lagere van de hogere zijband te scheiden in een EZB-zender</choice>
+		<choice>dient hoofdzakelijk om het HF signaal voldoende te versterken om aan de eindtrap toe te voeren</choice>
+		<choice>wordt alleen gebruikt in een AM-zender</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De stuurtrap of driver in een zender is de trap</text>
+		<choice>die ervoor zorgt dat de oscillator niet te veel wordt belast</choice>
+		<choice>die ervoor zorgt dat er voldoende stuurvermogen of stuurspanning is om de eind versterker uit te sturen.</choice>
+		<choice>waar de modulatie gebeurt</choice>
+		<choice>de signalen worden gegenereerd die de verschillende oscillatoren sturen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een balansversterker worden</text>
+		<choice>de even harmonischen extra onderdrukt</choice>
+		<choice>de oneven harmonischen extra onderdrukt</choice>
+		<choice>alle harmonischen extra onderdrukt</choice>
+		<choice>geen harmonischen opgewekt</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe realiseert men de neutrodynisering van een versterker?</text>
+		<choice>door gedurende halve cycli energie van de uitgangskring in de ingangskring terug te koppelen</choice>
+		<choice>door een signaal dat 360 graden in faze verschoven met het uitgangssignaal naar de ingang terug te koppelen</choice>
+		<choice>door een signaal dat 180 graden in faze is verschoven met het uitgangssignaal naar de ingang terug te koppelen</choice>
+		<choice>door een deel van het ingangssignaal naar de uitgangskring te voeren.</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een der voordelen van een balansversterker (push pull)  is:</text>
+		<choice>het extra onderdrukken van de even harmonischen</choice>
+		<choice>het extra onderdrukken van oneven harmonischen</choice>
+		<choice>meer vermogen</choice>
+		<choice>minder vervorming</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Neutrodyniseren betekent:</text>
+		<choice>het opheffen van ongewenste terugkoppeling in een versterker</choice>
+		<choice>het wegwerken van parasitaire AM modulatie in een FM-detector</choice>
+		<choice>het wegwerken van parasitaire EZB (SSB) modulatie in een AM detector</choice>
+		<choice>het opheffen van ongewenste terugkoppeling in een oscillator</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een geaarde roosterversterker(grounded-grid)?</text>
+		<choice>een versterker waar het stuurrooster voor HF en DC is geaard en waar de sturing via de kathode gebeurt.</choice>
+		<choice>een versterker waarin de eindbuis via de cathode wordt aangestuurd en waar het stuurrooster voor HF is geaard</choice>
+		<choice>een versterker die meer dan 20 dB versterking geeft</choice>
+		<choice>een versterker die alleen op VHF en UHF wordt gebruikt</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom dient een gemeenschappelijke basisversterker niet geneutrodyniseerd te worden?</text>
+		<choice>omdat er geen parasitaire capaciteiten in de transistoren aanwezig zijn in die schakeling</choice>
+		<choice>omdat de basis, die geaard is een natuurlijke afscherming vormt tussen de ingang en de uitgang van de versterker</choice>
+		<choice>omdat de basis die geaard is geen capaciteit vertoont naar de collector</choice>
+		<choice>omdat de basis die geaard is geen capaciteit vertoont naar de emitter</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een smoorspoel (RF-choke of RFC) in de DC-voeding van een HF-versterker dient om:</text>
+		<choice>de oscillaties te bevorderen</choice>
+		<choice>het HF-signaal te isoleren van de DC-voedingspanning</choice>
+		<choice>het gebrom van de netspanning te elimineren</choice>
+		<choice>parasitaire oscillaties te vermijden</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het rendement van een klasse AB versterker is ongeveer</text>
+		<choice>90 %</choice>
+		<choice>60 %</choice>
+		<choice>75 %</choice>
+		<choice>80 %</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het typisch rendement van een klasse C versterker is</text>
+		<choice>90 %</choice>
+		<choice>70 %</choice>
+		<choice>60 %</choice>
+		<choice>50 %</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het typisch rendement van een klasse A versterker is</text>
+		<choice>90 %</choice>
+		<choice>75 %</choice>
+		<choice>60 %</choice>
+		<choice> 50 %</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om het hoogste rendement te bereiken zal een vermogenversterker voor FM</text>
+		<choice>in klasse A staan</choice>
+		<choice>in klasse B staan</choice>
+		<choice>in klasse AB staan</choice>
+		<choice>in klasse C staan</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om het hoogste rendement te bereiken zal een vermogenversterker voor een telegrafiezender</text>
+		<choice>in klasse A staan</choice>
+		<choice>in klasse C staan</choice>
+		<choice>in klasse AB staan</choice>
+		<choice>in klasse B staan</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat verstaat men onder “uitgangsimpedantie van een zender” ?</text>
+		<choice>de nominale belastingsimpedantie waarbij er een maximaal vermogen door de zender wordt afgegeven </choice>
+		<choice>50 Ω</choice>
+		<choice>de impedantie van de transmissielijn</choice>
+		<choice>de impedantie van de antenne zoals getransformeerd op het einde van de transmissielijn</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een laagdoorlaatfilter tussen de eindtrap van een zender en de antenne dient om:</text>
+		<choice>de eindtrap te neutrodyniseren</choice>
+		<choice>de harmonischen te onderdrukken</choice>
+		<choice>het zendvermogen te stabiliseren</choice>
+		<choice>de intermodulatie te verbeteren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De onderdrukking van de harmonischen in een zender kan verbeterd worden door</text>
+		<choice>de eindtrap in klasse C te laten werken</choice>
+		<choice>de modulatiediepte te verminderen</choice>
+		<choice>gebruik te maken van een X-tal oscillator in de zender</choice>
+		<choice>gebruik te maken van een laagdoorlaat filter aan de uitgang van de eindtrap.</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk soort filter dient men gebruiken in de uitgang van een HF zender (160 - 10m) om alle harmonischen te onderdrukken op alle banden?</text>
+		<choice>een laagdoorlaat filter met afsnijfrequentie 30 MHz</choice>
+		<choice>een hoogdoorlaat filter met afsnijfrequentie 30 MHz</choice>
+		<choice>een band-pass filter ontworpen voor elk der banden</choice>
+		<choice>een hoog doorlaat filter voor de band in gebruik</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een kristalfilter gebruikt voor het onderdrukken van de ongewenste zijband in een EZB zender heeft een –3dB bandbreedte van ca.</text>
+		<choice>5 kHz</choice>
+		<choice> 2.5 kHz</choice>
+		<choice> 2 kHz</choice>
+		<choice>10 kHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een DBM (dubbelgebalanceerde mengtrap) als modulator in een EZB-zender dient voor</text>
+		<choice>de degradatie van het LF signaal te verminderen</choice>
+		<choice>de zijband te onderdrukken</choice>
+		<choice>de signaal/ruisverhouding van het LF-signaal te verbeteren</choice>
+		<choice>de draaggolf te onderdrukken</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het effect van het gebruik van een te grote frequentiezwaai (deviatie) bij NBFM ?</text>
+		<choice>verhoging van het vermogen van de zender</choice>
+		<choice>de bandbreedte van het signaal wordt te groot</choice>
+		<choice>verhoging van de draagwijdte van de zender</choice>
+		<choice>slechte onderdrukking van de harmonischen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Met welk toestel kan je best nazien of je uitzending in SSB niet overstuurd is?</text>
+		<choice>een geijkte wattmeter</choice>
+		<choice>een ALC indicator op de zender</choice>
+		<choice>een oscilloscoop</choice>
+		<choice>een speech processor</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het resultaat van overmodulatie bij een draagbare FM zend-ontvanger werkend op 144,500 MHz met een nominaal uitgangsvermogen van 4 W?</text>
+		<choice>beduidend groter verbruik van de batterijen (ca 50 %)</choice>
+		<choice>storingen op de naastliggende kanalen</choice>
+		<choice>verhoogd uitgangsvermogen (ca 50 %)</choice>
+		<choice>betere verstaanbaarheid</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat kan, bij SSB uitzendingen, nooit de oorzaak zijn van splatter</text>
+		<choice>te hoge microfoon versterking</choice>
+		<choice>oversturing van een HF versterker-trap</choice>
+		<choice>een niet lineair werkende versterkertrap</choice>
+		<choice>een microfoon met een slechte frequentiekaracteristiek</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waaarom hoeven in FM de versterkertrappen in een zender niet lineair te werken?</text>
+		<choice>omdat FM een niet-lineaire modulatie is</choice>
+		<choice>omdat men het verschil niet hoort</choice>
+		<choice>omdat er geen informatie zit in de amplitude van het FM signaal</choice>
+		<choice>omdat er geen informatie zit in de zijbanden van een FM signaal</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een lineare versterkertrap zal</text>
+		<choice>enkel zeer hoge frequenties versterken</choice>
+		<choice>steeds een faseverschuiving van 180° hebben</choice>
+		<choice>het ingangssignaal zonder faseverschuiving versterken</choice>
+		<choice>het ingangssignaal zonder vervorming versterken</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij SSB uitzendingen wordt splatter veroorzaakt door</text>
+		<choice>enkel door defecte eindtransistoren in de zender</choice>
+		<choice>niet lineaire-instelling van een RF-versterkertrap of oversturing van een lineaire vesterkertrap</choice>
+		<choice>door misaanpassing van de antenne aan de zender</choice>
+		<choice>door een defecte microfoon</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het rendement van de HF-versterkertrap van een zender is</text>
+		<choice>de verhouding van het HF-uitgangsvermogen t.o.v.  het DC ingangsvermogen</choice>
+		<choice>de verhouding van het HF ingangsvermogen t.o.v. het HF-uitgangsvermogen</choice>
+		<choice>de verhouding van het HF-uitgangsvermogen t.o.v. het HF-ingangsvermogen</choice>
+		<choice>de verhouding van het verbruik van de voeding van de zender t.o.v. het HF-uitgangsvermogen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een eindversterker (PA) levert een vermogen van 80 W. Het stroomverbruik is 14 A en de voedingsspanning is 12 V. Wat is het rendement van deze versterker?</text>
+		<choice>40,8 %</choice>
+		<choice>47,6 %</choice>
+		<choice>52,4 %</choice>
+		<choice>55,6 %</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het veroorzaken van storingen door sleutelklikken van een telegrafiezender (A1A) kunnen worden voorkomen door:</text>
+		<choice>afscherming van de eindtrap van de zender</choice>
+		<choice>verhoging van de stuurspanning van de eindtrap</choice>
+		<choice>de eindtrap in klasse A in te stellen</choice>
+		<choice>het in- en uit-schakelen van het HF-signaal geleidelijk te laten geschieden</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_1c4c7031635abe8f.png</image>
+	<text>Van twee telegrafiezenders (A1A) zijn de omhullende van het uitgangssignaal weergegeven. Welke bewering is de juiste?</text>
+		<choice>signaal B heeft een grotere bandbreedte dan signaal A</choice>
+		<choice>signaal B heeft een kleinere bandbreedte dan A</choice>
+		<choice>signaal B heeft dezelfde bandbreedte als signaal A</choice>
+		<choice>er kan geen conclusie over de bandbreedte van het signaal worden getrokken.</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om de bandbeedte van een CW signaal zo klein mogelijk te houden</text>
+		<choice>moet men het vermogen zo klein mogelijk houden</choice>
+		<choice>moet men via filtering de flankenstijlheid van het CW-signaal optmilizeren</choice>
+		<choice>moet men via filtering de flankenstijlheid van het CW-signaal zo klein mogelijk maken</choice>
+		<choice>moet men via filtering de flankenstijlheid van het CW-signaal zo groot mogelijk maken</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/zenders_html_83b01acd2ebc6afb.png</image>
+	<text>Sleutelklikken kunnen veelal worden verminderd door tussen de seinsleutel en de gesleutelde schakeling in een zender een van de volgende schakelingen op te nemen. Welk is de passende schakeling?</text>
+		<choice>A</choice>
+		<choice>B </choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+
+<category>

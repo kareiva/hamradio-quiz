@@ -1,0 +1,2311 @@
+
+	<category>
+	<title>schakelingen.html</title>
+
+<question>
+	<image></image>
+	<text>Indien twee condensatoren van eenzelfde capaciteitswaarde in parallel worden geschakeld, wat is dan de totale waarde?</text>
+		<choice>de helft van de waarde van 1 condensator</choice>
+		<choice>het dubbele van de waarde van 1 condensator</choice>
+		<choice>dezelfde waarde als voor elk van de twee condensatoren afzonderlijk</choice>
+		<choice>4 x de waarde van 1 condensator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien 2 condensatoren met eenzelfde capaciteitswaarde in serie worden geschakeld, wat is dan de totale capaciteit?</text>
+		<choice>de helft van de waarde van 1 condensator</choice>
+		<choice>het dubbele van de waarde van 1 condensator</choice>
+		<choice>dezelfde waarde als voor elk van de twee condensatoren afzonderlijk</choice>
+		<choice>¼ van de waarde van 1 condensator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien twee spoelen met eenzelfde zelfinductie in parallel worden verbonden, en indien er geen onderlinge magnetische koppeling is tussen de spoelen, welk is dan de totale zelfinductie van de parallelschakeling?</text>
+		<choice>de helft van de waarde van 1 spoel</choice>
+		<choice>het dubbele van de waarde van 1 spoel</choice>
+		<choice>dezelfde waarde als voor elke spoel afzonderlijk</choice>
+		<choice>¼ van de waarde van 1 spoel</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien twee spoelen met eenzelfde zelfinductie in serie worden geschakeld, en indien er geen onderlinge magnetische koppeling is tussen de spoelen, wat is dan de totale zelfinductie van de serieschakeling?</text>
+		<choice>de helft van de waarde van 1 spoel</choice>
+		<choice>het dubbele van de waarde van 1 spoel</choice>
+		<choice>de zelfde waarde als voor elke spoel afzonderlijk.</choice>
+		<choice>4 x de waarde van 1 spoel</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_7f93a561f8e6dbe2.png</image>
+	<text>Wat is de totale weerstand van deze schakeling?</text>
+		<choice>300 Ω</choice>
+		<choice>700 O</choice>
+		<choice>683 Ω</choice>
+		<choice>900Ω</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Gegeven een weerstand van 7 Ω.  Hoe groot is de totale weerstand indien in serie met deze weerstand een parallelschakeling  van twee 6 Ω weerstanden plaatst?</text>
+		<choice>12 Ω</choice>
+		<choice>10 Ω</choice>
+		<choice>3 Ω</choice>
+		<choice>9 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_92d9cdff71300078.png</image>
+	<text>Hoe berekent men de totale weerstand van deze schakeling?</text>
+		<choice>R = R3 + (R1 · R2) / (R1+ R2)</choice>
+		<choice>R = R3 – (R1+ R2) / ( R1 · R2)</choice>
+		<choice>R = R3 + (1 / R1) + (1 / R2)</choice>
+		<choice>R = R3 + (R1 – R2)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_57b66ba679d69ab5.png</image>
+	<text>Wat is de waarde van de capaciteit tussen de punten X en Y?</text>
+		<choice>35 nF</choice>
+		<choice>37.5 nF</choice>
+		<choice>20 nF</choice>
+		<choice>30 nF</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Drie weerstanden van respectievelijk 2, 3 en 6 Ω worden in parallel geschakeld. De totaalwaarde van de schakeling is:</text>
+		<choice>1 Ω</choice>
+		<choice>0,5 Ω</choice>
+		<choice>0,25 Ω</choice>
+		<choice>0,75 Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_55dabec9aa05b4f6.png</image>
+	<text>Een waarde van 75 nF wordt gegeven door</text>
+		<choice>schakeling A</choice>
+		<choice>schakeling B</choice>
+		<choice>schakeling C</choice>
+		<choice>geen van deze schakelingen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5adf487af8127319.png</image>
+	<text>Om een totale weerstandswaarde van 2 Ω te bekomen moet men:</text>
+		<choice>de schakeling laten zoals ze is</choice>
+		<choice>een weerstand van 2 Ω in parallel bijschakelen</choice>
+		<choice>een weerstand van 4 Ω verwijderen</choice>
+		<choice>een weerstand van 1 Ω in serie plaatsen met de schakeling</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Drie niet gekoppelde spoelen met waardes van 2 µH, 20 µH en 0,2 mH worden in serie geschakeld. Wat is de totale inductantie van de schakeling?</text>
+		<choice>2,22 mH</choice>
+		<choice>22,2 µH</choice>
+		<choice>222 µH</choice>
+		<choice>2,22 mH</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_1ae2ebaac56c3b01.png</image>
+	<text>De weerstandswaarde gemeten tussen A en B is:</text>
+		<choice>121 Ω</choice>
+		<choice>612 Ω</choice>
+		<choice>720 Ω</choice>
+		<choice>750 Ω</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie van een zuiver ohmse weerstand van 100 Ω?</text>
+		<choice>(0 + j 100) Ω</choice>
+		<choice>(100 + j 0) Ω</choice>
+		<choice>(100 + j 100) Ω</choice>
+		<choice>(100 - j 100) Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie van een zuivere spoel van 1 mH, op een frequentie van 1000 Hz?</text>
+		<choice>(6.28 + j 0) Ω</choice>
+		<choice>(6.28 + j 6.28) Ω</choice>
+		<choice>(0 + j 6.28 ) Ω</choice>
+		<choice>(0 - j 6.28 ) Ω</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie van een netwerk bestaande uit de serieschakeling van een spoel van 0,1 mH en een weerstand van 20 Ω, en dit bij een frequentie van 5 MHz?</text>
+		<choice>(20 + j 19) Ω</choice>
+		<choice>(20 – j 19) Ω</choice>
+		<choice>(19 + j 20) Ω</choice>
+		<choice>(19 – j 20) Ω</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie Z van een seriekring van een ideale spoel L en een ideale condensator C als men weet dat XL = 500 Ω en Xc = 300 Ω zijn?</text>
+		<choice>800 Ω</choice>
+		<choice>200 Ω</choice>
+		<choice>1500 Ω</choice>
+		<choice>583 Ω</choice>
+		<answer>2</answer>corr 24 okt 2009
+
+</question>
+
+
+<question>
+	<image>images/schakelingen_html_728d6ca3718e43dc.png</image>
+	<text>Onderstaande figuur geeft het impedantieverloop weer van</text>
+		<choice>een ideale spoel</choice>
+		<choice>een ideale weerstand</choice>
+		<choice>een weerstand in parallel met een spoel</choice>
+		<choice>een weerstand is serie met een spoel</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een frequentie van 10 MHz is de impedantie van een weerstand van 100 Ω in parallel met een spoel van 2 µH gelijk aan</text>
+		<choice>56 Ω</choice>
+		<choice>78 Ω</choice>
+		<choice>161 Ω</choice>
+		<choice>226 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij welke van de gegeven frequenties zal de impedantie van een netwerk gevormd door een weerstand van 150 Ω in parallel met een spoel van 5 µH het grootste zijn?</text>
+		<choice>1 MHz</choice>
+		<choice>2 MHz</choice>
+		<choice>3 MHz</choice>
+		<choice>4 MHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een frequentie van 1MHz is de impedantie van een weerstand van 200 Ω in parallel met een condensator van 1 nF gelijk aan</text>
+		<choice>89 Ω</choice>
+		<choice>125 Ω</choice>
+		<choice>256 Ω</choice>
+		<choice>359 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij welke van de gegeven frequenties zal de impedantie van een netwerk gevormd door een weerstand van 150  Ω in parallel met een condensator van 750 pF het kleinste zijn?</text>
+		<choice>1 MHz</choice>
+		<choice>1,41 MHz</choice>
+		<choice>2,82 MHz</choice>
+		<choice>4 MHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij welke van de gegeven frequenties zal de impedantie van een netwerk gevormd door een weerstand van 150 Ω in parallel met een condensator van 750 pF het grootste zijn?</text>
+		<choice>1 MHz</choice>
+		<choice>1,41 MHz</choice>
+		<choice>2,82 MHz</choice>
+		<choice>4 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_2f06b4495e4ee0cd.png</image>
+	<text>Het laden van een condensator via een weerstand van 1 kΩ  verloopt volgens deze grafiek. Wat is de waarde van de condensator?</text>
+		<choice>10 µF</choice>
+		<choice>100 µF</choice>
+		<choice>1000 µF</choice>
+		<choice>1 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de tijdsconstante van een schakeling bestaande uit een condensator van 2,2 µF microfarad in serie met een weerstand van 4.7 kO?</text>
+		<choice>103,4 µs</choice>
+		<choice>10,34 µs</choice>
+		<choice>1,034  ms</choice>
+		<choice>10,34 ms</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de tijdsconstante van een schakeling bestaande uit een condensator van 10 µF microfarad in serie met een weerstand van 4.7 kO?</text>
+		<choice>47 µs</choice>
+		<choice>470 ms</choice>
+		<choice>4,7  ms</choice>
+		<choice>47 ms</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de tijdsconstante van een schakeling bestaande uit een condensator van 47 µF microfarad in serie met een weerstand van 4.7 kO?</text>
+		<choice>221 µs</choice>
+		<choice>22,1 ms</choice>
+		<choice>2,21  ms</choice>
+		<choice>221 ms</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de tijdsconstante van een schakeling bestaande uit een condensator van 68 µF microfarad in serie met een weerstand van 4.7 kO?</text>
+		<choice>320 µs</choice>
+		<choice>32 ms</choice>
+		<choice>3,2 s</choice>
+		<choice>320 ms</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke term wordt gebuikt voor het aanduiden van de tijd die nodig is in een RC-schakeling om de condensator tot 63,2% van de aan de schakeling toegepaste spanning op te laden?</text>
+		<choice>exponentiele toename</choice>
+		<choice>periode</choice>
+		<choice>exponentiele periode</choice>
+		<choice>tijdsconstante</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de definitie van tijdsconstante in een RC schakeling?</text>
+		<choice>de tijd wanneer de spanning over de condensator gestegen is tot 36.8 % van de aangelegde spanning</choice>
+		<choice>de tijd wanneer de spanning over de condensator gedaald is tot 36.8 % van de aangelegde spanning</choice>
+		<choice>de tijd wanneer de spanning over de condensator gestegen is tot 63.2 % van de aangelegde spanning</choice>
+		<choice>de tijd wanneer de spanning over de condensator gedaald is tot 86.3 % van de aangelegde spanning</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5bfef83dfa89d08f.png</image>
+	<text>De kantelfrequentie (3 dB afsnijfrequentie) van het filter moet 5305 Hz zijn, Wat is de overeenstemmende waarde voor C?</text>
+		<choice>1 nF</choice>
+		<choice>3,3 nF</choice>
+		<choice>33 nF</choice>
+		<choice>33 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5bfef83dfa89d08f.png</image>
+	<text>De  kantelfrequentie (3 dB afsnijfrequentie) van het filter moet 2652 Hz zijn, Wat is de overeenstemmende waarde voor C?</text>
+		<choice>2 nF</choice>
+		<choice>6,8 nF</choice>
+		<choice>68 nF</choice>
+		<choice>68 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5bfef83dfa89d08f.png</image>
+	<text>De  kantelfrequentie (3 dB afsnijfrequentie) van het filter moet 10610 Hz zijn, Wat is de overeenstemmende waarde voor C?</text>
+		<choice>500 pF</choice>
+		<choice>1,47 nF</choice>
+		<choice>14,7 nF</choice>
+		<choice>14,7 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5bfef83dfa89d08f.png</image>
+	<text>De  kantelfrequentie (3 dB afsnijfrequentie) van het filter moet 1326 Hz zijn, Wat is de overeenstemmende waarde voor C?</text>
+		<choice>4 nF</choice>
+		<choice>22 nF</choice>
+		<choice>2 nF</choice>
+		<choice>2,2 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5bfef83dfa89d08f.png</image>
+	<text>De  kantelfrequentie (3 dB afsnijfrequentie) van het filter moet 633 Hz zijn, Wat is de overeenstemmende waarde voor C?</text>
+		<choice>8 nF</choice>
+		<choice>4 nF</choice>
+		<choice>40 nF</choice>
+		<choice>4 µF</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_9bf31260d82e041a.png</image>
+	<text>A</text>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<choice>D</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_15e82ad13d65209b.png</image>
+	<text>A</text>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<choice>B</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_f605b327a953598e.png</image>
+	<text>Als R = 1 Ω, wat is de waarde van U?</text>
+		<choice>6 V</choice>
+		<choice>8 V</choice>
+		<choice>10 V</choice>
+		<choice>12 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een kring bestaat uit een weerstand (R) in serie met een spoel (L). Wat is de impedantie van deze kring?</text>
+		<choice></choice><choice></choice><choice></choice><choice></choice><answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_ce1587a297e9c50e.png</image>
+	<text>Wat moet de waarde zijn van de weerstand X  opdat de stroom door de galvanometer nul zou zijn.</text>
+		<choice>175 Ω</choice>
+		<choice>250 Ω</choice>
+		<choice>500 Ω</choice>
+		<choice>0 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Twee weerstanden van elk 10 Ω staan in parallel. De totale stroom is 1 A. Welke stroom vloeit in elk der weerstanden?</text>
+		<choice>10 A</choice>
+		<choice>2 A</choice>
+		<choice>1 A</choice>
+		<choice>0,5 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c33395c6b00d007d.png</image>
+	<text>Bepaal U</text>
+		<choice>40 V</choice>
+		<choice>30 V</choice>
+		<choice>20 V</choice>
+		<choice>50 V</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c7dc2ef93584797d.png</image>
+	<text>Bepaal Uout als Uin = 100 Veff en X = 10 nF</text>
+		<choice>20 V</choice>
+		<choice>80 V</choice>
+		<choice>10 V</choice>
+		<choice>40 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c7dc2ef93584797d.png</image>
+	<text>Bepaal Uout als Uin = 100 Veff en X = 20 nF</text>
+		<choice>33 V</choice>
+		<choice>66 V</choice>
+		<choice>16 V</choice>
+		<choice>8 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c7dc2ef93584797d.png</image>
+	<text>Bepaal Uout als Uin = 100 Veff en X = 80 nF</text>
+		<choice>66 V</choice>
+		<choice>33 V</choice>
+		<choice>43 V</choice>
+		<choice>16 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c7dc2ef93584797d.png</image>
+	<text>Bepaal Uout als Uin = 100 Veff en X = 400 nF</text>
+		<choice>91 V</choice>
+		<choice>9 V</choice>
+		<choice>0,9 V</choice>
+		<choice>4,5 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c7dc2ef93584797d.png</image>
+	<text>Bepaal Uout als Uin = 100 Veff en X = 4 nF</text>
+		<choice>7 V</choice>
+		<choice>91 V</choice>
+		<choice>3,5 V</choice>
+		<choice>46 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d37fe0818036bbb2.png</image>
+	<text>Tussen de punten A en B staat een spanning van 9V. bereken de waarden van totale stroom I als R1 = R2 = R3 = R3 = R4 = 12 Ω.</text>
+		<choice>1,5 A</choice>
+		<choice>150 mA</choice>
+		<choice>7,5 A</choice>
+		<choice>300 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_e2afe468ec059890.png</image>
+	<text>Wat is de spanning over de weerstand van 300 Ω?</text>
+		<choice>150 V</choice>
+		<choice>210 V</choice>
+		<choice>200 V</choice>
+		<choice>280 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een condensator wordt aangesloten op een sinusvormige wisselspanning van 220 V (eff) bij 50 Hz. De stroom door de condensator is 50 mA. Bij 1000 Hz bedraagt de stroom door die condensator:</text>
+		<choice>1 A</choice>
+		<choice>2 A</choice>
+		<choice>2,5 mA</choice>
+		<choice>5 mA</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_4fb5339738c51eac.png</image>
+	<text>Voor elk van de (ideaal veronderstelde) condensatoren is de toelaatbare spanning 80 V. Wat is de max. gelijkspanning die aan het circuit mag worden aangelegd?</text>
+		<choice>40 V</choice>
+		<choice>80 V</choice>
+		<choice>120 V</choice>
+		<choice>50 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_75186059e17e46f8.png</image>
+	<text>Bij evenwicht heeft men:</text>
+		<choice>Z 1 · Z2 = Z3 · Z4</choice>
+		<choice>Z1 / Z2 = Z3 / Z4</choice>
+		<choice>Z1 + Z2 = Z3 + Z4</choice>
+		<choice>Z1 – Z3 = Z2 – Z4</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_573cf94da1165527.png</image>
+	<text>Het fazeverschil tussen IL en IC is:</text>
+		<choice>0°</choice>
+		<choice>90°</choice>
+		<choice>180°</choice>
+		<choice>360°</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_e7e7633fa0c14b0a.png</image>
+	<text>Bereken de stromen I1, I2 en I3</text>
+		<choice>I1 = 2 A, I2 = 1,33 A, I3 = 0,66 A</choice>
+		<choice>I1 = 3 A, I2 = 1 A, I3 = 2 A</choice>
+		<choice>I1 = 2 A, I2 = 0,66 A, I3 = 1,33 A</choice>
+		<choice>I1 = 3 A, I2  = 2 A, I3 = 1 A</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_529a49be0f99a5a1.png</image>
+	<text>Bereken de kantelfrequentie van bijgaand RC-filter  als X = 10 nF</text>
+		<choice>628 Hz</choice>
+		<choice>63 Hz</choice>
+		<choice>1592 Hz</choice>
+		<choice>159 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_529a49be0f99a5a1.png</image>
+	<text>Bereken de kantelfrequentie van bijgaand RC-filter  als X = 22 nF</text>
+		<choice>1382 Hz</choice>
+		<choice>138 Hz</choice>
+		<choice>724 Hz</choice>
+		<choice>73 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_529a49be0f99a5a1.png</image>
+	<text>Bereken de kantelfrequentie van bijgaand RC-filter  als X = 47 nF</text>
+		<choice>2950 Hz</choice>
+		<choice>295 Hz</choice>
+		<choice>339 Hz</choice>
+		<choice>34 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_529a49be0f99a5a1.png</image>
+	<text>Bereken de kantelfrequentie van bijgaand RC-filter  als X = 4,7 nF</text>
+		<choice>295 Hz</choice>
+		<choice>29,5 Hz</choice>
+		<choice>3390 Hz</choice>
+		<choice>340 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_529a49be0f99a5a1.png</image>
+	<text>Bereken de kantelfrequentie van bijgaand RC-filter  als X = 470 nF</text>
+		<choice>2950 Hz</choice>
+		<choice>295 Hz</choice>
+		<choice>34 Hz</choice>
+		<choice>340 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De kantelfrequentie van een RC filter is</text>
+		<choice>de frequentie waarop de verzwakking 3 dB is</choice>
+		<choice>de frequentie waarop de verzwakking 6 dB is</choice>
+		<choice>de frequentie waarop de verzwakking 10 dB is</choice>
+		<choice>gelijk aan zijn resonantiefrequentie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de waarde van de impedantie Z van een seriekring van een ideale spoel L (inductantie = XL) met een ideale condensator C (capacitantie = XC)?</text>
+		<choice>Z = XL + XC</choice>
+		<choice>Z = XC – XL</choice>
+		<choice>Z = | XC – XL |</choice>
+		<choice>Z = | XL + XC |</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de waarde van de impedantie Z van een seriekring van een ideale spoel L (inductantie = XL) met een weerstand R ?</text>
+		<choice>Z = v( R² + XL² )</choice>
+		<choice>Z = v( R² – L²)</choice>
+		<choice>Z = v( XL² – R² )</choice>
+		<choice>Z = | R + XL |</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de waarde van de impedantie Z van een seriekring van een ideale condensator C (capacitantie = XC) met een weerstand R ?</text>
+		<choice>Z = v( XC² – R² )</choice>
+		<choice>Z = v( R² – XC² )</choice>
+		<choice>Z =  XC + R</choice>
+		<choice>Z  = v( XC² + R² )</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie Z van een serieschakeling van een weerstand R met een condensator C? Hun respectievelijke impedanties zijn: R = 700 Ω en Xc = 800 Ω.</text>
+		<choice>Z = | 800 – 700 | = 100 Ω</choice>
+		<choice>Z = v(| 800² – 700² |) = 387 Ω</choice>
+		<choice>Z = v( 800² + 700² ) = 1063 Ω</choice>
+		<choice>Z = 800 + 700 = 1500 Ω</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron met een spanning van 20 Veff levert een stroom van 3 Aeff. Het faseverschil tussen spanning en stroom is 60°. Het vermogen geleverd door deze bron is</text>
+		<choice>60 W</choice>
+		<choice>52 W</choice>
+		<choice>30 W</choice>
+		<choice>0 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron met een spanning met een amplitude van 20 V en levert een stroom met een amplitude van 3 A. Het faseverschil tussen spanning en stroom is 60°. Het vermogen geleverd door deze bron is</text>
+		<choice>60 W</choice>
+		<choice>30 W</choice>
+		<choice>15 W</choice>
+		<choice>0 W</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een wisselspanningsbron met een spanning van 20 Veff levert een stroom van 3 Aeff. Het faseverschil tussen spanning en stroom is 90°. Het vermogen geleverd door deze bron is</text>
+		<choice>60 W</choice>
+		<choice>30 W</choice>
+		<choice>15 W</choice>
+		<choice>0 W</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Over een netwerk gevormd door een weerstand van 100 Ω in serie met een condensator van 250 pF wordt een wisselspanningsbron met en spanning van 10 V en een frequentie van 4 MHz aangesloten. Deze bron zal een stroom leveren van</text>
+		<choice>39 mA</choice>
+		<choice>53 mA</choice>
+		<choice>118 mA</choice>
+		<choice>163 mA</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In de praktijk zal een weerstand</text>
+		<choice>nooit perfect zijn, hij vertoont immers ook nog een inductiviteit door de aanwezigheid van de aansluitdraden</choice>
+		<choice>nooit perfect zijn, hij vertoont immers ook nog een inductiviteit door de aanwezigheid van de aansluitdraden en een verdeelde capaciteit over zijn lichaam</choice>
+		<choice>zich steeds als een perfecte component gedragen</choice>
+		<choice>kunnen vervaardigd worden als een perfecte weerstand over een gebied van nul  tot vele honderden GHz.</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>in de praktijk zal een condensator</text>
+		<choice>nooit perfect zijn, hij vertoont immers ook nog een inductiviteit door de aanwezigheid van de aansluitdraden en zelfs een weerstandsgedeelte te wijten aan het verlies in het diëlectricum van de condensator.</choice>
+		<choice>nooit perfect zijn, hij vertoont immers ook nog een inductiviteit door de aanwezigheid van de aansluitdraden.</choice>
+		<choice>zich steeds gedragen als een perfecte component.</choice>
+		<choice>kunnen vervaardigd worden als een perfecte capaciteit over een gebied van nul tot vele honderden GHz.</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In werkelijkheid zal een spoel (een zelfinductie)</text>
+		<choice>nooit perfect zijn, zij vertoont immers ook nog een inductiviteit door de aanwezigheid van de aansluitdraden.</choice>
+		<choice>kunnen vervaardigd worden als een perfecte component over een gebied van nul tot vele honderden GHz.</choice>
+		<choice>zich steeds gedragen alsog het een perfecte componet is</choice>
+		<choice>nooit perfect zijn, zij vertoont immersook nog  een weerstandsgedeelte te wijten aan de weerstand van de draad (in de spoel) en een capacitief gedeelte dat verdeeld is tussen de wikkelingen van de spoel.</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_968c4fce79b2d1ec.png</image>
+	<text>Van welke schakeling stelt de figuur het impedantieverloop voor?</text>
+		<choice>een serie RLC-kring</choice>
+		<choice>een RC-kring</choice>
+		<choice>een parallel RLC-kring</choice>
+		<choice>een  RL-kring</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De waarde van de impedantie Z van een resonante RLC-parallelkring is</text>
+		<choice>Z = R /1,41</choice>
+		<choice>Z = R / 2</choice>
+		<choice>Z = R</choice>
+		<choice>Z = RL + RC + R</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De waarde van de impedantie Z van een resonante RLC-seriekring is</text>
+		<choice>Z = R</choice>
+		<choice>Z = 8</choice>
+		<choice>Z = R + (L + 1/C)</choice>
+		<choice>Z = 0</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_89c7383737b557a0.png</image>
+	<text>Welk van de schema’s stelt een resonantiekring voor?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een kring bestaat uit een weerstand in serie met een condensator. Wat is de impedantie van deze kring?</text>
+		<choice>Z =v( R² + ( 1/ (2 · p · f · C)²)</choice>
+		<choice>Z = R + ( 1/ (( 2  ·p · f · C))</choice>
+		<choice>Z =( R² – (1/ (2 · p · f ·C))</choice>
+		<choice>Z = R + (1/ (2 · p · f · C))</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_fbcf04f717623ce9.png</image>
+	<text>L1 = L2, C1 = C2, en R1 = R2. Wat is de spanningsverzwakking van dit filter bij resonantie van beide kringen?</text>
+		<choice>  6 dB</choice>
+		<choice>0 dB</choice>
+		<choice>3 dB</choice>
+		<choice>6 dB</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c9f53e868ebd6743.png</image>
+	<text>De weerstand heeft een waarde van 100 Ω, de stroom door de spoel is 100 mA en de stroom door de condensator is eveneens 100 mA. Wat is de totaalstroom (It) als de aangelegde spanning 10 V is?</text>
+		<choice>0 mA</choice>
+		<choice>100 mA</choice>
+		<choice>200 mA</choice>
+		<choice>300 mA</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij resonantie is de stroom in een praktische parallel resonantiekring</text>
+		<choice>maximaal</choice>
+		<choice>minimaal</choice>
+		<choice>nul</choice>
+		<choice>oneindig</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij resonantie is de stroom in een practische serie-resonantiekring</text>
+		<choice>maximaal</choice>
+		<choice>minimaal</choice>
+		<choice>nul</choice>
+		<choice>oneindig</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een parallel LC-kring heeft een resonantiefrequentie van 100 MHz. Voor een signaal van 90 MHz gedraagt de kring zich als</text>
+		<choice>een spoel</choice>
+		<choice>een condensator</choice>
+		<choice>een weerstand</choice>
+		<choice>een doorverbinding</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een parallel LC kring gedraagt zich boven zijn resonantiefrequentie als</text>
+		<choice>een spoel</choice>
+		<choice>een condensator</choice>
+		<choice>een weerstand</choice>
+		<choice>een kortsluiting</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een serie LC-ring gedraagt zich boven zijn resonantiefrequentie als</text>
+		<choice>een spoel</choice>
+		<choice>een condensator</choice>
+		<choice>een weerstand</choice>
+		<choice>een kortsluiting</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een serie LC-ring gedraagt zich beneden resonantiefrequentie als</text>
+		<choice>een spoel</choice>
+		<choice>een condensator</choice>
+		<choice>een weerstand</choice>
+		<choice>een kortsluiting</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een verliesvrije parallel LC-resonantiekring gedraagt zich op zijn resonantiefrequenties als</text>
+		<choice>een zuivere spoel</choice>
+		<choice>een kortsluiting</choice>
+		<choice>een oneindige impedantie (open)</choice>
+		<choice>een zuivere capaciteit</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_589e86d3d82a2d33.png</image>
+	<text>Wat is It bij resonantie?</text>
+		<choice>It =∞</choice>
+		<choice>It = 0</choice>
+		<choice>It = IR</choice>
+		<choice>It = IR + IC + IL</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een verliesvrije serie LC-resonantiekring gedraagt zich op zijn resonantiefrequentie als</text>
+		<choice>een zuivere spoel</choice>
+		<choice>een kortsluiting</choice>
+		<choice>een oneindige impedantie (open)</choice>
+		<choice>een zuivere capaciteit</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien men bij een spoel het aantal windingen vermindert dan</text>
+		<choice>daalt de zelfinductie</choice>
+		<choice>stijgt de zelfinductie</choice>
+		<choice>blijft de zelfinductie ongewijzigd</choice>
+		<choice>wordt de zelfinductie negatief</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een spoel met een waarde van 2,5 mH en een condensator met een waarde van 400 pF worden in parallel geschakeld. Wat is de resonantiefrequentie van de aldus gevormde kring?</text>
+		<choice>159 MHz</choice>
+		<choice>15,9 MHz</choice>
+		<choice>159 Hz</choice>
+		<choice>159 kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien we in een seriekring de waarde van de zelfinductie en de capaciteit beiden verdubbelen, dan zal de resonantiefrequentie</text>
+		<choice>4 x hoger zijn</choice>
+		<choice>2 x hoger zijn</choice>
+		<choice>gelijk blijven</choice>
+		<choice>2 x verlagen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de resonantiefrequentie van een LC-netwerk?</text>
+		<choice>de hoogste frequentie die stroom doorlaat</choice>
+		<choice>de laagste frequentie  die stroom doorlaat</choice>
+		<choice>de frequentie waar capacitieve reactantie gelijk is aan inductieve reactantie</choice>
+		<choice>de frequente waar de vermogensfactor van de schakeling minimaal is</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat doet zich voor in een LC-schakeling als de inductieve reactantie gelijk is aan de capacitieve reactantie?</text>
+		<choice>maximale Q-factor</choice>
+		<choice>reactief evenwicht</choice>
+		<choice>resonantie</choice>
+		<choice>oververhitting</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de relatie tussen de stroom door een resonantiekring en de spanning over deze kring bij resonantie?</text>
+		<choice>de spanning ijlt de stroom 90º voor</choice>
+		<choice>de stroom ijlt de spanning 90º voor</choice>
+		<choice>spanning en stroom zijn in faze</choice>
+		<choice>spanning en stroom zijn 180º uit faze</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De kwaliteitsfactor (Q-factor) van een parallelkring bij resonantie is gegeven door:</text>
+		<choice>Q = R / Xc</choice>
+		<choice>Q = R · Xc</choice>
+		<choice>Q = Xc / R</choice>
+		<choice>Q = 1 / (R · Xc)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_bf591c367e7b6e93.png</image>
+	<text>De kwaliteitsfactor (Q-factor) van deze kring is </text>
+		<choice>Q = R / Xc</choice>
+		<choice>Q = Xc / R</choice>
+		<choice>Q = R · Xc</choice>
+		<choice>Q = 1 / (R · Xc)</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke bewering is correct voor een parallel RLC-netwerk?</text>
+		<choice>hoe groter R hoe kleiner de bandbreedte</choice>
+		<choice>hoe kleiner R hoe kleiner de bandbreedte</choice>
+		<choice>de bandbreedte is onafhankelijk van R</choice>
+		<choice>de bandbreedte geldt alleen als de kring in resonantie is</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een parallelschakeling van R, L en C wordt de waarde van de parallelweerstand verdubbeld. De bandbreedte van het filter </text>
+		<choice>halveert</choice>
+		<choice>wordt 4 x kleiner</choice>
+		<choice>verdubbelt</choice>
+		<choice>wordt 4 x zo groot</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er als men aan een resonantiekring een weerstand toevoegt?</text>
+		<choice>de Q-factor verhoogt en de resonantiefrequentie verlaagt</choice>
+		<choice>de Q-factor verlaagt en de resonantiefrequentie verhoogt</choice>
+		<choice>de Q-factor verlaagt en de bandbreedte vergroot</choice>
+		<choice>de Q-factor verhoogt en de bandbreedte verkleint</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_df36bfd1338590b3.png</image>
+	<text>Bijgaand schema stelt voor:</text>
+		<choice>een hoogdoorlaatfilter</choice>
+		<choice>een laagdoorlaatfilter</choice>
+		<choice>een bandddoorlaatfilter</choice>
+		<choice>een bandsperfilter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_b45873a477b7605.png</image>
+	<text>R is de verliesweerstand van de spoel. Als deze weerstand vergroot, dan</text>
+		<choice>verhoogt de resonantiefrequentie</choice>
+		<choice>vergroot de bandbreedte van de kring</choice>
+		<choice>verlaagt de resonantiefrequentie</choice>
+		<choice>verkleint de bandbreedte van de kring</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5d59579979eb29da.png</image>
+	<text>Bijgaand schema stelt voor:</text>
+		<choice>een hoogdoorlaatfilter</choice>
+		<choice>een laagdoorlaatfilter</choice>
+		<choice>een bandddoorlaatfilter</choice>
+		<choice>een bandsperfilter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5b62098efa416e75.png</image>
+	<text>laagdoorlaatfilter</text>
+		<choice>hoogdoorlaatfilter</choice>
+		<choice>banddoorlaatfilter</choice>
+		<choice>bandsperfilter</choice>
+		<choice>A</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat blokkeert een signaal boven en onder een bepaald frequentiebereik?</text>
+		<choice>een banddoorlaatfilter</choice>
+		<choice>een hoogdoorlaatfilter</choice>
+		<choice>een ingangsfilter</choice>
+		<choice>een laagdoorlaatfilter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c4339aae22d768bf.png</image>
+	<text>Welk soort filter is dit?</text>
+		<choice>Laagdoorlaat filter</choice>
+		<choice>Hoogdoorlaat filter</choice>
+		<choice>Banddoorlaat filter</choice>
+		<choice>Bandsperfilter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_fe0ad16586a14c97.png</image>
+	<text>Welk soort filter is dit?</text>
+		<choice>Laagdoorlaat filter</choice>
+		<choice>Hoogdoorlaat filter</choice>
+		<choice>Banddoorlaat filter</choice>
+		<choice>Bandsperfilter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_ebb2b7c593ed06fa.png</image>
+	<text>Welk soort filter is dit?</text>
+		<choice>Laagdoorlaat filter</choice>
+		<choice>Hoogdoorlaat filter</choice>
+		<choice>Banddoorlaat filter</choice>
+		<choice>Bandsperfilter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_554dccfb1e670351.png</image>
+	<text>Welk soort filter is dit?</text>
+		<choice>Laagdoorlaat filter</choice>
+		<choice>Hoogdoorlaat filter</choice>
+		<choice>Banddoorlaat filter</choice>
+		<choice>Bandsperfilter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_6aeaadc462bbaf57.png</image>
+	<text>Welk soort filter is dit?</text>
+		<choice>Laagdoorlaat filter</choice>
+		<choice>Hoogdoorlaat filter</choice>
+		<choice>Banddoorlaat filter</choice>
+		<choice>Bandsperfilter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_b8859e82a0de6286.png</image>
+	<text>De resonantiefrequenties van de 3 seriekringen zijn aangeduid in het schema. Het filter</text>
+		<choice>Laat 2000 Hz en 4000 Hz door</choice>
+		<choice>Spert 2000 Hz en 4000 Hz</choice>
+		<choice>Laat 2000 Hz door en spert 4000 Hz</choice>
+		<choice>Laat 4000 Hz door en spert 2000 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c9faee31b651f9d1.png</image>
+	<text>Deze schakeling is:</text>
+		<choice>een laagdoorlaatfilter</choice>
+		<choice>een hoogdoorlaatfilter</choice>
+		<choice>een bandsperfilter</choice>
+		<choice>een banddoorlaatfilter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_f84de745f4e2a787.png</image>
+	<text>Bijgaande grafiek geeft de doorlaatkromme weer  van een filter als functie van de frequentie. Het filter is een</text>
+		<choice>banddoorlaatfilter</choice>
+		<choice>bandsperfilter</choice>
+		<choice>hoogdoorlaatfilter</choice>
+		<choice>laagdoorlaatfilter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_50c77391de625d19.png</image>
+	<text>Welke karakteristieke doorlaatcurve hoort er bij een bandsperfilter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_50c77391de625d19.png</image>
+	<text>Welke karakteristieke doorlaatcurve hoort er bij een banddoorlaatflter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_50c77391de625d19.png</image>
+	<text>Welke karakteristieke doorlaatcurve hoort er bij een laagdoorlaatflter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_50c77391de625d19.png</image>
+	<text>Welke karakteristieke doorlaatcurve hoort er bij een hoogdoorlaatflter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_793886c2bf0fd5d5.png</image>
+	<text>De spanning U op de secundaire van twee overkritisch gekoppelde kringen is gegeven door:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een Pi-filter aan de uitgang van een zender heeft als doel:</text>
+		<choice>De antennewinst te verhogen</choice>
+		<choice>De rimpelspanning van de voedingsspanning van de eindtrap te verminderen</choice>
+		<choice>De impedantie van de zender aan te passen aan 50 Ω</choice>
+		<choice>De impedantie van de zender aan te passen aan de belasting gevormd door transmissielijn en antenne</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d8d93d10665870b7.png</image>
+	<text>Welk is het Pi-filter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_2571dbee4bd23009.png</image>
+	<text>Welk is het T-filter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een kwartzkristal gedraagt zich als een</text>
+		<choice>detector</choice>
+		<choice>oscillator</choice>
+		<choice>resonantiekring</choice>
+		<choice>capaciteit</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een 10 MHz banddoorlaatfilter met en bandbreedte van 500 Hz zal steeds</text>
+		<choice>een LC-filter zijn</choice>
+		<choice>een RL-filter zijn</choice>
+		<choice>een CR-filter zijn</choice>
+		<choice>een  kwartskristalfilter zijn</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met het feit dat echte weerstanden, spoelen en condensatoren niet-ideale componenten zijn moet men vooral rekening houden op</text>
+		<choice>zeer hoge frequenties</choice>
+		<choice>zeer lage frequenties</choice>
+		<choice>boven de Nyquist-frequentie</choice>
+		<choice>onder de Nyquist-frequentei</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk van volgende filters verbruikt (in het ideale geval) geen energie</text>
+		<choice>een RC-filter (weerstand + condensator)</choice>
+		<choice>een RL-filter (weerstand + spoel)</choice>
+		<choice>een LC-filter (spoel + condensator)</choice>
+		<choice>een LCR-filter (spoel + condensator + weerstand)</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_3d348af0d20b94c6.png</image>
+	<text>De wisselspanning tussen de punten X en Y is 10 Veff. De spanning (onbelast) tussen de punten P en Q is:</text>
+		<choice>0 V</choice>
+		<choice>14 V</choice>
+		<choice>20 V</choice>
+		<choice>28 V</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de golfvorm op de uitgang van een dubbelfazige gelijkrichter, zonder filter ?</text>
+		<choice>pure gelijkspanning</choice>
+		<choice>een sinusoïdale spanning met als frequentie de helft van de frequenties van de gelijkgerichte wisselspanning</choice>
+		<choice>een serie pulsen, met dezelfde frequentie als van de aangelegde wisselspanning</choice>
+		<choice>een serie pulsen met als frequentie het dubbele van deze van de gelijkgerichte wisselspanning.</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de minimum vereiste sperpanning (doorslagspanning) van de gelijkrichterdiode in een enkelfazige gelijkrichterschakeling?</text>
+		<choice>en vierde van de uitgangsspanning</choice>
+		<choice>de helft van de uitgangsspanning</choice>
+		<choice>gelijk aan de piekspanning van de transformator</choice>
+		<choice>gelijk aan het dubbele van de piekspanning van de transformator</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de minimum vereiste sperpanning (doorslagspanning)  van de gelijkrichterdiode in een dubbelfazige gelijkrichterschakeling?</text>
+		<choice>en vierde van de uitgangsspanning</choice>
+		<choice>de helft van de uitgangsspanning</choice>
+		<choice>gelijk aan de uitgangsspanning</choice>
+		<choice>het dubbele van de piekspanning van de transformator</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Gedurende hoeveel graden van een cyclus geleidt een gelijkrichterdiode van een dubbelfazige gelijkrichterschakeling?</text>
+		<choice>90°</choice>
+		<choice>180°</choice>
+		<choice>270°</choice>
+		<choice>360°</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Gedurende hoeveel graden van een cyclus geleidt een gelijkrichterdiode van een enkelfazige gelijkrichterschakeling?</text>
+		<choice>90°</choice>
+		<choice>180°</choice>
+		<choice>270°</choice>
+		<choice>360°</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waartoe dienen de weerstand en de condensator die veelal in parallel op gelijkrichtdiodes worden geplaatst (wanneer diodes in serie worden geschakeld om de werkspanning te verhogen)?</text>
+		<choice>ze verdubbelen de uitgangsspanning</choice>
+		<choice>ze blokkeren de doorgang van wisselspanning</choice>
+		<choice>ze zorgen dat de sperspanning over alle diodes gelijk is en beschermen ze aldus</choice>
+		<choice>ze hebben min of meer de uitgangsspanning constant te houden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_7a87698774d40734.png</image>
+	<text>Wat stelt het schema voor?</text>
+		<choice>Een spanningsverdubbeling</choice>
+		<choice>Een detector</choice>
+		<choice>Een dubbelfazige gelijkrichter</choice>
+		<choice>Een clipper</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_a489eb8dfd413727.png</image>
+	<text>Welk van bijgaande schema's werkt correct als gelijkrichter?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_446ca1d5fd51bd0e.png</image>
+	<text>Wat is de correcte weergave van de (onbelaste) spanning tussen de punten A en B?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5b995280807dee03.png</image>
+	<text>Wat stelt bijgaand schema voor?</text>
+		<choice>een bruggelijkrichter</choice>
+		<choice>een filter</choice>
+		<choice>een spanningsverdubbelaar</choice>
+		<choice>een frequentievermenigvuldiger</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d76c657e1f8af85d.png</image>
+	<text>Wat is de correcte weergave van de (onbelaste) spanning tussen de punten A en B?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d22ae50290733ded.png</image>
+	<text>Wat is de correcte weergave van de spanning tussen de punten A en B, in de veronderstelling dat de voeding belast wordt op haar nominaal vermogen?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_e6cd7e72e73f0e41.png</image>
+	<text>De effectieve spanning van de secondaire van de transformatoren is 100 V. Wat zijn U1 en U2 (onder nominale belasting)?</text>
+		<choice>140 en 140 V</choice>
+		<choice>280 en 280 V</choice>
+		<choice>140 en 280 V</choice>
+		<choice>280 en 140 V</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_9a651cd3126301fa.png</image>
+	<text>Welk spanningsdiagramma is het juiste?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de rimpelspanning van een enkelfazige gelijkrichter is</text>
+		<choice>50 Hz</choice>
+		<choice>100 Hz</choice>
+		<choice>200 Hz</choice>
+		<choice>25 Hz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De frequentie van de rimpelspanning van een dubbelfazige gelijkrichter is</text>
+		<choice>50 Hz</choice>
+		<choice>100 Hz</choice>
+		<choice>200 Hz</choice>
+		<choice>25 Hz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het afvlakken van de gelijkspanning in een voeding gebeurt door</text>
+		<choice>de diodes</choice>
+		<choice>de transformator en 1 of meer transistoren</choice>
+		<choice>een zenerdiode</choice>
+		<choice>condensatoren en eventueel ook spoelen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om een zo klein mogelijke rimpelspanning te bekomen bij een voeding gebruikt men:</text>
+		<choice>enkelzijdige gelijkrichting en afvlakking met een condensator van kleine waarde</choice>
+		<choice>enkelzijdige gelijkrichting en afvlakking met een condensator van grote waarde</choice>
+		<choice>dubbelzijdige gelijkrichting en afvlakking met een condensator van grote waarde</choice>
+		<choice>dubbelzijdige gelijkrichting en afvlakking met een condensator van kleine waarde</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_235df6deb877448f.png</image>
+	<text>Bereken de weerstandwaarde van R en de vermogen verbruikt in R als je weet dat de zenerdiode een vermogen van 1 W verbruikt</text>
+		<choice>25 Ω, 2,5 W</choice>
+		<choice>25 Ω, 1 W</choice>
+		<choice>50 Ω, 0,5 W</choice>
+		<choice>50 Ω, 1 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_7f3f56fd2e4aff23.png</image>
+	<text>Wat stelt deze schakeling voor?</text>
+		<choice>een stroomstabilisator</choice>
+		<choice>een spanningsstabilisator</choice>
+		<choice>een spanningsverdubbelaar</choice>
+		<choice>een LED-diode in geleiding</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_4f7fa6a35a303f3e.png</image>
+	<text>Wat is de uitgangsspanning van deze schakeling (de transistor is een silicium-transistor)?</text>
+		<choice>6,3 V</choice>
+		<choice>7 V</choice>
+		<choice>7,7 V</choice>
+		<choice>8,4 V</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_eb7a6981ec93133b.png</image>
+	<text>Wat is het doel van de diode D1 in bijgaand schema (capaciteitswaarden in µF) ?</text>
+		<choice>stabiliseert de ingangsspanning</choice>
+		<choice>zorgt voor een constante referentiespanning</choice>
+		<choice>beperkt de pieken</choice>
+		<choice>filtert de rimpelspanning</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5a6d4c8c5999e969.png</image>
+	<text>Wat is het doel van de transistor Q1 in bijgaand schema (capaciteitswaarden in µF) ?</text>
+		<choice>Verminderen rimpelspanning</choice>
+		<choice>Een constante belasting voorzien aan een spanningsbron</choice>
+		<choice>zorgt ervoor de schakeling voldoende stroom kan leveren</choice>
+		<choice>Voorziet stroom aan diode D1</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_5a6d4c8c5999e969.png</image>
+	<text>Wat is het doel van C3 in bijgaand schema (capaciteitswaarden in µF) ?</text>
+		<choice>vermijden van oscilleren van de schakeling</choice>
+		<choice>afvlakkking op de uitgang</choice>
+		<choice>stabiliseren voorspanning van Q1</choice>
+		<choice>verminderen rimpel op uitgang</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_e87c9fa721055d8b.png</image>
+	<text>Wat is het doel van R1 in bijgaand schema (capaciteitswaarden in µF) ?</text>
+		<choice>dient als constante belasting voor de spanningsbron</choice>
+		<choice>LED, werkingsindicator</choice>
+		<choice>zorgt voor de nodige stroom door D1</choice>
+		<choice>afvlakking van bronspanning samen met C2</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_eb7a6981ec93133b.png</image>
+	<text>Wat is het doel van R2 in bijgaand schema (capaciteitswaarden in µF) ?</text>
+		<choice>voorzien van voorspanning aan Q1</choice>
+		<choice>voorzien van voorspanning voor D1</choice>
+		<choice>afvlakken uitgangsspanning</choice>
+		<choice>zorgt voor een minimale belasting</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Geef één karakteristiek van een lineaire elektronische spanningsstabilisatie</text>
+		<choice>het regelende element wordt aan en uit geschakeld, met een aan/uit verhouding die proportioneel is met de ingangsspanning of belastingsstroom</choice>
+		<choice>de geleidbaarheid van het regelende element wordt veranderd in functie van de ingangsspanning of the belastingsstroom.</choice>
+		<choice>de serietransistor wordt aan en uitgeschakeld</choice>
+		<choice>de paralleltransistor wordt aan en uitgeschakeld</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c5927ac1d47847c.png</image>
+	<text>Wat is de onbelaste uitgangsspanning als men volgend signaal aanlegt aan  de “in”-klemmen van de schakeling?</text>
+		<choice>0 V</choice>
+		<choice>10 V</choice>
+		<choice>77.1 V</choice>
+		<choice>14.1 V</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een schakelende voeding</text>
+		<choice>heeft een zeer hoog rendement onafhankelijk van het geleverde vermogen</choice>
+		<choice>heeft het nadeel zeer zwaar te zijn</choice>
+		<choice>heeft het nadeel een ingangsspanning te vereisen die relatief stabiel is om een goede werking te kunnen garanderen</choice>
+		<choice>benodigt grote filter-capaciteiten</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een schakelende voeding</text>
+		<choice>bestaat hoofdzakelijk uit een gelijkrichter, een filter-condensator, een spoel, een schakelend element en een filter-condensator op de uitgang</choice>
+		<choice>gebruikt noodzakelijk een transformator aan de ingangom de netspanning (220V) te verlagen tot een meer handelbare waarde</choice>
+		<choice>gebruikt een zn. Ballast-transistor die in lineaire regelmodus opereert</choice>
+		<choice>kan alleen positieve spanningen genereren.</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een schakelende voeding is de afmeting van de filtercondensator kleiner dan in een klassieke lineaire voeding</text>
+		<choice>omdat de uitgangsspanning lager is dan de ingangsspanning</choice>
+		<choice>omdat men de energie terugwint die niet is verloren in de transformator</choice>
+		<choice>omdat de schakelfrequentie hoger is dan 50Hz, en hierdoor een lager capaciteitswaarde volstaat</choice>
+		<choice>om het gewicht van de voeding te verminderen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Geef één karakteristiek van een schakelende elektronische spanningsregulator.</text>
+		<choice>de geleidbaarheid van het regelende element wordt veranderd in functie van de ingangsspanning en de belastingsstroom</choice>
+		<choice>heeft meer dan 1 uitgangsspanning</choice>
+		<choice>het regelende element wordt aan en uitgeschakeld met een aan/uit verhouding die proportioneel is met de ingangsspanning en de uitgangsstroom.</choice>
+		<choice>De serietransistor dissipeert veel</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een audio versterker wordt een koppelcondensator gebruikt om:</text>
+		<choice>AC en DC door te laten</choice>
+		<choice>AC door te laten en DC tegen te houden</choice>
+		<choice>DC door te laten en AC tegen te houden</choice>
+		<choice>AC en DC tegen te houden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een HF vesterker wordt een HF-choke (RFC) gebruikt om:</text>
+		<choice>AC en DC tegen te houden</choice>
+		<choice>AC en DC door te laten</choice>
+		<choice>DC door te laten en AC tegen te houden</choice>
+		<choice>AC door te laten en DC tegen te houden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d2a73da6cea2c012.png</image>
+	<text>Wat is de functie van R1 en R2?</text>
+		<choice>juiste basis-emitter spanning (bias) instellen</choice>
+		<choice>belastingsweerstanden</choice>
+		<choice>tegenkoppeling</choice>
+		<choice>terugkoppeling</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_d4d36b9a12b1e4e6.png</image>
+	<text>Wat is de functie van R3?</text>
+		<choice>basisstroom vergroten</choice>
+		<choice>belastingsweerstand</choice>
+		<choice>tegenkoppeling (beperkt de temperatuursgevoeligheid)</choice>
+		<choice>terugkoppeling</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_1ead60e9215e5c9c.png</image>
+	<text>Dit is een</text>
+		<choice>breedbandige versterker</choice>
+		<choice>smalbandige versterker</choice>
+		<choice>frequentievermenigvuldiger</choice>
+		<choice>mengtrap</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke componenten zorgen ervoor dat bij een versterker met transistoren in parallel  alle transistoren gelijkmatig belast worden?</text>
+		<choice>de emitterweerstanden</choice>
+		<choice>de basisweerstanden</choice>
+		<choice>het ingangsnetwerk</choice>
+		<choice>het uitgangsnetwerk</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een versterker met twee transisoren in parallel moet men er zorg voor dragen dat</text>
+		<choice>de eerste transistor een grotere versterking heeft dan de tweede transistor</choice>
+		<choice>de eerste transistor een kleinere versterking heeft dan de tweede transistor</choice>
+		<choice>beide transistoren gelijkmatig belast worden</choice>
+		<choice>beide transistoren ongelijkmatig belast worden</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>een versterker met een ingangsimpedantie van 100 Ω en een uitgangsimpedantie van 50 Ω heeft een spanningsversterking van 10. Hoe groot is de vermogensversterking?</text>
+		<choice>2</choice>
+		<choice>10</choice>
+		<choice>100</choice>
+		<choice>200</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>een versterker met een ingangsimpedantie van 100 Ω en een uitgangsimpedantie van 25 Ω heeft een vermogensversterking van 4. Hoe groot is de spanningsversterking?</text>
+		<choice>1</choice>
+		<choice>4</choice>
+		<choice>16</choice>
+		<choice>64</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_8398139eef658feb.png</image>
+	<text>Aan de hand van onderstaande karakteristiek van een versterker kan men bepalen</text>
+		<choice>welke de maximale spanning van het ingangssignaal mag zijn zonder de versterker te oversturen</choice>
+		<choice>wat de maximale frequentie is waarbij de versterker bruikbaar is</choice>
+		<choice>wat de minimale frequentie is waarbij de versterker bruikbaar is</choice>
+		<choice>hoe groot het rendement van de versterker is</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_a3aa17c75e265a81.png</image>
+	<text>Aan de hand van de  onderstaande karakteristiek van een versterker kan men bepalen</text>
+		<choice>of de versterker al dan niet overstuurd wordt</choice>
+		<choice>hoeveel ruis de versterker produceert</choice>
+		<choice>binnen welk frequentiebereik een versterker bruikbaar is</choice>
+		<choice>hoe groot het rendement van de versterker is</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een breedbandige versterker</text>
+		<choice>is de versterking omgekeerd evenredig met de frequentie</choice>
+		<choice>zijn er minstens 2 ingangen, zodat de signalen afkomstig van verschillende antennes gelijktijdig versterkt kunnen worden</choice>
+		<choice>is de versterking binnen een relatief groot frequentiebereik onafhankelijk is van de frequentie</choice>
+		<choice>neemt de versterking lineair toe met de frequentie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een signaal met een niveau van 0 dBm is gelijk aan</text>
+		<choice>1 mW</choice>
+		<choice>1 mV in 50 Ω</choice>
+		<choice>S9</choice>
+		<choice>100 dB µv</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_a3e46d9cd88b5c58.png</image>
+	<text>Deze transfertkarakteristiek (Ia /Vg ) van een zendbuis  wijst op een instelling in klasse:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>AB</choice>
+		<choice>C</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_7e0a4fbad12664f7.png</image>
+	<text>Deze transfertkarakteristiek (IA /Vg ) van een zendbuis  wijst op een instelling in klasse:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>AB</choice>
+		<choice>C</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_db253c933a6db2fe.png</image>
+	<text>Deze transfertkarakteristiek (IA /Vg ) van een zendbuis  wijst op een instelling in klasse:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>AB</choice>
+		<choice>C</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c09062f7e879c297.png</image>
+	<text>Deze dynamische transfertkarakteristiek (Ic/Ib ) van een transistor  wijst op een instelling in klasse:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>AB</choice>
+		<choice>C</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_c6aa5b98fec01ff1.png</image>
+	<text>Deze dynamische transfertkarakteristiek (Ic/Ib ) van een transistor  wijst op een instelling in klasse:</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>AB</choice>
+		<choice>C</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welke instelling van een versterker heeft men de minst vervorming?</text>
+		<choice></choice><choice>klasse B</choice>
+		<choice>klasse AB</choice>
+		<choice>klasse C</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welke instelling van een versterker heeft men de meeste vervorming?</text>
+		<choice>klasse A</choice>
+		<choice>klasse B</choice>
+		<choice>klasse AB</choice>
+		<choice>klasse C</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welke instelling van een versterker heeft men het hoogste rendement?</text>
+		<choice>klasse A</choice>
+		<choice>klasse B</choice>
+		<choice>klasse AB</choice>
+		<choice>klasse C</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welke instelling van een versterker heeft men het laagste rendement?</text>
+		<choice>klasse A</choice>
+		<choice>klasse B</choice>
+		<choice>klasse AB</choice>
+		<choice>klasse C</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het maximaal haalbare rendement van een klasse A versterker is</text>
+		<choice>50 %</choice>
+		<choice>60 %</choice>
+		<choice>70 %</choice>
+		<choice>78,5 %</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het maximaal haalbare rendement van een klasse B versterker is</text>
+		<choice>60 %</choice>
+		<choice>70 %</choice>
+		<choice>78,5 %</choice>
+		<choice>90 %</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een zender straalt minder harmonischen uit indien:</text>
+		<choice>de eindtrap in klasse A wordt ingesteld i.p.v. klasse C</choice>
+		<choice>de voedingsspanning van de oscillator beter wordt gestabiliseerd</choice>
+		<choice>de eindtrap in klasse C wordt ingesteld i.p.v. klasse A</choice>
+		<choice>een kristaloscillator wordt gebruikt in plaats van een LC-oscillator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In welke configuratie heeft een klasse B versterker relatief weinig vervorming?</text>
+		<choice>Bij een versterker met veldeffekttransistoren</choice>
+		<choice>Bij balansversterkers</choice>
+		<choice>Bij versterkers met transistoren in parallel</choice>
+		<choice>Bij versterkers met radiobuizen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is demodulatie?</text>
+		<choice>het mengen van twee signalen om een derde signaal te bekomen</choice>
+		<choice>het terug verkrijgen van een LF-signaal waarmede een HF-signaal is gemoduleerd</choice>
+		<choice>het gelijkrichten van een HF signaal</choice>
+		<choice>het verminderen van de modulatiediepte om vervorming te vermijden.</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is “detectie”?</text>
+		<choice>Het elimineren van informatie op een draaggolf</choice>
+		<choice>Het terugwinnen van informatie van een gemoduleerd hoogfrequent signaal</choice>
+		<choice>De modulatie van een draaggolf</choice>
+		<choice>Het mengen van ruis met een ontvangen signaal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_9698f5dd2dcbfbd8.png</image>
+	<text>Wat is de vorm van de spanning die aanwezig is op de klem Eout?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_7db346c415d46c25.png</image>
+	<text>Wat is de vorm van de spanning die aanwezig is op de klem Eout?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_e554775c503e546d.png</image>
+	<text>Wat is de vorm van de spanning die aanwezig is op de klem Eout?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_dc1676cb87be17e5.png</image>
+	<text>Wat stelt volgend schema voor?</text>
+		<choice>een product-detector</choice>
+		<choice>een storingsbegrenzer</choice>
+		<choice>een AVS (automatische volumeregeling) schakeling</choice>
+		<choice>een diode AM-detector</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een diodedetector is een typische detector voor</text>
+		<choice>FM signalen</choice>
+		<choice>AM signalen</choice>
+		<choice>SSB (EZB) signalen</choice>
+		<choice>RTTY (FSK) signalen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke onderdeel van een oscillator heeft de meeste invloed op de frequentie ?</text>
+		<choice>de afsluitweerstand</choice>
+		<choice>de resonantiekring</choice>
+		<choice>de terugkoppeling</choice>
+		<choice>de transistor</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het RC-netwerk aan de uitgang van een diodedetector dient om</text><choice>te vermijden dat de schakeling zou oscilleren</choice>
+		<choice>om de HF component van het gelijkgerichte signaal te onderdrukken</choice>
+		<choice>om de HF component van het gelijkgerichte signaal te accentueren</choice>
+		<choice>om de diode te beschermen tegen overbelasting</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Men kan de frequentiestabiliteit van een oscillator verbeteren door</text>
+		<choice>de terugkoppeling te vergroten</choice>
+		<choice>de oscillator af te schermen</choice>
+		<choice>ervoor te zorgen dat de temperatuur van de oscillator constant blijft</choice>
+		<choice>de voedingspanning te verhogen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke van de onderstaande oscillatoren zal de beste frequentiestabilitiet hebben?</text>
+		<choice>een kristaloscillator</choice>
+		<choice>een LC oscillator</choice>
+		<choice>een RC oscillator</choice>
+		<choice>een RL oscillator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>een dubbelgebalanceerde mengtrap (DBM) wordt gebruikt als demodulator voor </text>
+		<choice>SSB signalen</choice>
+		<choice>FM signalen</choice>
+		<choice>PM signalen</choice>
+		<choice>sterk overstuurde signalen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat doet een product detector?</text>
+		<choice>signaal van een lokale oscillator toevoeren aan de ingang van een versterker</choice>
+		<choice>detecteert FM gemoduleerde HF signalen</choice>
+		<choice>detecteert crossmodulatie producten</choice>
+		<choice>zet door menging een HF signaal om in een audiosignaal</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In geval van detectie van een USB signaal (SSB, bovenste zijband) zal de frequentie van de zwevingsoscillator (of BFO)</text>
+		<choice>hoger of lager zijn dan de frequenties van het SSB-signaal</choice>
+		<choice>lager zijn dan de frequenties van het SSB-signaal</choice>
+		<choice>hoger  zijn dan de frequenties van het SSB-signaal</choice>
+		<choice>in het midden van het spectrum van het SSB signaal dienen te liggen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een CW signaal kan worden gedecodeerd</text>
+		<choice>met een AM ontvanger</choice>
+		<choice>met een SSB ontvanger</choice>
+		<choice>met een FM ontvanger</choice>
+		<choice>met een AM of een FM ontvanger</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De demodulatie van een telegrafie-signaal (CW) gebeurt doorgaans in een</text>
+		<choice>een AM diode detector</choice>
+		<choice>een product detector</choice>
+		<choice>een FM discriminator</choice>
+		<choice>een AVR schakeling</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een frequentiediscriminator</text>
+		<choice>een modulator voor FM</choice>
+		<choice>een demodulator voor FM</choice>
+		<choice>een begrenzerschakeling voor FM</choice>
+		<choice>de ingangskring van een frequentiemeter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke van de volgende schakelingen is geschikt voor de demodulatie van een  FM of PM signaal</text>
+		<choice>een dubbelgebalanceerd mengtrap (DBM)</choice>
+		<choice>een flankdetector</choice>
+		<choice>een productdetector</choice>
+		<choice>een diodedetector</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom is een kristaloscillator stabieler dan een LC-oscillator?</text>
+		<choice>wegens zijn geringere afmetingen</choice>
+		<choice>wegens zijn lage spanning</choice>
+		<choice>wegens de zeer hoge Q-factor en grote temperatuursstabiliteit van het kristal</choice>
+		<choice>wegens zijn gemak van constructie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke van de volgende schakelingen is een FM/PM detector</text>
+		<choice>een product detector</choice>
+		<choice>een Foster-Seeley schakeling</choice>
+		<choice>een dubbel gebalanceerde mengtrap</choice>
+		<choice>eem diode mengtrap</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een frequentiediscriminator?</text>
+		<choice>een FM generator</choice>
+		<choice>een schakeling om twee nabijgelegen signalen te scheiden</choice>
+		<choice>een schakeling om FM gemoduleerde signalen te detecteren</choice>
+		<choice>een schakeling om AM gemoduleerde signalen uit FM signalen te elimineren</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Flankdetectie wordt gebruikt bij:</text>
+		<choice>het opwekken van fazemodulatie</choice>
+		<choice>het ontvangen van EZB signalen</choice>
+		<choice>het ontvangen van FM signalen</choice>
+		<choice>het onderdrukken van storingen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_ccdd7dee08a1913c.png</image>
+	<text>Deze schakeling is:</text>
+		<choice>een frequentie-discriminator</choice>
+		<choice>een spanningsverdubbelaar</choice>
+		<choice>een fazedetector</choice>
+		<choice>een balanced demodulator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Het filter in een PLL schakeling bepaalt</text>
+		<choice>hoe de regelspanning van de VCO reageert op een frequentieverandering</choice>
+		<choice>hoeveel harmonischen de VCO produceert</choice>
+		<choice>de verhouding tussen de frequentie van de VCO en de referentie-oscillator</choice>
+		<choice>de frequentie van de VCO</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Door ongewenste terugkoppeling in een versterker</text>
+		<choice>kan het gebeuren dat een versterker soms niet oscilleert</choice>
+		<choice>kan de ruisproductie van de versterker verbeteren</choice>
+		<choice>kan niets gebeuren, want een versterker kan geen terugkoppeling hebben</choice>
+		<choice>kan deze versterker soms oscilleren</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Zonder terugkoppeling</text>
+		<choice>kan een versterker niet versterken</choice>
+		<choice>kan een modulator niet moduleren</choice>
+		<choice>kan een oscillator niet oscilleren</choice>
+		<choice>kan een antenne niet uitstralen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien in een oscillator de terugkoppeling onvoldoende is dan zal</text>
+		<choice>de oscillator te sterk oscilleren</choice>
+		<choice>de oscillator niet oscilleren</choice>
+		<choice>men dit moeten compenseren door de terugkoppeling in de eindversterker te vergroten</choice>
+		<choice>men dit moeten compenseren door de terugkoppeling in de modulator te vergroten</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_8bc3fdba46bb428d.png</image>
+	<text>Wat stelt bijgaand schema voor</text>
+		<choice>een Hartley oscillator</choice>
+		<choice>een Colpitts oscillator</choice>
+		<choice>een Vackar oscillator</choice>
+		<choice>een Clapp oscillator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_93b637674ba99e2b.png</image>
+	<text>Wat stelt bijgaand schema voor</text>
+		<choice>een Hartley oscillator</choice>
+		<choice>een Colpitts oscillator</choice>
+		<choice>een Vackar oscillator</choice>
+		<choice>een Clapp oscillator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/schakelingen_html_35a666a8178209a9.png</image>
+	<text>Bijgaand schema is het principeschema van</text>
+		<choice>frequentie-vermenigvuldiger</choice>
+		<choice>oscillator</choice>
+		<choice>mengtrap</choice>
+		<choice>MF versterker</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een VXO?</text>
+		<choice>een LC-oscillator die door een varicap wordt afgestemd</choice>
+		<choice>een kristaloscillator waarvan men de frequentie over een beperkt bereik kan instellen </choice>
+		<choice>een LC-oscillator die deel uitmaakt van een phase-locked loop</choice>
+		<choice>een kristaloscillator</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een overtone kristaloscillator oscilleert:</text>
+		<choice>op de grondfrequentie</choice>
+		<choice>ongeveer op een even harmonische</choice>
+		<choice>ongeveer op een oneven harmonische</choice>
+		<choice>zowel op even als oneven harmonischen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een overtone-oscillator zit een kristal met een grondfrequenties van 12 MHz.  Deze schakeling trilt op ongeveer:</text>
+		<choice>6 MHz</choice>
+		<choice>12 MHz</choice>
+		<choice>24 MHz</choice>
+		<choice>36 MHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke component wordt dikwijls gebruikt om de frequentie van een oscillator bij te stemmen d.m.v. een variabele DC-spanning?</text>
+		<choice>een capaciteitsdiode (varicap)</choice>
+		<choice>een kristal</choice>
+		<choice>een zenerdiode</choice>
+		<choice>een gundiode</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een spanninggestuurde oscillator (VCO)?</text>
+		<choice>Een oscillator waarvan de uitgangsspanning varieert in functie van een stuurspanning.</choice>
+		<choice>Een oscillator waarvan de frequentie varieert in functie van een stuurspanning.</choice>
+		<choice>Een oscillator die een foutspanning genereert die evenredig is met zijn frequentieverloop (frequentiedrift)</choice>
+		<choice>Een oscillator die een foutspanning genereert die evenredig is met zijn drift</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het intrinsiek nadeel van een PLL-schakeling t.o.v. een LC-oscillator of een kristal-oscillator?</text>
+		<choice>hoger eigen ruisniveau</choice>
+		<choice>lagere uitgangsspanning</choice>
+		<choice>grotere temperatuursafhankelijkheid</choice>
+		<choice>kleiner afstembereik</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>In een schakeling wordt de frequentie, afkomstig van een VCO vergeleken met een referentiesignaal afkomstig van een kristaloscillator. Het verschil in faze tussen beide signalen genereert een gelijkspanning die de frequentie van de VCO bijstuurt.</text>
+		<choice>Dit is een balansmodulator</choice>
+		<choice>Dit is een PLL (phase locked loop) oscillator</choice>
+		<choice>Dit is een differentieelversterker</choice>
+		<choice>Dit is een variabele frequentie oscillator (VFO)</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Digitale schakelingen maken het mogelijk filters te ontwikkelen. De 2 meest bekende zijn:</text>
+		<choice>DFT en FFT filters</choice>
+		<choice>FIR en IIR filters</choice>
+		<choice>Chébyshev en Butterworth filters</choice>
+		<choice>caviteitsfilters en oppervlakte-golven (SAW) filters</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een signaal bestaat uit 2 sinusoidale signalen, 1000 en 1500 Hz, van gelijke amplitude met daarenboven een hoeveelheid ruis met een maximale amplitude die 20 dB zwakker is.</text>
+		<choice>Het samengestelde signaal is makkelijker te herkennen in tijdsdomein dan in frequentiedomein</choice>
+		<choice>Het samengestelde signaal is makkelijker te herkennen in frequentiedomein dan in tijdsdomein</choice>
+		<choice>Het samengestelde signaal is onherkenbaar</choice>
+		<choice>Dergelijk signaal kan niet samengesteld worden</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Door middel van een Fourier-transformatie kan men</text>
+		<choice>een zender verliesvrij aanpassen aan een antenne</choice>
+		<choice>220 V wisselspanning omzetten naar 12 V wisselspanning</choice>
+		<choice>het frequentiesprectrum van een signaal bepalen</choice>
+		<choice>220 V wisselspanning omzetten naar 12 V gelijkspanning</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een voorstelling van een signaal in het tijdsdomein</text>
+		<choice>is het resultaat steeds een sinusoide</choice>
+		<choice>geeft een as de tijd weer en de andere de amplitude</choice>
+		<choice>geeft een as de tijd weer en de andere de frequentie</choice>
+		<choice>geven beide assen de tijd weer</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een voorstelling van een signaal in het frequentiedomein</text>
+		<choice>geven beide assen de frequentie weer</choice>
+		<choice>is het resultaat steeds een sinusoide</choice>
+		<choice>geeft een as het frequentie weer en de andere as de amplitude</choice>
+		<choice>geeft een as de frequentie weer en de andere as de tijd</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met een fouriertransformatie</text>
+		<choice>kan men een complex signaal ontbinden in zijn grondgolf en al zijn harmonische componenten, en elk van die componenten op een frequentieas weergeven (frequentiesdomein)</choice>
+		<choice>kan men een complex signaal waarvan alle componenten (grondgolgf en harmonischen) gekend zijn samenstellen en weergeven op een tijdsas (tijdsdomein)</choice>
+		<choice>kan men SSB-signalen omvormen in digitale signalen</choice>
+		<choice>kan men digitale signalen omvormen in SSB signalen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een vierkantsgolf (blokgolf) met frequentie f is een samenstelling van sinusoidale signalen met onder andere</text>
+		<choice>frequentie f, 2.f, 3.f, 4.f en 5.f</choice>
+		<choice>frequentie f, 3.f, 5.f, 7.f en 9.f</choice>
+		<choice>frequentie f, 2.f, 4.f, 6.f en 8.f</choice>
+		<choice>frequentie f, 2,f, 3.f, 5.f en 8.f</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij gebruik dan FFT voor een Fouriertransformatie</text>
+		<choice>kan men alleen periodische signalen bewerken</choice>
+		<choice>dient het aantal samples een macht van 2 te zijn</choice>
+		<choice>dient het aantal samples een macht van 1 te zijn</choice>
+		<choice>is de berekeningstijd langer dan bij DFT</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij een Fouriertransformatie</text>
+		<choice>is de FFT techniek sneller dan de DFT techniek</choice>
+		<choice>is de DFT techniek sneller dan de FFT techniek</choice>
+		<choice>zijn ze beide even snel</choice>
+		<choice>kan FFT alleen toegepast worden op periodische signalen</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De Fouriertransformatie</text>
+		<choice>is een mathematisch hulpmiddel dat toelaat om een signaal te ontbinden in zijn verschillende spanningscomponenten</choice>
+		<choice>maakt het mogelijk een complex elektronisch circuit te ontbinden in een aantal elementaire circuits</choice>
+		<choice>maakt het mogelijk de werking van antennes te simuleren</choice>
+		<choice>is een mathematisch hulpmiddel dat toelaat om een signaal te ontbinden in zijn verschillende frequentiecomponenten</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Bij DDS (Direct Digital Synthesis) wordt een wisselspanning generereerd</text>
+		<choice> met behulp van een DAC (digitaal naar analoog convertor) schakeling</choice>
+		<choice> met behulp van een PLL (phase locked loop) schakeling</choice>
+		<choice>op basis van het mengproduct van 2 andere signalen</choice>
+		<choice>door middel van een extreem stabiele LC oscillator</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Snelle Fourrier Transformatie (FFT of Fast Fourrier Transform in het Engels)</text>
+		<choice>laat toe het aantal monsters (samples) bij een discrete Fourier transformatie (DFT) te berekenen</choice>
+		<choice>maakt het mogelijk de benodigde rekentijd te verminderen in vergelijking met een Discrete Fourier Transformatie (DST of discretely sampled Fourrier Transform in het Engels)</choice>
+		<choice>maakt het mogelijk de precisie te verhogen die bekomen is door een Discrete Fourrier Transformatie (DFT)</choice>
+		<choice>is het omgekeerde van Discrete Fourrier Transformatie (DFT)</choice>
+		<answer>2</answer>
+</question>
+
+<category>

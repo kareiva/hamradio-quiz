@@ -1,0 +1,1016 @@
+
+	<category>
+	<title>ontvangers.html</title>
+
+
+<question>
+	<image></image>
+	<text>Geef  één van de redenen op waarom een goede ontvanger meestal een superheterodyne-ontvanger is met meer dan één middenfrequent?</text>
+		<choice>om meer gevoeligheid te bekomen</choice>
+		<choice>om de spiegelfrequentie beter te versterken</choice>
+		<choice>om zowel een goede selectiviteit als een goede onderdrukking van de spiegelfrequentie te bekomen</choice>
+		<choice>om de ruis beter te onderdrukken</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom heeft een ontvanger dikwijls een (schakelbare) verzwakker in de ingang ?</text>
+		<choice>om de S-meter te kunnen ijken</choice>
+		<choice>om de vervorming in de laagfrequent versterker te verminderen</choice>
+		<choice>om te vermijden dat de ingangstrap of mengtrap wordt overstuurd door sterke signalen</choice>
+		<choice>om het laagfrequent volume bij te regelen</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom heeft een ontvanger dikwijls een uitschakelbare voorversterkertrap</text>
+		<choice>om minder ruis te hebben als de versterker is ingeschakeld</choice>
+		<choice>om te vermijden dat de mengtrap wordt overstuurd door sterke signalen</choice>
+		<choice>om een hogere S-meter aanduiding te verkrijgen</choice>
+		<choice>om een betere selectiviteit te bekomen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In de mengtrap van een superheterodyne-ontvanger wordt het hoogfrequent signaal</text>
+		<choice>gedemoduleerd</choice>
+		<choice>omgezet naar een andere frequentie</choice>
+		<choice>gemoduleerd in frequentie</choice>
+		<choice>tot stand gebracht</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Tegenover een rechtuit ontvanger heeft een superheteropdyne-ontvanger</text>
+		<choice>een betere selectiviteit</choice>
+		<choice>een lagere kost</choice>
+		<choice>een betere audio kwaliteit</choice>
+		<choice>een groter bereik</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een van de redenen waarom in een dubbel-superheterodyne ontvanger de frequentie van het 1ste MF zo hoog mogelijk wordt gekozen?</text>
+		<choice>om een betere selectiviteit te bekomen</choice>
+		<choice>om een zo groot mogelijke onderdrukking van de spiegelfrequentie te hebben</choice>
+		<choice>om de gevoeligheid te verhogen</choice>
+		<choice>om de signaal/ruis verhouding te verbeteren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De gevoeligheid van een superheterodyne ontvanger wordt in hoofdzaak bepaald door de ruis die ontstaat in:</text>
+		<choice>de MF-versterker</choice>
+		<choice>de oscillator</choice>
+		<choice>de HF-versterker</choice>
+		<choice>de LF-versterker</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een 2-meter ontvanger werkt op 144,275 MHz. Zijn middenfrequent is 10,7 MHz. De lokale oscillator wordt verdrievoudigd. Wat is de frequentie van de lokale oscillator?</text>
+		<choice>54,525 MHz</choice>
+		<choice>52.66 MHz</choice>
+		<choice>44,525 MHz</choice>
+		<choice>48,091 MHz</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een ontvanger wordt een LSB (lagere zijband) signaal van 3,8 MHz gemengd met een VFO frequentie van 5,2 MHz. De middenfrequentie is 9 MHz. Het resulterende MF-sgnaal</text>
+		<choice>is een LSB (lagere zijband) signaal</choice>
+		<choice>is een USB (hogere zijband) signaal</choice>
+		<choice>is een LSB of een USB signaal afhankelijk van de frequenties van de BFO</choice>
+		<choice>is  een DSB (dubbel-zijband) signaal</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een ontvanger wordt een USB (bovenste zijband) signaal van 14,2 MHz gemengd met een VFO frequentie van 5,2 MHz. De middenfrequenties is 9 MHz. Het resulterende MF-sgnaal</text>
+		<choice>is een LSB (lagere zijband) signaal</choice>
+		<choice>is een USB (hogere zijband) signaal</choice>
+		<choice>is een LSB of een USB signaal afhankelijk van de frequenties van de BFO</choice>
+		<choice>is  een DSB (dubbel-zijband) signaal</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_c70221640edc69fe.png</image>
+	<text>Wat is het blokschema van een DC-ontvanger of ontvanger met directe omzetting (Engels: direct conversion Receiver)</text><choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een voordeel van een DC-ontvanger of ontvanger met directe omzetting (Engels: direct conversion receiver) ten opzichte van een superheterodyne ontvanger ?</text>
+		<choice>nog bruikbaar op frequenties die te hoog zijn voor een superheterodyne ontvanger</choice>
+		<choice>beter bestand tegen zeer sterke ongewenste signalen aan de ingang van de ontvanger</choice>
+		<choice>eenvoudige opbouw en minder onderdelen nodig</choice>
+		<choice>betere frequentiestabiliteit</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een nadeel van een DC-ontvanger of ontvanger met directe omzetting (Engels: direct conversion receiver) ten opzichte van een superheterodyne ontvanger ?</text>
+		<choice>niet bruikbaar op zeer lage frequenties</choice>
+		<choice>meer ingewikkelde opbouw en meer onderdelen nodig</choice>
+		<choice>slechtere frequentiestabiliteit</choice>
+		<choice>minder goed bestand tegen zeer sterke ongewenste signalen aan de ingang van de ontvanger</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Men kan zonder meer morse (CW) signalen ontvangen met</text>
+		<choice>een AM ontvanger</choice>
+		<choice>een EZB (SSB) ontvanger</choice>
+		<choice>een FM ontvanger</choice>
+		<choice>met geen van de drie bovengenoemde</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_f9ba46bf678017cc.png</image>
+	<text>een superheterodyne ontvanger voor AM</text>
+		<choice>een superheterodyne- ontvanger voor EZB (SSB)</choice>
+		<choice>een superheterodyne- ontvanger voor CW (telegrafie)</choice>
+		<choice>een superheterodyne-ontvanger voor FM</choice>
+		<choice>C</choice>
+
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_11efbd5f1946afcf.png</image>
+	<text>Het blokschema stelt een superheterodyne-ontvanger voor. Identificeer het blokje aangeduid met een kruis.</text>
+		<choice>MF-versterker</choice>
+		<choice>Detector</choice>
+		<choice>LF versterker</choice>
+		<choice>Mengtrap</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_32b9dcb276f8b6c8.png</image>
+	<text>Het blokschema stelt een superheterodyne-ontvanger voor. Identificeer het blokje aangeduid met een kruis.</text>
+		<choice>MF versterker</choice>
+		<choice>Detector</choice>
+		<choice>HF versterker</choice>
+		<choice>Mengtrap</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_c76b473e23088543.png</image>
+	<text>Het blokschema stelt een superheterodyne-ontvanger voor. Identificeer het blokje aangeduid met een kruis.</text>
+		<choice>oscillator</choice>
+		<choice>Detector</choice>
+		<choice>HF versterker</choice>
+		<choice>Mengtrap</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_5aee045bf9227d4.png</image>
+	<text>Het blokschema stelt een superheterodyne-ontvanger voor. Identificeer het blokje aangeduid met een kruis.</text>
+		<choice>HF versterker</choice>
+		<choice>Detector</choice>
+		<choice>MF versterker</choice>
+		<choice>Mengtrap</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_fec111b7d054c7e6.png</image>
+	<text>Wat stelt bijgaand blokschema voor?</text>
+		<choice>een superheterodyne-ontvanger voor AM</choice>
+		<choice>een superheterodyne- ontvanger voor EZB (SSB)</choice>
+		<choice>eeen superheterodyne-ontvanger voor CW (telegrafie)</choice>
+		<choice>een superheterodyne-ontvanger voor FM</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_51489dc731abda0d.png</image>
+	<text>Wat stelt bijgaand schema voor?</text>
+		<choice>een superheterodyne ontvanger voor AM.</choice>
+		<choice>een superheterodyne ontvanger voor EZB (SSB)</choice>
+		<choice>een superheterodyne ontvanger voor PCM</choice>
+		<choice>een superheterodyne ontvanger voor FM</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de product-detector in een superheterodyne-ontvanger?</text>
+		<choice>een FM-demodulator</choice>
+		<choice>een demodulator voor SSTV</choice>
+		<choice>een demodulator voor EZB (SSB) en CW</choice>
+		<choice>een detector circuit voor AM</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke van volgende schakelingen vindt men in een FM-ontvanger?</text>
+		<choice>een zwevingsoscillator (BFO)</choice>
+		<choice>een modulator met variabele reactantie</choice>
+		<choice>een frequentie-discriminator</choice>
+		<choice>een pre-emphase schakeling</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een BFO (beat frequency oscillator of zwevingscoscillator) wordt in een superheterodyne ontvanger normaal gebruikt voor het detecteren van</text>
+		<choice>Enkel EZB (SSB) signalen</choice>
+		<choice>EZB (SSB) en telegrafie signalen (CW)</choice>
+		<choice>AM signalen</choice>
+		<choice>FM signalen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een BFO (beat frequency oscillator of zwevingscoscillator) wordt gebruikt in een superheterodyne ontvanger</text>
+		<choice>om het effect van fading te minimaliseren</choice>
+		<choice>voor de demodulatie van CW en SSB signalen</choice>
+		<choice>om de stations in FM gemakkelijker te kunnen afstemmen</choice>
+		<choice>de invloed van storingen te minimaliseren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het doel van de HF versterker (1ste trap) in een superheterodyne ontvanger?</text>
+		<choice>een optimale signaal/ruis-verhouding bekomen</choice>
+		<choice>genoeg audio volume bekomen</choice>
+		<choice>de selectiviteit verbeteren</choice>
+		<choice>de storingen te onderdrukken</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Kan men de versterking van een HF versterker (1ste trap) in een superheterodyne ontvanger blijven opdrijven?</text>
+		<choice>Ja op voorwaarde dat de versterkertrap lineair is</choice>
+		<choice>Ja op voorwaarde dat de aanpassing goed gebeurt</choice>
+		<choice>Neen, omdat anders de mengtrap zal overstuurd worden.</choice>
+		<choice>Neen omdat anders er vervorming in het audiosignaal optreedt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is geen geldige reden om een afgestemde HF voorversterker voor de mengtap in een superheterodyne ontvanger te plaatsen?</text>
+		<choice>de gevoeligheid verhogen (signaal/ruis verhouding verbeteren)</choice>
+		<choice>selectiviteit verbeteren om intermodulatie door ver-verwijderde sterke signalen te vermijden</choice>
+		<choice>ontvangst van spiegelfrequentie vermijden</choice>
+		<choice>stabiliteit te verbeteren</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom wordt in moderne HF-ontvangers of zend-ontvangers de HF-voorversterker veelal uitschakelbaar gemaakt?</text>
+		<choice>om te vermijden dat bij zeer sterke signalen de ontvanger zou overstuurd worden en intermodulatie zou optreden</choice>
+		<choice>om de S-meter te kunnen ijken</choice>
+		<choice>om het audio volume beter te kunnen regelen</choice>
+		<choice>om geen hinder te ondervinden van statische ontladingen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom wordt in moderne HF-ontvangers of zend-ontvangers een verzwakker (meestal instelbaar in stappen) voor de HF versterker ingebouwd?</text>
+		<choice>om te vermijden dat bij zeer sterke signalen de ontvanger zou overstuurd worden en intermodulatie zou optreden</choice>
+		<choice>om de S-meter te kunnen ijken</choice>
+		<choice>om het audio volume beter te kunnen regelen</choice>
+		<choice>om geen hinder te ondervinden van statische ontladingen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de bijzonderste eis die aan de HF-voorversterker van een ontvanger wordt gesteld op VHF en UHF?</text>
+		<choice>laag ruisgetal</choice>
+		<choice>hoge selectiviteit</choice>
+		<choice>grote lineariteit</choice>
+		<choice>zo hoog mogelijke versterking</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom mag een HF versterkertrap van een superheterodyne-ontvanger slechts genoeg versterking hebben opdat zwakke signalen de ruis gegenereerd in de mengtrap zou overstemmen?</text>
+		<choice>om te vermijden dat men de sterke signalen niet zou kunnen ontvangen</choice>
+		<choice>om te vermijden dat het versterkte HF signaal door de mengtrap heen zou lekken</choice>
+		<choice>om te vermijden dat de mengtrap overstuurd zou worden</choice>
+		<choice>om te vermijden dat het signaal van de lokale oscillator zou doorlekken</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_e6ec4af51d1d12a8.png</image>
+	<text>Wat stelt het blokschema voor?</text>
+		<choice>een faze-modulator</choice>
+		<choice>een phase-locked loop oscillator</choice>
+		<choice>een variable kristal-oscillator</choice>
+		<choice>een Faze-modulatie detector</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het resultaat van een lokale oscillator (in een superheterodyne-ontvanger) die te veel faze-ruis genereert?</text>
+		<choice>het beperkt de mogelijkheid van de ontvanger om sterke signalen te ontvangen</choice>
+		<choice>het beperkt het frequentiebereik van de ontvanger</choice>
+		<choice>het vermindert het derde-orde intercept punt</choice>
+		<choice>het draagt ertoe bij dat sterke nabuursignalen storen bij de ontvangst van zwakke signalen (wederkerige menging).</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een mengtrap</text>
+		<choice>is een trap waar het antennesignaal omgezet wordt naar het lokale-oscillator signaal</choice>
+		<choice>is een niet lineair element waar signalen gecombineerd worden en waar door vervorming een aantal mengproducten ontstaan</choice>
+		<choice>is een schakeling waar verschillende spanningen worden gecombineerd om een betere stabiliteit te bekomen</choice>
+		<choice>is een logische schakeling bestaande uit OR en AND poorten.</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een mengtrap van een superheterodyne-ontvanger wordt het ontvangen hoogfrequentsignaal:</text>
+		<choice>gemoduleerd</choice>
+		<choice>gedemoduleerd</choice>
+		<choice>omgezet naar een andere frequentie</choice>
+		<choice>versterkt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is “mengen” ?</text>
+		<choice>de eliminatie van breedband-ruis in een breedband ontvanger door faze-technieken</choice>
+		<choice>de eliminatie van breedband-ruis in een breedband ontvanger door sommatie technieken</choice>
+		<choice>het herwinnen van de informatie uit een gemoduleerde draaggolf</choice>
+		<choice>het combineren van signalen in een niet-lineair element met als doel som- en verschilfrequenties te genereren.</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Frequentieomzetting in een zender of ontvanger gebeurt in een </text>
+		<choice>balansversterker</choice>
+		<choice>oscillator</choice>
+		<choice>mengtrap</choice>
+		<choice>filter</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het voordeel van een dubbelgebalanceerde mengtrap is</text>
+		<choice>dat er enkel verschilproducten (verschilfrequenties) ontstaan</choice>
+		<choice>dat er enkel somproducten (somfrequenties) ontstaan</choice>
+		<choice>dat er enkel oneven som- en verschilfrequenties ontstaan</choice>
+		<choice>dat de oorspronkelijke frequenties (van de 2 ingangssignalen) sterk onderdrukt worden</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een MF-versterker van een superheterodyne ontvanger</text>
+		<choice>versterkt het signaal uit de oscillatoren en voert het toe aan de mengtrap</choice>
+		<choice>versterkt het signaal uit de detector en voert het toe aan de LF-versterker</choice>
+		<choice>versterkt het signaal uit de mengtrap en voert het toe aan de detector</choice>
+		<choice>versterkt het signaal uit de antenne en voert het toe aan de mengtrap</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een HF general-coverage ontvanger (ontvangt het volldige frequentiebereik van 100 kHz tot 30 MHz) gebruikt een 1ste MF frequentie van</text>
+		<choice>typisch 10,7 MHz</choice>
+		<choice>typisch 455 kHz</choice>
+		<choice>steeds minder dan 30 MHz</choice>
+		<choice>typisch boven 40 MHz</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Signaal-selectiviteit in een ontvanger wordt meestal bekomen d.m.v.</text>
+		<choice>kristal-filters in de middenfrequent versterker</choice>
+		<choice>kristal filters na de detector</choice>
+		<choice>kristal filters in de HF-versterker</choice>
+		<choice>laag-doorlaat filters in de MF-versterkertrappen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_ba50b3431b8b982f.png</image>
+	<text>Wat is de met “?” gemarkeerde schakeling in bijgaand blokschema?</text>
+		<choice>phase locked loop oscillator</choice>
+		<choice>zwevingsoscillator</choice>
+		<choice>middenfrequentversterker</choice>
+		<choice>Audio-versterker</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een kristal-filter wordt</text>
+		<choice>meestal in het middenfrequent van ontvanger geplaatst om voldoende signaalselectiviteit te bekomen</choice>
+		<choice>veelal in de antenne ingangskringen van een ontvanger gebruikt om de selectiviteit te verbeteren</choice>
+		<choice>wordt courant gebruikt als loop filter in een phase locked loop oscillator</choice>
+		<choice>bezit steeds 2 polen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarmee moet men rekening houden bij het bepalen van de frequentie van een middenfrequentversterker in een superheterodyne-ontvanger?</text>
+		<choice>crossmodulatie-vervorming en storing</choice>
+		<choice>onderdrukking spiegelfrequentie en selectiviteit</choice>
+		<choice>gevoeligheid en vervorming</choice>
+		<choice>versterking en vervorming</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een typische FM ontvanger</text>
+		<choice>heeft een AVC-schakeling</choice>
+		<choice>heeft een begrenzer</choice>
+		<choice>heeft een zwevingoscillator (BFO)</choice>
+		<choice>heeft een product detector</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een FM ontvanger gebruikt men doorgaans</text>
+		<choice>een begrenzer om het audio niveau constant te houden</choice>
+		<choice>AVR (automatische volume regeling) om het audio niveau constant te houden</choice>
+		<choice>een automatische potentiometer om het audio niveau constant te houden</choice>
+		<choice>een audio trap met automatische volume-regeling om het audio niveau constant te houden</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom kan een begrenzer gebruikt worden in een FM-ontvanger om het audio niveau van de ontvanger constant te houden, en niet in een EZB (SSB)-ontvanger?</text>
+		<choice>omdat er bij een FM-signaal geen informatie zit in de amplitude van het signaal en bij SSB wel</choice>
+		<choice>omdat in EZB (SSB) signaal geen de informatie in de amplitude van het signaal zit</choice>
+		<choice>omdat een begrenzer alleen een FM-signaal begrenst in amplitude</choice>
+		<choice>omdat een begrenzer een EZB (SSB) signaal niet begrenst</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk is de schakeling in een superheterodyne ontvanger voor CW dat het signaal afkomstig van de middenfrequentversterker mengt met het signaal afkomstig van de zwevinsgoscillator (BFO) met als doel een audiosignaal te produceren?</text>
+		<choice>de AVC-schakeling</choice>
+		<choice>de product-detector</choice>
+		<choice>de voedingsschakeling</choice>
+		<choice>de VFO (variable frequency oscillator)</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een productdetector voor EZB (SSB) demodulatie</text>
+		<choice>is een vorm van een mengtrap</choice>
+		<choice>is een vorm van een faze-comparator</choice>
+		<choice>is een vorm van een diode-detector</choice>
+		<choice>is een vorm van een FM discriminator</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als men een LSB (lagere zijband) signaal correct ontvangt (normale toon), en men verhoogt de ontvangstfrequentie lichtjes (vb. 100 Hz) dan</text>
+		<choice>zal het audiosignaal lager in toon klinken</choice>
+		<choice>zal het audiosignaal hoger in toon klinken</choice>
+		<choice>zal het audiosignaal onveranderd klinken</choice>
+		<choice>zal het audiosignaal zwakker klinken</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als men een AM signaal correct ontvangt (normale toon), en men verhoogt de ontvangstfrequentie lichtjes (vb. 100 Hz) dan</text>
+		<choice>zal het audiosignaal lager in toon klinken</choice>
+		<choice>zal het audiosignaal hoger in toon klinken</choice>
+		<choice>zal het audiosignaal onveranderd klinken</choice>
+		<choice>zal het audiosignaal zwakker klinken</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als men een FM signaal correct ontvangt (normale toon), en men verhoogt de ontvangstfrequentie lichtjes (vb. 100 Hz) dan</text>
+		<choice>het audiosignaal lager in toon klinken</choice>
+		<choice>zal het audiosignaal hoger in toon klinken</choice>
+		<choice>zal het audiosignaal onveranderd klinken</choice>
+		<choice>zal het audio signaal zwakker klinken</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij het demoduleren van een LSB (lagere zijband) signaal</text>
+		<choice>is de BFO frequentie lager dan de frequentie van het te demoduleren signaal</choice>
+		<choice>is de BFO frequentie hoger dan de frequentie van het te demoduleren signaal</choice>
+		<choice>is de BFO frequentie gelijk aan de frequentie van het te demoduleren signaal</choice>
+		<choice>wordt de BFO niet gebruikt</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij het demoduleren van een USB (hogere zijband) signaal</text>
+		<choice>is de BFO frequentie lager dan de frequentie van het te demoduleren signaal</choice>
+		<choice>is de BFO frequentie hoger dan de frequentie van het te demoduleren signaal</choice>
+		<choice>is de BFO frequentie gelijk aan de frequentie van het te demoduleren signaal</choice>
+		<choice>wordt de BFO niet gebruikt</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij demodulatie van een telegrafie (CW) signaal, dient, om een goede ontvangst te hebben</text>
+		<choice>de BFO frequentie steeds lager dan de frequentie van het te demoduleren signaal</choice>
+		<choice>de BFO frequentie steeds hoger dan de frequentie van het te demoduleren signaal</choice>
+		<choice>de BFO frequentie gelijk te zijn aan de frequentie van het te demoduleren signaal</choice>
+		<choice>kan de BFO frequentie of hoger of lager dan de frequentie van het te demoduleren signaal worden ingesteld.</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke is de schakeling in een CW-ontvanger die het middenfrequent signaal combineert met het signaal van de zwevingsoscillator om een audio signaal te produceren?</text>
+		<choice>een AVR schakeling</choice>
+		<choice>een detectorschakeling</choice>
+		<choice>een voedingsschakeling</choice>
+		<choice>de VFO (Variable Frequency Oscillator)</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_7c3fd875967263b7.png</image>
+	<text>De figuur geeft de doorlaatcurve van een MF-filter voor SSB-ontvangst. Wat zal de BFO frequentie zijn voor het ontvangen van een LSB (lagere zijband) signaal (op deze frequentie) ?</text>
+		<choice>9,000 MHz</choice>
+		<choice>9,0015 MHz</choice>
+		<choice>8,9985 MHz</choice>
+		<choice>9,0015 of  8,9985 MHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/ontvangers_html_5d39f4d96aa005ca.png</image>
+	<text>De figuur geeft de doorlaatcurve van een MF-filter voor SSB-ontvangst. Wat zal de BFO frequentie zijn voor het ontvangen van een USB (hogere zijband) signaal?</text>
+		<choice>9,000 MHz</choice>
+		<choice>9,0015 MHz</choice>
+		<choice>8,9985 MHz</choice>
+		<choice>9,0015 of  8,9985 MHz</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waartoe dient de laagfrequent-versterker in een amateur-ontvanger.</text>
+		<choice>om het gedetecteerde of gedemoduleerde signaal te versterken en aan de luidspreker of hoofdtelefoon toe te voeren.</choice>
+		<choice>Om de lage impedantie van de detector aan te passen aan een hogere impedantie van de luidspreker</choice>
+		<choice>Om de nog resterende HF componenten in het signaal te onderdrukken</choice>
+		<choice>Om het audio signaal te digitaliseren met als doel een betere luisterkwaliteit te bekomen.</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De minimale doorlaatbereik in de laagfrequent trap(pen) van een amateur-ontvanger is:</text>
+		<choice>van ongeveer 300 tot 3000 Hz</choice>
+		<choice>van ongeveer 5 Hz tot 25000 Hz</choice>
+		<choice>van 125 Hz tot 800Hz</choice>
+		<choice>van 10 Hz tot ca. 9 MHz</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Onder automatische volumeregeling (AVR) van een ontvanger verstaat men</text>
+		<choice>het mechanisme dat de versterking van de HF, MF en AF trappen automatisch bijregelt in functie van de sterkte van het ontvangen signaal</choice>
+		<choice>het mechanisme dat het signaal van de antenne automatisch verzwakt  als het ontvangen signaal sterker wordt</choice>
+		<choice>het mechanisme dat de versterking van de HF en/of MF trappen automatisch bijregelt in functie van de sterkte van het ontvangen signaal</choice>
+		<choice>het mechanisme dat de versterking van de audio trap van een ontvanger automatisch bijregelt in functie van de sterkte van het ontvangen signaal</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het doel van een AVR (automatische volumeregeling) in een superheterodyne ontvanger?</text>
+		<choice>De gevoeligheid van de ontvanger op te drijven</choice>
+		<choice>de totale versterking van de ontvanger constant te houden bij wisselende sterktes van ontvangen signalen.</choice>
+		<choice>Een S-meter te hebben</choice>
+		<choice>Zowel FM als EZB te kunnen ontvangen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De totale versterking van een superheterodyne ontvanger, uitgerust met een AVR schakeling</text>
+		<choice>is ongeveer constant</choice>
+		<choice>verandert in functie van de sterkte van het ontvangen signaal</choice>
+		<choice>hangt alleen af van de instelling van de HF/MF gain potentiometer</choice>
+		<choice>hangt alleen af van de instelling van de audio volume potentiometer</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De schaal van een S-meter van een amateur-ontvanger geeft gewoonlijk weer</text>
+		<choice>µv</choice>
+		<choice>dBi</choice>
+		<choice>S-punten</choice>
+		<choice>S-punten en dB’s (sterker dan S-9)</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een S-meter van een amateur ontvanger is 1 S-punt gewoonlijk gelijk aan</text>
+		<choice>3 dB</choice>
+		<choice>6 dB</choice>
+		<choice>10 dB</choice>
+		<choice>1 dB</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een klassieke superheterodyne ontvanger meet de S-meter in vaak</text>
+		<choice>de audio-uitgangsspanning</choice>
+		<choice>de AVR (automatische volume regeling)–spanning</choice>
+		<choice>de spanning aan de uitgang van de HF versterker</choice>
+		<choice>de spanning aan de ingang van de MF versterker</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een ontvanger voor de HF-banden is S9 gewoonlijk gelijk aan</text>
+		<choice>10 µV in 50 Ω</choice>
+		<choice>50 µV in 50 Ω</choice>
+		<choice>500 µV in 50 Ω</choice>
+		<choice>1 µV in 50 Ω</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een squelch-schakeling?</text>
+		<choice>een schakeling die de ontvanger afschakelt als er geen signaal wordt ontvangen</choice>
+		<choice>een schakeling die de LF-versterker spert als er geen signaal wordt ontvangen</choice>
+		<choice>een schakeling die de signaal/ruisverhouding van een ontvanger verbetert</choice>
+		<choice>een schakeling die de gevoeligheid van een ontvanger verhoogt</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een schakeling die de ruis onderdrukt in een ontvanger als er geen signaal aanwezig is noemt men een</text>
+		<choice>AVC schakeling</choice>
+		<choice>squelch schakeling</choice>
+		<choice>notch schakeling</choice>
+		<choice>stabilisatie schakeling</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De filters (afgestemde kringen) in de hoogfrequentversterker van een superheterodyne ontvanger dienen in eerste instantie om</text>
+		<choice>motorstoringen te verminderen</choice>
+		<choice>de oscillatorfrequentie te stabiliseren</choice>
+		<choice>de spiegelfrequentie te onderdrukken</choice>
+		<choice>de golobale selectiviteit van de ontvanger te verbeteren</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke tussen de vier vermelde frequenties zal men kiezen als eerste middenfrequent in een continu afstembare ontvanger van 100 kHz tot 30 MHz (general coverage)</text>
+		<choice>10,7 MHz</choice>
+		<choice>455 KHz</choice>
+		<choice>22 MHz</choice>
+		<choice>70 MHz</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke – 3 dB bandbreedte zal men, in normale omstandigheden gebruiken voor ontvangst van EZB (SSB) signalen:</text>
+		<choice>1 kHz</choice>
+		<choice>3.0</choice>
+		<choice>1,5</choice>
+		<choice>5 kHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het ongewenste effect als men in de MF-trap van een ontvanger een filter gerbuikt waarvan de bandbreedte te breed is?</text>
+		<choice>oversturing van de detector</choice>
+		<choice>filter rinkelen (filter ringing)</choice>
+		<choice>vervorming door thermische ruis</choice>
+		<choice>ongewenste signalen zullen hoorbaar zijn in het audio signaal</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de ideale MF-bandbreedte in verhouding tot de bandbreedte van het ontvangen signaal?</text>
+		<choice>deze moet nauwelijks groter zijn dan de bandbreedte van het ontvangen signaal</choice>
+		<choice>deze moet ongeveer de halve bandbreedte hebben van het ontvangen signaal</choice>
+		<choice>deze moet ongeveer de dubbele bandbreedte hebben van het ontvangen signaal</choice>
+		<choice>deze moet zo groot mogelijk zijn</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De optimale – 3 dB bandbreedte voor ontvangst van NBFM signalen in een raster plan van 12,5 kHz</text>
+		<choice>7,5 kHz</choice>
+		<choice>12 kHz</choice>
+		<choice>15 kHz</choice>
+		<choice>25 kHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De gevoeligheid van een ontvanger wordt doorgaans gespecifieerd in</text>
+		<choice>µV/m</choice>
+		<choice>µV voor een bepaalde signaal/ruis verhouding in dB</choice>
+		<choice>dB</choice>
+		<choice>dBm</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat bepaalt het ruisgetal van een ontvanger?</text>
+		<choice>het niveau van de ruis die een ontvanger te verwerken krijgt van de antenne</choice>
+		<choice>de relatieve sterkte van het ontvangen signaal op 3 kHz verwijderd van de draaggolf frequentie</choice>
+		<choice>het niveau van ruis dat gegenereerd wordt in de HF-versterker van de ontvanger en de daarop volgende trappen</choice>
+		<choice>de mogelijkheid van de ontvanger om ongewenste signalen te onderdrukken dichtbij het gewenste signaal</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke soort variabele oscillator heeft de grootste intrinsieke frequentiestabiliteit</text>
+		<choice>Hartley LC oscillator</choice>
+		<choice>Clapp LC-oscillator</choice>
+		<choice>Phase Locked loop oscillator</choice>
+		<choice>Een Wien-brug RC oscillator</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De stabiliteit van een Phase Locked Loop oscillator hangt alleen af van</text>
+		<choice>de temperatuur</choice>
+		<choice>de stabiliteit van de referentie kristal-oscillator</choice>
+		<choice>de temperatuur en de frequentie</choice>
+		<choice>de tijdsconstante van de loop filter</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>We ontvangen een signaal van 800 kHz op een superheterodyne ontvanger. De lokale oscillator heeft een frequentie van 1255 kHz. Wat is de spiegelfrequentie?</text>
+		<choice>455 kHz</choice>
+		<choice>1710 kHz</choice>
+		<choice>2055 kHz</choice>
+		<choice>2510 kHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom is een hogere 1ste MF in een superheterodyne ontvanger gunstig voor het onderdrukken van de spiegelfrequentie?</text>
+		<choice>omdat op de hogere MF een grotere selectiviteit kan worden bekomen</choice>
+		<choice>omdat het de frequentie van het te ontvangen signaal en de spiegelfrequentie verder uit elkaar liggen</choice>
+		<choice>omdat een hogere MF meer versterking heeft</choice>
+		<choice>omdat een hogere MF het gewenste signaal beter versterkt</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waar  wordt in een superheterodyne-ontvanger de spiegelfrequentie onderdrukt? </text>
+		<choice>in de product detector</choice>
+		<choice>in de HF versterker</choice>
+		<choice>in de AVC schakeling</choice>
+		<choice>in het MF filter</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Derde-orde intermodulatieproducten in een ontvanger kunnen niet verminderd worden door</text>
+		<choice>het derde-orde interceptiepunt van de ontvanger te verbeteren</choice>
+		<choice>een verzwakker tussen de antenne en de ontvanger te plaatsen</choice>
+		<choice>de HF-versterker uit te schakelen</choice>
+		<choice>het volume van het audiosignaal te verminderen</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een ontvanger die weinig intermodulatieproducten produceert</text>
+		<choice>heeft geen crossmodulatie</choice>
+		<choice>heeft een hoog derde-orde interceptiepunt</choice>
+		<choice>heeft een goede selectiviteit</choice>
+		<choice>heeft een laag derde-orde interceptie punt</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Aan de ingang van een ontvanger zijn zeer sterke signalen aanwezig op 145 en op 144,8 MHz. Welke derde-orde intermodulatie-producten kunnen er ontstaan?</text>
+		<choice>145,5 en 146,2</choice>
+		<choice>144,1 en 144,8</choice>
+		<choice>145,2  en 144,6</choice>
+		<choice>144,1 en 145,5</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Intermodulatie in een ontvanger wordt veroorzaakt door het mengen van:</text>
+		<choice>twee sterke antennesignalen</choice>
+		<choice>twee zwakke antennesignalen</choice>
+		<choice>een sterk antennesignaal en het oscillatorsignaal</choice>
+		<choice>een zwak en een sterk antennesignaal</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is storing door kruismodulatie?</text>
+		<choice>storing tussen twee zenders die een verschillende modulatie hebben</choice>
+		<choice>storing veroorzaakt door audio detectie in de HF versterker van de ontvanger</choice>
+		<choice>harmonische vervorming van het uitgezonden signaal</choice>
+		<choice>modulatie van een ongewenst signaal wordt gehoord bovenop het gewenste signaal</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het effect van kruismodulatie?</text>
+		<choice>een vermindering van modulatie-niveau van het uitgezonden signaal</choice>
+		<choice>blokkering van de ontvanger</choice>
+		<choice>de modulatie van een ongewenst signaal wordt gehoord bovenop het gewenste signaal</choice>
+		<choice>door een EZB-zender wordt nu ook de andere zijband uitgezonden, zij het zwakker.</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat veroorzaakt kruismodulatie in een versterker?</text>
+		<choice>te weinig versterking</choice>
+		<choice>te veel versterking</choice>
+		<choice>beïnvloeding van de versterking door een te sterk ingangssignaal</choice>
+		<choice>positieve feedback</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wederkerige menging (reciprocal mixing) in een ontvanger treedt op als</text>
+		<choice>de filters geen perfecten flankstijlheid hebben</choice>
+		<choice>het oscillatorsignaal te veel faseruis bevat</choice>
+		<choice>het oscillatorsignaal geen faseruis bevat</choice>
+		<choice>het oscillatorsignaal te veel harmonische vervorming bevat</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De lokale oscillator die een mengtrap in een ontvanger voedt</text>
+		<choice>geeft steeds  een puur signaal af zonder bandbreedte en zonder zijbanden</choice>
+		<choice>heeft steeds een zekere bandbreedte omwille van de faseruis die in elke oscillator ontstaat</choice>
+		<choice>heeft enkel een zekere bandbreedte omwille van de faseruis als het geen VCO is</choice>
+		<choice>moet voldoende faseruis hebben om stabiel te kunnen werken</choice>
+		<answer>2</answer>
+</question>
+
+<category>

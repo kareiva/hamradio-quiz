@@ -1,0 +1,971 @@
+
+	<category>
+	<title>propagatie.html</title>
+
+<question>
+	<image></image>
+	<text>Wat is de  ruis die men hoort in een HF-ontvanger, afgestemd op 80m, en die aan een antenne is gekoppeld?</text>
+		<choice>detectieruis</choice>
+		<choice>ruis voortgebracht door menselijke activiteiten (' man made noise')</choice>
+		<choice>ruis veroorzaakt in het ingangscircuit van de ontvanger</choice>
+		<choice>ruis voortgebracht door menselijke activiteiten ('man made noise') samen met atmosferische ruis</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat betreft de signaal/ruisverhouding zal de ontvanger-ruis:</text>
+		<choice>Vooral belangrijk zijn op de lagere HF banden</choice>
+		<choice>Vooral belangrijk zijn op VHF/UHF/SHF</choice>
+		<choice>Op alle frequenties even belangrijk zijn</choice>
+		<choice>Geen rol spelen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In de context van signaal/ruisverhouding bij het ontvangen van radiosignalen kan externe ruis veroorzaakt worden door</text>
+		<choice>Beweegbaarheid van moleculen</choice>
+		<choice>onweder</choice>
+		<choice>Wind</choice>
+		<choice>Alle ruisbronnen zijn intern</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De dominante ruisbron</text>
+		<choice>Is steeds de atmosferische ruis</choice>
+		<choice>Is steeds de ontvangerruis</choice>
+		<choice>Is in eerste instantie afhankelijk van de werkfrequentie</choice>
+		<choice>Kan nooit de zonneruis zijn</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Signaal/Ruis verhouding</text>
+		<choice>Is de verhouding van de sterkte van een ontvangen signaal ten opzichte van S9</choice>
+		<choice>Is de verhouding van de sterkte van een ontvangen signaal ten opzichte van alle mogelijke ruis</choice>
+		<choice>Is steeds de verhouding van de sterkte van een ontvangen signaal ten opzichte van externe ruis</choice>
+		<choice>Is steeds de verhouding van de sterkte van een ontvangen signaal ten opzichte van ontvangerruis</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In de vrije ruimte</text>
+		<choice>Is er geen signaalverzwakking</choice>
+		<choice>Is de signaalverzwakking evenredig met de afstand</choice>
+		<choice>Is de signaalverzwakking evenredig met het kwadraat van de afstand</choice>
+		<choice>Is de signaalverzwakking omgekeerd evenredig met het kwadraat van de afstand</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een VHF antenne heeft een hoogte van 20 m. De radiohorizon</text>
+		<choice>bestaat niet</choice>
+		<choice>is gelijk aan de optische horizon</choice>
+		<choice>is kleiner dan de optische horizon</choice>
+		<choice>is groter dan de optische horizon</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom reikt de radiohorizon verder dan de optische?</text>
+		<choice>wegens de skip-afstand</choice>
+		<choice>door invloed van de D-laag</choice>
+		<choice>wegens Aurora</choice>
+		<choice>radiogolven worden gebogen.</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op VHF/UHF, hoever reikt de radiohorizon verder dan de optische horizon?</text>
+		<choice>ongeveer 20 %</choice>
+		<choice>ongeveer 50 %</choice>
+		<choice>ongeveer 100%</choice>
+		<choice>ongeveer 200 %</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De verzwakking (att) van het signaal voor een afstand kleiner of gelijk aan de afstand tot de radiohorizon is gegeven  (d=afstand in km, f =frequentie in MHz) door r:</text>
+		<choice>Att(dB) = 32.5+20·( log(d)+log( f))</choice>
+		<choice>Att(dB) = 25+(20· log (d)+20·log( f))</choice>
+		<choice>Att(dB) = 32.5+10·(log(d)+log( f))</choice>
+		<choice>Att(dB) = 25+10·(log(d)+log( f))</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De afstand D (uitgedrukt in km)  tot de radiohorizon wordt berekend als volgt (h1 en h2 zijn de hoogtes van de beide antennes):</text>
+		<choice>D = 3.56  · ( √h1 + √h2 )</choice>
+		<choice>D = 3.56 · ( h1² + h2²  )</choice>
+		<choice>D = 4.2 · ( √h1 + √h2 )</choice>
+		<choice>D = 4.2 · ( h1² + h2² )</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De D-Laag van de ionosfeer is</text>
+		<choice>de laagste laag in de ionosfeer</choice>
+		<choice>de hoogste laag in de ionosfeer</choice>
+		<choice>het meest geïoniseerd gedurende de nacht</choice>
+		<choice>ca 300 km hoog</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Weerkaatsing van radiogolven op de ionosfeer</text>
+		<choice>is de meest voortkomende propagatiemethode op VHF en UHF</choice>
+		<choice>gebeurt doorgaans alleen op HF</choice>
+		<choice>gebeurt alleen overdag</choice>
+		<choice>gebeurt nooit boven 30 MHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De D-laag van de ionosfeer</text>
+		<choice>weerkaatst de radiogolven gedurende de dag</choice>
+		<choice>is grotendeels afwezig gedurende de nacht</choice>
+		<choice>is grotendeels afwezig gedurende de dag</choice>
+		<choice>absorbeert de radiogolven boven de 30 MHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De ionosfeer wordt vooral geïoniseerd door</text>
+		<choice>kosmische stralen</choice>
+		<choice>temperatuursinversies</choice>
+		<choice>straling van de zon</choice>
+		<choice>ozonconcentratie in de troposfeer</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke zijn de ionosfeerlagen die samensmelten gedurende de nacht ?</text>
+		<choice>de E en F1 lagen</choice>
+		<choice>de D en E  lagen</choice>
+		<choice>de F1 en E2 lagen</choice>
+		<choice>de F1 en F2 lagen</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke is de laag van de ionosfeer die de meest nadelige invloed heeft op de voortplanting van HF-signalen op lange afstand ?</text>
+		<choice>de troposfeer</choice>
+		<choice>de D-laag</choice>
+		<choice>de E-laag</choice>
+		<choice>de F2-laag</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke laag van de ionosfeer bevindt zich het dichtst bij de aarde?</text>
+		<choice>de F2-laag</choice>
+		<choice>de B-laag</choice>
+		<choice>de E-laag</choice>
+		<choice>de D-laag</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke laag van de ionosfeer beperkt de voortplanting op 80-meter gedurende de dag ?</text>
+		<choice>de D-laag</choice>
+		<choice>de E-laag</choice>
+		<choice>de F1-laag</choice>
+		<choice>de F1 en de F2-lagen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de naam van de zone die op HF radiocommunicatie mogelijk maakt over grote afstanden?</text>
+		<choice>de troposfeer</choice>
+		<choice>de stratosfeer</choice>
+		<choice>de ionosfeer</choice>
+		<choice>de magnetosfeer</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de ionosfeer?</text>
+		<choice>een zone in de atmosfeer waar een groot aantal vrije elektronen aanwezig zijn die de radiogolven kunnen weerkaatsen of absorberen</choice>
+		<choice>een luchtmassa tussen twee zones met verschillende temperatuur of vochtigheidsgraad</choice>
+		<choice>een geïoniseerde zone van de atmosfeer ten gevolge van de bliksem</choice>
+		<choice>een geïoniseerde sfeer rond de zon, die de oorzaak is van de UV-stralen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de invloed van de D-laag op de lagere HF banden gedurende de dag?</text>
+		<choice>ze absorbeert de signalen</choice>
+		<choice>ze zendt de signalen terug naar de hemel</choice>
+		<choice>ze refracteert de golven naar de aarde</choice>
+		<choice>ze heeft weinig invloed op de 40, 80 en 160m banden</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wanneer is de ionosfeer het minst geïoniseerd?</text>
+		<choice>juist voor zonsopgang</choice>
+		<choice>na de middag</choice>
+		<choice>juist voor middernacht</choice>
+		<choice>juist voor zonsondergang</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wanner is de E-laag het meest geïoniseerd?</text>
+		<choice>bij zonsondergang</choice>
+		<choice>op de middag</choice>
+		<choice>om middernacht</choice>
+		<choice>bij zonsopgang</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De ionosfeer strekt zich uit van</text>
+		<choice>10 km tot 1000 km hoogte boven de aarde</choice>
+		<choice>30 km tot 500 km hoogte boven de aarde</choice>
+		<choice>boven de 500 km boven de aarde</choice>
+		<choice>onder de 100 km boven de aarde</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De ionosfeer</text>
+		<choice>sterkt zich uit boven de stratosfeer</choice>
+		<choice>maakt deel uit van de stratosfeer</choice>
+		<choice>strekt zich uit onder de stratosfeer</choice>
+		<choice>bestaat alleen overdag</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De meest dense lagen van de ionosfeer</text>
+		<choice>bevinden zich het verst van de aarde</choice>
+		<choice>bevinden zich het dichtst bij de aarde</choice>
+		<choice>zorgen voor de weerkaatsing op de hoogste frequenties in de HF banden</choice>
+		<choice>zorgen voor de weerkaatsing op de laagste frequenties in de HF banden</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De kritische frequentie</text>
+		<choice>is de hoogste frequentie waarop verbinden via ionosferische reflectie kunnen worden gemaakt</choice>
+		<choice>is de hoogste frequentie waarbij een radiogolf die vertikaal wordt uitgezonden nog naar de aarde wordt weerkaatst in de ionosfeer</choice>
+		<choice>is de laagste frequentie waar radiogolven door de D-laag worden geabsorbeerd</choice>
+		<choice>is de frequentie waarop voorplanting gebeurt door 1 enkele weerkaatsing op de ionosfeer</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De kritische frequentie</text>
+		<choice>is steeds groter dan 20 MHz</choice>
+		<choice>varieert typisch tussen 5 en 9 MHz</choice>
+		<choice>is hetzelfde als de MUF</choice>
+		<choice>is steeds hoger dan de MUF</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op een frequentie die hoger is dan de kritische frequentie</text>
+		<choice>gebeurt weerkaatsing in de ionosfeer alleen voor radiogolven die onder een (op)stralingshoek van kleiner dan 90 graden worden uitgezonden</choice>
+		<choice>gebeurt er nooit weerkaatsing in de ionosfeer</choice>
+		<choice>gebeurt weerkaatsing in de ionosfeer alleen tijdens de nacht</choice>
+		<choice>gebeurt weerkaatsing in de ionosfeer alleen als zeer grote vermogens worden gebruikt</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat noemt men de kritische hoek in de studie van de voortplanting langs ionosferische weg?</text>
+		<choice>de minimum hoek waaronder een radiogolf naar de aarde terugkeert</choice>
+		<choice>de richting (azimut) van het DX-station dat men wil contacteren</choice>
+		<choice>de richting die het DX-station gebruikt om zijn antenne te richten</choice>
+		<choice>de grootste (op)stralingshoek, waarvoor,  onder welbepaalde voortplantingscondities, een radiogolf teruggekaatst wordt naar de aarde. Voor een grotere hoek zal de radiogolf verloren gaan in de ruimte.</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er als de werkfrequentie hoger is dan de kritische frequentie?</text>
+		<choice>de vertikaal uitgestraalde radiogolf gaat verloren in de ruimte</choice>
+		<choice>de vertikaal uitgestraalde radiogolf wordt geabsorbeerd door de ionosfeer</choice>
+		<choice>de vertikaal uitgestraalde radiogolf ondergaat een Doppler-effect</choice>
+		<choice>de vertikaal uitgestraalde radiogolf wordt teruggekaatst naar de bron</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De zonnevlekkencyclus duurt gemiddeld</text>
+		<choice>11 jaar</choice>
+		<choice>6 jaar</choice>
+		<choice>13 jaar</choice>
+		<choice>121 jaar</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om goede voortplantingscondities te hebben over lange afstand op de 6-meter band dient de zonneflux:</text>
+		<choice>minder dan 50 te zijn</choice>
+		<choice>ongeveer 75 te zijn</choice>
+		<choice>groter dan 100 te zijn</choice>
+		<choice>groter dan 250 te zijn</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe zijn de voortplantingscondities op 10 m indien de zonneflux hoger is dan 120?</text>
+		<choice>ze zijn goed</choice>
+		<choice>er is geen voortplanting</choice>
+		<choice>onvoorspelbaar</choice>
+		<choice>slecht</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe zijn de voortplantingscondities op 15 m indien de zonneflux ongeveer 60-70 bedraagt ?</text>
+		<choice>de condities zijn onvoorspelbaar</choice>
+		<choice>voortplanting is onmogelijk</choice>
+		<choice>de condities zijn zeer goed</choice>
+		<choice>de condities zijn slecht</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het meten we de zonneflux is </text>
+		<choice>een methode om de afgelopen activiteit van de zon te meten</choice>
+		<choice>een methode om de activiteit van de zon te meten vergeleken met de activiteit van de laatste 6 maand</choice>
+		<choice>een methode om de geomagnetische activiteit van de zon te meten</choice>
+		<choice>een methode om de zonneactiviteit dagelijks te meten</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de zonneflux?</text>
+		<choice>de dichtheid van het magnetische veld van de zon</choice>
+		<choice>de radioelectrische ruis uitgezonden door de zon</choice>
+		<choice>het aantal zonnevlekken dat men kan tellen op de zon, zoals gezien van op aarde</choice>
+		<choice>de meting van de lichtintensiteit van de zon</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De ionosfeer vertoont de grootste graad van ionisatie</text>
+		<choice>gedurende de nacht</choice>
+		<choice>gedurende de winter</choice>
+		<choice>bij het maximum van de zonnevlekkencyclus</choice>
+		<choice>om de 12 u</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Tijdens het zonnevlekken-maximum</text>
+		<choice>is de ionosfeer gemiddeld meer geïoniseerd dan tijdens het minimum</choice>
+		<choice>is de ionosfeer gemiddeld minder geïoniseerd dan tijdens het minimum</choice>
+		<choice>kan men dagelijks verbindingen maken op frequenties boven 100 MHz via ionosferische reflectie</choice>
+		<choice>raakt de ionosfeer tot aan het aardoppervlakte</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De maximaal bruikbare frequentie (MUF)</text>
+		<choice>is de hoogste frequentie die men mag gebruiken volgens zijn vergunning</choice>
+		<choice>is de hoogste frequentie op welke men, met een bepaalde zekerheid, betrouwbare radiocommunicatie heeft over een bepaald traject</choice>
+		<choice>is de hoogste frequentie op welke men altijd met 100% zekerheid een betrouwbare communicatie heeft over een bepaald traject</choice>
+		<choice>is hetzelfde als de kritische frequentie</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als je een frequentie gebruikt die gelijk is aan de MUF (maximaal bruikbare frequentie)</text>
+		<choice>kan je steeds communiceren op HF met gelijk welk punt van de aarde</choice>
+		<choice>wil dit zeggen dat je een bepaalde kans hebt  om te kunnen kan communiceren via ionosferische reflectie voor een welbepaald traject</choice>
+		<choice>zullen de signalen steeds sterkst zijn</choice>
+		<choice>gebeurt de voorplanting steeds via één enkele reflectie op de ionosfeer (1 enkele hop)</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De MUF (maximaal bruikbare frequentie)</text>
+		<choice>is steeds gebonden aan een bepaald propagatietraject</choice>
+		<choice>verandert alleen in functie van de zonnevlekkencyclus</choice>
+		<choice>wordt gemeten door een ionosonde</choice>
+		<choice>is steeds hoger dan 15 MHz</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De MUF  (maximaal bruikbare frequentie)</text>
+		<choice>wordt gemeten door een ionosonde</choice>
+		<choice>wordt afgeleid uit (de) kritische frequentie(s)</choice>
+		<choice>blijft steeds constant voor een bepaalde plaats op aarde</choice>
+		<choice>is onafhankelijk van de verticale (opstralings-)hoek van de gebruikte antenne</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een hoge MUF (maximaal bruikbare frequentie)</text>
+		<choice>wil zeggen dat de propagatie op de lagere banden (1,8 en 3,5 MHz) best is gedurende de dag</choice>
+		<choice>wil zeggen dat er goede propagatie is op 10 en 15 meter</choice>
+		<choice>wil zeggen dat er veel fading is op de signalen</choice>
+		<choice>wordt veroorzaakt door atmosferische storingen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Tijdens het zonnevlekkenmaximum kan een zeer hoge MUF (maximaal bruikbare frequentie)</text>
+		<choice>beduiden dat er mogelijk ionosferische propagatie is op 50 MHz</choice>
+		<choice>aanleiding geven tot black-outs (geen propagatie) op VHF en UHF</choice>
+		<choice>beduiden dat er mogelijks atmosferische propagatie is boven de 400 MHz</choice>
+		<choice>er oorzaak van zijn dat alleen verbindingen gedurende de nacht mogelijk zijn</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Tengevolge van wat verandert de MUF (Maximum Usable Frequency) ?</text>
+		<choice>tengevolge van de verandering van de temperatuur van de ionosfeer</choice>
+		<choice>tengevolge van de verandering van de windsnelheden in de bovenste lagen van de ionosfeer</choice>
+		<choice>ten gevolge van de verandering van de intensiteit van de zonnestraling</choice>
+		<choice>tengevolge van de verandering van de refractie-index van de troposfeer</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat gebeurt met het bereik van de grondgolf als men de frequentie van een zender verhoogt?</text>
+		<choice>het vergroot</choice>
+		<choice>het verkleint</choice>
+		<choice>het blijft gelijk</choice>
+		<choice>radiosignalen planten zich niet voort langs de aarde</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke polarisatie heeft elk grondgolf signaal op HF?</text>
+		<choice>Vertikaal</choice>
+		<choice>Horizontaal</choice>
+		<choice>Circulair</choice>
+		<choice>Elliptisch</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De (op)stralingshoek van een radiogolf</text>
+		<choice>is de hoek  van de radiogolf te opzichte van de aarde</choice>
+		<choice>is de hoek  van de radiogolf ten opzichte van een lijn loodrecht op de aarde</choice>
+		<choice>is steeds kleiner dan 90º</choice>
+		<choice>hangt alleen af van de frequentie van de radiogolf</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om een groter skip-afstand te bewerkstellen</text>
+		<choice>Zal men de opstralingshoek moeten vergroten</choice>
+		<choice>Zal men de opstralingshoek moeten verkleinen</choice>
+		<choice>Zal me de opstralingshoek moeten vergroten of verkleinen afhankelijk van de gebruikte soort antenne</choice>
+		<choice>De opstralingshoek beïnvloedt de skip-afstand niet</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de skip-afstand op HF niet:</text>
+		<choice>onafhankelijk van de dode zone</choice>
+		<choice>Afhankelijk van de frequentie</choice>
+		<choice>Afhankelijk van de opstralingshoek van de zendantenne</choice>
+		<choice>Onafhankelijk van de opstralingshoek van de zendantenne</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De skip-afstand is:</text>
+		<choice>De langste afstand tussen de zender en de plaats waar door de ionosfeer weerkaatste golven worden ontvangen</choice>
+		<choice>De kortste afstand tussen de zender en de dichtstbijgelegen plaats waar door de ionosfeer weerkaatste golven worden ontvangen</choice>
+		<choice>De afstand tussen de zendantenne en de ontvangstantenne</choice>
+		<choice>De afstand tussen het einde van de skip-zone en de ontvangstantenne</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Fading op de HF-banden wordt meestal veroorzaakt door</text>
+		<choice>het gebruik van een te klein zendvermogen</choice>
+		<choice>regengebieden tussen zender en ontvanger</choice>
+		<choice>het samen bestaan van twee of meerdere verschillende propagatiewegen</choice>
+		<choice>verontreiniging van de atmosfeer</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke signaal wordt door selectieve fading het meest gestoord qua verstaanbaarheid?</text>
+		<choice>AM</choice>
+		<choice>CW</choice>
+		<choice>SSB (EZB)</choice>
+		<choice>FM</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is multi-pad (Engels: multi path) ontvangst op VHF en hoger?</text>
+		<choice>ontvangst door middel van meerdere antennes</choice>
+		<choice>het fenomeen waarbij de ontvangen golven, bvb door reflectie uit verschillende richtingen worden ontvangen met daaruit volgende onderlinge faseverschuiving</choice>
+		<choice>gelijktijdige ontvangst via het korte pad en het lange pad</choice>
+		<choice>ontvangst van radiogolven via het lange pad</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een mogelijke oorzaak van propagatie op 432 MHz over een afstand van 1000 km?</text>
+		<choice>een zone van lage luchtdruk</choice>
+		<choice>een uitgestrekte zone van temperatuurinversie</choice>
+		<choice>een hemel die bedekt is met cirruswolken</choice>
+		<choice>een zone van hoge luchtdruk</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>VHF-verbindingen over lange afstand worden sterk beïnvloed door:</text>
+		<choice>de ionosfeer</choice>
+		<choice>de zonnevlekkencyclus</choice>
+		<choice>de ultraviolet zonnestraling</choice>
+		<choice>temperatuurinversies</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In welke laag van de atmosfeer treedt VHF ducting op?</text>
+		<choice>in de F2-laag</choice>
+		<choice>in de ionosfeer</choice>
+		<choice>in de troposfeer</choice>
+		<choice>in de stratosfeer</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat veroorzaakt het fenomeen van ducting op VHF-UHF?</text>
+		<choice>een enkele temperatuursinversie</choice>
+		<choice>het noorderlicht (aurora)</choice>
+		<choice>een stormzone tussenin de twee stations</choice>
+		<choice>twee temperatuurinversies</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Scattering (verstrooiing) is het fenomeen</text>
+		<choice>Dat alleen optreedt tijdens de winter</choice>
+		<choice>Waarbij een radiogolf  een voorwerp raakt waardoor de golf afgebogen worden en in alle richtingen verspreid</choice>
+		<choice>Dat alleen optreedt bij regen en sneeuw</choice>
+		<choice>Waarbij radiogolven van verschillende bronnen met elkaar mengen en interfereren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Scattering (verstrooiing) is een der fenomenen die het mogelijk maken</text>
+		<choice>Meer dan 5000km te overbruggen op 50 MHz</choice>
+		<choice>Te werken op 145 MHz via ionosferische reflectie</choice>
+		<choice>Op locaties die visueel afgeschermd zijn van de zendantenne, toch ontvangst mogelijk is</choice>
+		<choice>De echo van zijn eigen signaal te horen</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk fenomeen kan laten vermoeden dat er sporadische E-reflectie kan optreden op 6m en 2m?</text>
+		<choice>een hoog ruisniveau op de 80 meterband</choice>
+		<choice>het ontbreken van alle signalen op 10 m</choice>
+		<choice>goede lange-afstand propagatie op 10 m</choice>
+		<choice>zeer sterke signalen op 10 komende van afstanden tussen 300 en 1000 km</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is propagatie via sporadische E-reflectie?</text>
+		<choice>variaties in hoogte van de E-laag, veroorzaakt door variaties in de zonnevlekkencyclus</choice>
+		<choice>een kortstondige verhoging van de sterkte van signalen op VHF, veroorzaakt door meteorieten die de E-laag binnendringen</choice>
+		<choice>zones van dense ionisatiegraad in de E-laag</choice>
+		<choice>een geleiding (duct) die zich vormt in de E-laag	</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op welke amateurband kan sporadische E propagatie er de oorzaak van dat contacten over afstanden tot 10000 km kunnen worden gemaakt?</text>
+		<choice>2 meterband</choice>
+		<choice>6 meterband</choice>
+		<choice>20 meterband</choice>
+		<choice>160 meterband</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Aurora-reflectie treedt voornamelijk op bij frequenties:</text>
+		<choice>lager dan 100 kHz</choice>
+		<choice>van 100 kHz tot 30 MHz</choice>
+		<choice>van 30 MHz tot 1 GHz</choice>
+		<choice>boven 1 GHz</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om van uit België verbindingen te maken via aurora reflectie, moet men de antenne richten:</text>
+		<choice>in de richting van het station dat men wil contacteren</choice>
+		<choice>90 graden uit de richting van het station dat men wil contacteren</choice>
+		<choice>ongeveer naar het Noorden</choice>
+		<choice>ongeveer naar het Zuiden</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Aurora-reflectie treedt op als indirect gevolg van:</text>
+		<choice>zonne-eruptie</choice>
+		<choice>hoge luchtdruk</choice>
+		<choice>onweersactiviteit</choice>
+		<choice>temperatuursinversie</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op welke amateurband komt lange-afstand voorplanting veroorzaakt door aurora meest frequent voor?</text>
+		<choice>2 meter</choice>
+		<choice>6 meter</choice>
+		<choice>20 meter</choice>
+		<choice>160 meter</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>verbindingen via meteorscatter</text>
+		<choice>Geven een zeer betrouwbare link met constant sterke signalen</choice>
+		<choice>Worden vooral gemaakt op de 80m en de 160m band</choice>
+		<choice>Bestaan uit kortstondige propagatie-pieken</choice>
+		<choice>Kunnen alleen gebeuren als zeer grote meteorieten in de dampkring van de aarde komen</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Radioverbindingen via meteorscatter</text>
+		<choice>Gebeuren meestal op frequenties tussen 30 en 500 MHz</choice>
+		<choice>Gebeuren alleen op frequenties onder de 30 MHz</choice>
+		<choice>Gebeuren alleen op de 2meterband</choice>
+		<choice>Gebeuren alleen op frequenties boven 200 MHz</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De typische duur van een meteor scatter signaal op 144 MHz is</text>
+		<choice>maximaal enkele fracties van een seconde</choice>
+		<choice>enkele fracties van een seconde tot meer dan een minuut</choice>
+		<choice>enkele tientallen seconden tot enkele minuten</choice>
+		<choice>enkele minuten tot enkele uren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Verbindingen via EME (reflectie op de maan)</text>
+		<choice>Geven steeds een zeer betrouwbare communicatielink</choice>
+		<choice>Gebeuren doorgaans op de 20 en 15m band</choice>
+		<choice>Hebben een pad-verlies dat meer dan 500 dB bedraagt op 144 MHz</choice>
+		<choice>Hebben een pad-verlies dat meer dan 200 dB bedraagt op 144 MHz</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In het geval van EME (reflectie op de maan)</text>
+		<choice>Kan men nooit een echo van zijn eigen signaal horen</choice>
+		<choice>Is de tijd waarna men de echo van zijn signaal hoort afhankelijk van de frequentie waarop men werkt</choice>
+		<choice>Is de tijd waarna men zijn echo hoort 2,5 seconden</choice>
+		<choice>Moet het volle maan zijn om de beste resultaten te bereiken</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk van de onderstaande frequenties is het meest geschikt om een radioverbinding via maanreflecties te maken</text>
+		<choice>1,8 MHz</choice>
+		<choice>28 MHz</choice>
+		<choice>430 MHz</choice>
+		<choice>76 GHz</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Men maakt gebruikt van radioreflecties aan de maan om</text>
+		<choice>Met een zeer klein zendvermogen zeer grote afstanden te overbruggen</choice>
+		<choice>Op elk ogenblik eender welke plaats op aarde te kunnen bereiken</choice>
+		<choice>Zeer grote afstanden te kunnen overbruggen op zeer lage frequenties</choice>
+		<choice>Zeer grote afstanden te overbruggen op VHF of UHF, waar dit niet mogelijk is via andere propagatiemethodes</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een radioverbinding die gebruik maakt van reflecties aan de maan duurt het ongeveer</text>
+		<choice>0,025 seconden voordat het signaal terug de aarde bereikt</choice>
+		<choice>0,25 seconden voordat het signaal terug de aarde bereikt</choice>
+		<choice>2,5 seconden voordat het signaal terug de aarde bereikt</choice>
+		<choice>25 seconden voordat het signaal terug de aarde bereikt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Atmosferische ruis wordt veroorzaakt door:</text>
+		<choice>Kosmische stralen</choice>
+		<choice>Onweer</choice>
+		<choice>Zonne-uitbarstingen</choice>
+		<choice>Stralende digitale schakelingen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een mogelijke oorzaak van atmosferische ruis is</text>
+		<choice>Slecht ontstoorde machines</choice>
+		<choice>Onweer op grote afstand</choice>
+		<choice>Zonne-activiteit</choice>
+		<choice>Sterren en andere ruisbronnen in het heelal</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Zonneruis kan storend optreden bij:</text>
+		<choice>Ontvangst op de lagere HF-banden</choice>
+		<choice>Ontvangst van EME signalen als de maan in ongeveer dezelfde richting staat als de zon</choice>
+		<choice>Ontvangst van signalen boven 28 MHz bij aurora</choice>
+		<choice>Alleen gedurende jaren van hoge zonne-activiteit</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Galactische ruis wordt veroorzaakt door</text>
+		<choice>sterren en andere ruisbronnen in het heelal</choice>
+		<choice>slecht ontstoorde machines</choice>
+		<choice>onweer op grote afstand</choice>
+		<choice>de ontvanger</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In stedelijke gebieden zal de signaal/ruiverhouding op de HF banden in eerste instantie bepaald zijn door</text>
+		<choice>Ontvanger-ruis</choice>
+		<choice>Atmosferische ruis</choice>
+		<choice>Door de mens gegenereerde ruis</choice>
+		<choice>Zonneruis en galactische ruis</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De thermische ruis</text>
+		<choice>is proportioneel met de temperatuur, uitgedrukt in graden Celcius</choice>
+		<choice>is propertioneel met de absolute temperatuur, uitgedruk in Kelvin</choice>
+		<choice>is proportioneel met het kwadraat van de absolute temperatuur</choice>
+		<choice>is omgekeerd evenredig met het kwadraat van de absolute temperatuur</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een weerstand produceren de vrije elektronen een ruisvermogen. Dit vermogen</text>
+		<choice>is afhankelijk van de zonnevlekkencyclus</choice>
+		<choice>is gelijk aan P = k·R·T·B waar K gelijk is aan de constante van Bolzman, R de weerstandwaarde, T de absolute temperatuur en B de bandbreedte</choice>
+		<choice>is gelijk aan P = k·T·B waar K gelijk is aan de constante van Bolzman, T de absolute temperatuur en B de bandbreedte</choice>
+		<choice>hangt alleen af van de bandbreedte van het systeem</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een verbindingsbilan of propagartiebudget opmaken wil zeggen:</text>
+		<choice>Het ingangsvermogen aan de ontvanger te kennen</choice>
+		<choice>De ruis aan de ingang van de ontvanger te vergelijken met de ruis na demodulatie</choice>
+		<choice>De mogelijkheden van voortplanting via difractie vast te stellen</choice>
+		<choice>De mogelijkheden van voortplating via refractie vast te stellen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een propagatiebudget (verbindingsbilan) openmaken wil zeggen:</text>
+		<choice>Berekenen op welk ogenblik van de dag de kans het grootst is om tussen twee plaatsen een betrouwbare radiolink op te zetten</choice>
+		<choice>De nodige berekeningen doen om alle technische parameters te kennen die nodig zijn om een betrouwbare radiolink op te zetten</choice>
+		<choice>De nodige berekeningen doen om de vereiste investeringen te kennen om een betrouwbare radiolink op te zetten</choice>
+		<choice>Berekenen hoeveel vermogen men nodig heeft om op een bepaalde frequentie een betrouwbare link op te zetten</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het ruisvermogen (PR) van een ontvanger wordt gegeven door volgende formule</text>
+		<choice>PR  = k·T·B  waarbij k = de constante van Ehlers, T = de temperatuur in Kelvin, en B de bandbreedte in Hz</choice>
+		<choice>PR  = k·T·B  waarbij k = de constante van Ehlers, T = de temperatuur in º Celcius, en B de bandbreedte in Hz</choice>
+		<choice>PR  = k·T·B  waarbij k = de constante van Bolzmann, T = de temperatuur in º Celcius, en B de bandbreedte in Hz</choice>
+		<choice>PR  = k·T·B  waarbij k = de constante van Bolzmann, T = de temperatuur in Kelvin, en B de bandbreedte in Hz</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe kan men het vermogen van de interne ruis in een ontvanger verminderen?</text>
+		<choice>Door de totale versterking op te drijven</choice>
+		<choice>Door de totale versterking te verminderen</choice>
+		<choice>Door de bandbreedte te verkleinen</choice>
+		<choice>Door de bandbreedte te vergroten</choice>
+		<answer>3</answer>
+</question>
+
+<category>

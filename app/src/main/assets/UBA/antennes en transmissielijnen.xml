@@ -1,0 +1,1456 @@
+
+	<category>
+	<title>antennes en transmissielijnen.html</title>
+
+
+<question>
+	<image></image>
+	<text>Wat is ongeveer de lengte van een halvegolfdipool die resoneert op 14,2 MHz?</text>
+		<choice>5 m</choice>
+		<choice>10 m</choice>
+		<choice>20 m</choice>
+		<choice>40 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is ongeveer de lengte van een halvegolfdipool die resoneert op 21 MHz?</text>
+		<choice>3,75 m</choice>
+		<choice>7,5 m</choice>
+		<choice>15 m</choice>
+		<choice>30 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is ongeveer de lengte van een halvegolfdipool die resoneert op 28 MHz?</text>
+		<choice>22,5 m</choice>
+		<choice>5 m</choice>
+		<choice>10 m</choice>
+		<choice>20 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is ongeveer de lengte van een halvegolfdipool die resoneert op 144 MHz?</text>
+		<choice>0,5 m</choice>
+		<choice>1 m</choice>
+		<choice>2 m</choice>
+		<choice>4 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is ongeveer de lengte van een halvegolfdipool die resoneert op 7 MHz?</text>
+		<choice>40 m</choice>
+		<choice>20 m</choice>
+		<choice>80 m</choice>
+		<choice>160 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om beter te werken dient een halvegolfdipool</text>
+		<choice>resonant te zijn op de werkfrequentie</choice>
+		<choice>gevoed te worden met een coaxiale kabel</choice>
+		<choice>vrij te worden opgehangen</choice>
+		<choice>perfect horizontaal en rechtlijnig te zijn opgehangen</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het voedingspunt van een halvegolfantenne, gevoed in het midden is</text>
+		<choice>asymmetrisch</choice>
+		<choice>symmetrisch</choice>
+		<choice>onevenwichtig</choice>
+		<choice>van hoge spanning</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De halvegolf-antenne met voeding op het einde is ook genoemd</text>
+		<choice>open-end antenne</choice>
+		<choice>zepp-antenne</choice>
+		<choice>langedraad-antenne</choice>
+		<choice>Levy antenne</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De halvegolfantenne gevoed op het einde heeft een versterking t.o.v een halvegolfantenne gevoed in met midden van</text>
+		<choice>3 dB</choice>
+		<choice>–3 dB</choice>
+		<choice>0 dB</choice>
+		<choice>1,24 dB</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een halve golf antenne met voeding aan het einde wordt op het einde wordt gewoonlijk gevoed via:</text>
+		<choice>een 75 Ω coaxiale kabel</choice>
+		<choice>een 50 Ω coaxiale kabel</choice>
+		<choice>een 300 Ω twinlead</choice>
+		<choice>een paralleldraad ('open wire') transmissielijn</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In de vrije ruimte is de voedingsimpedantie van een resonante halvegolfdipool met voeding in het midden</text>
+		<choice>steeds 73 Ω</choice>
+		<choice>steeds 300 Ω</choice>
+		<choice>variabel van 72 Ω tot zeer hoogohmig</choice>
+		<choice>steeds zeer hoogohmig</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een halvegolfantenne gevoed op het einde heeft als voorkeurstraalrichting(en):</text>
+		<choice>geen (is een rondstraler)</choice>
+		<choice>loodrecht op de antenne</choice>
+		<choice>in het verlengde van de antenne</choice>
+		<choice>loodrecht op de transmissielijn</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De bandbreedte van een gevouwen dipool, ten opzichte van de bandbreedte van een open dipool is (beide gemaakt uit geleiders van gelijke diameters)</text>
+		<choice>steeds groter</choice>
+		<choice>steeds kleiner</choice>
+		<choice>gelijk</choice>
+		<choice>dikwijls kleiner</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het voedingspunt van een gevouwen dipool is</text>
+		<choice>asymmetrisch</choice>
+		<choice>symmetrisch</choice>
+		<choice>onevenwichtig</choice>
+		<choice>geaard</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Gevouwen dipolen worden veelal gebruikt</text>
+		<choice>als dipolen op de HF banden ( 30 MHz)</choice>
+		<choice>als dipolen in VHF/UHF yagi antennes</choice>
+		<choice>als dipolen in HF yagi antennes</choice>
+		<choice>om storingen te vermijden</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er met de voedingsimpedantie van een groundplane wanneer men de radialen schuin omhaag laat lopen in plaats van horizontaal?</text>
+		<choice>de voedingsimpedantie verkleint</choice>
+		<choice>de voedingsimpedantie vergroot</choice>
+		<choice>de voedingsimpedantie blijft gelijk</choice>
+		<choice>de voedingsimpedantie wordt puur capacitief</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het voordeel van het schuin onlaag laten lopen van de radialen van een groundplane antenne?</text>
+		<choice>verhoogt de antennewinst</choice>
+		<choice>brengt de voedingsimpedantie op ongeveer 300 Ω</choice>
+		<choice>zorgt voor een beter afwatering van regen op de radialen</choice>
+		<choice>brengt de impedantie op ongeveer 50 Ω</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een groundplane antenne (kwart golf verticale) zendt een elektromagnetische golf uit met een</text>
+		<choice>horizontale polarisatie</choice>
+		<choice>verticale polarisatie</choice>
+		<choice>circulaire polarisatie</choice>
+		<choice>willekeurige polarisatie</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een verticale antenne, die elektrisch een kwart golf lang is, maar fysisch slechts 1/8 golf, wordt in resonantie gebracht door een spoel. Waar plaatst men best de spoel om de grootste efficiëntie te bereiken?</text>
+		<choice>aan de voet van de antenne</choice>
+		<choice>halfweg de antenne</choice>
+		<choice>aan de top van de antenne</choice>
+		<choice>aan de zender</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat gebeurt met de SWR (SGV) bandbreedte van een antenne indien deze gebruik maakt van spoelen (traps) om de korte elementen elektrisch te verlengen?</text>
+		<choice>ze vergroot</choice>
+		<choice>ze verkleint</choice>
+		<choice>ze blijft gelijk</choice>
+		<choice>de bandbreedte hangt af van de golflengte</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de lengte van een reflector van een yagi antenne voor 28,1 MHz?</text>
+		<choice>ongeveer 2,7 m</choice>
+		<choice>ongeveer 5,0 m</choice>
+		<choice>ongeveer 5,3 m</choice>
+		<choice>ongeveer 10,7 m</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de lengte van een director van een yagi antenne voor 21,1 MHz?</text>
+		<choice>ongeveer 12,8 m</choice>
+		<choice>ongeveer 6,6 m</choice>
+		<choice>ongeveer 5,1 m</choice>
+		<choice>ongeveer 5,1 m</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de lengte van het gevoede element van een yagi antenne voor 14,0 MHz?</text>
+		<choice>ongeveer 5,2 m</choice>
+		<choice>ongeveer 9,8 m</choice>
+		<choice>ongeveer 10,7 m</choice>
+		<choice>ongeveer 20,2 m</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom maken radioamateurs dikwijls gebruik van yagi antennes op de 20-meterband?</text>
+		<choice>ze geven een zeer goede omnidirectionele dekking in het horizontale vlak</choice>
+		<choice>ze zijn kleiner, minder duur en gemakkelijker te monteren dan een dipool of een verticale antenne</choice>
+		<choice>door hun richtingsgevoeligheid laten ze toe de storingen veroorzaakt door andere stations op dezelfde frequentie te verminderen</choice>
+		<choice>ze hebben een grotere opstralingshoek op de decameterbanden</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de typische winst van een 3-element yagi t.o.v een isotrope antenne?</text>
+		<choice>8 dB</choice>
+		<choice>12 dB</choice>
+		<choice>6 dB</choice>
+		<choice>14 dB</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat bepaalt in eerste instantie de winst van een yagi met veel elementen?</text>
+		<choice>het aantal elementen</choice>
+		<choice>de lengte van de antenne(boom)</choice>
+		<choice>de lengte van de elementen</choice>
+		<choice>de dikte van de elementen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie (zonder aanpassingssysteem) van een typische 3-element yagi is</text>
+		<choice>ca 300 Ω</choice>
+		<choice>ca 25 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice> 50 Ω</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een Yagi-antenne heeft t.o.v. een groundplane antenne:</text>
+		<choice>een grotere winst en een groter richteffect</choice>
+		<choice>een kleinere winst en een kleiner richteffect</choice>
+		<choice>een kleinere winst en een groter richteffect</choice>
+		<choice>een grotere winst en een kleiner richteffect</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als men de drager (boom) van een yagi verlengt, en de elementen optimaal afstemt, wat gebeurt dan?</text>
+		<choice>de winst verhoogt</choice>
+		<choice>de SGV (SWR) verlaagt</choice>
+		<choice>de voor- achter-verhouding verhoogt maar de winst daalt</choice>
+		<choice>de winst-bandbreedte verlaagt gevoelig</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk zijn de parasitaire elementen in een Yagi-antenne?</text>
+		<choice>de beide dipoolhelften</choice>
+		<choice>de reflectoren</choice>
+		<choice>de directoren</choice>
+		<choice>de reflectoren en de directoren</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De winst van een yagi</text>
+		<choice>is steeds het grootst op de frequentie waar de SGV t.o.v. de Zk van de transmissielijn laagst is</choice>
+		<choice>is nooit het hoogst op de frequentie waar de SGV t.o.v. de Zk van de transmissielijn laagst is</choice>
+		<choice>heeft geen verband met de SGV t.o.v. de Zk van de transmissielijn</choice>
+		<choice>is steeds het hoogst op de frequentie waar de voor/achterverhouding grootst is</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een paraboolantenne met een schoteldiameter van 1 m wordt gebruikt op 5,6 GHz. Als we dezelfde schotel gebruiken op een frequentie van 10,5 GHz, wordt de:</text>
+		<choice>antennewinst groter en de openingshoek kleiner</choice>
+		<choice>antennewinst kleiner en de openingshoek kleiner</choice>
+		<choice>antennewinst kleiner and de openingshoek groter</choice>
+		<choice>antennewinst groter en de openingshoek groter</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een hoornantenne</text>
+		<choice>gebruikt een primair stralingselement dat de hoofdstraling ontvangt</choice>
+		<choice>kan niet voor horizontale en verticale polarisatie gebruikt worden</choice>
+		<choice>wordt gebruikt in het microgolfgebied</choice>
+		<choice>is gevoelig aan ijsafzetting en wordt nooit in montage gebruikt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een hoornantenne</text>
+		<choice>is een populaire antenne voor de 80m band die weinig plaats inneemt</choice>
+		<choice>straalt steeds onmidirectioneel</choice>
+		<choice>is een veel gebruikte belichtingsantenne voor een parabolische reflector</choice>
+		<choice>is een populaire antenne voor de 2m band</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het doel van afgestemde traps in een dipool-antenne?</text>
+		<choice>meer winst te bekomen</choice>
+		<choice>een betere voor/achter verhouding te bekomen</choice>
+		<choice>de dipoolantenne resonant te maken op verschillende frequenties</choice>
+		<choice>een constante voedingsimpedantie te bekomen</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de resonantiefrequentie van de traps in een tweeband dipool voor 80 en 40 m?</text>
+		<choice>3,6 Mhz</choice>
+		<choice>7 MHz</choice>
+		<choice>3,6 en 7 MHz</choice>
+		<choice>14 MHz</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een dipool met afgestemde traps</text>
+		<choice>heeft doorgaans een kleinere SWR (SGV) bandbreedte dan een dipool zonder traps</choice>
+		<choice>heeft doorgaans een grotere SWR (SGV) bandbreedte dan een dipool zonder traps</choice>
+		<choice>heeft principieel dezelfde SWR (SGV) curve als de dipool zonder traps</choice>
+		<choice>heeft steeds minstens 3 dB minder winst dan een dipool zonder traps</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een nadeel van een antenne met traps?</text>
+		<choice>ze zendt in vele gevallen efficiënt de harmonischen van de zender uit</choice>
+		<choice>ze kan alleen op 1 band gebruikt worden</choice>
+		<choice>ze heeft te veel directiviteit op de lage frequenties</choice>
+		<choice>haar efficiëntie is zeer slecht</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is een voordeel van een antenne met traps?</text>
+		<choice>ze heeft een grote directiviteit op de hogere frequenties</choice>
+		<choice>ze heeft een grotere winst</choice>
+		<choice>ze helpt harmonischen van de zender onderdrukken</choice>
+		<choice>ze kan gebruikt worden op verschillende banden</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De stroom in het midden van de halvegolfdipool is</text>
+		<choice>maximaal</choice>
+		<choice>minimaal</choice>
+		<choice>dezelfde als op het uiteinde van de dipool</choice>
+		<choice>4 x de stroom op het uiteinde van de dipool</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een halvegolfdipool is de stroom maximaal</text>
+		<choice>op de uiteinden</choice>
+		<choice>in het midden</choice>
+		<choice>eender waar</choice>
+		<choice>hangt af van de hoogte boven de grond</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een kwart golf verticale antenne is de spanning maximaal</text>
+		<choice>op de top</choice>
+		<choice>aan de basis</choice>
+		<choice>waar de antenne gevoed wordt</choice>
+		<choice>overal gelijk</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een halvegolf antenne is de stroomverdeling in de geleider(s):</text>
+		<choice>lineair</choice>
+		<choice>sinusoidaal</choice>
+		<choice>constant</choice>
+		<choice>exponentieel</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een Yagi antenne is de stroom steeds grootst in</text>
+		<choice>de reflector</choice>
+		<choice>de director</choice>
+		<choice>de gevoede dippool</choice>
+		<choice>overal gelijk</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Als de stroom in de stroombuik van een  halvegolfdipool verdubbelt</text>
+		<choice>dan verdubbelt de stroom op de uiteindes van de antenne</choice>
+		<choice>dan verviervoudigt de stroom op de uiteindes van de antenne</choice>
+		<choice>blijft de stroom op het einde gelijk</choice>
+		<choice>halveert de spanning in dat punt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image>images/antennes%20en%20transmissielijnen_html_cdd7e70017c6fa08.png</image>
+	<text>Welke van de volgende figuren geeft de stroom en de spanningsvorm weer op een halvegolfdipool?</text>
+		<choice>A</choice>
+		<choice>B</choice>
+		<choice>C</choice>
+		<choice>D</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een halvegolfantenne is aan 1 einde met een antenne-aanpaseenheid aan een zender aangesloten. Aan het andere uiteinde van de antenne is er een</text>
+		<choice>spanningsminimum en een stroommaximum</choice>
+		<choice>spanningsmaximum en een stroomminimum</choice>
+		<choice>een spanningsmaximum en een stroommaximum</choice>
+		<choice>een spanningsminimum en een stroomminimum</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image>images/antennes%20en%20transmissielijnen_html_620cdfc49f263bc.png</image>
+	<text>Bijgaande figuur stelt het stroomdiagramma voor van</text>
+		<choice>een 5/8 golf verticale</choice>
+		<choice>een ¼ golf verticale</choice>
+		<choice>een ½ golf verticale</choice>
+		<choice>een 3/8 golf verticale</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image>images/antennes%20en%20transmissielijnen_html_8c7701b86ca9fbf9.png</image>
+	<text>Bijgaande figuur stelt het stroomdiagramma voor van</text>
+		<choice>een 5/8 golf verticale</choice>
+		<choice>een ¼ golf verticale</choice>
+		<choice>een ½ golf vertcale</choice>
+		<choice>een 3/8 golf verticale</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie van een halvegolfantenne, met voeding in het midden</text>
+		<choice>hangt af van de hoogte van de antenne boven de grond</choice>
+		<choice>is 75 Ω</choice>
+		<choice>is 50 Ω</choice>
+		<choice>is 600 Ω</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie van een halvegolfdipool met voeding in het midden is</text>
+		<choice>onafhankelijk van de hoogte van de antenne</choice>
+		<choice>stijgt naarmate de antenne hoger is opgesteld</choice>
+		<choice>daalt naarmate de antenne hoger is opgesteld</choice>
+		<choice>stijgt eerst, daalt dan weer, enz,  als in een golf</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De impedantie aan het voedingspunt van een open halvegolf antenne steeds</text>
+		<choice>75 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice>hangt af van waar ze wordt gevoed</choice>
+		<choice>300 Ω</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie van een resonante halvegolf antenne, gevoed op een der uiteindes is in de vrije ruimte</text>
+		<choice>72 Ω</choice>
+		<choice>zeer hoogohmig</choice>
+		<choice>600 Ω</choice>
+		<choice>onbepaald</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie van een halvegolf gevouwen dipool in de vrije ruimte is ongeveer:</text>
+		<choice>50 Ω</choice>
+		<choice>75 Ω</choice>
+		<choice>100 </choice>
+		<choice>300 Ω</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voedingsimpedantie van een gevouwen  dipool (beide geleiders van eenzelfde diameter) is</text>
+		<choice>3 x de impedantie van een gestrekte dipool (ven gelijke lengte)</choice>
+		<choice>4 x de impedantie van een gestrekte dipool (van gelijke lengte)</choice>
+		<choice>gelijk aan deze van een gestrekte dipool van gelijke lengte</choice>
+		<choice>300 Ω</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de impedantie van een kwartgolf verticale antenne (gemaakt uit zeer dunne geleider), opgesteld op een perfect geleidend grondvlak?</text>
+		<choice>ongeveer 18 Ω</choice>
+		<choice>ongeveer 36 Ω</choice>
+		<choice>ongeveer 52 Ω</choice>
+		<choice>ongeveer 72 Ω</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De impedantie aan het voedingspunt van een kwartgolf verticale die is opgesteld met het voedingspunt op de grond</text>
+		<choice>is ca 36 Ω</choice>
+		<choice>hangt af van de verliezen in de grond</choice>
+		<choice>is ca 50 Ω</choice>
+		<choice>steeds kleiner dan 75 Ω</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De impedantie van een open halvegolfdipool gedraagt zich beneden de resonantiefrequentie</text>
+		<choice>capacitief</choice>
+		<choice>inductief</choice>
+		<choice>reëel en laagohmig</choice>
+		<choice>reëel en hoogohmig</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De impedantie van een open halvegolfdipool gedraagt zich boven de resonantiefrequentie</text>
+		<choice>capacitief</choice>
+		<choice>inductief</choice>
+		<choice>reëel en laagohmig</choice>
+		<choice>reëel en hoogohmig</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De resonantiefrequentie van een antenne is:</text>
+		<choice>de frequentie waarop de voedingsimpedantie reëel is</choice>
+		<choice>de frequentie (f)  waar de lengte = 146/f (uitgedrukt in m)</choice>
+		<choice>de frequentie waar de SGV (SWR) meter in de transmissielijn de kleinste waarde aanduidt</choice>
+		<choice>de frequentie opgegeven in de brochure van de constructeur</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een antenne gemaakt uit horizontaal opgestelde geleiders</text>
+		<choice>produceert in de meeste gevallen een horizontaal gepolariseerd signaal</choice>
+		<choice>produceert steeds een horizontaal gepolariseerd signaal</choice>
+		<choice>produceert steeds een vertikaal gepolariseerd signaal</choice>
+		<choice>de polarisatie is willekeurig</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wanneer we in een omgeving zonder obstructies, een VHF signaal dat vertikaal is gepolariseerd, opvangen met een horizontaal gepolariseerde antenne, zal het signaal</text>
+		<choice>hiervan  geen invloed ondervinden</choice>
+		<choice>hierdoor ca 25 tot 35 dB verzwakt zijn</choice>
+		<choice>niet hoorbaar zijn</choice>
+		<choice>hierdoor ca 3 dB verzwakt zijn</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>HF signalen die door de ionosfeer worden afgebogen en weerkaatst vertonen na weerkaatsing</text>
+		<choice>exact dezelfde polarisatie als van het uitgezonden signaal</choice>
+		<choice>een polarisatie die 90° is gedraaid</choice>
+		<choice>een willekeurige polarisatie</choice>
+		<choice>geen polarisatie</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op de HF-banden kunnen we de verminderde signaal/ruisverhouding bij ontvangst, veroorzaakt door atmosferisch ruisen (onweer) verbeteren door:</text>
+		<choice>De ruisonderdrukker (“noise blanker”) in de ontvanger in te schakelen</choice>
+		<choice>Antennes met richtingseffect te gebruiken</choice>
+		<choice>Een ontvanger met lager eigen ruisniveau te gebruiken</choice>
+		<choice>Het vermogen van onze zender te verhogen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke van volgende antennes kan je niet opstellen?</text>
+		<choice>Yagi antenne</choice>
+		<choice>1/4 golf verticale antenne</choice>
+		<choice>isotrope antenne</choice>
+		<choice>parabolische antenne</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De antennewinst wordt meestal uitgedrukt in</text>
+		<choice>dB t.o.v. een isotrope antenne in de vrije ruimte</choice>
+		<choice>V/m</choice>
+		<choice>dB</choice>
+		<choice>db · mV</choice>
+		<answer></answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Twee identieke yagi antennes met elk 10 dBi winst worden in faze gevoed. Wat is de de maximale winst die kan bereikt worden?</text>
+		<choice>10 dBi</choice>
+		<choice>13 dBi</choice>
+		<choice>16 dBi</choice>
+		<choice>20 dBi</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een antenne heeft een winst van 2.14 dB t.o.v. een isotrope antenne. Wat is haar maximale winst t.o.v. een halvegolf dipool?</text>
+		<choice>2,14 dB</choice>
+		<choice>0 dB</choice>
+		<choice>3 dB</choice>
+		<choice>5,14 dB</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is antennewinst?</text>
+		<choice>De verhouding van de sterkte van het uitgestraalde vermogen van een antenne vergeleken met een referentie-antenne (dipool of isotrope antenne)</choice>
+		<choice>De verhouding van de sterkte van het signaal uitgezonden door een antenne in de voorwaartse richting vergeleken met de sterkte uitgezonden langs de achterzijde</choice>
+		<choice>De verhouding van de sterkte van het signaal uitgezonden door een antenne t.o.v. het uitgangsvermogen van de zender</choice>
+		<choice>De winst van de eindversterker min de verliezen in de transmissielijn.</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>wat is de efficiëntie van een antenne</text>
+		<choice>Het vermogen van de zender min de verliezen in de kabel gedeeld door het vermogen van de zender</choice>
+		<choice>Het door de antenne uitgestraalde vermogen gedeeld door het aan de antenne toegevoerde vermogen</choice>
+		<choice>Het vermogen van de zender gedeeld door de SGV</choice>
+		<choice>Het vermogen van de zender min de verliezen in de coaxiaalkabel</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een halvegolfdipool boven de grond heeft t.o.v. dezelfde dipool in de vrij ruimte</text>
+		<choice>een winst van minsten 3 dB</choice>
+		<choice>een winst van maximaal 3 dB</choice>
+		<choice>een winst die afhangt van de kwaliteit van de grond</choice>
+		<choice>geen winst</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat bepaalt de efficiëntie van een antenne?</text>
+		<choice>De SGV (SWR) van de antenne</choice>
+		<choice>De SGV (SWR) van de antenne en de hoogte van de antenne</choice>
+		<choice>Allerlei verliezen in het antennesysteem (antenne plus grond)</choice>
+		<choice>Enkel de verliezen in de antenne</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom is de efficiëntie van een antenne met traps steeds lager dan deze zonder (volle lengte, enkelband)</text>
+		<choice>Omdat de antenne korter is</choice>
+		<choice>Omdat de impedantie lager is</choice>
+		<choice>Omdat er meer verliezen zijn in de grond</choice>
+		<choice>Omdat er steeds verliezen zijn in de traps</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom is de winst van eenzelfde antenne boven de grond altijd minstens 3 dB groter dan in de vrije ruimte</text>
+		<choice>Omdat boven de grond eenzelfde vermogen nu uitgestraald wordt in een  halve sfeer in plaats van een sfeer</choice>
+		<choice>Omdat het teruggekaatst vermogen nu wordt bijgeteld</choice>
+		<choice>Omdat de vrije ruimte niet bestaat</choice>
+		<choice>Omdat de dipool 2.14 dB winst heeft t.o.v de isotrope dipoo</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Bij een antenne boven de grond hebben de rechtstreekse ruimtegolf en de op de grond teruggekaatste golf een invloed op</text>
+		<choice>Het verticale stralingsdiagram</choice>
+		<choice>Het horizontale stralingsdiagram</choice>
+		<choice>De staande golven</choice>
+		<choice>De lopende golven</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een dipool boven perfect geleidende grond heeft een maximale winst t.o.v. een dipool in de vrije ruimte van:</text>
+		<choice>0 dB</choice>
+		<choice>3 dB</choice>
+		<choice>6 dB</choice>
+		<choice>8.14 dB</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Waarom worden bij een verticale antenne met de basis op de grond radialen in (op) de grond geplaatst?</text>
+		<choice>In de eerste instantie om de verliezen in de grond te verminderen</choice>
+		<choice>In de eerste instantie om de reflectieverliezen in de grond te verminderen</choice>
+		<choice>Om de impedantie van de verticale aan te passen</choice>
+		<choice>Om een lage SGV te bekomen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe wordt het verticale stralingsdiagramma van een kwartgolf verticale antenne beïnvloed als men de antenne verplaatst van boven zandgrond naar boven zeewater?</text>
+		<choice>de straling op lage hoeken verkleint</choice>
+		<choice>de straling op lage hoeken vergroot</choice>
+		<choice>de straling op lage en hoge hoeken verkleint</choice>
+		<choice>de straling op hoge hoeken vermindert</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Acht gelijke yagi antennes worden in faze gevoed. Elke antenne heeft een winst van 8 dBi. Wat is de maximale totale winst van deze antennegroep uitgedrukt in dBd?</text>
+		<choice>14,9 dBd</choice>
+		<choice>17 dBd</choice>
+		<choice>24,9 dBd</choice>
+		<choice>11,9 dBd</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Vier identieke yagi antennes met elk 10 dBi winst worden in faze gevoed. Wat is de de maximale winst die kan bereikt worden?</text>
+		<choice>8.9 dBd</choice>
+		<choice>10.9 dBd</choice>
+		<choice>13.9 dBd</choice>
+		<choice>18.9 dBd</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Acht identieke yagi antennes met elk 10 dBi winst worden in faze gevoed. Wat is de de maximale winst die kan bereikt worden in vergelijking met 1 antenne?</text>
+		<choice>5 dB</choice>
+		<choice>6 dB</choice>
+		<choice>8 dB</choice>
+		<choice>9 dB</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP of ERP (EIUV of EUV)  van een station wordt uitgedrukt</text>
+		<choice>in dB</choice>
+		<choice>in dBd</choice>
+		<choice>in Watt</choice>
+		<choice>in dB/Watt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station</text>
+		<choice>is het fictief vermogen dat, uitgezonden door een isotrope antenne, eenzelfde maximale veldsterkte tewerkstelt als de betreffende installatie</choice>
+		<choice>is het fictief vermogen dat, uitgezonden door een dipool antenne, eenzelfde maximale veldsterkte tewerkstelt als de betreffende installatie</choice>
+		<choice>het vermogen van de zender vermenigvuldigd met de antennewinst uitgedrukt in dBi</choice>
+		<choice>het vermogen van de zender vermenigvuldigd met de antennewinst uitgedrukt in dBd</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De ERP (EUV) wordt bepaald door</text>
+		<choice>de zender en het antennesysteem</choice>
+		<choice>de antenne</choice>
+		<choice>het antennesysteem</choice>
+		<choice>de transmissielijn</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station bestaande uit een zender met een vermogen van 100 W, een transmissielijn met een totaal verlies van 6 dB, en een antenne met een winst van 10 dBi is:</text>
+		<choice>125 W</choice>
+		<choice>250 W</choice>
+		<choice>500 W</choice>
+		<choice>375 W</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station bestaande uit een zender met een vermogen van 100 W, een transmissielijn met een totaal verlies van 3 dB, en een antenne met een winst van 10 dBi is:</text>
+		<choice>250 W</choice>
+		<choice>500 W</choice>
+		<choice>1000 W</choice>
+		<choice>750 W</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station bestaande uit een zender met een vermogen van 100 W, een transmissielijn met een totaal verlies van 0dB, en een antenne met een winst van 10 dBi is:</text>
+		<choice>500 W</choice>
+		<choice>1000 W</choice>
+		<choice>2000 W</choice>
+		<choice>1500 W</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station bestaande uit een zender met een vermogen van 100 W, een transmissielijn met een totaal verlies van 10 dB, en een antenne met een winst van 10 dBi is:</text>
+		<choice>50 W</choice>
+		<choice>100 W</choice>
+		<choice>200 W</choice>
+		<choice>150 W</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De EIRP (EIUV) van een station bestaande uit een zender met een vermogen van 100 W, een transmissielijn met een totaal verlies van 9 dB, en een antenne met een winst van 10 dBi is:</text>
+		<choice>63 W</choice>
+		<choice>125 W</choice>
+		<choice>250 W</choice>
+		<choice>188 W</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voor/achter verhouding van een antenne wordt uitgedrukt in</text>
+		<choice>dB</choice>
+		<choice>dBd</choice>
+		<choice>dBi</choice>
+		<choice>aantal malen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het verticale stralingshoek van een halvegolfdipool hangt in eerste instantie af van</text>
+		<choice>de kwaliteit van de grond</choice>
+		<choice>de exacte lengte van de dipool</choice>
+		<choice>de hoogte van de antenne boven de grond</choice>
+		<choice>de diameter van de gebruikte antennegeleider</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De straling van een halvegolfdipool in de vrije ruimte is maximaal</text>
+		<choice>in de lengterichting van de antennegeleider</choice>
+		<choice>in de richting loodrecht op de antenne</choice>
+		<choice>onder een hoek van 30 graden met de antenne</choice>
+		<choice>onder een hoek van 45 graden met de antenne</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De verticale stralingshoek (opstralingshoek) van een Yagi antenne op HF wordt in eerste instantie bepaald door</text>
+		<choice>het aantal elementen van de yagi</choice>
+		<choice>de winst van de yagi</choice>
+		<choice>de hoogte boven de grond</choice>
+		<choice>de kwaliteit van de grond</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Het horizontaal stralingsdiagramma van een verticale antenne</text>
+		<choice>is  een 8 figuur</choice>
+		<choice>is een circel (omnidirectioneel)</choice>
+		<choice>heeft de vorm van een klaver</choice>
+		<choice>bestaat niet</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een  coaxiale voedingsslijn</text>
+		<choice>straalt als de SGV (SWR) op de lijn laag is</choice>
+		<choice>straalt als de SGV (SWR) op de lijn hoog is</choice>
+		<choice>straalt als de lijn symmetrisch is belast</choice>
+		<choice>straalt nooit</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van tweedraad-transmissielijnen (open wire feeder) met lucht- dielectricum en van klassieke afmetingen</text>
+		<choice>is ca 500 – 1000 Ω</choice>
+		<choice>is 300 – 400 Ω</choice>
+		<choice>is  100 Ω</choice>
+		<choice>is  1000 Ω</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Voor de koppeling van een antenne aan een zender wordt vaak een coaxiale kabel  gebruikt. De belangrijkste reden hiervoor is:</text>
+		<choice>lage verzwakking</choice>
+		<choice>straalt niet in tegenstelling tot andere transmissielijnen</choice>
+		<choice>goede SGV (SWR)</choice>
+		<choice>gemakkelijk handelbaar en te installeren</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Golfgeleiders (golfpijpen) worden toegepast in het frequentiegebied:</text>
+		<choice>3 – 30 MHz</choice>
+		<choice>30 – 300 MHz</choice>
+		<choice>300 – 3000 MHz</choice>
+		<choice>3000 – 30000 MHz</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een ronde golfgeleider (golfpijp) heeft een inwendige diameter van 10 cm. Om hoogfrequente energie te kunnen transporteren moet de golflengte van het signaal zijn:</text>
+		<choice>groter dan 20 cm</choice>
+		<choice>gelijk aan 20 cm</choice>
+		<choice>kleiner dan 20 cm</choice>
+		<choice>de golflengte is van geen belang</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een golfgeleider (golfpijp):</text>
+		<choice>kan signalen op elke frequentie transporteren</choice>
+		<choice>kan alleen signalen beneden een bepaalde grensfrequentie transporteren</choice>
+		<choice>kan alleen signalen boven een bepaalde grensfrequentie transporteren</choice>
+		<choice>kan alleen ongemoduleerde signalen transporteren</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van een coaxiaalkabel wordt bepaald door:</text>
+		<choice>zijn belasting</choice>
+		<choice>de lengte van de kabel</choice>
+		<choice>de karakteristieken van het isolatiemateriaal van de buitenmantel</choice>
+		<choice>de doorsnede van de kern en de afstand van deze tot de buitenste geleider</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Voor eenzelfde kabeldiameter van coaxiale kabel, en eenzelfde isolatiemateriaal</text>
+		<choice>is de karakteristieke impedantie hoogst voor de kabel met de kleinste diameter van binnengeleider</choice>
+		<choice>is de karakteristieke impedantie hoogst voor de kabel met de grootste diameter van binnengeleider</choice>
+		<choice>is de karakteristieke impedantie alleen afhankelijk van de belastingsimpedantie van de kabel</choice>
+		<choice>is de karakteristieke kabelimpedantie steeds gelijk</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Voor een gegeven kabeldiameter en isolatiemateriaal, welke kabelimpedantie zal u kiezen om de laagste verliezen te bewerkstelligen?</text>
+		<choice>50 Ω</choice>
+		<choice>52 Ω</choice>
+		<choice>75 Ω</choice>
+		<choice>35 Ω</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Voor een gegeven kabeldiameter en isolatiemateriaal, welke kabelimpedantie zal u kiezen om de grootste vermogencapaciteit te bewerkstelligen?</text>
+		<choice>30 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice>52 Ω</choice>
+		<choice>75 Ω</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van een coaxiale kabel</text>
+		<choice>hangt af van de lengte van de kabel</choice>
+		<choice>hangt af van de belastingsimpedantie</choice>
+		<choice>hangt af van zijn afmetingen en van het isolatiemateriaal</choice>
+		<choice>is 50 Ω</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van een transmissielijn gebruikt op HF/ VHF / UHF</text>
+		<choice>is afhankelijk van de frequentie waarop die wordt gebruikt</choice>
+		<choice>is afhankelijk van de lengte van de kabel</choice>
+		<choice>is verschillend in elk punt van de lijn als de SGV (SWR) 1 is</choice>
+		<choice>is dezelfde in elk punt van de transmissielijn</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van een verliesvrije transmissielijn wordt gegeven door</text>
+		<choice>Zk  = ( L · C )²</choice>
+		<choice>Zk =v( L / C )</choice>
+		<choice>Zk = v( Q / C )</choice>
+		<choice>Zk  = ( Q · C )²</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De karakteristieke impedantie van een tweedraad-transmissielijnen (open wire feeder) wordt bepaald door:</text>
+		<choice>zijn belasting</choice>
+		<choice>de lengte van de geleiders</choice>
+		<choice>de afstand tussen de geleiders en de grond</choice>
+		<choice>de doorsnede van de geleiders en hun onderlinge afstand</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voortplantingssnelheid in een transmissielijn is</text>
+		<choice>300.000 km/sec</choice>
+		<choice>steeds groter dan 300.000 km/sec</choice>
+		<choice>steeds kleiner dan 300.000 km/sec</choice>
+		<choice>steeds groter naarmate de transmissielijn langer wordt</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De voortplantingssnelheid in een coaxiale transmissielijn wordt bepaald door</text>
+		<choice>de diameter van de kabel</choice>
+		<choice>de lengte van de kabel</choice>
+		<choice>de diëlektrische constante van het gebruikte isolatiemateriaal</choice>
+		<choice>de belastingsimpedantie</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Voor welke waarde van de relatieve diëlektrische constante is de voortplantingssnelheid van een transmissielijn gelijk aan 300.000 km/sec?</text>
+		<choice>oneindig</choice>
+		<choice>1</choice>
+		<choice>0</choice>
+		<choice>3.14</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een coaxiale kabel heeft een verkortingsfactor van 0,66 (66%). Wat is de dielektrische constante van het gebruikte isolatiemedium?</text>
+		<choice>1,5</choice>
+		<choice>2,3</choice>
+		<choice>0,66</choice>
+		<choice>2,13</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een coaxiale kabel met een grotere verkortingsfactor</text>
+		<choice>heeft een grotere diëlektrische constante</choice>
+		<choice>heeft een kleinere diëlektrische constante</choice>
+		<choice>is een langer kabel</choice>
+		<choice>heeft steeds minder verliezen</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De verkortingsfactor van een transmissielijn is</text>
+		<choice>afhankelijk van de frequentie</choice>
+		<choice>de  lichtsnelheid gedeeld door de snelheid van voortplanting in de lijn </choice>
+		<choice>de verhouding van de golflengte in de lijn tot de golflengte in het luchtledige</choice>
+		<choice>de verhouding van de golflengte in het luchtledige tot de golflengte in de lijn</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De verkortingsfactor van een transmissielijn  is bepaald door:</text>
+		<choice>de afsluitweerstand</choice>
+		<choice>de lengte van de lijn</choice>
+		<choice>het diëlectricum gebruikt in de lijn</choice>
+		<choice>de resistiviteit van de conductors in de lijn</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat bestaat wel (slechts 1 term is correct) ?</text>
+		<choice>de SGV (SWR) van een antenne</choice>
+		<choice>de SGV op een transmissielijn afgesloten op  een antenne</choice>
+		<choice>de SGV van een transmissielijn</choice>
+		<choice>de SGV van een zender</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In het geval van een transmissielijn met verliezen, en waar de transmissielijn is afgesloten met een impedantie die NIET gelijk is aan de Zk (karakteristieke impedantie) van de lijn,</text>
+		<choice>is de SWR (SGV) gelijk in elk punt van de lijn</choice>
+		<choice>is de SWR (SGV) het hoogst aan de antenne</choice>
+		<choice>is de SWR (SGV) het  laagst aan de antenne</choice>
+		<choice>is de SWR (SGV) het hoogst aan de zender</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de ingangsimpedantie van een oneindig lange echte transmissielijn (met verliezen) met Zk = 50 Ω</text>
+		<choice>0 Ω</choice>
+		<choice>oneindig</choice>
+		<choice>50 Ω</choice>
+		<choice>hangt af van de hoeveelheid verliezen per lengte-eenheid</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In de context van de Staande Golf Verhouding (SGV) op een lijn is de reflectiecoëfficient (ρ)  gegeven door:</text>
+		<choice>ρ = (( SGV – 1 ) / ( SGV + 1))2</choice>
+		<choice>ρ = (( SGV + 1) / ( SGV – 1 ))2</choice>
+		<choice>ρ = ( SGV – 1 ) / ( SGV + 1)</choice>
+		<choice>ρ = ( SGV + 1 ) / ( SGV – 1 )</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welk van volgende metingen duidt een misaanpassing aan tussen belasting (antenne) en transmissielijn?</text>
+		<choice>Een SWR (SGV)  1</choice>
+		<choice>Een reflectiecoëfficiënt  1</choice>
+		<choice>Een dielectrsiche constante  1</choice>
+		<choice>Een SWR (SGV)  1</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de ingangsimpedantie van een zeer lange transmissielijn van 50 Ω karakteristieke impedantie (met een totaal verlies van meer dan 30 dB) , waarvan het einde van de kabel is kortgesloten?</text>
+		<choice>0 Ω</choice>
+		<choice>8 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice>zeer klein</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is de ingangsimpedantie van een zeer lange tranmsmissielijn van 50 Ω karakteristieke impedantie (met een totaal verlies van meer dan 30 dB) , waarvan het einde van de kabel open is?</text>
+		<choice>0 Ω</choice>
+		<choice>8 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice>zeer klein</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>In een klassieke toepassing van een transmissielijn is, in het ideaal geval is de staandegolfverhouding (SGV)</text>
+		<choice>0</choice>
+		<choice>1</choice>
+		<choice>zo klein mogelijk</choice>
+		<choice>1</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De staandegolfverhouding (SGV of SWR) is</text>
+		<choice>een karakteristieke eigenschap van een antenne</choice>
+		<choice>een karakteristieke eigenschap van een transmissielijn</choice>
+		<choice>een indicatie van de werkomstandigheden van een transmissielijn</choice>
+		<choice>een indicatie van de kwaliteit van een antenne</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>De verliezen in een coaxiale kabel</text>
+		<choice>nemen af bij hogere frequentie</choice>
+		<choice>zijn onafhankelijk van de frequentie</choice>
+		<choice>zijn afhankelijk van het vermogen in de kabel</choice>
+		<choice>nemen toe met de frequentie</choice>
+		<answer>4</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Op HF en VHF dient men, om minder verliezen te hebben</text>
+		<choice>een dikkere coaxiale kabel te nemen</choice>
+		<choice>een aanpassingseenheid te schakelen tussen de transmissielijn en de zender</choice>
+		<choice>een dubbel afgeschermde coaxiale kabel te nemen</choice>
+		<choice>een duurdere coaxiale kabel te kopen</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een balun dient om</text>
+		<choice>de impedantie van een antenne aan te passen aan de impedantie van de transmissielijn</choice>
+		<choice>een antenne met een symmetrisch voedingspunt te voeden met een asymmetrische transmissielijn</choice>
+		<choice>minder TVI te maken</choice>
+		<choice>de SWR (SGV) op een transmissielijn te verbeteren</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Indien een antenne met een symmetrisch voedingspunt gevoed wordt door een asymmetrische transmissielijn, zonder gebruik te maken van een balun, dan</text>
+		<choice>is er een hoge SWR (SGV) op de transmissielijn</choice>
+		<choice>zal de transmissielijn stralen</choice>
+		<choice>dient de transmissielijn steeds een aantal halve golven lang te zijn</choice>
+		<choice>worden er meer harmonischen uitgestraald</choice>
+		<answer>2</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Om de SGV (SWR) op de transmissielijn naar de zendantenne zo laag mogelijk te houden dient men:</text>
+		<choice>een juiste aanpassing tussen de antenne en de transmissielijn te maken</choice>
+		<choice>een juiste aanpassing tussen de zender en de transmissielijn te maken</choice>
+		<choice>de lengte van de transmissielijn met zorg te kiezen</choice>
+		<choice>steeds een coaxiale kabel als transmissielijn te gebruiken</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een antenneaanpassingseenheid (ATU), geschakeld tussen de zender (nominaal 50 Ω uitgangsimpedantie) en de transmissielijn, indien correct afgestemd,</text>
+		<choice>zorgt ervoor dat de SGV (SWR) op de transmissielijn 1/1 wordt</choice>
+		<choice>zorgt ervoor dat de impedantie van de antenne 50 Ω wordt</choice>
+		<choice>zorgt ervoor dat de zender met een impedantie van 50 Ω belast wordt</choice>
+		<choice>zorgt ervoor dat de uitgangsimpedantie van de zender verandert wordt naar deze van de antenne</choice>
+		<answer>3</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Indien de antenne-impedantie afwijkt van de karakteriestieke impedantie van de transmissielijn, waar dient dan de antenneaanpassingseenheid (ATU) te worden geplaatst om ook minimale verliezen te hebben</text>
+		<choice>aan de antennekant</choice>
+		<choice>aan de zenderkant</choice>
+		<choice>aan een van beide kanten</choice>
+		<choice>om het even waar in de transmissielijn</choice>
+		<answer>1</answer>
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een antenneaanpassingseenheid (ATU) geschakeld tussen de transmissielijn (Zk = 50 Ω) en de antenne zorgt ervoor dat</text>
+		<choice>de antenne-impedantie gelijk wordt aan de karakteristieke impedantie van de transmissielijn</choice>
+		<choice>de transmissielijn belast wordt met zijn eigen karakteristieke impedantie</choice>
+		<choice>de antenne-SWR 1/1 is</choice>
+		<choice>de antenne-impedantie gelijk wordt aan de uitgangsimpedantie van de zender</choice>
+		<answer>2</answer>
+</question>
+
+
+<category>

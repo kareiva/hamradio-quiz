@@ -1,0 +1,887 @@
+
+	<category>
+	<title>metingen.html</title>
+
+<question>
+	<image></image>
+	<text>Hoe verbindt men een voltmeter in een schakeling?</text>
+		<choice>in serie met de schakeling</choice>
+		<choice>in parallel op een component (weerstand, spoel, condensator, enz)</choice>
+		<choice>in kwadratuur met de schakeling</choice>
+		<choice>in faze met de schakeling</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men de gevoeligheid van een volmeter verlagen (hogere spanning meten)?</text>
+		<choice>men verhoogt de weerstand in serie met het circuit onder test</choice>
+		<choice>men voegt een weerstand toe in parallel met de voltmeter</choice>
+		<choice>men voegt een weerstand toe in serie met de voltmeter, geschakeld tussen de voltmeter en de schakeling onder test</choice>
+		<choice>men voegt een weerstand toe in parallel met de voltmeter, geschakeld tussen de voltmeter en de schakeling onder test</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_633b3fe8db2538bf.png</image>
+	<text>Wat is het element aangeduid met X (omstippeld)?</text>
+		<choice>een wattmeter</choice>
+		<choice>een ampèremeter</choice>
+		<choice>een voltmeter</choice>
+		<choice>een ohmmeter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er in een klassieke voltmeter wanneer men het spanningsbereik verhoogt?</text>
+		<choice>men verhoogt de weerstand in serie met de galvanometer</choice>
+		<choice>men verhoogt de weerstand in parallel met de galvanometer</choice>
+		<choice>men vermindert de weerstand in serie met de galvanometer</choice>
+		<choice>men vermindert de weerstand in serie met de galvanometer</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een voltmeter heeft een maximaal bereik van 60 V en heeft een gevoeligheid van 10 kΩ/V. Wat is de waarde van de voorschakelweerstand nodig voor het verhogen van het meetbereik tot 300 V.</text>
+		<choice>50 kΩ</choice>
+		<choice>2,4 MΩ</choice>
+		<choice>3,0 MΩ</choice>
+		<choice>240 kΩ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een voltmeter heeft een maximaal bereik van 20 V en heeft een gevoeligheid van 10 kΩ/V. Wat is de waarde van de voorschakelweerstand nodig voor het verhogen van het meetbereik tot 300 V.</text>
+		<choice>50 kΩ</choice>
+		<choice>2,8 MΩ</choice>
+		<choice>3,0 MΩ</choice>
+		<choice>280 kΩ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een voltmeter heeft een maximaal bereik van 10 V en heeft een gevoeligheid van 10 kΩ/V. Wat is de waarde van de voorschakelweerstand nodig voor het verhogen van het meetbereik tot 300 V.</text>
+		<choice>50 kΩ</choice>
+		<choice>2,9 MΩ</choice>
+		<choice>3,0 MΩ</choice>
+		<choice>290 kΩ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een voltmeter heeft een maximaal bereik van 30 V en heeft een gevoeligheid van 10 kΩ/V. Wat is de waarde van de voorschakelweerstand nodig voor het verhogen van het meetbereik tot 300 V.</text>
+		<choice>50 kΩ</choice>
+		<choice>2,7 MΩ</choice>
+		<choice>3,0 MΩ</choice>
+		<choice>270 kΩ</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een voltmeter heeft een maximaal bereik van 50 V en heeft een gevoeligheid van 10 kΩ/V. Wat is de waarde van de voorschakelweerstand nodig voor het verhogen van het meetbereik tot 300 V.</text>
+		<choice>50 kΩ</choice>
+		<choice>2,5 MΩ</choice>
+		<choice>3,0 MΩ</choice>
+		<choice>250 kO</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een draaispoelmeter wordt direct aangesloten op een sinusvormige wisselspanning van 1000 Hz. Wat duidt de meter aan?</text>
+		<choice>de effectieve waarde</choice>
+		<choice>de maximale waarde</choice>
+		<choice>niets</choice>
+		<choice>de momentele waarde</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een microampere-meter kan geschikt worden gemaakt voor het meten van een spanning van enkele V door:</text>
+		<choice>een hoge weerstand in parallel met de meter te schakelen</choice>
+		<choice>een kleine weerstand in parallel met de meter te schakelen</choice>
+		<choice>een grote weerstand in serie met de meter te schakelen</choice>
+		<choice>een kleine weerstand in serie met de meter te schakelen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inwendige weerstand van een digitale voltmeter</text>
+		<choice>hangt af van de toestand van de inwendige voedingsbatterij</choice>
+		<choice>is constant en meestal hoger dan 1 MΩ.</choice>
+		<choice>is constant en meestal zeer laag</choice>
+		<choice>hangt af van het bereik, en wordt daarom uitgedrukt in kΩ / V.</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe wordt een ampèremeter gewoonlijk verbonden in een schakeling?</text>
+		<choice>in serie met de schakeling</choice>
+		<choice>in parallel met de schakeling</choice>
+		<choice>in kwadratuur met de schakeling</choice>
+		<choice>in fase-oppositie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_21b53a5acf9f245d.png</image>
+	<text>Wat is het element aangeduid met X?</text>
+		<choice>een wattmeter</choice>
+		<choice>een ampèremeter</choice>
+		<choice>een voltmeter</choice>
+		<choice>een ohmmeter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan met  het bereik van een ampèremeter vergroten?</text>
+		<choice>door een weerstand op te nemen in serie met het circuit onder test</choice>
+		<choice>door een weerstand op te nemen in parallel met het circuit onder test</choice>
+		<choice>door een weerstand in serie met de ampèremeter op te nemen</choice>
+		<choice>door een weerstand in parallel met de ampèremeter op te nemen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Aan een milli-amperemeter met een eigen weerstand van 50 Ω en een meetbereik van 0,5 mA wordt een weerstand van 5 Ω parallel geschakeld. Wat wordt het nieuwe meetbereik van de meetopstelling?</text>
+		<choice>0,55 mA</choice>
+		<choice>5 mA</choice>
+		<choice>0,5 mA</choice>
+		<choice>5,5 mA</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_3094d854a60f1538.png</image>
+	<text>De voltmeter (V) heeft een gevoeligheid van 10 kΩ/V en een volle schaaluitslag van 10 V. Welke spanning duidt deze meter aan in bijgaande schakeling?</text>
+		<choice>6 V</choice>
+		<choice>4,5 V</choice>
+		<choice>3 V</choice>
+		<choice>2 V</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een klassieke AC/DC multimeter kan vrij nauwkeurig  AC meten tot een frequentie van</text>
+		<choice>10 kHz</choice>
+		<choice>1 MHz</choice>
+		<choice>10 MHz</choice>
+		<choice>100 MHz</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een meetinstrument met een beweegbare ijzerkern</text>
+		<choice>Duidt de piekwaarde aan van de stroom die erdoor vloeit</choice>
+		<choice>Duidt de gemiddelde waarde aan van de stroom die erdoor vloeit</choice>
+		<choice>Duidt de effectieve waarde aan van de stroom die erdoor vloeit</choice>
+		<choice>Duidt de ogenblikkelijke waarde aan van de stroom die erdoor vloeit</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom wordt voor het meten van spanningen dikwijls gebruik gemaakt van een buisvoltmeter of een FET-voltmeter i.p.v. een klassieke multimeter?</text>
+		<choice>om aldus zo groot mogelijke spanningen te kunnen meten</choice>
+		<choice>omdat de interne weerstand van dergelijk toestel veel groter is</choice>
+		<choice>om de invloed van de frequentie te minimaliseren</choice>
+		<choice>om zo weinig mogelijk spanningsval te veroorzaken in het circuit waarin wordt gemeten</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom is het gewenst dat bij een ampèremeter de inwendige weerstand zo laag mogelijk is?</text>
+		<choice>om aldus een zo groot mogelijke stroom te kunnen meten</choice>
+		<choice>om de invloed van de frequentie te minimaliseren</choice>
+		<choice>om zo weinig mogelijk spanningsval te veroorzaken in het circuit waarin wordt gemeten</choice>
+		<choice>het circuit waarin wordt gemeten zo weinig mogelijk te belasten</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inwendige weerstand van een voltmeter is in het ideale geval:</text>
+		<choice></choice><choice>0</choice>
+		<choice>dezelfde als de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
+		<choice>kleiner dan de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waarom is het gewenst dat bij een voltmeter de inwendige weerstand zo groot mogelijk is?</text>
+		<choice>om aldus een zo groot mogelijke spanning te kunnen meten</choice>
+		<choice>om de invloed van de frequentie te minimaliseren</choice>
+		<choice>om het circuit waarin wordt gemeten zo weinig mogelijk te belasten</choice>
+		<choice>om zo weinig mogelijk spanningsval te veroorzaken</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De inwendige weerstand van een ampèremeter is in het ideale geval:</text>
+		<choice></choice><choice>0</choice>
+		<choice>dezelfde als de inwendige weerstand van her circuit waarop hij is aangesloten</choice>
+		<choice>kleiner dan de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welk meettoestel kan je meest precies een weerstand meten?</text>
+		<choice>met een digitale murlimeter</choice>
+		<choice>met een analoge multimeter</choice>
+		<choice>met een brug van Wheatstone</choice>
+		<choice>met een ohmmeter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_13af1e07b88ce435.png</image>
+	<text>Bereken het piekvermogen van een SSB-zender, gemoduleerd door een spraaksignaal, die is afgesloten op een weerstand van exact 50 Ω.De oscilloscoop (gevoeligheid: 20 V per schaaldeel) toont de spanning over de weerstand (zie schets).</text>
+		<choice>64 W</choice>
+		<choice>206 W</choice>
+		<choice>1024 W</choice>
+		<choice>103 W</choice>
+		<answer>1</answer>Corr 02/11/2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Hoe bepaalt men het PEP (piek uitgangsvermogen = peak envelope power) van een zender met een oscilloscoop? (UP = peakspanning, RL=impedantie belasting)</text>
+		<choice>Men meet de piek tot piek spanning VP op de aansluitklemmen van een  50 Ω fictieve antenne en gebruikt de volgende formule:</choice><choice>Men meet de piek tot piek  spanning VP op de aansluitklemmen van een  50 Ω fictieve antenne en gebruikt de volgende formule:</choice><choice>Men meet de piek tot piek  spanning VP op de aansluitklemmen van een  50 Ω fictieve antenne en gebruikt de volgende formule: </choice><choice>Men meet de piek tot piek spanning VP op de aansluitklemmen van een  50 Ω fictieve antenne en gebruikt de volgende formule: </choice><answer>2</answer>CORR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Een SSB-zender wordt afgesloten op een 50 Ω belasting (fictieve antenne). De zender wordt gemoduleerd met een enkele toon (1000 Hz). Parallel op de fictieve antenne staat een RF voltmeter die 100 Veff aanduidt. Wat is het Piekvermogen?</text>
+		<choice>196 W</choice>
+		<choice>392 W</choice>
+		<choice>784 W</choice>
+		<choice>200 W</choice>
+		<answer>4</answer>Corr 02/11/2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Door middel van een directionele Wattmeter meet men een voorwaarts vermogen van 90 Watt en een teruggekaatst vermogen van 10 W. Wat is het uitgangsvermogen van de zender</text>
+		<choice>10 W</choice>
+		<choice>80 W</choice>
+		<choice>90 W</choice>
+		<choice>100 W</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om te vermijden dat men meetfouten maakt te wijten aan mantelstromen (stromen op de buitenkant van de afscherming van een coaxiaalkabel) bij het meten van de SGV (SWR) d.m.v. een reflectometer dient men</text>
+		<choice>de mantelstromen te minimaliseren door een aantal ferrietkernen over de kabel te schuiven</choice>
+		<choice>de metingen te doen op veelvouden van ¼ golven van de antenne  verwijderd</choice>
+		<choice>de metingen te doen op veelvouden van ¼ golven van de zender verwijderd</choice>
+		<choice>de reflectometer te aarden</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien men door het verplaatsen (over korte afstanden) van een SGV (SWR)-meter in een transmissielijn een verandering van meetresultaat vaststelt, wat kan hiervan NIET de oorzaak zijn?</text>
+		<choice>dat er mantelstromen lopen op de coaxiaalkabel</choice>
+		<choice>dat het toestel geen correct werkende reflectometer is</choice>
+		<choice>dat de verliezen in de kabel zeer hoog zijn</choice>
+		<choice>dat de SGV (SWR)  groter is dan 3/1</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien men een directionele wattmeter gebruikt om de SWR op een niet-verliesvrije transmissielijn te meten, en men plaatst het toestel aan de zender i.p.v. aan de antenne, dan zal de aanduiding van de SGV (SWR)</text>
+		<choice>groter zijn dan indien geplaatst aan de antennekant van de transmissielijn</choice>
+		<choice>kleiner zijn dan indien geplaatst aan de antennekant van de transmissielijn</choice>
+		<choice>gelijk zijn dan indien geplaatst aan de antennekant van de transmissielijn</choice>
+		<choice>onjuist zijn</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waar moet men de reflectometer (SWR of SGV meter) schakelen om een zo exact mogelijke meting van de misaanpassing van de antenne aan de voedingskabel te meten?</text>
+		<choice>aan het voedingspunt van de antenne</choice>
+		<choice>aan de uitgang van de zender</choice>
+		<choice>in het midden van de transmissielijn</choice>
+		<choice>gelijk waar langs de transmissielijn</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Met welk toestel kan men de omhullende van een HF signaal meten?</text>
+		<choice>met een HF-wattmeter</choice>
+		<choice>met een oscilloscoop</choice>
+		<choice>met een spectrum analyzer</choice>
+		<choice>met een SGV (SWR) meter</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_f75254484d909efe.png</image>
+	<text>Een zender wordt 100% gemoduleerd met een sinusvormig signaal van 100 Hz. Bijgaande figuur geeft het beeld van de omhullende weer van het HF-signaal zoals gezien op een oscilloscoop. Welke soort modulatie is hier gebruikt?</text>
+		<choice>EZB (SSB)</choice>
+		<choice>FM (frequentoemodulatie)</choice>
+		<choice>PM (fazemodulatie)</choice>
+		<choice>AM (amplitudemodulatie)</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_bd01552891532a58.png</image>
+	<text>Op een oscilloscoop ziet men een AM signaal (zie figuur). Wat is de modulatiediepte voor dit signaal?</text>
+		<choice>80 %</choice>
+		<choice>78 %</choice>
+		<choice>90 %</choice>
+		<choice>70 %</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is het PEP uitgangsvermogen van een zender, indien we op de oscilloscoop een maximale amplitude (piek tot piek spanning) meten van 250 V, en dit over een kunstantenne met een impedantie van 50 Ω.</text>
+		<choice>100 W</choice>
+		<choice>157 w</choice>
+		<choice>1250 W</choice>
+		<choice>200 W</choice>
+		<answer>2</answer>coRR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het PEP uitgangsvermogen van een zender, indien we op de oscilloscoop een maximale amplitude (piek to piek spanning) meten van 100 V, en dit over een kunstantenne met een impedantie van 50 Ω.</text>
+		<choice>50 W</choice>
+		<choice>25 w</choice>
+		<choice>200 W</choice>
+		<choice>1000 W</choice>
+		<answer>2</answer>coRR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het PEP uitgangsvermogen van een zender, indien we op de oscilloscoop een maximale amplitude (piek to piek spanning) meten van 50 V, en dit over een kunstantenne met een impedantie van 50 Ω.</text>
+		<choice>125 W</choice>
+		<choice>6.3 w</choice>
+		<choice>50 W</choice>
+		<choice>150 W</choice>
+		<answer>2</answer>coRR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het PEP uitgangsvermogen van een zender, indien we op de oscilloscoop een maximale amplitude (piek to piek spanning) meten van 25 V, en dit over een kunstantenne met een impedantie van 50 Ω.</text>
+		<choice>10 W</choice>
+		<choice>1.57 W</choice>
+		<choice>12,5 W</choice>
+		<choice>25 W</choice>
+		<answer>2</answer>coRR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat is het PEP uitgangsvermogen van een zender, indien we op de oscilloscoop een maximale amplitude (piek to piek spanning) meten van 150 V, en dit over een kunstantenne met een impedantie van 50 Ω.</text>
+		<choice>75 W</choice>
+		<choice>56 w</choice>
+		<choice>450 W</choice>
+		<choice>150 W</choice>
+		<answer>2</answer>coRR APR 2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Welke gebreken aan een uitzending kan men niet waarnemen door de omhullende van een uitgezonden signaal op een oscilloscoop te bekijken?</text>
+		<choice>sleutelklikken</choice>
+		<choice>overmodulatie</choice>
+		<choice>frequentie-onstabiliteit</choice>
+		<choice>parasitair oscilleren van de eindtrap</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een dip-meter dient om</text>
+		<choice>de ingangsimpedantie van een elektronenbuis te meten</choice>
+		<choice>de resonantiefrequentie van een LC kring te meten</choice>
+		<choice>de stroom op de buitenmantel van een coaxiaalkabel te meten</choice>
+		<choice>de stroom in de grondleiding van een antenne te meten</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men door gebruik te maken van een ontvanger  die een digitale uitlezing heeft tot op 10 Hz nauwkering, en een kloknauwkeurigheid van 10 ppm de frequentie van een oscillator op 30 MHz met een nauwkeurigheid van +/- 10 Hz meten?</text>
+		<choice>door de ontvanger in AM  mode te schakelen, en de ontvanger af te stemmen op het te meten signaal tot de grootste S-meter uitslag wordt bekomen</choice>
+		<choice>door de ontvanger in de mode SSB (EZB)of CW te schakelen en de ontvanger af te stemmen tot een nul-zweving wordt bekomen</choice>
+		<choice>door de meting te doen in de mode FM</choice>
+		<choice>kan niet</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men door gebruik te maken van een ontvanger  die een digitale uitlezing heeft tot op 10 Hz nauwkering, en een kloknauwkeurigheid van 0,1 ppm de frequentie van een oscillator op 30 MHz met een nauwkeurigheid van +/- 10 Hz meten?</text>
+		<choice>door de ontvanger in AM  mode te schakelen, en de ontvanger af te stemmen op het te meten signaal tot de grootste S-meter uitslag wordt bekomen</choice>
+		<choice>door de ontvanger  in de mode SSB of CW te schakelen en de ontvanger af te stemmen tot een nul-zweving wordt bekomen</choice>
+		<choice>door de meting te doen in de mode FM</choice>
+		<choice>kan niet</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Van een afgestemde kring is de resonantiefrequentie te bepalen met een opstelling die enkel bestaat uit</text>
+		<choice>een dipmeter</choice>
+		<choice>een universeelmeter</choice>
+		<choice>een frequentieteller</choice>
+		<choice>een digitale voltmeter</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een dip-meter</text>
+		<choice>een veldsterkte-meter</choice>
+		<choice>een SWR-meter (SGV-meter)</choice>
+		<choice>een afstembare LC-oscillator met een aanduiding van de stroomterugkoppeling in het oscillatorcircuit</choice>
+		<choice>een modulatie-index meter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is de functie van een dip-meter?</text>
+		<choice>het meten van signaalsterkte</choice>
+		<choice>het precies meten van frequentie</choice>
+		<choice>het precies meten van het vermogen van een zender</choice>
+		<choice>het meten van de resonantiefrequentie van een kring</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien de ontvanger is ingesteld op LSB (EZB, lager zijband), en de digitale frequentieaanduiding leest 14.349,7 MHz, en men ontvangt een LSB  (lagere zijband) signaal, welk is dan het spectrum waarop het SSB signaal uitzendt?</text>
+		<choice>14347,5 – 14349,5 MHz</choice>
+		<choice>14350 – 14352 MHz</choice>
+		<choice>14349 – 14553 MHz</choice>
+		<choice>14346 – 14350 MHz</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men de waarde van een condensator of van een spoel bepalen met een grid-dip meter?</text>
+		<choice>door de condensator of de spoel te “dippen”</choice>
+		<choice>door een afgestemde LC-kring te maken waarvan men de waarde van 1 element kent, de kring te dippen en de waarde van het tweede element af te leiden uit de resonantieformule</choice>
+		<choice>door een afgestemde LC-kring te maken waarvan men de waarde van 1 element kent, de kring te dippen en de waarde van het tweede element af te leiden uit de formule van Hertz</choice>
+		<choice>dit kan niet</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe werkt een dip-meter?</text>
+		<choice>weerkaatste golven op 1 bepaalde frequentie beïnvloeden de detectorspoel</choice>
+		<choice>de wederzijdse koppeling van de spoel van een oscillator naar een nabije resonante spoel veroorzaakt een verandering in de aangeduide stroom in de oscillator stroomterugkoppelingschakeling</choice>
+		<choice>het vermogen van een zender doet de indicator werken</choice>
+		<choice>het vermogen gekoppeld van een nabije oscillator doet stroom vloeien in een afgestemde kring die deel uitmaakt van de dip-meter.</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Duid twee typische toepassingen aan voor het gebruik van een dip-meter.</text>
+		<choice>het meten van de resonantiefrequentie van antenne-traps en het meten van de modulatiediepte van een zender</choice>
+		<choice>het meten van antenneresonantie en het meten van de modulatiediepte van een zender</choice>
+		<choice>het meten van antenneresonantie en antenne-impedantie</choice>
+		<choice>het meten van de resonantiefrequentie van antenne-traps en van de resonantiefrequentie van een afgestemde kring.</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Om de grootste nauwkeurigheid te bekomen, hoe dient men de dip meter te koppelen met het meetobject?</text>
+		<choice>zo los mogelijk</choice>
+		<choice>zo vast mogelijk</choice>
+		<choice>loodrecht</choice>
+		<choice>alternerend los en vast</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat gebeurt er als men een dip-meter te vast koppelt met het meetobject?</text>
+		<choice>er worden harmonischen gegenereerd</choice>
+		<choice>de meting is minder accuraat</choice>
+		<choice>er gebeurt crossmodulatie</choice>
+		<choice>men riskeert de dip-meter defect te beschadigen</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_1f5d106471d51999.png</image>
+	<text>Met deze meetopstelling wordt de resonantiefrequentie van een kring bepaald. Ri is de inwendige weerstand van de voltmeter. R is de inwendige weerstand van de generator. Aan welke voorwaarden dienen Ri en R te voldoen om de meting zo correct mogelijk uit </text>
+		<choice>R = groot, Ri = groot</choice>
+		<choice>R = groot, Ri = klein</choice>
+		<choice>R = klein, Ri = groot</choice>
+		<choice>R = klein, Ri = klein</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat kan men meten met een klassieke multimeter?</text>
+		<choice>de SGV (SWR) en het vermogen</choice>
+		<choice>weerstand, inductantie en capacitantie</choice>
+		<choice>weerstand bij gelijkstroom en de reactantie bij wisselstroom</choice>
+		<choice>spanning, stroom  en weerstand</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een digitale multimeter</text>
+		<choice>heeft een grotere ingangsweerstand dan de analoge multimeter</choice>
+		<choice>is minder nauwkeurig dan een analoge multimeter</choice>
+		<choice>heeft een lage ingangsimpedantie</choice>
+		<choice>laat toe wisselspanningen te meten tot op zeer hoge frequenties (verschillende MHz)</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>DC en AC- vermogen opgenomen door een weerstand kan makkelijkst worden gemeten</text>
+		<choice>met een wattmeter</choice>
+		<choice>door de spanning over het element en de stroom door het element te meten en de wet van Joule toe te passen</choice>
+		<choice>met een vermogenmeter</choice>
+		<choice>met een oscilloscoop</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_b99a54764b71dee0.png</image>
+	<text>Een EZB (SSB) zender wordt aangesloten op een fictieve antenne van 50 Ω. De zender is gemoduleerd door een dubbeltoonsignaal. De oscilloscoop die verbonden is op de klemmen van de fictieve antenne toont bijgaand beeld. Wat is het PEP (peak envelope power)</text>
+		<choice>25 W</choice>
+		<choice>50 W</choice>
+		<choice>100 W</choice>
+		<choice>200 W</choice>
+		<answer>1</answer>Corr 02/11/2009
+
+</question>
+
+
+<question>
+	<image></image>
+	<text>Wat kan men meten met een directionele wattmeter?</text>
+		<choice>het voorwaarts en het weerkaatst vermogen</choice>
+		<choice>de stralingsdiagramma van een antenne</choice>
+		<choice>het vermogen opgenomen door een zender</choice>
+		<choice>het thermisch vermogen opgenomen door een weerstand</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien u een Wattmeter gebruikt op VHF, die voorzien is voor het bereik van 2 tot 30 MHz, wat zal de invloed zijn op de aflezing?</text>
+		<choice>de meting zal onnauwkeurig zijn</choice>
+		<choice>de meting kan als exact worden aanzien</choice>
+		<choice>de uitslag moet door ongeveer 1,5 worden gedeeld</choice>
+		<choice>de uitslag moet met ongeveer 1,5 worden vermenigvuldigd</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waar dient men een HF-wattmeter te schakelen om het HF-uitgangsvermogen van een zender te meten?</text>
+		<choice>aan de antenne uitgang het toestel</choice>
+		<choice>onmiddellijk aan de antenne</choice>
+		<choice>op ¼ golf afstand van de zender</choice>
+		<choice>op ½ golf afstand van de zender</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Voor welke impedantie zijn HF-wattmeters gewoonlijk gemaakt?</text>
+		<choice>25 Ω</choice>
+		<choice>50 Ω</choice>
+		<choice>300 Ω</choice>
+		<choice>450 Ω</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welk toestel kan men gebruiken om de misaanpassing van de antenne te meten (de impedantie van de antenne t.o.v. de karakteristieke impedantie van de voedingskabel)?</text>
+		<choice>een veldsterktemeter</choice>
+		<choice>een thermische ampèremeter</choice>
+		<choice>een golflengtemeter</choice>
+		<choice>een SVG-meter (SWR-meter)</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke soort spanningsvorm genereert een typische laagfrequentgenerator niet</text>
+		<choice>Sinus</choice>
+		<choice>Blok (kanteel)</choice>
+		<choice>Driehoek</choice>
+		<choice>Cirkel</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Welke toestel kan doorgaans ook gebruikt worden als een HF-generator?</text>
+		<choice>Een voltmeter</choice>
+		<choice>Een ontvanger</choice>
+		<choice>Een zender</choice>
+		<choice>Een oscilloscoop</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Indien met een zender gebruikt als HF-generator, en de spectrale zuiverheid voldoet niet aan de vereiste, kan men die verbeteren door gebruik te maken van</text>
+		<choice>Een hoogdoorlaat filter</choice>
+		<choice>Een netfilter</choice>
+		<choice>Een laagdoorlaat of banddoorlaat filter</choice>
+		<choice>Een kristalfilter</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>De nauwkeurigheid van een frequentieteller wordt bepaald door</text>
+		<choice>de ingangsverzwakker</choice>
+		<choice>de uitleesindicator</choice>
+		<choice>de tijdsbasis</choice>
+		<choice>de frequentiedeler</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe meet een frequentieteller de frequentie van een signaal?</text>
+		<choice>het telt het aantal pulsen in een schakeling</choice>
+		<choice>het vergelijkt een referentiesignaal afkomstig van een ijkzender met het te meten signaal</choice>
+		<choice>het telt het aantal input pulsen gedurende een bepaalde tijd</choice>
+		<choice>het zet de faze van het gemeten ingangssignaal om in een spanning die proportioneel is met de frequentie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe kan men de nauwkeurigheid van een frequentieteller verhogen?</text>
+		<choice>door tragere digitale schakelingen te gebruiken</choice>
+		<choice>door de nauwkeurigheid van de frequentierespons te verbeteren</choice>
+		<choice>door de nauwkeurigheid van de tijdsbasis te verhogen</choice>
+		<choice>door snellere digitale schakelingen te gebruiken</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat bepaalt de resolutie van een digitale frequentiemeter?</text>
+		<choice>De nauwkeurigheid van de tijdbasis</choice>
+		<choice>Het tijdsinterval binnen hetwelk periodes worden geteld</choice>
+		<choice>Het aantal cijfers (digits) van de aflezing</choice>
+		<choice>De frequentie van het te meten signaal</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een frequentieteller heeft een tijdsbasis met een nauwkeurigheid van +/- 10 ppm. De aanduiding is 144.520.000 Hz. Hoeveel kan de echte frequentie afwijken van de aangeduide frequentie?</text>
+		<choice>14.452 Hz</choice>
+		<choice>1.4452 Hz</choice>
+		<choice>144.52 Hz</choice>
+		<choice>1.4462 kHz</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een digitale frequentiemeter</text>
+		<choice>Telt het aantal zwevingen per seconde</choice>
+		<choice>Telt het aantal periodes gedurende een vaste tijd</choice>
+		<choice>Telt de frequentie van de tijdbasis</choice>
+		<choice>Telt het aantal periodes van de tijdsbasis</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat is een oscilloscoop</text>
+		<choice>een meettoestel dat toelaat heel preciese spannings– en stroom-metingen uit te voeren</choice>
+		<choice>een meettoestel waar spanning zichtbaar wordt gemaakt als functie van tijd</choice>
+		<choice>een meettoestel dat spanning zichtbaar maakt als functie van stroom</choice>
+		<choice>een meettoestel dat de faze van een spanning toont als functie van de stroom</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat lees je af op de x-as (horizontale as) van een oscilloscoop voor in zijn klassieke toepassing?</text>
+		<choice>Spanning</choice>
+		<choice>Stroom</choice>
+		<choice>Tijd</choice>
+		<choice>Vermogen</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Hoe ziet het signaal aan de horizontale platen (tijdsbasis-signaal) van een oscilloscoop eruit?</text>
+		<choice>het is een driehoeksspanning</choice>
+		<choice>het is een sinusoidale spanning</choice>
+		<choice>het is een continu spanning</choice>
+		<choice>het is een zaagtand spanning</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Als men het vermogen van een SSB-zender meet door gebruik te maken van een twee-toon test en een wattmeter die het gemiddelde vermogen aanduidt, dan …</text>
+		<choice>is het aangeduide vermogen op de wattmeter gelijk aan het piekuitgangsvermogen van de zender</choice>
+		<choice>is het aangeduide vermogen op de wattmeter gelijk aan 2 x het piekuitgangsvermogen van de zender</choice>
+		<choice>is het aangeduide vermogen op de wattmeter gelijk aan de helft van het piekuitgangsvermogen van de zender</choice>
+		<choice>Een twee-toon test is daar niet voor geschikt</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_6b18ff9f2f0b310b.png</image>
+	<text>De regelknop van de tijdsbasis van een oscilloscoop bevindt zich in de stand 2 ms per verdeling. Wat is ongeveer de frequentie van de spanning op het scherm?</text>
+		<choice>500 Hz</choice>
+		<choice>3300 Hz</choice>
+		<choice>330 Hz</choice>
+		<choice>5000 Hz</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Waartoe dient de trigger-schakeling van een oscilloscoop?</text>
+		<choice>Om de gevoeligheid van het toestel te verbeteren</choice>
+		<choice>Om de bandbreedte van het toestel te verbeteren</choice>
+		<choice>Om verschillende beelden boven elkaar te kunnen waarnemen</choice>
+		<choice>Om een stilstaand beeld van periodisch signaal te bekomen</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een oscilloscoop , in zijn klassieke toepassing, doet een meting</text>
+		<choice>In het frequentiedomein</choice>
+		<choice>In het tijdsdomein</choice>
+		<choice>In het frequentiedomein of in het tijdsdomein</choice>
+		<choice>In het frequentiedomein en in het tijdsdomein</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat duidt de y-as (verticale as) van een oscilloscoop in zijn klassiek gebruik aan?</text>
+		<choice>Amplitude</choice>
+		<choice>Fase</choice>
+		<choice>Tijd</choice>
+		<choice>Frequentie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image>images/metingen_html_7ddd8e410f5ad2a8.png</image>
+	<text>Een wisselspanning is aangesloten op de verticale ingang van een oscilloscoop, met een gevoeligheid van 10 V per verdeling. Wat is de effectieve waarde van de spanning op bijgaande figuur?</text>
+		<choice>14 V</choice>
+		<choice>20 V</choice>
+		<choice>40 V</choice>
+		<choice>7 V</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat duidt de x-as (horizontale as) van een oscilloscoop in zijn klassiek gebruik aan?</text>
+		<choice>amplitude</choice>
+		<choice>fase</choice>
+		<choice>tijd</choice>
+		<choice>frequentie</choice>
+		<answer>3</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat duidt de y-as (verticale as) van een spectrumanalyser in zijn klassiek gebruik aan?</text>
+		<choice>Amplitude</choice>
+		<choice>Fase</choice>
+		<choice>Tijd</choice>
+		<choice>Frequentie</choice>
+		<answer>1</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Wat duidt de x-as (horizontale as) van een spectrumanalyser in zijn klassiek gebruik aan?</text>
+		<choice>Amplitude</choice>
+		<choice>Fase</choice>
+		<choice>Tijd</choice>
+		<choice>Frequentie</choice>
+		<answer>4</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een spectrumanalyser is een ideaal toestel om</text>
+		<choice>De frequentie van een RF-signaal exact mee te bepalen</choice>
+		<choice>De bandbreedte van een RF-signaal mee te meten</choice>
+		<choice>De sterkte van een RF-signaal mee te meten</choice>
+		<choice>De impedantie van een antenne te meten</choice>
+		<answer>2</answer>
+</question>
+
+<question>
+	<image></image>
+	<text>Een spectrumanalyser doet een meting</text>
+		<choice>In het frequentiedomein</choice>
+		<choice>in het tijdsdomein</choice>
+		<choice>In het frequentiedomein of in het tijdsdomein</choice>
+		<choice>In het frequentiedomein en in het tijdsdomein</choice>
+		<answer>1</answer>
+</question>
+
+<category>
