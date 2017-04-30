@@ -48,8 +48,8 @@ public class App {
 			mCallback = callback;
 			mProgressDialog = new ProgressDialog(mActivity);
 			mProgressDialog.setIndeterminate(true);
-			mProgressDialog.setTitle("Pakrauname duomenis");
-			mProgressDialog.setMessage("Tai nutinka tik pirmo paleidimo metu.");
+			mProgressDialog.setTitle("Database laden");
+			mProgressDialog.setMessage("Dit gebeurt alleen in eerste aanloop.");
 		}
 		
 		@Override

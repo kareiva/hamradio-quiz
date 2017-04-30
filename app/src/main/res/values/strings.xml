@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Radijo mėgėjų testas</string>
+    <string name="app_name">Amateur radio examen</string>
     <string name="hello_world"><![CDATA[
         <h2>Apie šią programėlę</h2>
         <p><font style="font-weight: bold" size="+2">Programėlę parengė ir išleido 
@@ -25,41 +25,41 @@
       
     ]]>
     </string>
-    <string name="menu_settings">Nustatymai</string>
+    <string name="menu_settings">Instellingen</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_quiz">QuizActivity</string>
     <string name="title_activity_about">About Quizzes</string>
     <string name="title_activity_complete">CompleteActivity</string>
-    <string name="menu_about">Apie</string>
-    <string name="start_quiz_label">Pradėti klausimyną</string>
-    <string name="choose_category">Pasirinkite kategoriją</string>
-    <string name="title_activity_categories">Pasirinkite kategoriją</string>
+    <string name="menu_about">Kennisgeving</string>
+    <string name="start_quiz_label">Begin het examen</string>
+    <string name="choose_category">Kies alstublieft de categorie</string>
+    <string name="title_activity_categories">Kies alstublieft de categorie</string>
     <string name="title_activity_settings">SettingsActivity</string>
     <string name="setting_sound_label">Garsas</string>
-	<string name="loading_progress_message">Įkraunama duomenų bazė</string>
+	<string name="loading_progress_message">Database laden</string>
 	<string name="loading_progress_title">Kuriame duomenų bazę</string>
-	<string name="header_image_content_description">Hamradio.LT</string>
-	<string name="header_title">Radijo mėgėjų testas</string>
-	<string name="header_text">Parengta pagal RRT informaciją.</string>
+	<string name="header_image_content_description">uba.be</string>
+	<string name="header_title">Amateur radio examen</string>
+	<string name="header_text">Informatie van de UBA website.</string>
 	<string name="default_content_description">Not Important</string>
-	<string name="show_answer">Rodyti atsakymą</string>
-	<string name="show_question">Rodyti klausimą</string>
-	<string name="next">Toliau</string>
-	<string name="back">Atgal</string>
-	<string name="next_question">Kitas klausimas</string>
-	<string name="progress_template">Klausimas ^1 iš ^2</string>
-	<string name="score_template">^1 iš ^2 (%^3)</string>
+	<string name="show_answer">Toon het antwoord</string>
+	<string name="show_question">Toon vraag</string>
+	<string name="next">Volgende</string>
+	<string name="back">Terug</string>
+	<string name="next_question">Volgende vraag</string>
+	<string name="progress_template">Vraag ^1 iš ^2</string>
+	<string name="score_template">Vraag ^1 van ^2 (%^3)</string>
 	<string name="sound_warning">This question has sound, but your volume is set to mute.</string>
 	 
-	<string name="try_again">Bandykite dar kartą</string>
+	<string name="try_again">Probeer het opnieuw</string>
 	<string name="home">Į pradžią</string>
-	<string name="complete">Klausimynas baigtas</string>
-	<string name="complete_high_score">Tai geriausias rezultatas!</string>
-	<string name="complete_score_format">Teisingai atsakėte %1$d iš %2$d (%3$d%%).</string>
+	<string name="complete">Examen is compleet</string>
+	<string name="complete_high_score">Dit is het beste resultaat!</string>
+	<string name="complete_score_format">Je hebt het goed beantwoord %1$d van %2$d (%3$d%%).</string>
 	
 	
 	<string name="button_text">Atidaryti PDF failą</string>
-	<string name="paaiskinimai">[ Paaiškinimai ir dokumentai ]</string>
+	<string name="paaiskinimai">[ Verklaringen en documenten ]</string>
 	
 	<string name="istatymai">[ Teisės aktai ]</string>
 	<string name="santrupos">[ Santrupos ]</string>
