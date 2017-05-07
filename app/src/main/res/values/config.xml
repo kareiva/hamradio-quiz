@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<!-- Path (relative to 'assets/') of the file containing the questions -->
-	<string name="config_questionsFile">quiz-example.xml</string>
+	<string name="config_questionsFile">quiz-erau.xml</string>
 	
 	<!-- Whether to use "flashcard" mode.  In flashcard mode the question is displayed
 		 with a button to show the answer instead of choices -->

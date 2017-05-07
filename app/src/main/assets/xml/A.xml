@@ -1,0 +1,12 @@
+<questions>
+
+<question>
+  <text>M1A-1  Mida tähendab termin impedants?</text>
+  <choice>A.  Kondensaatoris salvestatavat elektrilaengut. </choice>
+  <choice>B.  Vooluringi poolt vahelduvvoolule osutatavat takistust. </choice>
+  <choice>C.  Mahtuvust sisaldava vooluringi poolt vahelduvvoolule osutatavat takistust. </choice>
+  <choice>D.  Juhtivust </choice>
+	<answer>1</answer>
+</question>
+
+</questions>

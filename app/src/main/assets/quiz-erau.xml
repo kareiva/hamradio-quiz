@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<category>
+  <name>A-kvalifikatsiooniklassi</name>
+  <text>Raadioamatööri A-kvalifikatsiooniklassi eksami küsimused</text>
+  <file>xml/A.xml</file>
+</category>
+<category>
+  <name>B-kvalifikatsiooniklassi</name>
+  <text>Raadioamatööri B-kvalifikatsiooniklassi eksami küsimused</text>
+  <file>xml/B.xml</file>
+</category>
+<category>
+  <name>D-kvalifikatsiooniklassi</name>
+  <text>Raadioamatööri D-kvalifikatsiooniklassi eksami küsimused</text>
+  <file>xml/D.xml</file>
+</category>
+</categories>
