@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:contentDescription="@string/header_image_content_description"
-            android:src="@drawable/lrmd_xhdpi" />
+            android:src="@mipmap/hamradio_icon" />
 
         <LinearLayout
             android:id="@+id/headerTextContainer"
