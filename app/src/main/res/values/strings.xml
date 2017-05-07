@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Amateur radio examen</string>
     <string name="hello_world"><![CDATA[
-        <h2>Apie šią programėlę</h2>
+        <h2>About this software</h2>
         <p><font style="font-weight: bold" size="+2">Programėlę parengė ir išleido 
         Lietuvos radijo mėgėjų draugija - <a href="http://www.lrmd.lt/">www.lrmd.lt</a></font></p>
         
@@ -58,7 +58,7 @@
 	<string name="complete_score_format">Je hebt het goed beantwoord %1$d van %2$d (%3$d%%).</string>
 	
 	
-	<string name="button_text">Atidaryti PDF failą</string>
+	<string name="button_text">Open PDF file</string>
 	<string name="paaiskinimai">[ Verklaringen en documenten ]</string>
 	
 	<string name="istatymai">[ Teisės aktai ]</string>
