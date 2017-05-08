@@ -51,11 +51,11 @@
 	<string name="score_template">Vraag ^1 van ^2 (%^3)</string>
 	<string name="sound_warning">This question has sound, but your volume is set to mute.</string>
 	 
-	<string name="try_again">Probeer het opnieuw</string>
-	<string name="home">Į pradžią</string>
-	<string name="complete">Examen is compleet</string>
-	<string name="complete_high_score">Dit is het beste resultaat!</string>
-	<string name="complete_score_format">Je hebt het goed beantwoord %1$d van %2$d (%3$d%%).</string>
+	<string name="try_again">Probeer opnieuw</string>
+	<string name="home">Home</string>
+	<string name="complete">Proef beëindigd</string>
+	<string name="complete_high_score">Dit is je beste resultaat!</string>
+	<string name="complete_score_format">Je hebt %1$d van de %2$d vragen goed beantwoord (%3$d%%).</string>
 	
 	
 	<string name="button_text">Open PDF file</string>
