@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Radijo mėgėjų testas</string>
+    <string name="app_name">Amatööri eksamiküsimused</string>
     <string name="hello_world"><![CDATA[
-        <h2>Apie šią programėlę</h2>
+        <h2>About</h2>
         <p><font style="font-weight: bold" size="+2">Programėlę parengė ir išleido 
         Lietuvos radijo mėgėjų draugija - <a href="http://www.lrmd.lt/">www.lrmd.lt</a></font></p>
         
@@ -10,56 +10,44 @@
 
         <p><font style="font-weight: bold" size="+1">Daugiau informacijos apie mėgėjišką radiją taip pat galite rasti  
         <a href="http://www.hamradio.lt/">www.hamradio.lt</a></font></p>
-        
-        <h2>Apie mėgėjišką radiją</h2>
-        <p><i>"Jūs žinote, telegrafas yra panašus į ilgą, labai ilgą katę. Jūs patraukiate katės uodegą Niujorke, o katės galva Los Andžele sukniaukia. Ar jūs tai supratote? Radijas veikia lygiai taip pat: jūs siunčiate signalus čia, jie priima juos ten. Vienintelis skirtumas yra tai, kad nėra katės..." - A. Einšteinas </i></p>
-        <p>Taigi, mūsų geriausiame iš geriausiųjų pasaulyje šiuo metu "katės uodegą" tampo net trys milijonai entuziastų, ir visa tai tik vardant pramogos - jokio materialaus atlyginimo. Tai ir yra "mėgėjiškas radijas", arba "radijo mėgėjai", dar kitaip vadinami trumpabangininkais. Anglakalbėse šalyse jie oficialiai vadinami "radio amateurs", o šnekamojoje kalboje labiau paplitęs terminas "radio hams". Mėgėjiškas radijas vadinamas atitinkamai "amateur radio" ir "ham radio".</p>
-        <p>Lietuvių kalbos žodžiai "mėgėjiškas", "mėgėjas", deja, turi šiek tiek pašiepiančią, ar net neigiamą prasmę. Manyčiau, kad čia yra mūsų kalbininkų profesionalų ir kalbos puoselėtojų-mėgėjų veiklos spraga... Taip jau yra, kad skirtumas tarp radijo mėgėjo ir radijo profesionalo realiame gyvenime dažnai yra toks, koks yra skirtumas tarp boksininko profesionalo (kartais - Europos ar pasaulio čempiono) ir gatvės "boksininko". Taigi, atitinkamai radijo mėgėjus su radiju riša meilė, o radijo profesionalus - pinigai. Pabaigoje belieka pridėti, kad gan dažnai sutinkami ir "hibridai" - radijo mėgėjai, turintys profesionalų radiotechninį išsilavinimą. Sunku pasakyti, kuris pradas tada dominuoja dažniau, tačiau kalbėkime apie mėgėjus...</p>
-        <p>Radijo mėgėjai vienas kitą atpažįsta pagal jiems suteiktus šaukinius. Viena šaukinio dalis (kaip taisyklė - šaukinio pradžioje) yra bendra, pagal ją galima nustatyti, kokioje šalyje yra mėgėjo radijo stotis, antroji šaukinio dalis yra individuali kiekvienam radijo mėgėjui, sakytume, radijo mėgėjo "pavardė". Lietuvos radijo mėgėjų šaukiniai prasideda raidėmis "LY". Šios dvi Lietuvai priskirtosios raidės yra naudojamos ne tik radijo mėgėjų - tas pačias raides matome ir ant Lietuvai priklausančių lėktuvų, jachtų.</p>
-        <p>Radijo mėgėjų klanui priklauso daug garsių ir įtakingų planetos veikėjų - karalių ir jų karališkųjų šeimų narių, prezidentų, kosmoso didvyrių, garsių mokslininkų, politikų, Holivudo "žvaigždžių"... Mėgėjiškas radijas vargu ar atrodytų toks, kaip dabar, jei ne šių įtakingųjų parama ir lobistinė veikla.</p>
-        <p>Radijo mėgėjai turi savo "tarnybą" (amateur radio service), kuri visuose (tiek nacionaliniuose, tiek tarptautiniuose) radiją liečiančiuose įstatymuose ar dokumentuose turi statusą, lygiavertį keliolikos kitų tarnybų (tokių, kaip radiofonija, televizija, radiolokacija, aviacija, jūriniai ar kosminiai ryšiai ir kt.) statusams.</p>
-        <p>Radijo mėgėjų stotys veikia Amazonės džiunglėse ir Antarktidos mokslinėse bazėse, kosminėse stotyse ir JAV lėktuvnešiuose, žemės drebėjimų nusiaubtose gyvenvietėse ir "karštuose" planetos taškuose (Vietnamo karas, Balkanų krizė), radijo mėgėjų signalai sklinda iš didmiesčių dangoraižių ir iš vienišų jachtų, keliaujančių aplink pasaulį. Į jūsų kvietimą ryšiui gali atsiliepti radijo mėgėjas iš bet kurio pasaulio kampelio - JAV, Japonijos, Bangladešo, nuo bangų skalaujamo rifo Ramiajame vandenyne, ar ... kaimynas iš tos pačios gatvės.</p>
-        <p>Ir vis tik, kas yra tas mėgėjiškas radijas, kokios jo "varančiosios jėgos"? Visų pirma, mėgėjiškas radijas yra prieinamas visiems - kuria nors iš savo formų. Visi sėdintys prie mikrofono, ar telegrafo rakto yra lygūs - nepriklausomai nuo jų rasės, religijos, turto, kilmės, amžiaus, išsilavinimo.</p>
-        <p>Radijas išplečia žmogaus galimybes - jis mato ir girdi ne tik toliau ir daugiau už "neapsiginklavusį" žmogų, bet ir gali stulbinančiai išplėsti savo natūraliųjų galių diapazoną - reaguoti, analizuoti ir suprasti elektromagnetinius (ir ne tik!) virpesius nuo "infra" iki "ultra" dažnumų! Tai, be abejo, vilioja žmones mėgstančius tyrinėti aplinką, turinčius potraukį į mokslo studijas.</p>
-        <p>Sau tinkamą saviraiškos formą gali surasti visi - "sportininkai" (ar šiaip agresyvūs ;)) dalyvauja varžybose, "pedantai" - renka retas šalis, egzotiškus ryšius, klijuoja savo sienas kortelėmis ar diplomais už įvairiausius pasiekimus, "meškeriotojai" - įsijungia savo stotis ir gaudo "žuvis" - atsitiktines ar konkrečias, dideles ir retas, ar vien mažas (bet daug). Plepiai, ar savo aplinkoje nerandantys partnerio pokalbiams - susiranda į save panašų ir maloniai leidžia laiką. Jei dar pridėsime tuos, kuriuos ryšiai domina tik tiek, kiek jie tinka naujai sukonstruoto savadarbio aparato išbandymui, susidarysime apytikrį statistinio radijo mėgėjo vaizdą.</p>
-      
+
     ]]>
     </string>
-    <string name="menu_settings">Nustatymai</string>
+    <string name="menu_settings">Reguleerimine</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_quiz">QuizActivity</string>
     <string name="title_activity_about">About Quizzes</string>
     <string name="title_activity_complete">CompleteActivity</string>
-    <string name="menu_about">Apie</string>
-    <string name="start_quiz_label">Pradėti klausimyną</string>
-    <string name="choose_category">Pasirinkite kategoriją</string>
-    <string name="title_activity_categories">Pasirinkite kategoriją</string>
+    <string name="menu_about">Umbes</string>
+    <string name="start_quiz_label">Start viktoriini</string>
+    <string name="choose_category">Vali kategooria</string>
+    <string name="title_activity_categories">Vali kategooria</string>
     <string name="title_activity_settings">SettingsActivity</string>
-    <string name="setting_sound_label">Garsas</string>
-	<string name="loading_progress_message">Įkraunama duomenų bazė</string>
+    <string name="setting_sound_label">Maht</string>
+	<string name="loading_progress_message">Andmebaas on loading</string>
 	<string name="loading_progress_title">Kuriame duomenų bazę</string>
-	<string name="header_image_content_description">Hamradio.LT</string>
-	<string name="header_title">Radijo mėgėjų testas</string>
-	<string name="header_text">Parengta pagal RRT informaciją.</string>
+	<string name="header_image_content_description">erau.ee</string>
+	<string name="header_title">Raadioamatööri eksam</string>
+	<string name="header_text">ERAU:EE teabe põhjal</string>
 	<string name="default_content_description">Not Important</string>
-	<string name="show_answer">Rodyti atsakymą</string>
-	<string name="show_question">Rodyti klausimą</string>
-	<string name="next">Toliau</string>
-	<string name="back">Atgal</string>
-	<string name="next_question">Kitas klausimas</string>
-	<string name="progress_template">Klausimas ^1 iš ^2</string>
-	<string name="score_template">^1 iš ^2 (%^3)</string>
+	<string name="show_answer">Näita vastust</string>
+	<string name="show_question">Näita küsimus</string>
+	<string name="next">järgmine</string>
+	<string name="back">tagasi</string>
+	<string name="next_question">Järgmine küsimus</string>
+	<string name="progress_template">Küsimus ^1 / ^2</string>
+	<string name="score_template">^1 / ^2 (%^3)</string>
 	<string name="sound_warning">This question has sound, but your volume is set to mute.</string>
 	 
-	<string name="try_again">Bandykite dar kartą</string>
-	<string name="home">Į pradžią</string>
-	<string name="complete">Klausimynas baigtas</string>
-	<string name="complete_high_score">Tai geriausias rezultatas!</string>
-	<string name="complete_score_format">Teisingai atsakėte %1$d iš %2$d (%3$d%%).</string>
+	<string name="try_again">Palun proovi uuesti</string>
+	<string name="home">Mine algusesse</string>
+	<string name="complete">Te lõpetasite viktoriini</string>
+	<string name="complete_high_score">Kõrgeim punktisumma!</string>
+	<string name="complete_score_format">Õigeid vastuseid: %1$d / %2$d (%3$d%%).</string>
 	
 	
-	<string name="button_text">Atidaryti PDF failą</string>
-	<string name="paaiskinimai">[ Paaiškinimai ir dokumentai ]</string>
+	<string name="button_text">Ava PDF-faili</string>
+	<string name="paaiskinimai">[ Dokumentatsioon ]</string>
 	
 	<string name="istatymai">[ Teisės aktai ]</string>
 	<string name="santrupos">[ Santrupos ]</string>
