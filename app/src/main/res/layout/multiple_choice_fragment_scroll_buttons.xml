@@ -28,7 +28,6 @@
 
             <com.be.uba.hamradio.quiz.view.QuizButton
                 android:id="@+id/answer1"
-                style="@style/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:correct="false"
@@ -36,7 +35,6 @@
 
             <com.be.uba.hamradio.quiz.view.QuizButton
                 android:id="@+id/answer2"
-                style="@style/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:correct="true"
@@ -44,19 +42,16 @@
 
             <com.be.uba.hamradio.quiz.view.QuizButton
                 android:id="@+id/answer3"
-                style="@style/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <com.be.uba.hamradio.quiz.view.QuizButton
                 android:id="@+id/answer4"
-                style="@style/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <Button
                 android:id="@+id/next"
-                style="@style/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/next_question" />

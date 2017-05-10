@@ -52,18 +52,16 @@
 		    android:layout_height="wrap_content"
 		    android:layout_marginRight="8dp"
 		    android:layout_weight="1"
-		    style="@style/button"
 		    android:text="@string/show_answer"/>
 
-        <Button
-            android:id="@+id/next"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginRight="8dp"
-            android:layout_weight="1"
-            android:text="@string/next_question"
-          	style="@style/button" />
+		<Button
+			android:id="@+id/next"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_marginRight="8dp"
+			android:layout_weight="1"
+			android:text="@string/next_question" />
 
-    </LinearLayout>
+	</LinearLayout>
 
 </RelativeLayout>
