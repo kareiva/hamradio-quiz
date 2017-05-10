@@ -29,7 +29,8 @@
     <color name="primary_light">#8eacbb</color>
     <color name="primary_dark">#34515e</color>
 
-    <color name="secondary_text">#A0A0A0</color>
+    <color name="text_secondary">#A0A0A0</color>
+    <color name="text_dark_gray">#333333</color>
 
     <color name="background">@color/white</color>
 </resources>

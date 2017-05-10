@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:gravity="center_horizontal"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <com.lt.lrmd.hamradio.quiz.util.ResizableImageView
         android:id="@+id/questionImage"
@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:layout_marginTop="12dp"
-        android:linksClickable="true" />
+        android:linksClickable="true"/>
 
 </LinearLayout>
