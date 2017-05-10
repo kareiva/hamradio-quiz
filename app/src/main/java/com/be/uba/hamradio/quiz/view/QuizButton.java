@@ -67,5 +67,4 @@ public class QuizButton extends android.support.v7.widget.AppCompatButton {
 		}
 		return drawableState;
 	}
-
 }

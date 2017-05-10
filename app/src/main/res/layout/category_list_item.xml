@@ -5,6 +5,8 @@
     android:layout_gravity="center_vertical"
     android:contentDescription="@string/default_content_description"
     android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
     android:paddingLeft="22dp"
     android:paddingRight="22dp" >
 
@@ -46,8 +48,8 @@
             <TextView
                 android:id="@+id/title"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" 
-                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
             <View

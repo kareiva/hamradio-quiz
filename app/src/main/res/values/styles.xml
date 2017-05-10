@@ -11,6 +11,7 @@
     </style>
 
     <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="colorAccent">@color/primary_dark</item>
     </style>
 
     <!--<style name="button">-->
