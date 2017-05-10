@@ -14,6 +14,11 @@
         <item name="colorAccent">@color/primary_dark</item>
     </style>
 
+    <style name="QuizButton" parent="Button">
+        <item name="background">@color/primary</item>
+        <item name="colorAccent">@color/primary</item>
+    </style>
+
     <!--<style name="button">-->
         <!--<item name="android:background">@drawable/button_background</item>-->
         <!--<item name="android:layout_width">fill_parent</item>-->
