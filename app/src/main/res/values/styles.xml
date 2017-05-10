@@ -11,12 +11,11 @@
     </style>
 
     <style name="Button" parent="Widget.AppCompat.Button">
-        <item name="colorAccent">@color/primary_dark</item>
     </style>
 
     <style name="QuizButton" parent="Button">
-        <item name="background">@color/primary</item>
-        <item name="colorAccent">@color/primary</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_marginTop">6dp</item>
     </style>
 
     <!--<style name="button">-->

@@ -5,16 +5,7 @@
     <!-- disabled -->
     <item android:state_enabled="false">
         <shape>
-            <gradient android:angle="270" 
-                android:endColor="@color/button_disabled_end" 
-                android:startColor="@color/button_disabled_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_disabled_end" />
-            <corners android:radius="4dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_disabled" />
         </shape>
     </item>
 	
@@ -22,28 +13,12 @@
 	<item android:state_pressed="true" 
 	    app:state_showing_answer="false">
         <shape>
-            <solid android:color="@color/button_normal_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_normal_end" />
-            <corners android:radius="3dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_normal" />
         </shape>
     </item>
     <item app:state_showing_answer="false">
         <shape>
-            <gradient android:angle="270" 
-                android:endColor="@color/button_normal_end" 
-                android:startColor="@color/button_normal_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_normal_end" />
-            <corners android:radius="4dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_normal" />
         </shape>
     </item>
     
@@ -52,29 +27,13 @@
 	    app:state_showing_answer="true"
 	    app:state_correct="false">
         <shape>
-            <solid android:color="@color/button_incorrect_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_incorrect_end" />
-            <corners android:radius="3dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_incorrect" />
         </shape>
     </item>
     <item app:state_showing_answer="true"
         app:state_correct="false">
         <shape>
-            <gradient android:angle="270" 
-                android:endColor="@color/button_incorrect_end" 
-                android:startColor="@color/button_incorrect_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_incorrect_end" />
-            <corners android:radius="4dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_incorrect" />
         </shape>
     </item>
     
@@ -83,29 +42,14 @@
 	    app:state_showing_answer="true"
 	    app:state_correct="true">
         <shape>
-            <solid android:color="@color/button_correct_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_correct_end" />
-            <corners android:radius="3dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:color="@color/button_correct" />
         </shape>
     </item>
     <item app:state_showing_answer="true"
         app:state_correct="true">
         <shape>
-            <gradient android:angle="270" 
-                android:endColor="@color/button_correct_end" 
-                android:startColor="@color/button_correct_start" />
-            <stroke android:width="1dp" 
-                android:color="@color/button_correct_end" />
-            <corners android:radius="4dp" />
-            <padding android:bottom="10dp" 
-                android:left="10dp" 
-                android:right="10dp" 
-                android:top="10dp" />
+            <solid android:width="1dp"
+                android:color="@color/button_correct" />
         </shape>
     </item>
 
