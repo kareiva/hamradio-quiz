@@ -67,5 +67,4 @@ public class QuizButton extends Button {
 		}
 		return drawableState;
 	}
-
 }
