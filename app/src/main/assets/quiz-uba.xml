@@ -2,7 +2,7 @@
 <quiz>
 	<category>
         <title>Electriciteit</title>
-        <text>Elektriciteitsgerelateerde vragen</text>
+        <text>299 vragen</text>
 
 <question>
     <text>Geleiders zijn materialen die</text>
@@ -2990,7 +2990,7 @@
 
 <category>
 	<title>Componenten</title>
-    <text>Please put a meaninfgul category description here</text>
+    <text>157 vragen</text>
 
 
     <question>
@@ -4558,7 +4558,7 @@
 
 	<category>
 	<title>Schakelingen</title>
-    <text>Please put a meaninfgul category description here</text>
+    <text>233 vragen</text>
 
 <question>
 	<image></image>
@@ -5555,7 +5555,8 @@
 
 <question>
 	<image>images/schakelingen_html_5b62098efa416e75.png</image>
-	<text>laagdoorlaatfilter</text>
+	<text>De filter voorgesteld in het schema is:</text>
+		<choice>laagdoorlaatfilter</choice>
 		<choice>hoogdoorlaatfilter</choice>
 		<choice>banddoorlaatfilter</choice>
 		<choice>bandsperfilter</choice>
@@ -6854,11 +6855,21 @@
 
 	<category>
 	<title>Ontvangers</title>
-    <text>Please put a meaninfgul category description here</text>
+    <text>93 vragen</text>
+
+		<question>
+			<image>images/ontvangers_html_5aee045bf9227d5.png</image>
+			<text>Wat is de frequentie van de tweede middenfrequenttrap?</text>
+				<choice>219 MHz</choice>
+				<choice>1 MHz</choice>
+				<choice>10,7 MHz</choice>
+				<choice>455 kHz</choice>
+				<answer>1</answer>
+		</question>
 
 <question>
 	<image></image>
-	<text>Geef  één van de redenen op waarom een goede ontvanger meestal een superheterodyne-ontvanger is met meer dan één middenfrequent?</text>
+	<text>Geef één van de redenen op waarom een goede ontvanger meestal een superheterodyne-ontvanger is met meer dan één middenfrequent?</text>
 		<choice>om meer gevoeligheid te bekomen</choice>
 		<choice>om de spiegelfrequentie beter te versterken</choice>
 		<choice>om zowel een goede selectiviteit als een goede onderdrukking van de spiegelfrequentie te bekomen</choice>
@@ -7870,7 +7881,7 @@
 
 	<category>
 	<title>Zenders</title>
-    <text>Please put a meaninfgul category description here</text>
+    <text>53 vragen</text>
 
 <question>
 	<image>images/zenders_html_7b9dddf0e4e94ee7.png</image>
@@ -8459,7 +8470,7 @@
 
 	<category>
 	<title>Antennes en transmissielijnen</title>
-        <text>Please put a meaninfgul category description here</text>
+        <text>132 vragen</text>
 
 <question>
 	<image></image>
@@ -9915,7 +9926,7 @@
 
 	<category>
 	<title>Propagatie</title>
-        <text>Please put a meaninfgul category description here</text>
+        <text>88 vragen</text>
 
 <question>
 	<image></image>
@@ -10887,7 +10898,7 @@
 
 	<category>
 	<title>Metingen</title>
-    <text>Please put a meaninfgul category description here</text>
+    <text>87 vragen</text>
 
 <question>
 	<image></image>
