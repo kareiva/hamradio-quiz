@@ -11113,7 +11113,8 @@
 <question>
 	<image></image>
 	<text>De inwendige weerstand van een voltmeter is in het ideale geval:</text>
-		<choice></choice><choice>0</choice>
+		<choice>∞ (oneindig groot)</choice>
+		<choice>0</choice>
 		<choice>dezelfde als de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
 		<choice>kleiner dan de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
 		<answer>0</answer>
@@ -11132,10 +11133,11 @@
 <question>
 	<image></image>
 	<text>De inwendige weerstand van een ampèremeter is in het ideale geval:</text>
-		<choice></choice><choice>0</choice>
+		<choice>∞ (oneindig groot)</choice>
+		<choice>0</choice>
 		<choice>dezelfde als de inwendige weerstand van her circuit waarop hij is aangesloten</choice>
 		<choice>kleiner dan de inwendige weerstand van het circuit waarop hij is aangesloten</choice>
-		<answer>1</answer>
+		<answer>2</answer>
 </question>
 
 <question>
