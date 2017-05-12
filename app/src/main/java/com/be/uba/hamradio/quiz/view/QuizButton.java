@@ -11,7 +11,7 @@ import com.be.uba.hamradio.quiz.R;
  * This button has two extra pieces of drawable state: correct: is this button
  * the one for the correct answer? showingAnswer: are we showing the answer?
  */
-public class QuizButton extends Button {
+public class QuizButton extends android.support.v7.widget.AppCompatButton {
 	private static final int[] STATE_SHOWING_ANSWER = { R.attr.state_showing_answer };
 	private static final int[] STATE_CORRECT = { R.attr.state_correct };
 
@@ -27,7 +27,7 @@ public class QuizButton extends Button {
 	}
 
 	public QuizButton(Context context, AttributeSet attrs) {
-		this(context, attrs, R.style.button);
+		this(context, attrs, R.style.Button);
 	}
 
 	public QuizButton(Context context) {
@@ -67,5 +67,4 @@ public class QuizButton extends Button {
 		}
 		return drawableState;
 	}
-
 }

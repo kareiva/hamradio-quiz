@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="white">#FFFFFF</color>
-    <color name="secondary_text">#A0A0A0</color>
+    <color name="black">#000000</color>
+
     <color name="orange">#FF9900</color>
     <color name="answer_pressed">#ff9900</color>
     <color name="olive">#666633</color>
     <color name="blue">#000099</color>
     <color name="yellow">#FFCC00</color>
     <color name="foreground">@color/white</color>
-    <color name="background">#000000</color>
+
     <color name="foreground_inverse">@color/blue</color>
     <color name="highlight">@color/orange</color>
     
-    <!-- button colors -->
-    <color name="button_normal_start">#ff8f00</color>
-    <color name="button_normal_end">#aa3e00</color>
-    <color name="button_incorrect_start">#ad2416</color>
-    <color name="button_incorrect_end">#80170e</color>
-    <color name="button_correct_start">#377d00</color>
-    <color name="button_correct_end">#00570a</color>
-    <color name="button_disabled_start">#d8d8d8</color>
-    <color name="button_disabled_end">#6b6a6a</color>
+
+    <!-- Rework -->
+    <color name="primary">#607d8b</color>
+    <color name="primary_light">#8eacbb</color>
+    <color name="primary_dark">#34515e</color>
+    <color name="secondary">#00796b</color>
+    <color name="secondary_light">#48a999</color>
+    <color name="secondary_dark">#004c40</color>
+
+    <color name="text_secondary">#A0A0A0</color>
+    <color name="text_dark_gray">#333333</color>
+
+    <color name="button_disabled">#6b6a6a</color>
+    <color name="button_correct">#5bc706</color>
+    <color name="button_incorrect">#ca1907</color>
+    <color name="button_normal">@color/secondary_dark</color>
+
+    <color name="background">@color/white</color>
 </resources>
