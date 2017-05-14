@@ -79,7 +79,7 @@ public class Pdflangas extends RoboActivity {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         String path = Environment.getExternalStorageDirectory().getAbsolutePath();
 
-        File file = new File(path, "istatymas.pdf");
+        File file = new File(path, "18-Eth-NL-SITE-ON-UBA-jun2010-ed3.pdf");
 
         intent.setDataAndType(Uri.fromFile(file), "application/pdf");
 
