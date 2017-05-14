@@ -47,9 +47,9 @@
 	
 	
 	<string name="button_text">Ava PDF-faili</string>
-	<string name="paaiskinimai">[ Dokumentatsioon ]</string>
+	<string name="paaiskinimai">Dokumentatsioon</string>
 
-	<string name="istatymai">[ Teisės aktai ]</string>
+	<string name="istatymai">Algaja raadioamatööri teatmik</string>
 	<string name="santrupos">[ Santrupos ]</string>
 	<string name="atstojamosios">[ Atstojamosios ]</string>
 	
