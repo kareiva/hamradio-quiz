@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.be.uba.hamradio.quiz"
-        minSdkVersion 9
+        minSdkVersion 11
         targetSdkVersion 17
     }
 
