@@ -2,69 +2,75 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".activity.Quiz" >
-
-    <ScrollView
-        android:id="@+id/scrollView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/buttons"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginBottom="8dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginTop="24dp" >
-
-        <include layout="@layout/question_content" />
-    </ScrollView>
+    android:layout_height="wrap_content"
+    tools:context=".activity.Quiz">
 
     <LinearLayout
-        android:id="@+id/buttons"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginBottom="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:gravity="center_horizontal"
-        android:orientation="vertical" >
+        android:layout_centerVertical="true"
+        android:layout_margin="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:padding="6dp"
+        android:background="@color/white"
+        android:orientation="vertical">
 
-        <com.ee.erau.hamradio.quiz.view.QuizButton
-            android:id="@+id/answer1"
-            style="@style/button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
 
-        <com.ee.erau.hamradio.quiz.view.QuizButton
-            android:id="@+id/answer2"
-            style="@style/button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
-
-        <com.ee.erau.hamradio.quiz.view.QuizButton
-            android:id="@+id/answer3"
-            style="@style/button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <com.ee.erau.hamradio.quiz.view.QuizButton
-            android:id="@+id/answer4"
-            style="@style/button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <Button
-            android:id="@+id/next"
-            style="@style/button"
+        <ScrollView
+            android:id="@+id/scrollView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/next_question" />
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="48dp">
 
+
+            <include layout="@layout/question_content" />
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/scrollView"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+        <com.ee.erau.hamradio.quiz.view.QuizButton
+                android:id="@+id/answer1"
+                style="@style/QuizButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <com.ee.erau.hamradio.quiz.view.QuizButton
+                android:id="@+id/answer2"
+                style="@style/QuizButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <com.ee.erau.hamradio.quiz.view.QuizButton
+                android:id="@+id/answer3"
+                style="@style/QuizButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <com.ee.erau.hamradio.quiz.view.QuizButton
+                android:id="@+id/answer4"
+                style="@style/QuizButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
     </LinearLayout>
 
+    <Button
+        android:id="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next_question"
+        android:layout_alignParentBottom="true" />
 </RelativeLayout>

@@ -13,8 +13,8 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:layout_marginBottom="24dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp"
         android:layout_marginTop="24dp" >
 
         <ViewFlipper
@@ -52,7 +52,6 @@
 		    android:layout_height="wrap_content"
 		    android:layout_marginRight="8dp"
 		    android:layout_weight="1"
-		    style="@style/button"
 		    android:text="@string/show_answer"/>
 
         <Button
@@ -61,8 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="8dp"
             android:layout_weight="1"
-            android:text="@string/next_question"
-          	style="@style/button" />
+            android:text="@string/next_question" />
 
     </LinearLayout>
 

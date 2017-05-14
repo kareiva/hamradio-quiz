@@ -1,21 +1,23 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent"
+    android:background="@color/primary_light" >
+
 	<LinearLayout android:id="@+id/top"
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
 	    android:layout_alignParentTop="true"
 	    android:layout_alignParentLeft="true"
 	    android:layout_alignParentRight="true"
-	    android:layout_marginTop="8dp"
+	    android:layout_marginTop="12dp"
 	    android:layout_marginLeft="12dp"
 	    android:layout_marginRight="12dp">
 	    <TextView 
 	        android:id="@+id/progress"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
-	        android:textAppearance="?android:attr/textAppearanceSmall"/>
+	        android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/text_dark_gray"/>
 	    <View 
  	        android:layout_width="0dp"
 	        android:layout_height="0dp"
@@ -24,7 +26,8 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:textAppearance="?android:attr/textAppearanceSmall"
-	        android:visibility="gone"/>
+	        android:visibility="gone"
+            android:textColor="@color/text_dark_gray"/>
 	</LinearLayout>
 	<FrameLayout android:id="@+id/messages"
 	    android:layout_width="match_parent"
@@ -41,17 +44,14 @@
 	        android:layout_marginRight="12dp"
 	        android:drawableLeft="@drawable/ic_volume_off_small"
 	        android:drawablePadding="12dp"
-	        android:text="@string/sound_warning"
-	        android:visibility="gone" /> 
+	        android:text="@string/sound_warning" />
 	</FrameLayout>
  
 	<FrameLayout
 	    android:id="@+id/fragmentContainer"
-	    android:layout_width="wrap_content"
+	    android:layout_width="match_parent"
 	    android:layout_height="match_parent"
 	    android:layout_alignParentBottom="true"
-	    android:layout_alignParentLeft="true"
-	    android:layout_alignParentRight="true"
 	    android:layout_below="@+id/messages" >
 	    
 	</FrameLayout>
