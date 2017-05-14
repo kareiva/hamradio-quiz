@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<categories>
-
+<quiz>
   <category>
     <title>A-kvalifikatsiooniklass</title>
     <text>Raadioamatööri A-kvalifikatsiooniklassi eksami küsimused</text>
@@ -1316,9 +1315,9 @@
 <answer>1</answer>
 </question>
 
-<h3>M11A-5  Milline on  Morsekoodis antud standardse väljakutse &quot;CQ&quot;
- formaat?</h3>
-<ol>
+
+<question>
+<text>M11A-5  Milline on  Morsekoodis antud standardse väljakutse &quot;CQ&quot;formaat?</text>
 <choice>Saadate kolm korda &quot;CQ&quot;,millele järgneb 	protseduurisignaal &quot;DE&quot; ja kolm korda oma kutsungi. </choice>
 <choice>Saadate &quot;CQ&quot;  kolm korda,&quot;DE&quot; üks kord ja oma 	kutsungi ka üks kord.</choice>
 <choice>Saadate &quot;CQ&quot; kümme korda, &quot;DE&quot; üks kord ja oma 	kutsung  üks kord.</choice>
@@ -1411,7 +1410,7 @@
 
 <choice>	Saadate teise jaama kutsungi vähemalt kümme korda, siis sõnad 	&quot;this is&quot;, seejärel  oma kutsung vähemalt kaks korda.</choice>
 <choice>	Saadate fraasi &quot;CQ&quot; vähemalt viis korda, siis &quot;this 	is&quot; ja oma kutsung üks kord.</choice>
-<choice>Saadate fraasi &quot;CQ&quot; kolm korda, &quot;this is&quot; ja 	oma kutsungi  kolm korda. </b></choice>
+<choice>Saadate fraasi &quot;CQ&quot; kolm korda, &quot;this is&quot; ja 	oma kutsungi  kolm korda. </choice>
 <choice>	Saadate fraasi &quot;CQ&quot; vähemalt kümme korda, &quot;this is&quot; ja oma kutsungi  ühe korra.</choice>
 <answer>2</answer>
 </question>
@@ -1683,7 +1682,7 @@
 </questions>
 
 
-</category>
+  </category>
 
 
   <category>
@@ -3021,6 +3020,5 @@
 
     </questions>
 
-
   </category>
-</categories>
+</quiz>
