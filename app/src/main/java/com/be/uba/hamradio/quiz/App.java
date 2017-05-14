@@ -46,7 +46,7 @@ public class App {
 		public InitializeTask(Activity foregroundActivity, AppInitializationListener callback){
 			mActivity = foregroundActivity;
 			mCallback = callback;
-			mProgressDialog = new ProgressDialog(mActivity);
+			mProgressDialog = new ProgressDialog(mActivity, R.style.ProgressDialog);
 			mProgressDialog.setIndeterminate(true);
 			mProgressDialog.setTitle("Database laden");
 			mProgressDialog.setMessage("Dit gebeurt alleen in eerste aanloop.");
@@ -69,7 +69,7 @@ public class App {
 		@Override
 		protected void onException(Exception e) throws RuntimeException {
 			Log.e("InitializeTask", "error initializing app", e);
-			new AlertDialog.Builder(mActivity)
+			new AlertDialog.Builder(mActivity, R.style.AlertDialog)
 				.setTitle("Error loading xml")
 				.setMessage(e.toString())
 				.setPositiveButton("Rats!", null)

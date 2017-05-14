@@ -265,7 +265,7 @@ public class Quiz extends RoboFragmentActivity implements QuestionListener {
 		mHighScore = mDataSource.saveScore(mCategoryId, mScore);
 
 		// in normal mode we show the user her score
-		new AlertDialog.Builder(this)
+		new AlertDialog.Builder(this, R.style.AlertDialog)
 				.setTitle(getCompleteDialogTitle())
 				.setMessage(getCompleteDialogMessage())
 				.setCancelable(false)

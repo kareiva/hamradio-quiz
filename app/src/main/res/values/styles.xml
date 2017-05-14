@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="theme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@color/background</item>
         <item name="android:colorBackgroundCacheHint">@color/background</item>
         <item name="android:textColorPrimary">@color/foreground</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:colorPressedHighlight">@color/highlight</item>
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="android:alertDialogStyle">@style/AlertDialog</item>
     </style>
 
-    <style name="Button" parent="Widget.AppCompat.Button">
+    <style name="Button" parent="Widget.AppCompat.Button.Colored">
     </style>
 
     <style name="QuizButton" parent="Button">
-        <item name="android:background">@drawable/button_background</item>
-        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:background">@drawable/quiz_button_background</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+    </style>
+
+    <style name="ProgressDialog" parent="Theme.AppCompat.Light.Dialog">
     </style>
 
     <!--<style name="button">-->
-        <!--<item name="android:background">@drawable/button_background</item>-->
+        <!--<item name="android:background">@drawable/quiz_button_background</item>-->
         <!--<item name="android:layout_width">fill_parent</item>-->
         <!--<item name="android:layout_height">wrap_content</item>-->
         <!--<item name="android:textColor">#ffffff</item>-->
