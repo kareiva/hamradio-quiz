@@ -10,12 +10,18 @@
         <item name="android:colorPressedHighlight">@color/highlight</item>
     </style>
 
-    <style name="Button" parent="Widget.AppCompat.Button">
+    <style name="Button" parent="Widget.AppCompat.Button.Colored">
     </style>
 
     <style name="QuizButton" parent="Button">
         <item name="android:background">@drawable/button_background</item>
         <item name="android:layout_marginTop">6dp</item>
+    </style>
+
+    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+    </style>
+
+    <style name="ProgressDialog" parent="Theme.AppCompat.Light.Dialog">
     </style>
 
     <!--<style name="button">-->

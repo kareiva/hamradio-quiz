@@ -39,7 +39,7 @@ public class Util {
 	
 
 	public static void errorAlert(Context context,  String message){
-		new AlertDialog.Builder(context)
+		new AlertDialog.Builder(context, R.style.AlertDialog)
 			.setTitle("FAIL!").setMessage(message)
 			.setIcon(R.drawable.emo_im_wtf)
 			.setPositiveButton("OK", null)
