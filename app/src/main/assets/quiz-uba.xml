@@ -6286,7 +6286,8 @@
 <question>
 	<image></image>
 	<text>Met welke instelling van een versterker heeft men de minst vervorming?</text>
-		<choice></choice><choice>klasse B</choice>
+                <choice>klasse A</choice>
+                <choice>klasse B</choice>
 		<choice>klasse AB</choice>
 		<choice>klasse C</choice>
 		<answer>0</answer>
