@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="theme" parent="@android:style/Theme.DeviceDefault">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@color/background</item>
         <item name="android:colorBackgroundCacheHint">@color/background</item>
         <item name="android:textColorPrimary">@color/foreground</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:colorPressedHighlight">@color/highlight</item>
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="android:alertDialogStyle">@style/AlertDialog</item>
     </style>
 
-    <style name="Button" parent="Widget.AppCompat.Button.Colored">
+    <style name="Button" parent="@style/Widget.AppCompat.Button.Colored">
     </style>
 
     <style name="QuizButton" parent="Button">
@@ -18,10 +20,10 @@
         <item name="android:layout_marginTop">6dp</item>
     </style>
 
-    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+    <style name="AlertDialog" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
     </style>
 
-    <style name="ProgressDialog" parent="Theme.AppCompat.Light.Dialog">
+    <style name="ProgressDialog" parent="@style/Theme.AppCompat.Light.Dialog">
     </style>
 
     <!--<style name="button">-->
