@@ -40,7 +40,7 @@
 	<string name="loading_progress_title">Kuriame duomenų bazę</string>
 	<string name="header_image_content_description">uba.be</string>
 	<string name="header_title">Amateur radio examen</string>
-	<string name="header_text">Informatie van de UBA website.</string>
+	<string name="header_text">Powered by YOTA team: www.ham-yota.com</string>
 	<string name="default_content_description">Not Important</string>
 	<string name="show_answer">Toon het antwoord</string>
 	<string name="show_question">Toon vraag</string>
