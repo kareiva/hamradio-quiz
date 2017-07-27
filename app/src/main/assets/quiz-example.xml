@@ -886,10 +886,10 @@
 
 <question>
 	<text>Kokia maksimali leidžiama siųstuvo išėjimo galia B klasės leidimą radijo mėgėjų veiklai turintiems radijo mėgėjams 70 cm diapazone?</text>
-	<choice></choice>
+	<choice>50 W</choice>
 	<choice>100 W</choice>
 	<choice>1 000 W</choice>
-	<answer>2</answer>
+	<answer>0</answer>
 </question>
 
 <question>
