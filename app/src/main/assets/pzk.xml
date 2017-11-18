@@ -1,0 +1,3734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  
+	<category>
+		<title>Pytania Klasa A</title>
+			<text>Pytania egzaminacyjne Klasa A</text>
+
+<question>
+	<text>1. Czy opór elektryczny przewodu zależy od materiału, z którego jest wykonany ?</text>
+	<choice>zależy</choice>
+	<choice>nie zależy</choice>
+	<choice>zależy od izolacji przewodu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>2. Izolatorami nazywamy materiały, które:</text>
+	<choice>nie przewodzą prądu elektrycznego</choice>
+	<choice>przewodzą słabo</choice>
+	<choice>przewodzą prąd przy wysokim napięciu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>3. Który przewód o tej samej długości i przekroju będzie miał największą oporność ?</text>
+	<choice>wykonany z aluminium</choice>
+	<choice>wykonany z żelaza</choice>
+	<choice>wykonany z miedzi</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>4. Który z materiałów ma własności półprzewodnikowe ?</text>
+	<choice>złoto</choice>
+	<choice>german</choice>
+	<choice>platyna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>5. Żarówka 12 V pobiera z baterii 0,1 A. Jaką oporność ma żarówka ?</text>
+	<choice>oporność 120 om</choice>
+	<choice>oporność 12 om</choice>
+	<choice>oporność 1,2k om</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>6. Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora ?</text>
+	<choice>napięcie wynosi 24 V</choice>
+	<choice>napięcie wynosi 12 V</choice>
+	<choice>napięcie wynosi 48 V</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>7. Źródła chemiczne prądu dają prąd:</text>
+	<choice>stały</choice>
+	<choice>zmienny</choice>
+	<choice>pulsujący</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>8. Akumulator ma pojemność 20 Ah. Jak długo będzie świecić z niego żarówka pobierająca 4 A ?</text>
+	<choice>5 godzin</choice>
+	<choice>4 godziny</choice>
+	<choice>80 godzin</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>9. Ile bateryjek 4,5 V potrzebujemy połączyć w szereg, by uzyskać baterię anodową o napięciu 90 V ?</text>
+	<choice>15 szt.</choice>
+	<choice>10 szt.</choice>
+	<choice>20 szt.</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>10. Ładunki elektryczne w przestrzeni przyciągają się, jeżeli:</text>
+	<choice>są jednoimienne</choice>
+	<choice>są różnoimienne</choice>
+	<choice>są nieskończenie daleko</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>11. Materiały ferromagnetyczne to materiały, które przewodzą pole magnetyczne:</text>
+	<choice>lepiej niż powietrze</choice>
+	<choice>tak jak powietrze</choice>
+	<choice>gorzej niż powietrze</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>12. Jaki kierunek przyjmuje pole magnetyczne wokół przewodnika z prądem ?</text>
+	<choice>jest prostopadłe do przewodu</choice>
+	<choice>jest do niego równoległe</choice>
+	<choice>jest ukośne do przewodu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>13. Jeżeli składowa elektryczna fali jest prostopadła do ziemi to fala ma polaryzację ?</text>
+	<choice>poziomą</choice>
+	<choice>pionową</choice>
+	<choice>kołową</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>14. Czy prędkość fali elektromagnetycznej zależy od ośrodka, w którym się rozchodzi ?</text>
+	<choice>tak</choice>
+	<choice>nie zależy</choice>
+	<choice>jest zawsze jednakowa</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>15. Długość fali rozgłośni Warszawa 1 wynosi dokładnie 1333,333 m. Jaka jest częstotliwość pracy tej stacji ?</text>
+	<choice>235 kHz</choice>
+	<choice>225 kHz</choice>
+	<choice>245 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>16. Jaki zakres dźwięków wystarcza dla zrozumiałego nadawania mowy ?</text>
+	<choice>wąski od 300 Hz do 3,2 kHz</choice>
+	<choice>szerszy, od 100Hz do 5 kHz</choice>
+	<choice>pełny od 20 Hz do 15 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>17. Jaki mikrofon jest dobry dla stacji amatorskiej ?</text>
+	<choice>dookólny</choice>
+	<choice>mikrofon silnie kierunkowy</choice>
+	<choice>o charakterystyce ?nerki?</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>18. Czy przy użyciu jednego generatora i powielania częstotliwości możemy zbudować kilkupasmowy amatorski nadajnik krótkofalowy ?</text>
+	<choice>tak</choice>
+	<choice>nie</choice>
+	<choice>tylko na 2 pasma</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>19. Nadajnik UKF ma kwarc kanałowy 12 MHz. Ile razy musi być powielony by uzyskać 144 MHz ?</text>
+	<choice>16 razy</choice>
+	<choice>12 razy</choice>
+	<choice>18 razy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>20. Modulacja telegraficzna CW polega na:</text>
+	<choice>przerywaniu fali nośnej</choice>
+	<choice>zmianie jej częstotliwości</choice>
+	<choice>zmianie jej amplitudy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>21. Kanał radiowy nadajnika telegraficznego CW jest:</text>
+	<choice>bardzo szeroki</choice>
+	<choice>bardzo wąski</choice>
+	<choice>średni</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>22. Przy modulacji częstotliwości FM szeroko kanału radiowego dla nadajników amatorskich UKF wynosi:</text>
+	<choice>12,5 kHz</choice>
+	<choice>50 kHz</choice>
+	<choice>200 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>23. Jaka jest szerokość kanału radiowego przy emisji SSB ?</text>
+	<choice>9 kHz</choice>
+	<choice>3,5 kHz</choice>
+	<choice>1,5 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>24. Amatorska telewizja z powolnym analizowaniem SSTV może być stosowana do łączności prowadzonych:</text>
+	<choice>na duże odległości na falach krótkich</choice>
+	<choice>tylko na UKF</choice>
+	<choice>tylko w internecie</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>25. Która z podanych mocy PEP odpowiada napiciu maksymalnemu U max = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50 om ?</text>
+	<choice>200 W</choice>
+	<choice>100 W</choice>
+	<choice>50 W</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>26. Opornik warstwowy metalizowany jest wykonany jako:</text>
+	<choice>metalowa warstwa oporowa na wałku ceramicznym</choice>
+	<choice>warstwa drutu oporowego nawiniętego na wałku ceramicznym</choice>
+	<choice>warstwa oporowa węglowa na wałku ceramicznym</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>27. Do cewki powietrznej 100 uH wkładamy rdze ferrytowy o względnej przenikalności = 10. Ile wyniesie indukcyjność cewki ?</text>
+	<choice>wzrośnie do 1000 uH</choice>
+	<choice>nie zmieni się</choice>
+	<choice>zmaleje do 10 uH</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>28. Są dwie cewki powietrzne. Przy tej samej średnicy i ilości zwojów, L1 jest nawinięta drutem dwa razy grubszym niż L2. Która z nich ma większą dobroć Q ?</text>
+	<choice>cewka L2</choice>
+	<choice>cewka L1</choice>
+	<choice>obie mają taką samą dobroć, bo mają tą samą średnicę</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>29. Przekładnia transformatora wynosi 20 do 1. Strona pierwotna włączona jest na napicie sieci 240 V. Jakie napicie będzie po stronie wtórnej ?</text>
+	<choice>24 V</choice>
+	<choice>12 V</choice>
+	<choice>20 V</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>30. Diody prostownicze zasilające są stosowane do:</text>
+	<choice>prostowania prądów wysokiej częstotliwości</choice>
+	<choice>do prostowania prądu w zasilaczach</choice>
+	<choice>do stabilizacji napięć</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>31. Diody Zenera to diody do:</text>
+	<choice>stabilizacji napięć</choice>
+	<choice>świecące</choice>
+	<choice>na bardzo wysokie częstotliwości</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>32. Warikap to dioda:</text>
+	<choice>dioda mikrofalowa</choice>
+	<choice>dioda pojemnościowa</choice>
+	<choice>dioda stabilizacyjna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>33. Z jakich pierwiastków wykonywane są tranzystory i obwody scalone ?</text>
+	<choice>z absolutnie czystego krzemu i germanu</choice>
+	<choice>z czystego krzemu i germanu z domieszkami boru i arsenu</choice>
+	<choice>z krzemu i tlenków krzemu</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>34. Do jakiego typu układów scalonych należy scalony wzmacniacz akustyczny ?</text>
+	<choice>do układów scalonych cyfrowych</choice>
+	<choice>do układów scalonych analogowych</choice>
+	<choice>do scalonych pamięci</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>35. Kalkulator zawiera jeden układ scalony, wyświetlacz i klawiaturę. Do jakiej grupy zaliczymy układ scalony ?</text>
+	<choice>małej skali integracji</choice>
+	<choice>średniej skali integracji</choice>
+	<choice>wielkiej skali integracji</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>36. Lampa elektronowa pentoda posiada:</text>
+	<choice>pięć elektrod</choice>
+	<choice>cztery elektrody</choice>
+	<choice>trzy elektrody</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>37. Cztery oporniki o wartościach 5 om zostały połączone szeregowo. Ile wynosi oporność zastępcza tych oporów ?</text>
+	<choice>10 om</choice>
+	<choice>20 om</choice>
+	<choice>40 om</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>38. Ile oporników o wartości 200 om należy połączyć równolegle by uzyska sztuczne obciążenie antenowe 50 om ?</text>
+	<choice>5 szt.</choice>
+	<choice>2 szt.</choice>
+	<choice>4 szt.</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>39. Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika ?</text>
+	<choice><center><img src='images/rysunek39-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>prostownik dwupołówkowy</choice>
+	<choice>prostownik jednopołówkowy</choice>
+	<choice>prostownik mostkowy dwupołówkowy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>40. Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika ?</text>
+	<choice><center><img src='images/rysunek40-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>prostownik dwupołówkowy</choice>
+	<choice>prostownik jednopołówkowy</choice>
+	<choice>prostownik mostkowy dwupołówkowy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>41. Wzmacniacz wzmacnia sygnały w zakresie od 100Hz do 10 kHz. Wzmacniacz ten nazywamy wzmacniaczem:</text>
+	<choice>niskiej częstotliwości</choice>
+	<choice>wzmacniaczem pośredniej częstotliwości</choice>
+	<choice>wzmacniaczem selektywnym</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>42. Kiedy wzmacniacz jest przesterowany ?</text>
+	<choice>jak ma za duże napicie zasilania</choice>
+	<choice>jak ma za duże napicie wejściowe</choice>
+	<choice>jak pracuje w klasie C</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>43. W jakiej klasie ma pracować wzmacniacz rezonansowy w.cz. do wzmacniania sygnału
+SSB ?</text>
+	<choice>w klasie C</choice>
+	<choice>w klasie AB</choice>
+	<choice>impulsowo</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>44. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>generator stabilizowany</choice>
+	<choice>komparator</choice>
+	<choice>dzielnik wzorca</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>45. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>dzielnik wzorca</choice>
+	<choice>generator wzorca</choice>
+	<choice>komparator</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>46. Na rysunku przedstawiono schemat blokowy odbiornika bezpośredniego wzmocnienia z reakcją. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek46-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor z reakcją</choice>
+	<choice>wzmacniacz w.cz.</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>47. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wejściowy</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor AM</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>48. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>heterodyna</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor AM</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>49. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz w.cz.</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor AM CW SSB</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>50. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 9 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>wzmacniacz pośredniej cz.</choice>
+	<choice>heterodyna</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>51. Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek51-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wejściowy</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>heterodyna</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>52. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>I mieszacz</choice>
+	<choice>wzmacniacz II p.cz.</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>53. Jaka powinna być stabilność heterodyny w odbiorniku komunikacyjnym ? Częstotliwość heterodyny na najwyższym zakresie po włączeniu odbiornika powinna zmieniać się nie więcej jak:</text>
+	<choice>o 200Hz</choice>
+	<choice>o 500 Hz</choice>
+	<choice>o 1000 Hz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>54. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek54-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wyjściowy</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>separator</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>55. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>oscylator (VFO)</choice>
+	<choice>separator</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>56. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>oscylator (VFO) 5 - 5.5 MHz</choice>
+	<choice>wzbudnica SSB 9 MHz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>57. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic 9 MHz. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>mieszacz</choice>
+	<choice>filtr wyjściowy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>58. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>generator kwarcowy modulowany</choice>
+	<choice>modulator</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>59. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 7 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>modulator</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>I powielacz x 3</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>60. Jaka jest horyzontalna charakterystyka promieniowania dipola półfalowego zawieszonego poziomo ?</text>
+	<choice>dookólna</choice>
+	<choice>ósemkowa</choice>
+	<choice>kierunkowa w linii zawieszenia</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>61. Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny ćwierćfalowej ?</text>
+	<choice>dookólna</choice>
+	<choice>kierunkowa</choice>
+	<choice>w kształcie koniczyny</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>62. Na rysunku przedstawiona jest antena typu Yagi. Element 1 to:</text>
+	<choice><center><img src='images/rysunek62-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>reflektor</choice>
+	<choice>radiator</choice>
+	<choice>I direktor</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>63. Na rysunku przedstawiona jest antena typu Yagi. Element 2 to:</text>
+	<choice><center><img src='images/rysunek62-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>radiator</choice>
+	<choice>II direktor</choice>
+	<choice>reflektor</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>64. Na rysunku przedstawiona jest antena typu Yagi. Element 3 to:</text>
+	<choice><center><img src='images/rysunek62-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>radiator</choice>
+	<choice>I direktor</choice>
+	<choice>II direktor</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>65. Na rysunku przedstawiona jest antena typu Yagi. Element 4 to:</text>
+	<choice><center><img src='images/rysunek62-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>I direktor</choice>
+	<choice>II direktor</choice>
+	<choice>radiator</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>66. Dlaczego kable koncentryczne nadawcze wykonywane są z opornością falową 50 om ?</text>
+	<choice>bo jest ona zbliżona do oporności dipola półfalowego</choice>
+	<choice>bo najłatwiej takie wykonać</choice>
+	<choice>bo wymagają do wykonania najmniejszej ilości materiału</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>67. W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca ?</text>
+	<choice>kiedy kabel nie jest ułożony prosto</choice>
+	<choice>kiedy obok kabla koncentrycznego przechodzi inny kabel</choice>
+	<choice>kiedy oporność obciążenia nie jest zgodna z opornością falową kabla</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>68. Jak nazywa się przyrząd do mierzenia fali stojącej w kablu koncentrycznym ?</text>
+	<choice>rezystomierz</choice>
+	<choice>reflektometr</choice>
+	<choice>refraktometr</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>69. Reflektometr wskazuje, że fala padająca jest równa fali odbitej. WFS równy jest nieskończoności. Co może być przyczyną takiego stanu ?</text>
+	<choice>zwarcie lub przerwa w kablu</choice>
+	<choice>niewielka zmiana oporności falowej anteny</choice>
+	<choice>zamoczenie izolacji w kablu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>70. Połączenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o oporności falowej 50 om wymaga zastosowania:</text>
+	<choice>transformatora impedancji 1 do 4</choice>
+	<choice>symetryzatora 1 do 1</choice>
+	<choice>baluna o przekładni 1 do 2</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>71. Czy stan jonosfery ma wpływ na rozchodzenie się fal krótkich ?</text>
+	<choice>słaby</choice>
+	<choice>tylko okresowo, w dzień</choice>
+	<choice>zasadniczy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>72. Co jaki okres czasu następują bardzo dobre warunki propagacyjne i z czym to jest związane ?</text>
+	<choice>nieregularnie</choice>
+	<choice>co kilka lat w związku z ociepleniem</choice>
+	<choice>regularnie co 11 lat przy maksymalnej aktywności słonecznej</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>73. Co to jest zasięg horyzontalny na UKF ?</text>
+	<choice>zasięg wyznaczony linią horyzontu przy prostoliniowym rozchodzeniu się fal</choice>
+	<choice>zasięg obliczony z mocy promieniowanej e.i.r.p.</choice>
+	<choice>zasięg teoretyczny nadajnika</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>74. Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej w troposferze polega na:</text>
+	<choice>na wielokrotnym odbijaniu się fal od ciepłej ziemi</choice>
+	<choice>na odbijaniu fal radiowych od ciepłego powietrza</choice>
+	<choice>prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>75. Skrót EME oznacza łączności na UKF:</text>
+	<choice>z wykorzystaniem odbicia sygnału od Księżyca</choice>
+	<choice>wykorzystaniem do łączności siły elektromotorycznej SEM</choice>
+	<choice>za pomocą elektromagnetycznej emisji EME na UKF</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>76. Jak nazywa się przyrząd do pomiaru napięcia ?</text>
+	<choice>omomierz</choice>
+	<choice>woltomierz</choice>
+	<choice>amperomierz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>77. Jakim przyrządem możemy zmierzyć wartość opornika ?</text>
+	<choice>omomierzem</choice>
+	<choice>woltomierzem</choice>
+	<choice>amperomierzem</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>78. Co to jest przyrząd uniwersalny wielozakresowy ?</text>
+	<choice>przyrząd do pomiaru tylko jednego napięcia</choice>
+	<choice>przyrząd do pomiarów, napięć, prądów, oporności, w wielu zakresach</choice>
+	<choice>przyrząd do pomiaru wielu napięć</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>79. Jak zmierzyć moc prądu stałego ?</text>
+	<choice>zmierzyć prąd i napięcie w obwodzie i obliczyć</choice>
+	<choice>zmierzyć oporność obwodu i obliczyć</choice>
+	<choice>zmierzyć prąd i obliczyć</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>80. Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika ?</text>
+	<choice>poprzez pomiar napięcia skutecznego na oporze sztucznej anteny 50 om i obliczenie</choice>
+	<choice>poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)</choice>
+	<choice>poprzez uzyskanie raportu od korespondenta</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>81. Jakim przyrządem mierzymy dopasowanie obciążenia do kabla koncentrycznego ?</text>
+	<choice>żarówką włączoną w szereg na maksimum świecenia</choice>
+	<choice>sprawdzeniem czy kabel się nie grzeje</choice>
+	<choice>za pomocą reflektometru przelotowego</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>82. Do czego służy falomierz cyfrowy ?</text>
+	<choice>do dokładnego pomiaru częstotliwości</choice>
+	<choice>do pomiaru dewiacji</choice>
+	<choice>do pomiaru modulacji</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>83. Jakie zakłócenia radiowe są obecnie najbardziej uciążliwe ?</text>
+	<choice>zakłócenia naturalne, burze</choice>
+	<choice>zakłócenia powodowane przez inne urządzenia elektryczne</choice>
+	<choice>szumy kosmiczne</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>84. Jak zwalczamy zakłócenia rozprowadzane siecią energetyczną ?</text>
+	<choice>przez stosowanie grubych przewodów</choice>
+	<choice>przez stosowanie filtrów sieciowych i ekranowanie urządzeń, odpowiednią konstrukcję</choice>
+	<choice>przez zasilanie bateryjne urządzeń</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>85. Co to jest kompatybilność elektromagnetyczna (EMC) ?</text>
+	<choice>zamienność urządzeń</choice>
+	<choice>wymogi co do podobnej obsługi urządzeń elektrycznych</choice>
+	<choice>taka konstrukcja sprzętu, by urządzenia nie wpływały na siebie i mogły pracować bez powodowania wzajemnych zakłóceń</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>86. Jeżeli nadajnik amatorski powoduje zakłócenia, to jakie elementy sprawdzamy w pierwszej kolejności ?</text>
+	<choice>zawieszenie anteny</choice>
+	<choice>odbiornik</choice>
+	<choice>liniowość stopnia mocy (PA) i filtr wyjściowy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>87. Dlaczego w zabudowie miejskiej stosujemy do anten kable koncentryczne ?</text>
+	<choice>bo są ogólnie dostępne</choice>
+	<choice>bo są trwałe</choice>
+	<choice>bo przy dopasowaniu nie promieniują energii i mogą przechodzić obok innych anten i urządzeń</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>88. Jeżeli nadajnik promieniuje energię w.cz. poprzez sieć zasilającą to stosujemy:</text>
+	<choice>filtr w.cz. na wyjściu antenowym nadajnika</choice>
+	<choice>uziemiamy obudowę</choice>
+	<choice>uziemiamy obudowę i włączamy filtr sieciowy w zasilanie</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>89. Jaka instytucja zajmuje się lokalizowaniem zakłóceń radiowych i radioelektrycznych oraz badaniem sprzętu radionadawczego ?</text>
+	<choice>Urząd Komunikacji Elektronicznej</choice>
+	<choice>Ministerstwo Ochrony Środowiska</choice>
+	<choice>Sztaby antykryzysowe</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>90. Prąd elektryczny w przewodzie metalowym płynie dzięki obecności w nim:</text>
+	<choice>swobodnych jonów</choice>
+	<choice>wolnych elektronów</choice>
+	<choice>wolnych atomów</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>91. Jak zmienia się opór przewodu miedzianego podczas wzrostu temperatury ?</text>
+	<choice>opór maleje</choice>
+	<choice>opór rośnie</choice>
+	<choice>nie zmienia się</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>92. Jaki ładunek ma elektron ?</text>
+	<choice>dodatni</choice>
+	<choice>nie posiada ładunku</choice>
+	<choice>ujemny</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>93. W obwodach elektrycznych przyjmujemy, że kierunek przepływu prądu odbywa się od:</text>
+	<choice>od wyższego potencjału (+) do niższego (-)</choice>
+	<choice>w prawo zgodnie z wskazówkami zegara</choice>
+	<choice>przeciwnie do wskazówek zegara</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>94. W obwodzie prądu stałego przez opornik 1000 om płynie prąd 2 mA. Jaki jest spadek napięcia na oporze ?</text>
+	<choice>spadek wynosi 500 V</choice>
+	<choice>spadek wynosi 2000 V</choice>
+	<choice>spadek wynosi 2 V</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>95. Akumulator ma napięcie 6.5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd ?</text>
+	<choice>opornik 3.5 om</choice>
+	<choice>opornik 100 om</choice>
+	<choice>opornik 10 om</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>96. Opornik ma 200 om. Płynie przez niego prąd 300 mA. Jaka jest moc tracona w oporze ?</text>
+	<choice>18 W</choice>
+	<choice>1800 W</choice>
+	<choice>1,8 W</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>97. Jakie napięcie występuje na oporze 50 om przy dostarczeniu do niego mocy 200 W ?</text>
+	<choice>100 V</choice>
+	<choice>200 V</choice>
+	<choice>50 V</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>98. Mamy opornik 100 om dołączony do napięcia 3 V. Z jakiej grupy mocy wybierzemy opornik ?</text>
+	<choice>grupa 1 W</choice>
+	<choice>grupa 0,125 W</choice>
+	<choice>grupa 0,5 W</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>99. Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,00001 sek. ?</text>
+	<choice>1 MHz</choice>
+	<choice>100 kHz</choice>
+	<choice>1000 Hz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>100. Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia ?</text>
+	<choice>200 V</choice>
+	<choice>400 V</choice>
+	<choice>141,8 V</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>101. Napięcie międzyszczytowe sinusoidalnego napięcia zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia ?</text>
+	<choice>340 V</choice>
+	<choice>240 V</choice>
+	<choice>680 V</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>102. Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1 oma. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa ?</text>
+	<choice>1.5 V</choice>
+	<choice>1 V</choice>
+	<choice>1,4 V</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>103. Akumulator ma pojemność 50 A/h. Jakim prądem i jak długo powinniśmy go ładować ?</text>
+	<choice>50 A przez 1 godzinę</choice>
+	<choice>10 A przez 5 godzin</choice>
+	<choice>5 A przez 10 godzin</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>104. Pole elektryczne nazywamy jednorodnym jeżeli:</text>
+	<choice>linie sił pola są prostopadłe</choice>
+	<choice>linie układają się w koła</choice>
+	<choice>linie sił są równoległe</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>105. Pole elektryczne może być ekranowane za pomocą:</text>
+	<choice>ekranów z blach metalowych</choice>
+	<choice>ekranów z izolatorów</choice>
+	<choice>ekranów z luster</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>106. Do jakich materiałów magnetycznych należą magnesy stałe ?</text>
+	<choice>materiałów paramagnetycznych</choice>
+	<choice>materiałów magnetycznie twardych</choice>
+	<choice>magnetycznie miękkich</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>107. Dlaczego rdzenie transformatorów wykonywane są z blaszek a nie z litego materiału ?</text>
+	<choice>ze względu na lepsze chłodzenie</choice>
+	<choice>ze względu na łatwiejsze wykonanie</choice>
+	<choice>ze względu na mniejsze straty przy prądach wirowych</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>108. Ekranowanie pól magnetycznych wykonujemy z materiałów:</text>
+	<choice>izolacyjnych</choice>
+	<choice>z materiałów o wysokiej przenikalności magnetycznej</choice>
+	<choice>z materiałów o małym oporze właściwym</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>109. Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:</text>
+	<choice>składowa elektryczna i składowa prędkości</choice>
+	<choice>składowa elektryczna i magnetyczna</choice>
+	<choice>składowa magnetyczna i składowa prędkości</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>110. Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest dokładna długość fali tego nadajnika ?</text>
+	<choice>80 m</choice>
+	<choice>84 m</choice>
+	<choice>81,08 m</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>111. Czy czysty sygnał sinusoidalny 1000 Hz, zawiera harmoniczne 2000 Hz i 3000 Hz ?</text>
+	<choice>zawiera tylko 2000 Hz</choice>
+	<choice>zawiera obie harmoniczne</choice>
+	<choice>nie zawiera w ogóle harmonicznych</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>112. Czy można prowadzić powielanie częstotliwości w stopniu mocy nadajnika ?</text>
+	<choice>tak</choice>
+	<choice>nie</choice>
+	<choice>jest to bez znaczenia</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>113. Przy modulacji amplitudy AM szerokość kanału radiowego zależy od:</text>
+	<choice>najniższych częstotliwości modulujących</choice>
+	<choice>amplitudy modulującego sygnału</choice>
+	<choice>najwyższych częstotliwości modulujących</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>114. Ile razy jest skuteczniejsza emisja SSB w stosunku do nadawania AM ?</text>
+	<choice>5 razy</choice>
+	<choice>10 razy</choice>
+	<choice>16 razy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>115. Modulacja cyfrowa FSK oznacza przesyłanie sygnału telegrafii maszynowej RTTY za pomocą:</text>
+	<choice>modulacji amplitudy</choice>
+	<choice>modulacji fazy</choice>
+	<choice>modulacji z przesuwem częstotliwości</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>116. Moc wyjściową nadajnika FM podano w dBW i wynosi ona 13 dBW. Ile to jest w watach? (dla ułatwienia podajemy, że 10 dBW odpowiada 10 W</text>
+	<choice>5 W</choice>
+	<choice>130 W</choice>
+	<choice>20 W</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>117. Napięcie na wejściu odbiornika na oporności 50 om wynosi 10 ?V. Napięcie to wzrosło do 100 ?V. O ile wzrosło napięcie wyrażone w dB ?</text>
+	<choice>o 10 dB</choice>
+	<choice>o 20 dB</choice>
+	<choice>o 40 dB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>118. Zasilacz nadajnika dostarcza do stopnia końcowego nadajnika napięcie 500 V i prąd 200 mA. Jaka jest sprawność energetyczna stopnia końcowego w % jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W ?</text>
+	<choice>50 %</choice>
+	<choice>40 %</choice>
+	<choice>60 %</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>119. Tolerancja wykonania opornika 1 kom wynosi 5 %. W jakich granicach zawiera się jego oporność ?</text>
+	<choice>od 0,9 do 1,1 kom</choice>
+	<choice>od 0,98 do 1,02 kom</choice>
+	<choice>od 950 om do 1050 om</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>120. Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu ?</text>
+	<choice>0,125 W</choice>
+	<choice>1 W</choice>
+	<choice>0,5 W</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>121. Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V ?</text>
+	<choice>tak można</choice>
+	<choice>nie można</choice>
+	<choice>można, ale potrzebne są dwa takie kondensatory</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>122. W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się zawada Xc ?</text>
+	<choice>2 razy</choice>
+	<choice>100 razy</choice>
+	<choice>10 razy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>123. Prąd zmienny płynący przez kondensator C:</text>
+	<choice>wyprzedza napięcie na kondensatorze o 90 stopni</choice>
+	<choice>jest w fazie z napięciem</choice>
+	<choice>opóźnia się o 90 stopni wobec napięcia</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>124. Przy częstotliwości 3,7 MHz, cewka L1 ma indukcyjność 250 mH a L2 300 mH. Która cewka ma większą zawadę XL ?</text>
+	<choice>L1</choice>
+	<choice>L2</choice>
+	<choice>mają taką samą</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>125. Transformator sieciowy ma przenosić moc 100 W. Jaki ma być przekrój rdzenia transformatora ?</text>
+	<choice>12 cm2</choice>
+	<choice>10 cm2</choice>
+	<choice>100 cm2</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>126. Tranzystor krzemowy ma wzmocnienie prądowe ? = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora ?</text>
+	<choice>1 mA</choice>
+	<choice>5 mA</choice>
+	<choice>20 mA</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>127. W jakich urządzeniach amatorskich stosujemy lampy elektronowe ?</text>
+	<choice>wzmacniaczach akustycznych wysokiej jakości</choice>
+	<choice>w stopniach mocy wysokiej częstotliwości</choice>
+	<choice>w precyzyjnych generatorach w.cz.</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>128. Przy jakich napięciach anodowych pracują amatorskie lampowe wzmacniacze mocy ?</text>
+	<choice>do 200 V</choice>
+	<choice>do 50 V</choice>
+	<choice>od 1,5 kV do 3 kV</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>129. W jakiej klasie wzmacniacza pracuje lampowy stopień mocy nadajnika telegraficznego ?</text>
+	<choice>w klasie A</choice>
+	<choice>w klasie C</choice>
+	<choice>w klasie AB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>130. Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF ?</text>
+	<choice>szeregowo</choice>
+	<choice>równolegle</choice>
+	<choice>nie da się z nich złożyć 5000 pF</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>131. W układzie były trzy kondensatory po 30 uF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 uF i o jakim napięciu pracy ?</text>
+	<choice>nie możemy</choice>
+	<choice>możemy stosując kondensator na napięcie 100 V</choice>
+	<choice>możemy, stosując kondensator na napięcie 300V</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>132. Dwie indukcyjności nie sprzężone mają 30 uH i 60 uH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności ?</text>
+	<choice>90 uH</choice>
+	<choice>20 uH</choice>
+	<choice>45 uH</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>133. Dwa oporniki 1 kom połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników ?</text>
+	<choice>50 V</choice>
+	<choice>100 V</choice>
+	<choice>200 V</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>134. Obwód rezonansowy równoległy LC, w punkcie rezonansu przedstawia oporność:</text>
+	<choice>rzeczywistą omową</choice>
+	<choice>reaktancję pojemnościową</choice>
+	<choice>reaktancję indukcyjną</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>135. Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz ?</text>
+	<choice>200 pF</choice>
+	<choice>100 pF</choice>
+	<choice>57 pF</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>136. Pasmo obwodu rezonansowego zależy od dobroci Q obwodu. Jeżeli Q = 100 to ile wynosi pasmo przy częstotliwości obwodu 14 MHz ?</text>
+	<choice>280 kHz</choice>
+	<choice>14 kHz</choice>
+	<choice>140 kHz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>137. Jakie pasmo musi posiadać filtr pasmowy dla poprawnego odbioru stacji radiofonicznej AM ?</text>
+	<choice>9 kHz</choice>
+	<choice>20 kHz</choice>
+	<choice>3.5 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>138. Transformator zasilacza ma napięcie Usk = 300 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej wstecznie 400 V ?</text>
+	<choice>tak</choice>
+	<choice>nie</choice>
+	<choice>tak, ale z opornikiem w szereg</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>139. Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody ?</text>
+	<choice>25 V</choice>
+	<choice>17,7 V</choice>
+	<choice>20 V</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>140. Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)</text>
+	<choice>10 dB</choice>
+	<choice>20 dB</choice>
+	<choice>40 dB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>141. Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:</text>
+	<choice>wzmacniaczem selektywnym</choice>
+	<choice>wzmacniaczem szerokopasmowym</choice>
+	<choice>wzmacniaczem akustycznym</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>142. Czy w wzmacniaczu mocy pracującym idealnie liniowo, powstają harmoniczne ?</text>
+	<choice>tak</choice>
+	<choice>nie</choice>
+	<choice>tak ale małe</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>143. Dlaczego do detekcji sygnałów telegrafii CW używamy produkt detektora i pomocniczego generatora BFO ?</text>
+	<choice>bo sygnał CW jest przerywany</choice>
+	<choice>musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW</choice>
+	<choice>bo sygnał CW jest słaby</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>144. Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:</text>
+	<choice>poniżej wstęgi LSB</choice>
+	<choice>powyżej wstęgi LSB</choice>
+	<choice>w środku LSB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>145. Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM ?</text>
+	<choice>nie</choice>
+	<choice>tak</choice>
+	<choice>nie ma to znaczenia</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>146. Warunkiem wzbudzenia się generatora z obwodem rezonansowym jest:</text>
+	<choice>zastosowanie obwodu rezonansu szeregowego</choice>
+	<choice>spełnienie warunku amplitudy i fazy</choice>
+	<choice>zastosowanie ujemnego sprzężenia zwrotnego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>147. Oscylator kwarcowy ma wysoką stabilność częstotliwości. Zawdzięcza ją:</text>
+	<choice>zasilaniu z stabilizowanego zasilacza</choice>
+	<choice>zastosowaniu specjalnego tranzystora</choice>
+	<choice>zastosowaniu rezonatora kwarcowego</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>148. Kwarce owertonowe to rezonatory kwarcowe pracujące na:</text>
+	<choice>częstotliwościach harmonicznych</choice>
+	<choice>na częstotliwościach podstawowych</choice>
+	<choice>na częstotliwościach pasożytniczych</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>149. Miarą selektywności odbiornika jest szerokość pasma odbieranego przez odbiornik. Przy jakim poziomie od poziomu maksymalnego mierzymy selektywność ?</text>
+	<choice>przy -10 dB</choice>
+	<choice>przy -6 dB</choice>
+	<choice>przy -12 dB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>150. Przy jakim stosunku sygnału do szumu mierzymy czułość odbiornika ?</text>
+	<choice>przy 6 dB</choice>
+	<choice>przy 10 dB</choice>
+	<choice>przy 20 dB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>151. Jak zmienia się oporność dipola półfalowego przy niskim zawieszeniu nad ziemią ?</text>
+	<choice>nie zmienia się</choice>
+	<choice>rośnie</choice>
+	<choice>maleje</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>152. Jaką oporność falową ma pionowa antena ćwierćfalowa ?</text>
+	<choice>36 om</choice>
+	<choice>75 om</choice>
+	<choice>50 om</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>153. W antenie dipolowej W3DZZ na pasma 80, 40, 20 metrów zastosowano trapy. Na jaką częstotliwość muszą być nastrojone ?</text>
+	<choice>10 MHz</choice>
+	<choice>7,05 MHz</choice>
+	<choice>14,1 MHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>154. Zysk anteny kierunkowej wyrażony jest w dBi. Względem jakiego źródła jest określony ?</text>
+	<choice>dipola pomiarowego</choice>
+	<choice>źródła izotropowego</choice>
+	<choice>innej anteny kierunkowej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>155. Jaka jest różnica pomiędzy efektywną mocą promieniowaną e.r.p. a efektywną mocą promieniowaną izotropowo e.i.r.p ?</text>
+	<choice>e.i.r.p. jest większe o 2,16 dB od e.r.p.</choice>
+	<choice>e.i.r.p. jest mniejsze o 2,16 dB od e.r.p.</choice>
+	<choice>nie ma różnicy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>156. Antena kierunkowa na UKF w miejscu odbioru daje napięcie 4 razy większe jak dipol półfalowy. Jaki ma zysk dBd ?</text>
+	<choice>6 dBd</choice>
+	<choice>4 dBd</choice>
+	<choice>12 dBd</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>157. Kabel koncentryczny wprowadza straty sygnału. Kabel przy częstotliwości 150 MHz ma straty 12 dB na 100 m. Długość kabla między anteną a odbiornikiem wynosi 50 m. Ile razy napięcie na wejściu odbiornika będzie mniejsze niż w antenie?</text>
+	<choice>4 razy</choice>
+	<choice>6 razy</choice>
+	<choice>2 razy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>158. Jakie długości fal zaliczamy do zakresu fal krótkich ?</text>
+	<choice>od 100 m do 10 m</choice>
+	<choice>od 80 m do 13 m</choice>
+	<choice>od 160 m do 10 m</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>159. Do jakiej wysokości sięgają najwyższe warstwy jonosfery w lecie w dzień ?</text>
+	<choice>do 200 km</choice>
+	<choice>450 km</choice>
+	<choice>100 km</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>160. O czym mówi podawana w prognozach propagacji częstotliwość MUF ?</text>
+	<choice>o zakłóceniach odbioru</choice>
+	<choice>o maksymalnej częstotliwości do łączności na danej trasie</choice>
+	<choice>o zaniku łączności w danym kierunku</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>161. Co to jest strefa martwa na falach krótkich ?</text>
+	<choice>strefa bez odbioru leżąca pomiędzy końcem fali przyziemnej a powrotem fali przestrzennej</choice>
+	<choice>strefa bez odbioru z powodu dużych zakłóceń w mieście</choice>
+	<choice>strefa w której brak odbioru z powodu interferencji fal przychodzących z różnych kierunków</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>162. Łączności UKF na odbiciach meteorytowych polegają na:</text>
+	<choice>wykorzystanie odbijania energii od meteorytów</choice>
+	<choice>wykorzystania odbić od zjonizowanych upadkiem meteorytu górnych warstw atmosfery</choice>
+	<choice>wykorzystaniem chmur meteorytów w kosmosie</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>163. Jakim przyrządem możemy sprawdzić kształt napięcia zmiennego w.cz. i wykryć zniekształcenia sygnału ?</text>
+	<choice>oscyloskopem</choice>
+	<choice>miernikiem napięcia</choice>
+	<choice>słuchając odbiornikiem</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>164. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>komparator</choice>
+	<choice>dzielnik nastawny</choice>
+	<choice>generator wzorca</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>165. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>dzielnik nastawny</choice>
+	<choice>komparator</choice>
+	<choice>wzmacniacz błędu</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>166. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>dzielnik wzorca</choice>
+	<choice>generator stabilizowany</choice>
+	<choice>komparator</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>167. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek44-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>komparator</choice>
+	<choice>dzielnik nastawny</choice>
+	<choice>wzmacniacz błędu</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>168. Na rysunku przedstawiono schemat blokowy odbiornika bezpośredniego wzmocnienia z reakcją. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek46-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>detektor z reakcją</choice>
+	<choice>wzmacniacz w. cz</choice>
+	<choice>wzmacniacz akustyczny</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>169. Na rysunku przedstawiono schemat blokowy odbiornika bezpośredniego wzmocnienia z reakcją. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek46-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz w. cz.</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor z reakcją</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>170. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>mieszacz</choice>
+	<choice>detektor AM</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>171. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wejściowy</choice>
+	<choice>wzmacniacz pośredniej cz.</choice>
+	<choice>heterodyna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>172. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>filtr wejściowy</choice>
+	<choice>detektor AM</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>173. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek47-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wejściowy</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>heterodyna</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>174. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>I mieszacz</choice>
+	<choice>filtr przełączany II p.cz.</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>175. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>BFO</choice>
+	<choice>wzmacniacz I pośredniej cz.</choice>
+	<choice>heterodyna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>176. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>BFO</choice>
+	<choice>II mieszacz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>177. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>II heterodyna stała</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor AM CW SSB</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>178. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr przełączany II p.cz.</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>II heterodyna stała</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>179. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 7 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>BFO</choice>
+	<choice>wzmacniacz II pośredniej cz.</choice>
+	<choice>detektor AM , CW, SSB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>180. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 8 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>wzmacniacz w.cz.</choice>
+	<choice>detektor AM, CW , SSB</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>181. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 10 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>BFO</choice>
+	<choice>detektor AM, CW, SSB</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>182. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 11 to:</text>
+	<choice><center><img src='images/rysunek49-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>I heterodyna strojona</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor AM</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>183. Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek51-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>filtr wejściowy</choice>
+	<choice>mieszacz zrównoważony</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>184. Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek51-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>heterodyna</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>filtr wejściowy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>185. Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek51-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wejściowy</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>heterodyna</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>186. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz w.cz.</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor FM</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>187. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz w.cz.</choice>
+	<choice>wzmacniacz I pośredniej cz. 10,7 MHz</choice>
+	<choice>I heterodyna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>188. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>blokada szumów</choice>
+	<choice>II mieszacz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>189. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>II heterodyna stała</choice>
+	<choice>wzmacniacz II p.cz. 455 kHz</choice>
+	<choice>detektor FM</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>190. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>detektor FM</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>II heterodyna stała</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>191. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 7 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz II p. cz. 455kHz</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor FM</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>192. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 8 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>blokada szumów</choice>
+	<choice>detektor FM</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>193. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 9 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>blokada szumów</choice>
+	<choice>II heterodyna stała</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>194. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 10 to:</text>
+	<choice><center><img src='images/rysunek52-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>I heterodyna kwarcowa</choice>
+	<choice>wzmacniacz akustyczny</choice>
+	<choice>detektor FM</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>195. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek54-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>separator</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>oscylator (VFO)</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>196. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek54-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>oscylator (VFO)</choice>
+	<choice>separator</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>197. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek54-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>oscylator (VFO)</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>filtr wyjściowy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>198. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>separator</choice>
+	<choice>I powielacz x2</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>199. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>I powielacz x2</choice>
+	<choice>oscylator (VFO)</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>200. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>II powielacz x2</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>201. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>I powielacz x2</choice>
+	<choice>oscylator (VFO)</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>202. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wyjściowy</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>II powielacz x2</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>203. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 7 to:</text>
+	<choice><center><img src='images/rysunek55-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>oscylator (VFO)</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>separator</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>204. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr pasmowy 3.5 - 14 MHz</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>VFO 5 - 5.5 MHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>205. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>wzbudnica SSB 9 MHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>206. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>mieszacz</choice>
+	<choice>oscylator (VFO) 5 - 5.5 MHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>207. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>mieszacz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>208. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 7 to:</text>
+	<choice><center><img src='images/rysunek56-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>oscylator (VFO) 5-5.5 MHz</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>filtr pasmowy 3.5 - 14 MHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>209. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>generator kwarcowy modulowany</choice>
+	<choice>modulator</choice>
+	<choice>I powielacz x3</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>210. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>I powielacz x3</choice>
+	<choice>II powielacz x3</choice>
+	<choice>generator kwarcowy modulowany</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>211. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>II powielacz x3</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>212. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wyjściowy</choice>
+	<choice>III powielacz x2</choice>
+	<choice>modulator</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>213. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem częstotliwości kanałowego generatora kwarcowego 8 MHz. Blok 6 to:</text>
+	<choice><center><img src='images/rysunek58-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wyjściowy</choice>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>II powielacz x3</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>214. Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika ?</text>
+	<choice><center><img src='images/rysunek63-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>prostownik dwupołówkowy</choice>
+	<choice>prostownik jednopołówkowy</choice>
+	<choice>prostownik mostkowy dwupołówkowy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>215. Na rysunku przedstawiono schemat detektora diodowego. Jaką rolę spełnia w nim kondensator C1?</text>
+	<choice><center><img src='images/rysunek64-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>jest kondensatorem filtrującym prądy w.cz.</choice>
+	<choice>poprawia odtwarzanie wysokich tonów</choice>
+	<choice>chroni słuchawki przed uszkodzeniem</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>216. Na rysunku przedstawiono kilka układów generatorów. Są one ponumerowane od 1 do 4. Wybierz pod którą literą znajdują się poprawne nazwy generatorów zgodne z kolejnością ich narysowania.</text>
+	<choice><center><img src='images/rysunek65-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>Meissner , Hartley, Colpitts, Clapp</choice>
+	<choice>Colpits, Hartley, Clapp, Meisner</choice>
+	<choice>Clapp, Colpitts, Hartley, Meissner</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>217. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz z generatorem PLL. Blok 1 to:</text>
+	<choice><center><img src='images/rysunek66-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>generator PLL</choice>
+	<choice>modulator</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>218. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz z generatorem PLL. Blok 3 to:</text>
+	<choice><center><img src='images/rysunek66-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>modulator</choice>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>generator PLL</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>219. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz z generatorem PLL. Blok 4 to:</text>
+	<choice><center><img src='images/rysunek66-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>wzmacniacz mocy (PA)</choice>
+	<choice>filtr wyjściowy</choice>
+	<choice>modulator</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>220. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz z generatorem PLL. Blok 5 to:</text>
+	<choice><center><img src='images/rysunek66-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>filtr wyjściowy</choice>
+	<choice>wzmacniacz sterujący</choice>
+	<choice>modulator</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>221. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz
+z generatorem PLL. Blok 2 to:</text>
+	<choice><center><img src='images/rysunek66-1.jpg' style='vertical-align: middle' alt='' /></center></td>
+	<choice>generator PLL</choice>
+	<choice>modulator</choice>
+	<choice>wzmacniacz sterujący</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<choice><span style='font-size:16px'><b>2. Bezpieczeństwo pracy przy urządzeniach elektrycznych i radiowych</b></choice>
+	<text>222. Jakie dodatkowe zabezpieczenie, oprócz umieszczenia jej na bezpiecznej wysokości, są zalecane dla anteny na terenowym QTH ?</text>
+	<choice>nie są potrzebne żadne dodatkowe zabezpieczenia</choice>
+	<choice>wykonanie anteny z drutu miedzianego w igielicie</choice>
+	<choice>zakaz przebywania pod anten podczas nadawania</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>223. Czy można wykorzystać sieć wodociągową jako uziemienie ?</text>
+	<choice>tak</choice>
+	<choice>jedynie po zbocznikowaniu wodomierza i upewnieniu się, że jest ona uziemiona</choice>
+	<choice>nie, jest to zabronione</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>224. Sztuczne oddychanie wykonujemy zamiennie z masażem serca ? w stosunku:</text>
+	<choice>30 uciśnięć serca na dwa wdechy</choice>
+	<choice>20 uciśnięć serca na cztery wdechy</choice>
+	<choice>15 uciśnięć serca na sześć wdechów</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>225. Podczas pracy z komputerem minimalne zalecane przerwy wynoszą:</text>
+	<choice>co dwie godziny po 20 minut</choice>
+	<choice>co godzinę pięć minut</choice>
+	<choice>co trzy godziny po dziesięć minut</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>226. Anteny odłączamy i uziemiamy w sytuacji, gdy:</text>
+	<choice>kończymy pracę i idziemy spać</choice>
+	<choice>odchodzimy od stacji na czas dłuższy niż 15 minut</choice>
+	<choice>odchodzimy od stacji na czas dłuższy niż godzin</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>227. Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych ?</text>
+	<choice>rodzaj zastosowanej izolacji</choice>
+	<choice>nazwa producenta</choice>
+	<choice>dopuszczalne napięcie pracy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>228. Czy użycie kabla koncentrycznego TV jest zasadne do budowy anteny nadawczej KF ?</text>
+	<choice>nie ma żadnego uzasadnienia dla takiego rozwiązania</choice>
+	<choice>tak, ale jedynie dla nadajników małej mocy</choice>
+	<choice>tak, ale nadaje się tylko kabel w igielicie o odpowiedniej średnicy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>229. Dlaczego stosuje się ograniczenia w przebywaniu (zamieszkaniu) w bezpośrednim sąsiedztwie dużych obiektów nadawczych radiowych i telewizyjnych ?</text>
+	<choice>ze względu na wyładowania atmosferyczne</choice>
+	<choice>ze względu na duże natężenie pola elektromagnetycznego mogące mieć negatywny wpływ na zdrowie</choice>
+	<choice>ze względu na możliwość przewrócenia się masztu</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>230. Czy wolno wykonywać prace antenowe przy włączonym nadajniku ?</text>
+	<choice>wolno, bez żadnych ograniczeń</choice>
+	<choice>wolno, ale tylko przy małych mocach nadajnika</choice>
+	<choice>kategorycznie nie wolno</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>231. Na polu antenowym mamy kilka anten na różne pasma. Czy można regulować nieczynne anteny, jeżeli obok pracuje na podobnej antenie nadajnik KF ?</text>
+	<choice>nie wolno</choice>
+	<choice>można</choice>
+	<choice>można, ale tylko gdy nadajnik ten pracuje z małą mocą</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>232. Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami ?</text>
+	<choice>dobre uziemienie i szczelność ekranowania</choice>
+	<choice>filtrowany zasilacz</choice>
+	<choice>odpowiedni przekrój kabla sieciowego</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>233. Czy źle wykonany uziom może być przyczyną szkodliwego promieniowania w.cz. ?</text>
+	<choice>nie</choice>
+	<choice>tak</choice>
+	<choice>nie zawsze</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>234. Jakie niebezpieczeństwo grozi, gdy trzymamy w rękach naładowany kondensator elektrolityczny ?</text>
+	<choice>porażenie prądem elektrycznym</choice>
+	<choice>nie ma żadnego niebezpieczeństwa</choice>
+	<choice>implozja kondensatora</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>235. Czy zwarcie bateryjki o napięciu 9V (np. 6F22 ? nowej!) drutem o średnicy 0,4 mm może być niebezpieczne ?</text>
+	<choice>nie ma żadnego zagrożenia</choice>
+	<choice>tak, może spowodować pożar</choice>
+	<choice>tak, może spowodować stopienie się drutu i poparzenie roztopionym metalem</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>236. Co należy zrobić przed rozpoczęciem ładowania akumulatora samochodowego ?</text>
+	<choice>zanotować godzinę</choice>
+	<choice>wykręcić korki wlewowe dla elektrolitu i ustawić właściwy prąd ładowania</choice>
+	<choice>uziemić prostownik</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>237. Czy kondensator elektrolityczny musi mieć napięcie pracy równe lub większe niż napięcie występujące w układzie w jakim pracuje ?</text>
+	<choice>napięcie pracy kondensatora nie ma znaczenia</choice>
+	<choice>napięcie pracy kondensatora ma znaczenia tylko w niektórych typach układów</choice>
+	<choice>koniecznie, gdyż może ulec zniszczeniu</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>238. Czy brak filtru przeciw zakłóceniowego na obwodzie zasilania sieciowego może być przyczyną zakłóceń w pracy urządzenia ?</text>
+	<choice>tak, ale tylko przy dużej mocy</choice>
+	<choice>zawsze, bez względu na moc</choice>
+	<choice>to nie ma znaczenia, rolę filtru pełni transformator zasilacza</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>239. Jakie czynniki obniżają oporność elektryczną ciała człowieka ?</text>
+	<choice>wilgoć, powierzchnia dotyku, zmęczenie, zranienia</choice>
+	<choice>pora dnia, stan pogody, wiek</choice>
+	<choice>klasa pracy urządzenia, uszkodzona izolacja kabli, brak filtra w.cz.</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>240. Czy promieniowanie elektromagnetyczne w.cz. może mieć wpływ na zdrowie człowieka ?</text>
+	<choice>nie</choice>
+	<choice>tak</choice>
+	<choice>nie, jeśli używamy specjalnego ubrania ochronnego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>241. Czy sztuczne obciążenie w postaci opornika bezindukcyjnego powinno być ekranowane ?</text>
+	<choice>nie ma takiej potrzeby</choice>
+	<choice>tak, zawsze powinno być ekranowane i uziemione w tym samym punkcie co radiostacja</choice>
+	<choice>tylko w przypadku gdy wzmacniacz mocy nie jest właściwie dostrojony</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>242. Jaki wpływ mają opary powstające podczas lutowania ?</text>
+	<choice>są szkodliwe dla zdrowia</choice>
+	<choice>są nieszkodliwe dla zdrowia</choice>
+	<choice>ich wpływ na zdrowie zależy od typu stosowanej lutownicy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>243. Czy można lutować przewody miedziane używając zamiast kalafonii kwasu solnego ?</text>
+	<choice>można</choice>
+	<choice>nie można, miedz lutujemy wyłącznie przy użyciu kalafonii</choice>
+	<choice>jest to dopuszczalne jedynie podczas lutowania przewodów o dużej średnicy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>244. Czy można uruchomić urządzenie po przeniesieniu z zimnego pomieszczenia do ciepłego ?</text>
+	<choice>istnieje bezwzględny zakaz</choice>
+	<choice>można, ale po odczekaniu pewnego czasu</choice>
+	<choice>można natychmiast, bez żadnego ryzyka</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>245. Czy plastikowa obudowa urządzenia QRP stanowi odpowiednie zabezpieczenie przed oddziaływaniem energii w.cz. ?</text>
+	<choice>jest to wystarczające zabezpieczenie przed energią w.cz.</choice>
+	<choice>urządzenia te używa się głównie na terenowym QTH więc takie zabezpieczenie nie jest potrzebne</choice>
+	<choice>nie stanowi żadnego zabezpieczenia przed energią w.cz.</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>246. Czy klucz telegraficzny podłączony do radia powinien być połączony z masą radia i uziemiony ?</text>
+	<choice>nie ma takiej potrzeby</choice>
+	<choice>jest to decyzja radioamatora</choice>
+	<choice>jest to bezwzględna konieczność</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>247. Czy dopuszczalne jest użycie sieci CO (np. kaloryfera) do uziemienia radiostacji ?</text>
+	<choice>tak</choice>
+	<choice>tylko po upewnieniu się, że jest ona właściwie uziemiona</choice>
+	<choice>nie</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>248. Jaki zapas mocy powinien mieć zasilacz urządzeń AM i FM przewidziany do ciągłej bezawaryjnej pracy ?</text>
+	<choice>20% więcej</choice>
+	<choice>50% więcej</choice>
+	<choice>10 % więcej powyżej mocy maksymalnej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>249. Czy można wykorzystać jako uziemienie rurę instalacji gazowej ?</text>
+	<choice>bezwzględnie nie wolno</choice>
+	<choice>wolno bez żadnych ograniczeń</choice>
+	<choice>wolno jedynie w sytuacji, gdy nie dysponuje się innym uziemieniem</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>250. Jaka jest prawidłowa kolejność połączenia urządzeń ?</text>
+	<choice>antena, uziemienie, zasilanie</choice>
+	<choice>zasilanie, antena, uziemienie</choice>
+	<choice>uziemienie, antena, zasilanie</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>251. Jakie działania należy podjąć, aby udzielić pomocy porażonemu prądem elektrycznym ?</text>
+	<choice>wezwać lekarza, przeprowadzać sztuczne oddychanie i masaż z serca</choice>
+	<choice>odłączyć porażonego od prądu, przeprowadzać masaż serca i sztuczne oddychanie</choice>
+	<choice>wezwać znajomych w celu prowadzenia wspólnej akcji ratowniczej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>252. Pomieszczenie radiostacji oraz warsztatu radiowego powinno być wyposażone w następujące środki ochrony p-poż:</text>
+	<choice>środki gaśnicze wymagane dla obiektów użytku publicznego</choice>
+	<choice>koc gaśniczy i gaśnicę do gaszenia urządzeń elektrycznych</choice>
+	<choice>środki gaśnicze wymagane dla obiektów użytku publicznego oraz koc gaśniczy i gaśnicę do gaszenia urządzeń elektrycznych</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>253. Przewody zasilające prądu stałego oznaczone są kolorami:</text>
+	<choice>żółty i czarny</choice>
+	<choice>niebieski i czarny</choice>
+	<choice>czerwony i czarny</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>254. Gorąca obudowa powstaje gdy:</text>
+	<choice>źle uziemiamy stację, nie zapewnimy dopasowania anteny</choice>
+	<choice>mamy niesprawny, niefiltrowany zasilacz</choice>
+	<choice>przekroczymy moc radiostacji przy dobrze dopasowanej antenie i uziomie</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>255. Uszkodzonych tranzystorów nie powinno się otwierać, gdyż</text>
+	<choice>można się pokaleczyć</choice>
+	<choice>zawierają szkodliwe substancje, mogące spowodować ciężkie zatrucie</choice>
+	<choice>zawierają tajemnice produkcji, których i tak nie jesteśmy w stanie wykorzystać</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>256. Narzędzia do prac elektrycznych powinny</text>
+	<choice>charakteryzować się estetyką wykonania</choice>
+	<choice>posiadać homologację Ministerstwa Łączności</choice>
+	<choice>posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>257. Przy oparzeniu prądem wysokiej częstotliwości:</text>
+	<choice>schładzamy miejsce wodą, a następnie wzywamy lekarza</choice>
+	<choice>schładzamy wodą, a następnie owijamy je opatrunkiem jałowym</choice>
+	<choice>natychmiast kontaktujemy się z lekarzem</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>258. Na terenowym QTH uziemienie można wykonać:</text>
+	<choice>wbijając uziom do ziemi jako osobne uziemienie dla swojej stacji</choice>
+	<choice>podłączając się do uziomu roboczego na słupie kratowym</choice>
+	<choice>podłączając się do uziomu w energetycznej szafie rozdzielczej</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>259. Uruchomienie nieznanego urządzenia rozpoczyna się od:</text>
+	<choice>włożenia wtyczki do kontaktu i przełączenia przełącznika</choice>
+	<choice>podłączenia anteny i uziemienia</choice>
+	<choice>sprawdzenia, czy ustawione jest właściwe napięcie sieci oraz zainstalowany jest właściwy bezpiecznik</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>260. Czy radiostację i urządzenia pomocnicze można podłączać do gniazd zasilanych z dwóch różnych faz ?</text>
+	<choice>można, nie ma żadnych przeciwwskazań</choice>
+	<choice>kategorycznie nie można, grozi to zniszczeniem sprzętu i porażeniem operatora</choice>
+	<choice>można, jeżeli jednocześnie nie używa się wszystkich urządzeń</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>261. Po zakończeniu pracy radiostacji należy:</text>
+	<choice>wyłączyć zasilanie</choice>
+	<choice>wyłączyć zasilanie i uziemić anteny</choice>
+	<choice>wyłączyć zasilanie, uziemić anteny i odłączyć uziemienie od radia</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>262. Podczas wieszania anteny na wysokościach należy:</text>
+	<choice>jedynie zapewnić sobie pomoc innej osoby</choice>
+	<choice>zapewnić sobie pomoc innej osoby oraz stosować sprzęt ochronny</choice>
+	<choice>zapewnić sobie pomoc innej osoby, stosować sprzęt ochronny, starać się maksymalnie zabezpieczyć osoby na dole przez ogrodzenie miejsc zagrożonych linką i zawieszenie tablic ?Na górze pracują? oraz zapewnić łączność za pomocą radiotelefonów przenośnych, aby prace wykonać na komendę pomagającej nam osoby kiedy nie ma zagrożenia dla innych ludzi</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>263. Środki ochrony osobistej przy pracy na wysokości to:</text>
+	<choice>pas bezpieczeństwa rękawice ochronne</choice>
+	<choice>szelki bezpieczeństwa wraz z podwójną linką plus rękawice</choice>
+	<choice>szelki bezpieczeństwa z podwójną linką plus lina asekuracyjna, kask i rękawice</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>264. Maszt antenowy postawiony na dachu powinien mieć:</text>
+	<choice>odciągi</choice>
+	<choice>atest służb technicznych i pozwolenie właściciela obiektu</choice>
+	<choice>odciągi i uziemienie</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>265. Jaka powinna być rezystancja uziemienia radiostacji ?</text>
+	<choice>50 Omów</choice>
+	<choice>zależnie od kabla antenowego: 50 lub 75 Omów</choice>
+	<choice>pomiędzy 10 a 1 Om, im mniejsza tym lepsza</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>266. Co należy robić w przypadku wystąpienia pożaru radiostacji ?</text>
+	<choice>odłączyć zasilanie i wynieść urządzenie na zewnątrz</choice>
+	<choice>odłączyć zasilanie, przykryć urządzenie kocem gaśniczym lub inną gęstą tkaniną utrudniając dopływ tlenu, gasić pożar</choice>
+	<choice>odłączyć zasilanie i użyć do gaszenia gaśnicy proszkowej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>267. Do gaszenia urządzeń elektrycznych używamy:</text>
+	<choice>gaśnic na dwutlenek węgla</choice>
+	<choice>koców gaśniczych i gaśnic proszkowych</choice>
+	<choice>gaśnic halonowych</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>268. W momencie stwierdzenia pożaru urządzenia należy:</text>
+	<choice>zadzwonić po straż pożarną</choice>
+	<choice>wezwać kolegów i wspólnie przystąpić do gaszenia</choice>
+	<choice>odłączyć urządzenie od zasilania i przystąpić do gaszenia</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>269. Aby ograniczyć szkodliwe promieniowanie energii elektromagnetycznej na ludzi antenę należy montować:</text>
+	<choice>nad środkiem dachu</choice>
+	<choice>na ścianie bocznej budynku</choice>
+	<choice>zakopując ją w ogrodzie i wykorzystywać ją jako tzw. antenę podziemną</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>270. Czy podłączając radiostację wykorzystujemy bolec zerujący w gniazdku ?</text>
+	<choice>bezwzględnie tak</choice>
+	<choice>bezwzględnie nie, urządzenia amatorskie i radiokomunikacyjne posiadają specjalny zacisk uziemiający</choice>
+	<choice>według uznania, można stosować albo zerowanie albo uziemienie poprzez specjalny zacisk uziemiający radiostacji</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>271. Zwody (połączenia) uziemiające od radiostacji należy poprowadzić następująco:</text>
+	<choice>zasilacz do ziemi, skrzynka antenowa do radia i do zasilacza</choice>
+	<choice>skrzynka antenowa jako pierwsza do uziemienia, następnie radiostacja osobnym zwodem do skrzynki i zasilacz osobnym zwodem do tejże skrzynki</choice>
+	<choice>sposób prowadzenia połączeń uziemiających nie ma znaczenia</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>272. Mamy do wykorzystania trzy rodzaje kabla ? w osłonie gumowej,w osłonie igelitowej i w osłonie wykonanej z PCW. Jakim kablem należy poprowadzić połączenie do sąsiedniego budynku, w którym urządzana jest radiokabina (kabel ma być zakopany) ?</text>
+	<choice>tańszym kablem w osłonie PCW lub gumowej</choice>
+	<choice>rodzaj kabla nie ma znaczenia</choice>
+	<choice>tylko kablem w osłonie igelitowej</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>273. Transformator ochronny stosujemy, gdy:</text>
+	<choice>zachodzi obawa, że użycie narzędzi elektrycznych zasilanych napięciem 230 V może spowodować porażenie prądem, np. pracując na zewnątrz pomieszczeń</choice>
+	<choice>wykonujemy prace w wilgotnym pomieszczeniu</choice>
+	<choice>jak w punkcie A i B i w innych sytuacjach, jeżeli zachodzi niebezpieczeństwo porażenia prądem np. przy pracach naprawczych urządzeń lampowych</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>274. W przypadku poparzenia elektrolitem należy:</text>
+	<choice>spłukać wodą oparzone miejsce i udać się do lekarza</choice>
+	<choice>spłukać wodą oparzone miejsce ? kontakt z lekarzem nie jest konieczny</choice>
+	<choice>spłukać wodą oparzone miejsce i udać się do lekarza, a ponadto sprawdzić czy nie oblane zostało ubranie i buty, jeśli tak to dodatkowo należy zdjąć takie ubranie lub buty</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>275. W przypadku zaprószenia oka ciałem obcym należy:</text>
+	<choice>odczekać aż ciało obce samo wypadnie</choice>
+	<choice>usunąć ciało obce samodzielnie za pomocą pęsety</choice>
+	<choice>spróbować usunąć obce ciało narożnikiem chusteczki, a jeżeli się to nie uda skorzystać z pomocy lekarza</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>276. Podstawowe wyposażenie ochronne do prac z elektrolitem to:</text>
+	<choice>ubranie ochronne, okulary, rękawice ochronne</choice>
+	<choice>maska na twarz, nakrycie głowy, gumiaki</choice>
+	<choice>nie ma potrzeby stosować żadnego wyposażenia ochronnego</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>277. Mierząc miernikiem napięcie o niemożliwej do oszacowania wartości należy:</text>
+	<choice>ustawić miernik na najwyższy zakres pomiarowy i stopniowo zmniejszać zakres</choice>
+	<choice>ustawić miernik na najniższy zakres pomiarowy i stopniowo zwiększać zakres</choice>
+	<choice>rozpocząć pomiary od środkowego zakresu miernika</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>278. Przygotowując się do wykonania prac pod wysokim napięciem, oprócz przygotowania odpowiednich przyrządów należy:</text>
+	<choice>sprawdzić czy zastosowano prawidłowe bezpieczniki w mierzonych obwodach</choice>
+	<choice>przygotować schemat elektryczny urządzenia i zapoznać się z nim</choice>
+	<choice>jak w punkcie A i B oraz zapewnić sobie obecność i ewentualną pomoc drugiej osoby</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>279. Filtr przeciwzakłóceniowy montowany od strony sieci składa się z:</text>
+	<choice>kondensatora przeciwzakłóceniowego i dławika</choice>
+	<choice>dwóch kondensatorów przeciwzakłóceniowych i dwóch dławików, po parze na każdy przewód</choice>
+	<choice>dwóch dławików ? po jednym dławiku na każdym przewodzie oraz dwóch kondensatorów ? przed dławikiem i po dławiku do masy</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>280. Podczas pracy nadajnika KF na jednej z anten, w celu zabezpieczenia się przed przypadkowym porażeniem od innych anten należy:</text>
+	<choice>ułożyć przewody zasilające pod stołem luźno, lecz tak, aby się nie stykały</choice>
+	<choice>uziemić wszystkie nieużywane w danym momencie anteny, aby nie ulec porażeniu w wyniku ich przypadkowego dotknięcia</choice>
+	<choice>nie jest konieczne stosowanie jakichkolwiek zabezpieczeń</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>281. Jadąc samochodem zauważyłeś wypadek komunikacyjny, jak włączysz się do akcji niesienia pomocy? Po zauważeniu wypadku komunikacyjnego podczas jazdy samochodem należy się zatrzymać oraz:</text>
+	<choice>upewnić się, czy pogotowie i służby ratownicze zostały wezwane i cierpliwie czekać na ich przybycie</choice>
+	<choice>wezwać pogotowie i służby ratownicze i rozpocząć udzielanie pierwszej pomocy wg. swoich umiejętności</choice>
+	<choice>obserwować dalszy rozwój wypadków</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>282. Przy podłączeniu zasilacza stacji przekrój sieci i wartość zabezpieczeń powinny być dobrany tak, aby zapewnić dostarczenie mocy:</text>
+	<choice>wyższej niż moc określona w tabliczce znamionowej urządzenia</choice>
+	<choice>równej mocy określonej w tabliczce znamionowej urządzenia</choice>
+	<choice>niższej niż moc określona w tabliczce znamionowej urządzenia</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>283. Odległość pomiędzy masztem antenowym budowanym na ziemi a pasem drogowym, chodnikiem i innymi przeszkodami:</text>
+	<choice>powinna być równa połowie wysokości masztu</choice>
+	<choice>nie ma żadnego znaczenia</choice>
+	<choice>powinna być większa niż wysokość masztu</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>284. Maszt kratowy uziemiamy:</text>
+	<choice>jednym zwodem odgromowym</choice>
+	<choice>po przekątnej dwoma zwodami</choice>
+	<choice>czterema zwodami, po jednym na każdej nodze</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>285. Naprawa bezpieczników topikowych jest:</text>
+	<choice>dopuszczalna dla bezpieczników stosowanych przy niskim napięciu</choice>
+	<choice>bezwzględnie zabroniona</choice>
+	<choice>dopuszczalna przy zastosowaniu drutu topikowego o odpowiedniej grubości</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>286. Jakie oznaczenia ochronne należy umieścić na maszcie anteny nadawczej ?</text>
+	<choice>promieniowanie elektromagnetyczne</choice>
+	<choice>uwaga antena nadawcza</choice>
+	<choice>zakaz dotykania masztu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>287. Czy radiotelefon UKF należy uziemiać w czasie pracy ?</text>
+	<choice>nie ma takiej potrzeby</choice>
+	<choice>tak, obowiązkowo</choice>
+	<choice>tylko jeśli posiada zacisk uziemiający</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>288. Czy podczas pracy z wiertarką wymagane jest stosowanie rękawic ochronnych ?</text>
+	<choice>tak, obowiązkowo</choice>
+	<choice>można stosować według uznania</choice>
+	<choice>jest zabronione</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>289. Przy wymianie lampy stopnia mocy nadajnika należy:</text>
+	<choice>wyłączyć zasilanie i natychmiast przystąpić do wymiany</choice>
+	<choice>wyłączyć zasilanie i poczekać aż rozładują się kondensatory zasilacza</choice>
+	<choice>przy pracującym wzmacniaczu zdjąć osłonę lampy i przystąpić do jej wymiany</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>290. Kondensator sprzęgający obwód anodowy PA z Pi-filtrem powinien:</text>
+	<choice>posiadać dużą pojemność</choice>
+	<choice>posiadać małe wymiary</choice>
+	<choice>być wytrzymały na duże napięcie</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>291. Najlepszą formą zabezpieczenia anteny krótkofalowej przed burzą jest:</text>
+	<choice>odłączenie anteny od radiostacji i wystawienie kabla anteny za okno</choice>
+	<choice>odłączenie anteny od radiostacji i połączenie anteny z uziemieniem</choice>
+	<choice>nie są wymagane żadne działania</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>292. Czy można umieścić kabel antenowy w kanale wywietrznika kominowego, jeżeli obok przebiega czynny komin ?</text>
+	<choice>można</choice>
+	<choice>bezwzględnie nie można</choice>
+	<choice>można, ale tylko w okresie poza sezonem grzewczym</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>293. Czy można używać kołków rozporowych do montażu anteny na kominie ?</text>
+	<choice>można</choice>
+	<choice>można, po spełnieniu dodatkowych warunków</choice>
+	<choice>nie wolno ? można stosować jedynie opaski wokół komina</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>294. Czy można używać skrzynki antenowej bez gałek izolacyjnych na pokrętłach ?</text>
+	<choice>można</choice>
+	<choice>nie wolno, gdyż bo to grozi poparzeniem w.cz.</choice>
+	<choice>można, ale tylko wtedy, gdy skrzynka jest uziemiona</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>295. Czy nasza radiostacja może wywołać zakłócenia poza granicami kraju ?</text>
+	<choice>nie może</choice>
+	<choice>może, ale tylko podczas strojenia</choice>
+	<choice>może</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>296. Czy osoba posiadająca rozrusznik serca może przebywać w pobliżu anten nadawczych dużej mocy ?</text>
+	<choice>może, nie ma żadnego zagrożenia</choice>
+	<choice>może, pod pewnymi warunkami</choice>
+	<choice>kategorycznie nie powinna, gdyż grozi to zatrzymaniem pracy serca</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>297. Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:</text>
+	<choice>dwoma rękoma</choice>
+	<choice>jedną ręką</choice>
+	<choice>jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>298. Jakim przewodem podłączysz 200 Watowy transceiver ?</text>
+	<choice>zwykłym kablem (używanym np. do podłączenia radyjka tranzystorowego)</choice>
+	<choice>kablem w oplocie bawełnianym</choice>
+	<choice>kablem przeznaczonym do sprzętu o wyższym poborze mocy (takiego jak np. pralka, lodówka itp.)</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>299. Czy podczas naprawy oscyloskopu można go włączyć bez założonego na lampę cylindra ochronnego ?</text>
+	<choice>można bez żadnego ryzyka</choice>
+	<choice>można, ale należy uważać na wysokie napięcie</choice>
+	<choice>kategorycznie nie wolno</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>300. Jaka lokalizacja będzie bezpieczniejsza (najbardziej właściwa pod kątem narażenia na działanie pola elektromagnetycznego) dla anteny emitującej moc 1 kW ?</text>
+	<choice>dach naszego budynku w środku miasta</choice>
+	<choice>dach 12-piętrowego sąsiedniego wieżowca</choice>
+	<choice>terenowe QTH ze specjalnie wybudowanym polem antenowym</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>301. Czy fider antenowy radiostacji nadawczej może być prowadzony razem z kablem anteny odbiorczej TV ?</text>
+	<choice>może, gdy moc nadajnika nie jest zbyt duża</choice>
+	<choice>nie, kable powinny być maksymalnie oddalone</choice>
+	<choice>odległość miedzy kablami jest nieistotna</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>302. Czy świadectwo operatora urządzeń radiowych upoważnia do naprawy sieci elektrycznej w mieszkaniu ?</text>
+	<choice>tak, bez żadnych ograniczeń</choice>
+	<choice>tak, ale wyłącznie sieci jednofazowej</choice>
+	<choice>nie, do tego potrzebny jest dokument wydany przez Stowarzyszenie Elektryków Polskich</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>303. W którym miejscu należy podłączyć filtr przeciwzakłóceniowy (dolnoprzepustowy) przy pracy ze wzmacniaczem mocy ?</text>
+	<choice>po końcówce mocy na fider antenowy</choice>
+	<choice>pomiędzy transceiver a wzmacniacz mocy</choice>
+	<choice>miejsce podłączenia jest dowolne</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>304. Jakie są skutki uszkodzenia ekranu fidera antenowego ?</text>
+	<choice>nie ma żadnych</choice>
+	<choice>następuje wzrost zakłóceń, bez względu na pogodę</choice>
+	<choice>następuje wzrost zakłóceń i zmiana impedancji kabla grożąca uszkodzeniem nadajnika</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>305. Gdy pentoda mocy podczas pracy  podświeca na niebiesko, oznacza to że:</text>
+	<choice>lampa pracuje prawidłowo</choice>
+	<choice>lampa jest przeciążona i szkodliwie promieniuje</choice>
+	<choice>niewłaściwie dobrano oporność obciążenia, ponadto ustawiona jest zbyt duża moc admisyjna</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>306. Przed eksplozją kondensatorów elektrolitycznych w zasilaczu chroni nas:</text>
+	<choice>stabilizator napięcia</choice>
+	<choice>opornik upływowy tzw. bleder</choice>
+	<choice>właściwe uziemienie zasilacza</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<choice><span style='font-size:16px'><b>3. Przepisy i procedury operatorskie</b></choice>
+	<text>307. Co oznacza wg kodu Q symbol QRG ?</text>
+	<choice>włączam większą moc nadajnika</choice>
+	<choice>moja częstotliwość jest ...</choice>
+	<choice>siła twoich sygnałów waha się</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>308. Co oznacza wg kodu Q symbol QSY ?</text>
+	<choice>przejdź na częstotliwość, zmień częstotliwość</choice>
+	<choice>do usłyszenia na innej częstotliwości</choice>
+	<choice>mam uszkodzoną antenę</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>309. Co oznacza wg kodu Q symbol QRM ?</text>
+	<choice>jestem czynny w eterze od miesiąca</choice>
+	<choice>odbieram twoje sygnały bardzo dobrze zmniejsz moc</choice>
+	<choice>mam zakłócenia od innych stacji</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>310. Co oznacza wg kodu Q symbol QRN ?</text>
+	<choice>jestem czynny w eterze od niedawna</choice>
+	<choice>mam zakłócenia atmosferyczne</choice>
+	<choice>pracuję na radiostacji tylko w niedzielę</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>311. Co oznacza wg kodu Q symbol QSB ?</text>
+	<choice>siła twoich sygnałów waha się</choice>
+	<choice>w okolicy jest burza, wyłączam radiostację</choice>
+	<choice>używam anteny dookolnej</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>312. Co oznacza wg kodu Q symbol QRV ?</text>
+	<choice>o której godzinie rozpoczęliśmy łączność</choice>
+	<choice>jestem gotów do pracy, jestem czynny w eterze</choice>
+	<choice>proszę powtórzyć ostatnią relację</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>313. Co oznacza wg kodu Q symbol QTH ?</text>
+	<choice>nie mam ochoty z tobą dalej rozmawiać</choice>
+	<choice>przekazuję wiadomość od...</choice>
+	<choice>moje położenie geograficzne jest...</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>314. Co oznacza wg kodu Q symbol QRP ?</text>
+	<choice>nadawaj powoli</choice>
+	<choice>zmniejsz moc, zmniejszam moc</choice>
+	<choice>powtórz swój znak wywoławczy</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>315. Co oznacza wg kodu Q symbol QTC ?</text>
+	<choice>wyłączam stację</choice>
+	<choice>na jaką częstotliwość mam się przestroić</choice>
+	<choice>mam dla ciebie pilną wiadomość</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>316. Co oznacza wg kodu Q symbol QSO ?</text>
+	<choice>moje położenie geograficzne jest...</choice>
+	<choice>łączność, mam łączność</choice>
+	<choice>siła twoich sygnałów waha się</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>317. Co oznacza wg kodu Q symbol QSL ?</text>
+	<choice>potwierdzam odbiór, przyślę kartę potwierdzającą łączność</choice>
+	<choice>nadawaj szybciej</choice>
+	<choice>słucham na częstotliwości</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>318. Co oznacza skrót slangu radioamatorskiego RX ?</text>
+	<choice>antena pionowa</choice>
+	<choice>odbiornik</choice>
+	<choice>klucz elektroniczny</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>319. Co oznacza skrót slangu radioamatorskiego Unlis ?</text>
+	<choice>nielicencjonowany nadawca</choice>
+	<choice>zakłócenia w odbiorze telewizji</choice>
+	<choice>zawody w łowach na lisa</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>320. Co oznacza skrót slangu radioamatorskiego YL ?</text>
+	<choice>antena z linki miedzianej</choice>
+	<choice>czas uniwersalny</choice>
+	<choice>panna - młoda pani</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>321. Co oznacza skrót slangu radioamatorskiego RPT ?</text>
+	<choice>proszę powtórzyć, powtórzę, powtarzam</choice>
+	<choice>proszę</choice>
+	<choice>przechodzę na inny kanał</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>322. Kiedy należy podawać raport o słyszalności ?</text>
+	<choice>na początku łączności i na życzenie korespondenta</choice>
+	<choice>w odstępach 5-10 minut</choice>
+	<choice>po każdym przekazaniu mikrofonu</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>323. Czy po zdaniu egzamin na świadectwo operatora urządzeń radiowych można samodzielnie nadawać na radiostacji amatorskiej ?</text>
+	<choice>można, ale pod nadzorem radioamatora posiadającego pozwolenie radiowe</choice>
+	<choice>nie można, ponieważ do używania radiostacji amatorskiej upoważnia jedynie pozwolenie radiowe</choice>
+	<choice>można bez żadnych ograniczeń</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>324. Jakie należy spełnić warunki aby uzyskać pozwolenie radiowe na używanie radiostacji amatorskiej ?</text>
+	<choice>należy posiadać świadectwo operatora urządzeń radiowych i odbyć trzymiesięczną praktykę na stacji klubowe</choice>
+	<choice>należy posiadać świadectwo operatora urządzeń radiowych i co najmniej średnie wykształcenie</choice>
+	<choice>należy posiadać świadectwo operatora urządzeń radiowych</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>325. Czy razem ze świadectwem operatora urządzeń radiowych przydzielany jest znak wywoławczy dla radiostacji amatorskiej ?</text>
+	<choice>tak</choice>
+	<choice>nie, znak wywoławczy przydzielany jest w pozwoleniu radiowym</choice>
+	<choice>tak, jeżeli dana osoba posiada radiostację</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>326. Co to jest znak wywoławczy ?</text>
+	<choice>jest to symbol określający typ (model) radiostacji amatorskiej</choice>
+	<choice>jest to hasło pozwalające wywołać konkretnego rozmówcę</choice>
+	<choice>jest to kombinacja liter i cyfr stanowiąca unikalny w skali światowej identyfikator radiostacji amatorskiej</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>327. Czy można radioamatorski znak wywoławczy używać podczas pracy na innych pasmach ?</text>
+	<choice>można, po uzyskaniu specjalnej zgody PZK</choice>
+	<choice>absolutnie nie, znak radioamatorski można używać tylko w zakresach częstotliwości przeznaczonych dla radioamatorów</choice>
+	<choice>nie jest to zabronione i zależy od decyzji radioamatora</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>328. Co to jest znak okolicznościowy ?</text>
+	<choice>jest to znak używany dla uczczenia ważnej okoliczności o charakterze osobistym, środowiskowym lub regionalnym</choice>
+	<choice>jest to znak używany przez osoby spoza środowiska radioamatorów</choice>
+	<choice>jest to znak używany przez radioamatorów z innych krajów podczas okolicznościowych wizyt w Polsce</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>329. W jaki sposób można uzyskać znak okolicznościowy ?</text>
+	<choice>na życzenie osoby zainteresowanej znak okolicznościowy przydziela w Polski Związek Krótkofalowców</choice>
+	<choice>na wniosek osoby zainteresowanej znak okolicznościowy przydziela Delegatura UKE</choice>
+	<choice>można po wybraniu znaku okolicznościowego używać go bez ograniczeń</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>330. Co to jest dziennik łączności LOG ?</text>
+	<choice>jest to dokument radiostacji amatorskiej zawierający informacje o korespondencji z innymi radiostacjami amatorskimi, zawierający znak stacji, imię operatora, datę, godzinę, pasmo w jakim przeprowadzono QSO</choice>
+	<choice>jest to informacja o procedurach obowiązujących podczas łączności z innymi stacjami</choice>
+	<choice>jest to informacja o kontroli radiostacji przez inspektorów UKE</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>331. Czy prowadzenie dziennika łączności LOG jest obowiązkowe ?</text>
+	<choice>jest to podstawowy obowiązek każdego radioamatora</choice>
+	<choice>prowadzenie Logu nie jest obowiązkowe, lecz wskazane</choice>
+	<choice>prowadzenie dziennika łączności może być nakazane jako zalecenie pokontrolne inspektorów ochrony środowiska</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>332. Co znaczy określenie czas uniwersalny UTC ?</text>
+	<choice>czas odpowiadający południkowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w Logu godz. łączności</choice>
+	<choice>czas w którym nie należy nawiązywać QSO</choice>
+	<choice>czas w którym można nawiązywać łączności z krajami europejskimi</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>333. Okręg wywoławczy SP1 to obszar:</text>
+	<choice>województwa zachodniopomorskiego</choice>
+	<choice>województwa pomorskiego</choice>
+	<choice>województwa mazowieckiego</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>334. Okręg wywoławczy SP2 to obszar:</text>
+	<choice>województwa zachodniopomorskiego</choice>
+	<choice>województw kujawsko-pomorskiego i pomorskiego</choice>
+	<choice>województwa mazowieckiego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>335. Okręg wywoławczy SP3 to obszar:</text>
+	<choice>województwa mazowieckiego</choice>
+	<choice>województw lubuskiego i wielkopolskiego</choice>
+	<choice>województw kujawsko-pomorskie i pomorskie</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>336. Okręg wywoławczy SP4 to obszar:</text>
+	<choice>województwa mazowieckiego</choice>
+	<choice>województw lubuskiego i wielkopolskiego</choice>
+	<choice>województw podlaskiego i warmińsko-mazurskiego</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>337. Okręg wywoławczy SP5 to obszar:</text>
+	<choice>województwa mazowieckiego</choice>
+	<choice>województw kujawsko-pomorskiego i pomorskiego</choice>
+	<choice>województwa zachodnio-pomorskiego</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>338. Okręg wywoławczy SP6 to obszar:</text>
+	<choice>województwa mazowieckiego</choice>
+	<choice>województw dolnośląskiego i opolskiego</choice>
+	<choice>województwa zachodniopomorskiego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>339. Okręg wywoławczy SP7 to obszar:</text>
+	<choice>województwa mazowieckiego</choice>
+	<choice>województw dolnośląskiego i opolskiego</choice>
+	<choice>województw łódzkiego i świętokrzyskiego</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>340. Okręg wywoławczy SP8 to obszar:</text>
+	<choice>województw dolnośląskiego i opolskiego</choice>
+	<choice>województw lubelskiego i podkarpackiego</choice>
+	<choice>województwa zachodniopomorskiego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>341. Okręg wywoławczy SP9 to obszar:</text>
+	<choice>województw małopolskiego i śląskiego</choice>
+	<choice>województw lubelskiego i podkarpackiego</choice>
+	<choice>województwa zachodniopomorskiego</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>342. Poprawne literowanie w j. polskim litery A i R:</text>
+	<choice>Adam, Roman</choice>
+	<choice>Ala, Romuald</choice>
+	<choice>Alfa, Romeo</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>343. Poprawne literowanie w j. polskim litery G i K:</text>
+	<choice>Genowefa, Ksawer</choice>
+	<choice>Grażyna, Karol</choice>
+	<choice>Golf, Kazek</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>344. Poprawne literowanie w j. polskim litery W i Z:</text>
+	<choice>Wanda, Zygmunt</choice>
+	<choice>Walery, Zosia</choice>
+	<choice>Warta, Zamek</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>345. Poprawne literowanie w j. polskim litery X i C:</text>
+	<choice>Iks, Centrum</choice>
+	<choice>Xawery, Cezary</choice>
+	<choice>Xymena, Czesław</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>346. Poprawne literowanie w j. polskim litery P i N:</text>
+	<choice>Piotr, Niwa</choice>
+	<choice>Przemek, Nina</choice>
+	<choice>Paweł, Natalia</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>347. Poprawne literowanie wg alfabetu ITU litery B i F:</text>
+	<choice>Bil, Fox</choice>
+	<choice>Bravo, Foxtrot</choice>
+	<choice>Box, Florida</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>348. Poprawne literowanie wg alfabetu ITU litery C i G:</text>
+	<choice>Charlie, Golf</choice>
+	<choice>Canada, Gold</choice>
+	<choice>Chile, Grenada</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>349. Poprawne literowanie wg alfabetu ITU litery I i K:</text>
+	<choice>India, Kanada</choice>
+	<choice>Italia, Kaz</choice>
+	<choice>India, Kilo</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>350. Poprawne literowanie wg alfabetu ITU litery R i V:</text>
+	<choice>Ren, Viktor</choice>
+	<choice>Romeo, Viktor</choice>
+	<choice>Radio, Viola</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>351. Poprawne literowanie wg alfabetu ITU litery X i S:</text>
+	<choice>X-Rey, Sierra</choice>
+	<choice>Xsen, Santiago</choice>
+	<choice>X-Rey, Syria</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>352. Co to jest międzynarodowy kod Q ?</text>
+	<choice>zbiór symboli składających się z 3 liter, zaczynających się zawsze na literę Q, którym przypisane są proste zdanie lub słowa</choice>
+	<choice>symbole składające się z litery Q i 2-3 cyfr określających jakość odbieranego sygnału</choice>
+	<choice>wykaz zawierający prefiksy znaków wywoławczych wg ITU</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>353. Kiedy wprowadzono do użytku w radiokomunikacji międzynarodowy kod Q ?</text>
+	<choice>w 1908 r.</choice>
+	<choice>w 1912 r.</choice>
+	<choice>w 1915 r.</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>354. Do czego służy międzynarodowy kod Q ?</text>
+	<choice>podania informacji o czasie rozpoczęcia łączności</choice>
+	<choice>skrócenia czasu nadawania informacji</choice>
+	<choice>informowania o sile odbieranego sygnału radowego</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>355. Co oznacza wg kodu Q symbol QRL ?</text>
+	<choice>źle się czuję, odezwę się później</choice>
+	<choice>jestem zajęty, proszę nie przeszkadzać</choice>
+	<choice>do zobaczenia latem</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>356. Co oznacza wg kodu Q symbol QRT ?</text>
+	<choice>która jest godzina</choice>
+	<choice>kończę nadawanie, wyłączam stację</choice>
+	<choice>nadawaj wolniej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>357. Co oznacza wg kodu Q symbol QRZ ?</text>
+	<choice>zmień częstotliwość na zapasową</choice>
+	<choice>kto mnie woła</choice>
+	<choice>jestem zajęty, proszę nie przeszkadzać</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>358. Co oznacza wg kodu Q symbol QRX ?</text>
+	<choice>proszę czekać</choice>
+	<choice>nadawaj wolniej</choice>
+	<choice>mam zakłócenia od innych stacji</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>359. Co oznacza wg kodu Q symbol QRO ?</text>
+	<choice>nic dla ciebie nie mam</choice>
+	<choice>zwiększ moc, zwiększam moc</choice>
+	<choice>przerwij nadawanie, kończę pracę</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>360. Który z poniższych kodów Q oznacza: Moja częstotliwość jest ... ?</text>
+	<choice>QRJ</choice>
+	<choice>QRG</choice>
+	<choice>QRK</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>361. Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość ?</text>
+	<choice>QSY</choice>
+	<choice>QTR</choice>
+	<choice>QSA</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>362. Który z poniższych kodów Q oznacza: Mam zakłócenia od innych stacji ?</text>
+	<choice>QWO</choice>
+	<choice>QQQ</choice>
+	<choice>QRM</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>363. Który z poniższych kodów Q oznacza: Siła twoich sygnałów waha się ?</text>
+	<choice>QSB</choice>
+	<choice>QAZ</choice>
+	<choice>QRY</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>364. Który z poniższych kodów Q oznacza: Jestem gotów do pracy, jestem czynny w eterze ?</text>
+	<choice>QWX</choice>
+	<choice>QRV</choice>
+	<choice>QRU</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>365. Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest ... ?</text>
+	<choice>QLP</choice>
+	<choice>QRG</choice>
+	<choice>QTH</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>366. Który z poniższych kodów Q oznacza: Zmniejsz moc, zmniejszam moc ?</text>
+	<choice>QUB</choice>
+	<choice>QRA</choice>
+	<choice>QRP</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>367. Który z poniższych kodów Q oznacza: Mam dla ciebie telegram, wiadomość ?</text>
+	<choice>QRT</choice>
+	<choice>QTC</choice>
+	<choice>QSV</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>368. Który z poniższych kodów Q oznacza: Łączność, mam łączność ?</text>
+	<choice>QSL</choice>
+	<choice>QSO</choice>
+	<choice>QRS</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>369. Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność ?</text>
+	<choice>QSL</choice>
+	<choice>QSA</choice>
+	<choice>QRT</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>370. Co oznaczają skróty slangu radioamatorskiego: BAND; CFM ?</text>
+	<choice>pasmo; potwierdzam</choice>
+	<choice>zakres; godzina</choice>
+	<choice>raport; popołudnie</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>371. Co oznaczają skróty slangu radioamatorskiego: BK; CALL ?</text>
+	<choice>później; kalibrator</choice>
+	<choice>przerwa; znak wywoławczy</choice>
+	<choice>stop; odebrałem wszystko</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>372. Co oznaczają skróty slangu radioamatorskiego: BEST; DX ?</text>
+	<choice>daleki; niezły</choice>
+	<choice>najlepszy; daleka łączność</choice>
+	<choice>dobry; szybki</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>373. Co oznaczają skróty slangu radioamatorskiego: BCI; BOX ?</text>
+	<choice>zakłócenia odbioru radiowego; skrytka pocztowa</choice>
+	<choice>zakłócenia od sieciowe; radiolatarnia amatorska</choice>
+	<choice>podaj dokładny czas; zmieniam kanał radiowy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>374. Co oznaczają skróty slangu radioamatorskiego: OK; NAME ?</text>
+	<choice>stary, nie przeszkadzaj; moje nazwisko jest</choice>
+	<choice>wszystko w porządku; imię</choice>
+	<choice>przestrajam się; podaj adres</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>375. Co oznaczają skróty slangu radioamatorskiego: SWR; RX ?</text>
+	<choice>pasmo w metrach; antena pionowa</choice>
+	<choice>współczynnik fali stojącej; odbiornik</choice>
+	<choice>nasłuchowiec; klucz elektroniczny</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>376. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Zakłócenia w odbiorze telewizji; nielicencjonowany nadawca ?</text>
+	<choice>TRX; LIS</choice>
+	<choice>TVI; UNLIS</choice>
+	<choice>RBM; ICP</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>377. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Panna, młoda pani; czas uniwersalny ?</text>
+	<choice>YL; UTC</choice>
+	<choice>XYL; UT</choice>
+	<choice>LY; TRO</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>378. Co oznaczają skróty slangu radioamatorskiego: PSE; RPT ?</text>
+	<choice>proszę; powtórzyć, powtórzę, powtarzam</choice>
+	<choice>proszę; zmieniam pasmo o 10 kHz</choice>
+	<choice>przechodzę na inny kanał; raport podam na koniec łączności</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>379. Co oznaczają skróty slangu radioamatorskiego: 99; UTC ?</text>
+	<choice>pozdrawiam; czas ukraiński</choice>
+	<choice>ściskam dłoń; mam pilną wiadomość</choice>
+	<choice>idź precz, przepadnij; czas uniwersalny</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>380. Co oznaczają skróty slangu radioamatorskiego: LOG; DIRECT ?</text>
+	<choice>długa antena; dyrektor</choice>
+	<choice>dziennik pracy stacji; bezpośrednio</choice>
+	<choice>długi; bezpośredni kontakt</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>381. Co to jest raport R S stosowany podczas łączności fonicznych ?</text>
+	<choice>informacja o stanie technicznym radiostacji</choice>
+	<choice>informacja o stanie pogody przekazana w postaci zakodowanej</choice>
+	<choice>informacja o jakości odbieranego sygnału radiowego - czytelności i sił sygnału wyrażana w postaci cyfr</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>382. Co to jest raport R S T stosowany podczas łączności telegraficznych ?</text>
+	<choice>informacja o stanie technicznym radiostacji</choice>
+	<choice>informacja o jakości odbieranego sygnału radiowego ? czytelności, siły i tonu akustycznego sygnału</choice>
+	<choice>informacja o stanie pogody</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>383. Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S</text>
+	<choice>R - jakość sygnału, S- słyszalność</choice>
+	<choice>R - stabilność sygnału, S- siła sygnału</choice>
+	<choice>R - czytelność, S - siła sygnału</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>384. Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S T ?</text>
+	<choice>R - czytelność, S - siła sygnału, T - ton sygnału</choice>
+	<choice>R - jakość sygnału, S - słyszalność, T - częstotliwość</choice>
+	<choice>R - stabilność sygnału, S - siła sygnału, T - ton sygnału</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>385. Jaka jest skala czytelności i skala siły sygnału w raporcie R S ?</text>
+	<choice>skala czytelności 1-5 i skala siły sygnału 1-9</choice>
+	<choice>skala czytelności 1-9 i skala siły sygnału 1-5</choice>
+	<choice>skala czytelności 0-5 i skala siły sygnału 0-9</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>386. Co oznacza w łączności fonicznej raport 59 ?</text>
+	<choice>dobrze czytelny, bardzo silny sygnał</choice>
+	<choice>czytelny, silny sygnał</choice>
+	<choice>słaby, czytelny z trudnościami sygnał</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>387. Co oznacza w łączności fonicznej raport 43 ?</text>
+	<choice>dobrze czytelny, bardzo silny sygnał</choice>
+	<choice>czytelny, słaby sygnał</choice>
+	<choice>czytelny z trudnościami, słaby sygnał</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>388. Co oznacza w łączności telegraficznej raport 599 ?</text>
+	<choice>czytelny, silny sygnał, dobry ton</choice>
+	<choice>dobrze czytelny, bardzo silny sygnał, bardzo dobry ton</choice>
+	<choice>czytelny z trudnościami, sygnał słaby, dobry ton</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>389. Co oznacza w łączności telegraficznej raport 438 ?</text>
+	<choice>dobrze czytelny, bardzo silny sygnał, dobry ton</choice>
+	<choice>czytelny z trudnościami, słaby sygnał, bardzo dobry ton</choice>
+	<choice>czytelny, słaby sygnał, dobry ton sygnału</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>390. Co to jest okręg wywoławczy?</text>
+	<choice>obszar, na którym pracuje maksimum 1000 radiostacji amatorskich</choice>
+	<choice>obszar odpowiadający podziałowi terytorialnemu Polski na województwa</choice>
+	<choice>obszar w granicach jednego lub dwóch województw, w którym to w znakach wywoławczych radiostacji amatorskich stosowana jest jedna cyfra 1-9</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>391. Na ile okręgów wywoławczych podzielona jest Polska ?</text>
+	<choice>16</choice>
+	<choice>10</choice>
+	<choice>9</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>392. Jak zbudowane są znaki wywoławcze radiostacji amatorskich ?</text>
+	<choice>dwie litery, cyfra, dwie do pięciu liter, np. SP3AB lub SP3ABCDE</choice>
+	<choice>dwie litery, cyfra, dwie do trzech liter, np. SP3AB lub SP3ABC</choice>
+	<choice>dwie litery lub cyfra i litera, cyfra, jeden do czterech znaków (liter lub cyfr), gdzie ostatni jest literą, np. SP3A lub SP3ABCD</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>393. Które prefiksy znaków wywoławczych przeznaczone są dla Polski ?</text>
+	<choice>HF, SN, SO, SP, SQ, SR, 3Z</choice>
+	<choice>HF, SN, SO, SP, SQ, 3Z, 3X</choice>
+	<choice>HA, SM, SO, SP, SQ, SR, 3Z</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>394. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 160 m to:</text>
+	<choice>1810 kHz - 1950 kHz</choice>
+	<choice>1810 kHz - 2000 kHz</choice>
+	<choice>1810 kHz - 1980 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>395. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 80 m to:</text>
+	<choice>3550 kHz - 3750 kHz</choice>
+	<choice>3500 kHz - 3750 kHz</choice>
+	<choice>3500 kHz - 3800 kHz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>396. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 40 m to:</text>
+	<choice>7000 kHz - 7200 kHz</choice>
+	<choice>7100 kHz - 7300 kHz</choice>
+	<choice>7050 kHz - 7200 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>397. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 30 m to:</text>
+	<choice>10050 kHz - 10200 kHz</choice>
+	<choice>10100 kHz - 10150 kHz</choice>
+	<choice>10100 kHz - 10200 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>398. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 20 m to:</text>
+	<choice>14000 kHz - 14350 kHz</choice>
+	<choice>14000 kHz - 14450 kHz</choice>
+	<choice>14100 kHz - 14350 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>399. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 17 m to:</text>
+	<choice>18050 kHz - 18250 kHz</choice>
+	<choice>18068 kHz - 18168 kHz</choice>
+	<choice>18000 kHz - 18168 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>400. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 15 m to:</text>
+	<choice>21000 kHz - 21500 kHz</choice>
+	<choice>21100 kHz - 21450 kHz</choice>
+	<choice>21000 kHz - 21450 kHz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>401. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 12 m to:</text>
+	<choice>24690 kHz - 24990 kHz</choice>
+	<choice>24890 kHz - 24990 kHz</choice>
+	<choice>24680 kHz - 24990 kHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>402. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 10 m to:</text>
+	<choice>28500 kHz - 29800 kHz</choice>
+	<choice>28000 kHz - 29500 kHz</choice>
+	<choice>28000 kHz - 29700 kHz</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>403. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 6 m to:</text>
+	<choice>50 MHz - 54 MHz</choice>
+	<choice>50 MHz - 52 MHz</choice>
+	<choice>50 MHz - 53,5 MHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>404. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 2 m to:</text>
+	<choice>144 MHz - 146 MHz</choice>
+	<choice>144 MHz - 148 MHz</choice>
+	<choice>143 MHz - 146 MHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>405. Co jest bandpan IARU?</text>
+	<choice>podział zakresów częstotliwości na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kanały robocze</choice>
+	<choice>podział częstotliwości osobno nadawczych i odbiorczych</choice>
+	<choice>plan przydziału częstotliwości dla poszczególnych krajów</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>406. Czy dopuszcza się w band planie IARU możliwość pracy emisją jednowstęgową (SSB) w zakresie częstotliwości 10100 kHz ? 10150 kHz (pasmo 30 m) ?</text>
+	<choice>nie ma żadnych ograniczeń co do stosowanych emisji</choice>
+	<choice>jest całkowity zakaz używania emisji jednowstęgowej w tym zakresie</choice>
+	<choice>dopuszcza się użycie SSB w sytuacjach bezpośredniego zagrożenia dla bezpieczeństwa życia i mienia i wyłącznie przez stacje uczestniczące w akcji ratunkowej</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>407. Jaki jest odstęp między częstotliwością nadawczą a odbiorczą przemienników pracujących w paśmie 2 m?</text>
+	<choice>600 kHz</choice>
+	<choice>650 kHz</choice>
+	<choice>800 kHz</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<choice><span style='font-size:16px'><b>4. Przepisy dotyczące radiokomunikacyjnej służby amatorskiej</b></choice>
+	<text>408. Jak nazywa się organ międzynarodowy ustalający ogólnoświatowe zasady wykonywania działalności telekomunikacyjnej i radiokomunikacyjnej ?</text>
+	<choice>Organizacja Narodów Zjednoczonych (ONZ)</choice>
+	<choice>Międzynarodowy Związek Telekomunikacyjny (ITU)</choice>
+	<choice>Światowa Organizacja Handlu (WTO)</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>409. Gdzie mieści się siedziba Międzynarodowego Związku Telekomunikacyjnego (ITU) ?</text>
+	<choice>w Nowym Jorku</choice>
+	<choice>w Wiedniu</choice>
+	<choice>w Genewie</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>410. Ile krajów zrzesza Międzynarodowy Związek Telekomunikacyjny ?</text>
+	<choice>50-100</choice>
+	<choice>100-150</choice>
+	<choice>150-200</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>411. Jaki organ Międzynarodowego Związku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczególnych zakresów częstotliwości dla różnych służb radiokomunikacyjnych ?</text>
+	<choice>Rada Międzynarodowego Związku Telekomunikacyjnego (ITU)</choice>
+	<choice>Światowe Konferencje Radiokomunikacyjne</choice>
+	<choice>Biuro Radiokomunikacji ITU</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>412. Jaki dokument obowiązujący wszystkie kraje członkowskie Międzynarodowego Związku Telekomunikacyjnego (ITU) określa zasady wykonywania służby radiokomunikacyjnej amatorskiej i służby amatorskiej satelitarnej oraz wymienia przyznane tym służbom zakresy częstotliwości ?</text>
+	<choice>Konstytucja ITU</choice>
+	<choice>Regulamin Radiokomunikacyjny (Radio Regulations) ITU</choice>
+	<choice>Konwencja ITU</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>413. W którym roku Rzeczpospolita Polska przystąpiła do Międzynarodowego Związku Telekomunikacyjnego (ITU) ?</text>
+	<choice>1921</choice>
+	<choice>1935</choice>
+	<choice>1956</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>414. Jak brzmi definicja służby amatorskiej zamieszczona w Regulaminie Radiokomunikacyjnym Międzynarodowego Związku Telekomunikacyjnego (ITU) ?</text>
+	<choice>służba radiokomunikacyjna wykonywana przez radioamatorów w celu nawiązywania wzajemnych znajomości i wymiany informacji technicznych</choice>
+	<choice>służba radiokomunikacyjna mająca na celu samokształcenie, wzajemne komunikowanie się i eksperymenty techniczne prowadzone przez amatorów, to jest przez odpowiednio upoważnione osoby interesujące się techniką radiową wyłącznie z pobudek osobistych, bez celów zarobkowych</choice>
+	<choice>służba radiokomunikacyjna mająca na celu badanie propagacji fal radiowych w zakresach krótkofalowym i ultrakrótkofalowym oraz warunków meteorologicznych</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>415. Regulamin Radiokomunikacyjny ITU dzieli świat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje się Polska ?</text>
+	<choice>w trzecim</choice>
+	<choice>w pierwszym</choice>
+	<choice>w drugim</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>416. Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klęsk żywiołowych i innych zagrożeń ?</text>
+	<choice>nie zezwala na takie wykorzystanie stacji amatorskich</choice>
+	<choice>niezbędny jest specjalny wpis do pozwolenia radioamatorskiego</choice>
+	<choice>usilnie zaleca się wykorzystywanie stacji amatorskich w powyższych przypadkach</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>417. Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znaków wywoławczych stacjom amatorskim ?</text>
+	<choice>nie, regulują to przepisy krajowe</choice>
+	<choice>tak, Regulamin Radiokomunikacyjny określa ściśle zasady przyznawania znaków</choice>
+	<choice>nie, znak wywoławczy obiera sobie sam operator stacji</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>418. Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczące służby amatorskiej obowiązuj również w służbie amatorskiej satelitarnej ?</text>
+	<choice>tak, obowiązują</choice>
+	<choice>nie, obowiązują odrębne przepisy</choice>
+	<choice>nie obowiązują żadne przepisy</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>419. Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewnić operator amatorskiej orbitalnej stacji satelitarnej ?</text>
+	<choice>nadawanie przez amatorską stację satelitarną jej znaku wywoławczego</choice>
+	<choice>niezwłoczne zdalne wyłączenie amatorskiej stacji satelitarnej w przypadku powodowania przez nią szkodliwych zakłóceń dla innych służb radiokomunikacyjnych</choice>
+	<choice>nadawanie przez amatorską stację satelitarną komunikatów meteorologicznych</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>420. Jak nazywa się organ międzynarodowy zrzeszający krajowe administracje łączności z terenu Europy ?</text>
+	<choice>Rada Europy (EC)</choice>
+	<choice>Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT)</choice>
+	<choice>Organizacja Bezpieczeństwa i Współpracy w Europie (OBWE)</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>421. Gdzie mieści się siedziba Europejskiego Biura Radiokomunikacji (ERO) ?</text>
+	<choice>w Brukseli</choice>
+	<choice>w Helsinkach</choice>
+	<choice>w Kopenhadze</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>422. Jakiego rodzaju dokumenty regulujące działalność radiokomunikacyjną w Europie przyjmuje i wprowadza Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT) i publikuje Europejskie Biuro Radiokomunikacji (ERO) ?</text>
+	<choice>decyzje</choice>
+	<choice>decyzje i zalecenia</choice>
+	<choice>decyzje, zalecenia i raporty</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>423. Jakie dokumenty Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) regulują sprawy międzynarodowego uznawania pozwoleń i międzynarodowych wymagań egzaminacyjnych w służbie amatorskiej ?</text>
+	<choice>Uchwały Komitetu Komunikacji Elektronicznej CEPT</choice>
+	<choice>Zalecenia CEPT T/R 61-01 i T/R 61-02</choice>
+	<choice>Zalecenia CEPT T/R 22-01 i T/R 22-02</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>424. Przez jaki okres czasu może posiadacz międzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracować z terytorium innego kraju uznającego to zalecenie, bez konieczności uzyskiwania pozwolenia od miejscowej administracji łączności ?</text>
+	<choice>1 miesiąc</choice>
+	<choice>3 miesiące</choice>
+	<choice>1 rok</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>425. Czy przepisy Międzynarodowego Związku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzają obowiązkowy wymóg umiejętności odbioru i nadawania znaków w kodzie Morse-a przy egzaminie na świadectwo radiooperatora w służbie amatorskiej ?</text>
+	<choice>wprowadzają wymóg jako obowiązkowy</choice>
+	<choice>pozostawiaj powyższy wymóg do decyzji krajowych administracji łączności</choice>
+	<choice>znoszą całkowicie powyższy wymóg</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>426. Kto określa maksymalną moc wyjściową radiostacji amatorskiej podawaną w pozwoleniu ?</text>
+	<choice>Międzynarodowy Związek Telekomunikacyjny (ITU)</choice>
+	<choice>Europejskie Biuro Radiokomunikacji (ERO)</choice>
+	<choice>krajowa administracja łączności</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>427. Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym ?</text>
+	<choice>Międzynarodowy Związek Telekomunikacyjny (ITU)</choice>
+	<choice>Międzynarodowy Związek Radioamatorów (IARU)</choice>
+	<choice>Europejskie Biuro Radiokomunikacji (ERO)</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>428. Ile organizacji regionalnych składa się na ogólnoświatowy Międzynarodowy Związek Radioamatorów (IARU ? the International Amateur Radio Union) ?</text>
+	<choice>trzy</choice>
+	<choice>cztery</choice>
+	<choice>pięć</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>429. W którym roku i w jakim miejscu powstał Międzynarodowy Związek Radioamatorów (IARU) ?</text>
+	<choice>w roku 1930 w Genewie</choice>
+	<choice>w roku 1925 w Paryżu</choice>
+	<choice>w roku 1910 w Berlinie</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>430. W którym roku powstał Polski Związek Krótkofalowców (PZK), reprezentujący całość polskiej służby radiokomunikacyjnej amatorskiej w kraju i na forum międzynarodowym ?</text>
+	<choice>w roku 1924</choice>
+	<choice>w roku 1930</choice>
+	<choice>w roku 1946</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>431. Kto był pierwszym prezesem Polskiego Związku Krótkofalowców ?</text>
+	<choice>Tadeusz Heftman</choice>
+	<choice>Jan Ziembicki</choice>
+	<choice>Janusz Groszkowski</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>432. Jaki organ krajowy reguluje i kontroluje pracę stacji amatorskich, przeprowadza egzaminy na świadectwa operatora urządzeń radiowych i wydaje pozwolenia w służbie amatorskiej ?</text>
+	<choice>Minister właściwy do spraw łączności</choice>
+	<choice>Prezes Urzędu Komunikacji Elektronicznej</choice>
+	<choice>Minister właściwy do spraw wewnętrznych</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>433. Jaki podstawowy akt prawny reguluje działalność telekomunikacyjną i radiokomunikacyjną w Polsce ?</text>
+	<choice>statut Urzędu Komunikacji Elektronicznej (UKE)</choice>
+	<choice>ustawa Prawo ochrony środowiska</choice>
+	<choice>ustawa Prawo telekomunikacyjne</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>434. W jakim dokumencie określone są zakresy częstotliwości przeznaczone w Polsce dla służby amatorskiej i służby amatorskiej satelitarnej ?</text>
+	<choice>w ustawie Prawo telekomunikacyjne</choice>
+	<choice>w rozporządzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości</choice>
+	<choice>w decyzjach Prezesa Urzędu Komunikacji Elektronicznej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>435. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie ? służba pierwszej ważności? oznacza, że:</text>
+	<choice>służba taka jest chroniona przed szkodliwymi zakłóceniami ze strony służb drugiej ważności</choice>
+	<choice>służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie</choice>
+	<choice>służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie, służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>436. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie ? służba drugiej ważności - oznacza, że:</text>
+	<choice>służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie</choice>
+	<choice>służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji służb pierwszej ważności; którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka może jednak żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie.</choice>
+	<choice>służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>437. Jaki dokument określa kategorie pozwoleń w służbie amatorskiej i dozwolone moce wyjściowe radiostacji amatorskiej ?</text>
+	<choice>ustawa Prawo telekomunikacyjne</choice>
+	<choice>rozporządzenie ministra właściwego do spraw łączności</choice>
+	<choice>zarządzenie Prezesa Urzędu Komunikacji Elektronicznej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>438. Do czego upoważnia świadectwo operatora klasy A w służbie radiokomunikacyjnej amatorskiej ?</text>
+	<choice>do uzyskania pozwolenia amatorskiego kategorii 1</choice>
+	<choice>do uzyskania pozwolenia amatorskiego kategorii 3</choice>
+	<choice>wyłącznie do pracy na radiostacji klubowej</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>439. Do czego upoważnia świadectwo operatora klasy C w służbie radiokomunikacyjnej amatorskiej ?</text>
+	<choice>do uzyskania pozwolenia amatorskiego kategorii 2</choice>
+	<choice>do uzyskania pozwolenia amatorskiego kategorii 3</choice>
+	<choice>do organizowania zawodów w amatorskiej radiolokacji sportowej</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>440. Na jaki okres czasu wydawane są indywidualne pozwolenia amatorskie kategorii 1 i 3 ?</text>
+	<choice>10 lat</choice>
+	<choice>15 lat</choice>
+	<choice>dożywotnio</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>441. Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5 ?</text>
+	<choice>5 lat</choice>
+	<choice>10 lat</choice>
+	<choice>15 lat</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>442. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy ?</text>
+	<choice>50 watów</choice>
+	<choice>500 watów</choice>
+	<choice>250 watów</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>443. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego w wyniku posiadania pozwolenia tejże kategorii co najmniej przez 10 lat ?</text>
+	<choice>150 watów</choice>
+	<choice>250 watów</choice>
+	<choice>500 watów</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>444. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3 ?</text>
+	<choice>15 watów</choice>
+	<choice>100 watów</choice>
+	<choice>150 watów</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>445. Jaka jest moc maksymalna wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5 ?</text>
+	<choice>50 watów dla nadajnika poniżej 30MHz a 15 watów dla nadajnika powyżej 30MHz</choice>
+	<choice>50 watów</choice>
+	<choice>150 watów</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>446. Jaka jest maksymalna moc wyjściowa radiostacji w przypadku pozwolenia dodatkowego, wydawanego w celu przeprowadzenia eksperymentu technicznego lub udziału w zawodach lub konkursach międzynarodowych ?</text>
+	<choice>500 watów</choice>
+	<choice>1000 watów</choice>
+	<choice>1500 watów</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>447. W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1 ?</text>
+	<choice>3500 - 3800 kHz oraz 7000 - 7100 kHz</choice>
+	<choice>7000 - 7100 kHz oraz 28000 - 29700 kHz</choice>
+	<choice>we wszystkich zakresach częstotliwości przeznaczonych dla służby
+  <answer>2</answer>
+radiokomunikacyjnej amatorskiej na terytorium RP</choice>
+</question>
+
+<question>
+	<text>448. W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3 ?</text>
+	<choice>28000-29700 kHz oraz 144-146 MHz</choice>
+	<choice>1,81-2 MHz; 3,5-3,8 MHz; 7-7,2 MHz; 14-14,35 MHz; 21-21,45 MHz; 28-29,7 MHz, 144-146 MHz; 430-440 MHz oraz 10-10,5 GHz.</choice>
+	<choice>28000-29700 kHz oraz 430-440 MHz</choice>
+  <answer>1</answer>
+</question>
+
+<question>
+	<text>449. Jaki jest minimalny wiek, w którym można przystąpić do egzaminu i uzyska świadectwo operatora urządzeń radiowych w służbie amatorskiej oraz uzyskać pozwolenie dla służby radiokomunikacyjnej amatorskiej ?</text>
+	<choice>10 lat dla uzyskania świadectwa klasy C oraz 15 lat dla uzyskania świadectwa
+klasy A</choice>
+	<choice>15 lat dla uzyskania świadectwa klasy A i C</choice>
+  <answer>0</answer>
+	<choice>nie określono minimalnego wieku</choice>
+</question>
+
+<question>
+	<text>450. Jakimi rodzajami emisji radiowych wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 50-52 MHz ?</text>
+	<choice>wyłącznie emisją A1A (telegrafia)</choice>
+	<choice>wyłącznie emisją F3E (telefonia z modulacją częstotliwości)</choice>
+	<choice>wszystkimi rodzajami emisji z wyjątkiem F3E</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>451. Jakimi rodzajami emisji radiowych i z jaką mocą wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 135,7-137,8 kHz ?</text>
+	<choice>wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów</choice>
+	<choice>wszystkimi rodzajami emisji z mocą wyjściową 250 watów</choice>
+	<choice>wyłącznie emisją A1A (telegrafia) z moc 1 wat e.i.r.p. (równoważna moc promieniowana izotropowo)</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>452. Jaki dokument określa klasy świadectw operatora radiowego w służbie amatorskiej i wymagania egzaminacyjne na poszczególne klasy świadectw ?</text>
+	<choice>rozporządzenie ministra właściwego do spraw łączności</choice>
+	<choice>ustawa Prawo telekomunikacyjne</choice>
+	<choice>Krajowa Tablica Przeznaczeń Częstotliwości</choice>
+  <answer>0</answer>
+</question>
+
+<question>
+	<text>453. Jak powinien postąpić operator stacji amatorskiej w razie przypadkowego odebrania wiadomości nie przeznaczonej dla służby amatorskiej ?</text>
+	<choice>rozpowszechnić odebraną wiadomość w internecie</choice>
+	<choice>zachować treść wiadomości w ścisłej tajemnicy</choice>
+	<choice>zachować treść wiadomości w ścisłej tajemnicy, zaś w przypadku gdy odebrana wiadomość zawiera istotne dla funkcjonowania Pastwa lub porządku publicznego informacje ? powiadomić najbliższą jednostkę Urzędu Komunikacji Elektronicznej</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>454. Czy operator stacji amatorskiej może przekazywać przy pomocy swej radiostacji wiadomości pochodzące od osób trzecich i przeznaczone dla osób trzecich ?</text>
+	<choice>jest to dopuszczalne</choice>
+	<choice>jest to surowo zabronione</choice>
+	<choice>jest to dopuszczalne, jeśli stacja amatorska za wiedzą Urzędu Komunikacji Elektronicznej bierze udział w akcji niesienia pomocy lub likwidacji skutków klęsk żywiołowych i katastrof</choice>
+  <answer>2</answer>
+</question>
+
+<question>
+	<text>455. Jak często operator radiostacji amatorskiej powinien podawać podczas łączności znak wywoławczy swej stacji ?</text>
+	<choice>co pół godziny</choice>
+	<choice>tak często, jak jest to w praktyce możliwe, przynajmniej na początku i na kocu każdego nadawania</choice>
+	<choice>nie musi podawać znaku wywoławczego</choice>
+  <answer>1</answer>
+</question>
+
+</category>
+</quiz>
