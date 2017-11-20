@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.lt.lrmd.hamradio.quiz"
+        applicationId "com.pl.pzk.hamradio.quiz"
         minSdkVersion 11
         targetSdkVersion 17
     }
